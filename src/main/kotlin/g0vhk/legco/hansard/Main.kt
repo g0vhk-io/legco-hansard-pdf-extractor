@@ -82,6 +82,8 @@ fun main(args: Array<String>) {
     }
     val gson = GsonBuilder().setPrettyPrinting().create()
     val json = gson.toJson(hansard)
-    println(json)
+    File(args[1]).printWriter().use { out ->
+        out.print(json)
+    }
     document.close()
 }

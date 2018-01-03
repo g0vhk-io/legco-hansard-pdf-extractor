@@ -1,21 +1,24 @@
-
 buildscript {
     ext.kotlin_version = '1.2.0'
     repositories {
         mavenCentral()
+        jcenter()
     }
     dependencies {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.github.jengelman.gradle.plugins:shadow:2.0.1'
     }
 }
 
+apply plugin: 'com.github.johnrengelman.shadow'
 apply plugin: 'kotlin'
 apply plugin: 'application'
+
+
+
 sourceSets {
     main.java.srcDirs += 'src/main/kotlin/'
 }
-
-mainClassName = 'demo.Main'
 
 defaultTasks 'run'
 
@@ -33,4 +36,13 @@ dependencies {
 
 task wrapper(type: Wrapper) {
     gradleVersion = "4.1"
+}
+
+mainClassName = 'g0vhk.legco.hansard.MainKt'
+
+
+shadowJar {
+    baseName = 'hansard-parser'
+    classifier = null
+    version = null
 }
