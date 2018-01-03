@@ -5,17 +5,20 @@ import org.apache.pdfbox.pdmodel.interactive.documentnavigation.destination.PDPa
 import org.apache.pdfbox.text.PDFTextStripper
 import org.apache.pdfbox.text.TextPosition
 
-class HansardTextStripper: PDFTextStripper {
-    private val startBookmark: PDPageXYZDestination
+open class HansardTextStripper: PDFTextStripper {
+    private val startBookmark: PDPageXYZDestination?
     private val endBookmark: PDPageXYZDestination
     private var lastPage: Int? = null
     private var lastY: Float? = null
     private var lastEndY: Float? = null
     private var prevS: String? = null
-    constructor(startBookmark: PDPageXYZDestination, endBookmark: PDPageXYZDestination): super() {
+    constructor(startBookmark: PDPageXYZDestination?, endBookmark: PDPageXYZDestination): super() {
         this.startBookmark = startBookmark
         this.endBookmark = endBookmark
-        this.startPage = startBookmark.retrievePageNumber() + 1
+        this.startPage = 0
+        startBookmark?.let {
+            this.startPage = it.retrievePageNumber() + 1
+        }
         this.endPage = endBookmark.retrievePageNumber() + 1
     }
 
@@ -36,7 +39,7 @@ class HansardTextStripper: PDFTextStripper {
             }
 
 
-            if (currentPageNo == startPage && startBookmark.top <= textY) {
+            if (currentPageNo == startPage && startBookmark?.top ?: 0 <= textY) {
                 return
             }
             if (currentPageNo == endPage && endBookmark.top >= textY) {

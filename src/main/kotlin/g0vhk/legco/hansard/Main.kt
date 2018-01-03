@@ -4,15 +4,13 @@ import org.apache.pdfbox.pdmodel.PDDocument
 import org.apache.pdfbox.pdmodel.interactive.action.PDActionGoTo
 import org.apache.pdfbox.pdmodel.interactive.documentnavigation.destination.PDNamedDestination
 import org.apache.pdfbox.pdmodel.interactive.documentnavigation.destination.PDPageXYZDestination
-import org.apache.pdfbox.text.PDFTextStripper
-import java.io.ByteArrayOutputStream
 import java.io.File
-import java.io.OutputStreamWriter
+import com.google.gson.GsonBuilder
 
 fun parseMembers(lines: List<String>): List<String> {
     val output = ArrayList<String>()
     lines.drop(1).forEach {
-        if (it.trim().length > 0) {
+        if (it.trim().isNotEmpty()) {
             val p = it.indexOf(',')
             if (p > 0) {
                 output.add(it.substring(0, p))
@@ -26,6 +24,10 @@ fun parseMembers(lines: List<String>): List<String> {
     return output
 }
 
+fun cleanLines(lines: List<String>): List<String> {
+    return lines.drop(1).map { it.trim() }.filter { ! it.isEmpty() }
+}
+
 fun main(args: Array<String>) {
     val document = PDDocument.load(File(args[0]))
     val catalog = document.documentCatalog
@@ -33,6 +35,7 @@ fun main(args: Array<String>) {
     var currentBookmark = outline.firstChild.firstChild
     val bookmarks = ArrayList<PDPageXYZDestination>()
     val bookmarkNames = ArrayList<String>()
+    val hansard = Hansard()
     while (currentBookmark != null) {
         if (currentBookmark.action != null) {
             val action = currentBookmark.action as PDActionGoTo
@@ -47,6 +50,8 @@ fun main(args: Array<String>) {
         currentBookmark = currentBookmark.nextSibling
     }
 
+    val dateStripper = HansardDateStripper(bookmarks[0])
+    hansard.date = dateStripper.getText(document)
     for (i in 0 .. bookmarkNames.size - 2) {
         val startBookmark = bookmarks[i]
         val endBookmark = bookmarks[i + 1]
@@ -54,22 +59,29 @@ fun main(args: Array<String>) {
         val lines = stripper.getText(document).replace(Regex("\n +\n"),"<br/>").replace("\n", "").replace("<br/>", "\n").split("\n")
         when (bookmarkNames[i]) {
             "mbp" -> {
-                parseMembers(lines).forEach {
-                    println(it)
-                }
-
+                hansard.membersPresent.addAll(cleanLines(lines))
             }
             "mba" -> {
-                parseMembers(lines).forEach {
-                    println(it)
-                }
+                hansard.membersAbsent.addAll(cleanLines(lines))
             }
             "poa" -> {
-                parseMembers(lines).forEach {
-                    println(it)
+                hansard.publicOfficersAttending.addAll(cleanLines(lines))
+            }
+            "cia" -> {
+                hansard.clerksInAttendance.addAll(cleanLines(lines))
+            }
+            else -> {
+                if (bookmarkNames[i].startsWith("SP")) {
+                    val content = lines.joinToString("\n")
+                    val parts = content.split('：')
+                    val speech = Speech(parts[0], parts[1].trim())
+                    hansard.speeches.add(speech)
                 }
             }
         }
     }
+    val gson = GsonBuilder().setPrettyPrinting().create()
+    val json = gson.toJson(hansard)
+    println(json)
     document.close()
 }
