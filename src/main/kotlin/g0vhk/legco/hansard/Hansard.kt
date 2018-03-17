@@ -7,4 +7,5 @@ open class Hansard {
     val clerksInAttendance = ArrayList<String>()
     val speeches = ArrayList<Speech>()
     var date: String = ""
+    var url: String = ""
 }

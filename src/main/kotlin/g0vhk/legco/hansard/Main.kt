@@ -6,6 +6,11 @@ import org.apache.pdfbox.pdmodel.interactive.documentnavigation.destination.PDNa
 import org.apache.pdfbox.pdmodel.interactive.documentnavigation.destination.PDPageXYZDestination
 import java.io.File
 import com.google.gson.GsonBuilder
+import okhttp3.OkHttpClient
+import okhttp3.Request
+import org.apache.pdfbox.io.IOUtils
+import java.io.FileOutputStream
+import java.net.URI
 
 fun parseMembers(lines: List<String>): List<String> {
     val output = ArrayList<String>()
@@ -28,8 +33,42 @@ fun cleanLines(lines: List<String>): List<String> {
     return lines.drop(1).map { it.trim() }.filter { ! it.isEmpty() }
 }
 
+fun downloadPDF(url: String): String {
+    val uri = URI(url)
+    val path = uri.path
+    val fileName = path.substring(path.lastIndexOf('/') + 1)
+    val file = File(fileName)
+    if (file.exists()) {
+        println("${fileName} already downloaded.")
+
+    } else {
+        val client = getUnsafeOkHttpClient()
+        val request = Request.Builder()
+                .url(url)
+                .build()
+        val response = client.newCall(request).execute()
+        response.body()?.byteStream().let { stream ->
+            val outputStream = FileOutputStream(file)
+            IOUtils.copy(stream, outputStream)
+        }
+    }
+    return fileName
+}
+
+fun splitByTwo(s: String, sep: String): Array<String> {
+    val p = s.indexOf(sep)
+    if (p == -1) {
+        return arrayOf<String>(s, "")
+    }
+    val first = s.substring(0, p)
+    val second = s.substring(p + 1)
+    return arrayOf<String>(first, second)
+}
+
 fun main(args: Array<String>) {
-    val document = PDDocument.load(File(args[0]))
+    val url = args[0]
+    val fileName = downloadPDF(url)
+    val document = PDDocument.load(File(fileName))
     val catalog = document.documentCatalog
     val outline = catalog.documentOutline
     var currentBookmark = outline.firstChild.firstChild
@@ -52,6 +91,8 @@ fun main(args: Array<String>) {
 
     val dateStripper = HansardDateStripper(bookmarks[0])
     hansard.date = dateStripper.getText(document)
+    hansard.url = url
+    var sequence = 0
     for (i in 0 .. bookmarkNames.size - 2) {
         val startBookmark = bookmarks[i]
         val endBookmark = bookmarks[i + 1]
@@ -71,10 +112,25 @@ fun main(args: Array<String>) {
                 hansard.clerksInAttendance.addAll(cleanLines(lines))
             }
             else -> {
-                if (bookmarkNames[i].startsWith("SP")) {
-                    val content = lines.joinToString("\n")
-                    val parts = content.split('：')
-                    val speech = Speech(parts[0], parts[1].trim())
+                val bookmark = bookmarkNames[i]
+                val isSP = bookmark.startsWith("SP_")
+                val isOLE = bookmark.startsWith("OLE_")
+                val isEV = bookmark.startsWith("EV")
+                if (isSP || isOLE || isEV) {
+                    sequence++
+                    val content = lines.joinToString("\n").trim()
+                    val speech = if (isEV) {
+                        Speech("", content, sequence, bookmark)
+                    } else {
+                        var parts = splitByTwo(content,"：")
+                        if (parts[0].length > 50) {
+                            parts = splitByTwo(content, ":")
+                            if (parts[0].length > 50) {
+                                throw Exception("Title too long in ${fileName}, title=\"${parts[0]}\"")
+                            }
+                        }
+                        Speech(parts[0], parts[1].trim(), sequence, bookmark)
+                    }
                     hansard.speeches.add(speech)
                 }
             }
@@ -82,8 +138,10 @@ fun main(args: Array<String>) {
     }
     val gson = GsonBuilder().setPrettyPrinting().create()
     val json = gson.toJson(hansard)
-    File(args[1]).printWriter().use { out ->
+    val outputFileName = fileName.replace(".pdf", ".json")
+    File(outputFileName).printWriter().use { out ->
         out.print(json)
     }
     document.close()
+    println("Conversion completed.")
 }

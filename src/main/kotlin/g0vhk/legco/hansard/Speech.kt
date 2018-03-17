@@ -5,7 +5,9 @@ import java.util.regex.Pattern
 class Speech {
     val title: String
     val content: String
-    constructor (title: String, content: String){
+    val sequence: Int
+    val bookmark: String
+    constructor (title: String, content: String, sequence: Int, bookmark: String){
         val p = Pattern.compile("^(\\d+. +)(.*)")
         val m = p.matcher(title)
         if (m.find()) {
@@ -14,5 +16,7 @@ class Speech {
             this.title = title
         }
         this.content = content
+        this.sequence = sequence
+        this.bookmark = bookmark
     }
 }
