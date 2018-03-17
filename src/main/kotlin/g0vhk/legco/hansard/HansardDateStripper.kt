@@ -3,7 +3,7 @@ package g0vhk.legco.hansard
 import org.apache.pdfbox.pdmodel.PDDocument
 import org.apache.pdfbox.pdmodel.interactive.documentnavigation.destination.PDPageXYZDestination
 
-class HansardDateStripper(startBookmark: PDPageXYZDestination): HansardTextStripper(null, startBookmark){
+class HansardDateStripper(startBookmark: PDPageXYZDestination): HansardTextStripper(null, startBookmark, 50){
     override fun getText(doc: PDDocument?): String {
         val lines = super.getText(doc).split('\n').filter { it.isNotBlank() }
         val regex = Regex("(\\d+)年(\\d+)月(\\d+)日")

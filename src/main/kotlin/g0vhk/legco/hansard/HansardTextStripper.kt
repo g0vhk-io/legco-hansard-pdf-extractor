@@ -12,7 +12,8 @@ open class HansardTextStripper: PDFTextStripper {
     private var lastY: Float? = null
     private var lastEndY: Float? = null
     private var prevS: String? = null
-    constructor(startBookmark: PDPageXYZDestination?, endBookmark: PDPageXYZDestination): super() {
+    private val yLowerLimit: Int
+    constructor(startBookmark: PDPageXYZDestination?, endBookmark: PDPageXYZDestination, yLowerLimit: Int=90): super() {
         this.startBookmark = startBookmark
         this.endBookmark = endBookmark
         this.startPage = 0
@@ -20,6 +21,7 @@ open class HansardTextStripper: PDFTextStripper {
             this.startPage = it.retrievePageNumber() + 1
         }
         this.endPage = endBookmark.retrievePageNumber() + 1
+        this.yLowerLimit = yLowerLimit
     }
 
     override fun processTextPosition(text: TextPosition?) {
@@ -34,7 +36,7 @@ open class HansardTextStripper: PDFTextStripper {
 
             val textY = it.endY
 
-            if (it.y <= 70) {
+            if (it.y <= yLowerLimit) {
                 return
             }
 
