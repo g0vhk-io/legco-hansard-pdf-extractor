@@ -46,7 +46,7 @@ open class HansardTextStripper: PDFTextStripper {
                 return
             }
 
-            if (it.x >= 510) {
+            if (it.x >= 530) {
                 return
             }
 

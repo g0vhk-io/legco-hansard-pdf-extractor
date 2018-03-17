@@ -65,6 +65,16 @@ fun splitByTwo(s: String, sep: String): Array<String> {
     return arrayOf<String>(first, second)
 }
 
+fun processContent(content: String): Array<String> {
+    for (sep in arrayOf("：", "︰", ":")) {
+        var parts = splitByTwo(content,sep)
+        if (parts[0].length <= 50) {
+            return parts
+        }
+    }
+    throw Exception("${content} cannot be processed.")
+}
+
 fun main(args: Array<String>) {
     val url = args[0]
     val fileName = downloadPDF(url)
@@ -122,13 +132,7 @@ fun main(args: Array<String>) {
                     val speech = if (isEV) {
                         Speech("", content, sequence, bookmark)
                     } else {
-                        var parts = splitByTwo(content,"：")
-                        if (parts[0].length > 50) {
-                            parts = splitByTwo(content, ":")
-                            if (parts[0].length > 50) {
-                                throw Exception("Title too long in ${fileName}, title=\"${parts[0]}\"")
-                            }
-                        }
+                        val parts = processContent(content)
                         Speech(parts[0], parts[1].trim(), sequence, bookmark)
                     }
                     hansard.speeches.add(speech)
