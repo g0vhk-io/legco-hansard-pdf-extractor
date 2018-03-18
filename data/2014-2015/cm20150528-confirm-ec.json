@@ -1,0 +1,2693 @@
+{
+  "membersPresent": [
+    "主席曾鈺成議員, G.B.S., J.P. THE PRESIDENT THE HONOURABLE JASPER TSANG YOK-SING, G.B.S., J.P.",
+    "何俊仁議員 THE HONOURABLE ALBERT HO CHUN-YAN",
+    "李卓人議員 THE HONOURABLE LEE CHEUK-YAN",
+    "陳鑑林議員, S.B.S., J.P. THE HONOURABLE CHAN KAM-LAM, S.B.S., J.P.",
+    "梁耀忠議員 THE HONOURABLE LEUNG YIU-CHUNG",
+    "劉慧卿議員, J.P. THE HONOURABLE EMILY LAU WAI-HING, J.P.",
+    "譚耀宗議員, G.B.S., J.P. THE HONOURABLE TAM YIU-CHUNG, G.B.S., J.P.",
+    "石禮謙議員, G.B.S., J.P. THE HONOURABLE ABRAHAM SHEK LAI-HIM, G.B.S., J.P.",
+    "張宇人議員, S.B.S., J.P. THE HONOURABLE TOMMY CHEUNG YU-YAN, S.B.S., J.P.",
+    "馮檢基議員, S.B.S., J.P. THE HONOURABLE FREDERICK FUNG KIN-KEE, S.B.S., J.P.",
+    "王國興議員, B.B.S., M.H. THE HONOURABLE WONG KWOK-HING, B.B.S., M.H.",
+    "李國麟議員, S.B.S., J.P., Ph.D., R.N. PROF THE HONOURABLE JOSEPH LEE KOK-LONG, S.B.S., J.P., Ph.D., R.N.",
+    "林健鋒議員, G.B.S., J.P. THE HONOURABLE JEFFREY LAM KIN-FUNG, G.B.S., J.P.",
+    "梁君彥議員, G.B.S., J.P. THE HONOURABLE ANDREW LEUNG KWAN-YUEN, G.B.S., J.P.",
+    "黃定光議員, S.B.S., J.P. THE HONOURABLE WONG TING-KWONG, S.B.S., J.P.",
+    "何秀蘭議員, J.P. THE HONOURABLE CYD HO SAU-LAN, J.P.",
+    "李慧琼議員, J.P. THE HONOURABLE STARRY LEE WAI-KING, J.P.",
+    "林大輝議員, S.B.S., J.P. DR THE HONOURABLE LAM TAI-FAI, S.B.S., J.P.",
+    "陳克勤議員, J.P. THE HONOURABLE CHAN HAK-KAN, J.P.",
+    "陳健波議員, B.B.S., J.P. THE HONOURABLE CHAN KIN-POR, B.B.S., J.P.",
+    "梁美芬議員, S.B.S., J.P. DR THE HONOURABLE PRISCILLA LEUNG MEI-FUN, S.B.S., J.P.",
+    "張國柱議員 THE HONOURABLE CHEUNG KWOK-CHE",
+    "黃國健議員, S.B.S. THE HONOURABLE WONG KWOK-KIN, S.B.S.",
+    "葉國謙議員, G.B.S., J.P. THE HONOURABLE IP KWOK-HIM, G.B.S., J.P.",
+    "葉劉淑儀議員, G.B.S., J.P. THE HONOURABLE MRS REGINA IP LAU SUK-YEE, G.B.S., J.P.",
+    "謝偉俊議員, J.P. THE HONOURABLE PAUL TSE WAI-CHUN, J.P.",
+    "梁家傑議員, S.C. THE HONOURABLE ALAN LEONG KAH-KIT, S.C.",
+    "梁國雄議員 THE HONOURABLE LEUNG KWOK-HUNG",
+    "陳偉業議員 THE HONOURABLE ALBERT CHAN WAI-YIP",
+    "黃毓民議員 THE HONOURABLE WONG YUK-MAN",
+    "田北辰議員, B.B.S., J.P. THE HONOURABLE MICHAEL TIEN PUK-SUN, B.B.S., J.P.",
+    "田北俊議員, G.B.S., J.P. THE HONOURABLE JAMES TIEN PEI-CHUN, G.B.S., J.P.",
+    "吳亮星議員, S.B.S., J.P. THE HONOURABLE NG LEUNG-SING, S.B.S., J.P.",
+    "何俊賢議員 THE HONOURABLE STEVEN HO CHUN-YIN",
+    "胡志偉議員, M.H. THE HONOURABLE WU CHI-WAI, M.H.",
+    "姚思榮議員 THE HONOURABLE YIU SI-WING",
+    "馬逢國議員, S.B.S., J.P. THE HONOURABLE MA FUNG-KWOK, S.B.S., J.P.",
+    "莫乃光議員, J.P. THE HONOURABLE CHARLES PETER MOK, J.P.",
+    "陳志全議員 THE HONOURABLE CHAN CHI-CHUEN",
+    "陳恒鑌議員, J.P. THE HONOURABLE CHAN HAN-PAN, J.P.",
+    "陳家洛議員 DR THE HONOURABLE KENNETH CHAN KA-LOK",
+    "陳婉嫻議員, S.B.S., J.P. THE HONOURABLE CHAN YUEN-HAN, S.B.S., J.P.",
+    "梁志祥議員, B.B.S., M.H., J.P. THE HONOURABLE LEUNG CHE-CHEUNG, B.B.S., M.H., J.P.",
+    "梁繼昌議員 THE HONOURABLE KENNETH LEUNG",
+    "麥美娟議員, J.P. THE HONOURABLE ALICE MAK MEI-KUEN, J.P.",
+    "郭家麒議員 DR THE HONOURABLE KWOK KA-KI",
+    "郭偉强議員 THE HONOURABLE KWOK WAI-KEUNG",
+    "郭榮鏗議員 THE HONOURABLE DENNIS KWOK",
+    "張華峰議員, S.B.S., J.P. THE HONOURABLE CHRISTOPHER CHEUNG WAH-FUNG, S.B.S., J.P.",
+    "單仲偕議員, S.B.S., J.P. THE HONOURABLE SIN CHUNG-KAI, S.B.S., J.P.",
+    "黃碧雲議員 DR THE HONOURABLE HELENA WONG PIK-WAN",
+    "葉建源議員 THE HONOURABLE IP KIN-YUEN",
+    "葛珮帆議員, J.P. DR THE HONOURABLE ELIZABETH QUAT, J.P.",
+    "廖長江議員, S.B.S., J.P. THE HONOURABLE MARTIN LIAO CHEUNG-KONG, S.B.S., J.P.",
+    "潘兆平議員, B.B.S., M.H. THE HONOURABLE POON SIU-PING, B.B.S., M.H.",
+    "鄧家彪議員, J.P. THE HONOURABLE TANG KA-PIU, J.P.",
+    "蔣麗芸議員, J.P. DR THE HONOURABLE CHIANG LAI-WAN, J.P.",
+    "盧偉國議員, B.B.S., M.H., J.P. IR DR THE HONOURABLE LO WAI-KWOK, B.B.S., M.H., J.P.",
+    "鍾國斌議員 THE HONOURABLE CHUNG KWOK-PAN",
+    "鍾樹根議員, B.B.S., M.H., J.P. THE HONOURABLE CHRISTOPHER CHUNG SHU-KUN, B.B.S., M.H., J.P.",
+    "謝偉銓議員, B.B.S. THE HONOURABLE TONY TSE WAI-CHUEN, B.B.S."
+  ],
+  "membersAbsent": [
+    "涂謹申議員 THE HONOURABLE JAMES TO KUN-SUN",
+    "劉皇發議員, 大紫荊勳賢, G.B.S., J.P. DR THE HONOURABLE LAU WONG-FAT, G.B.M., G.B.S., J.P.",
+    "方剛議員, S.B.S., J.P. THE HONOURABLE VINCENT FANG KANG, S.B.S., J.P.",
+    "湯家驊議員, S.C. THE HONOURABLE RONNY TONG KA-WAH, S.C.",
+    "梁家騮議員 DR THE HONOURABLE LEUNG KA-LAU",
+    "毛孟靜議員 THE HONOURABLE CLAUDIA MO",
+    "易志明議員 THE HONOURABLE FRANKIE YICK CHI-MING",
+    "范國威議員 THE HONOURABLE GARY FAN KWOK-WAI",
+    "張超雄議員 DR THE HONOURABLE FERNANDO CHEUNG CHIU-HUNG"
+  ],
+  "publicOfficersAttending": [
+    "政務司司長林鄭月娥女士, G.B.S., J.P. THE HONOURABLE MRS CARRIE LAM CHENG YUET-NGOR, G.B.S., J.P. THE CHIEF SECRETARY FOR ADMINISTRATION",
+    "財政司司長曾俊華先生, 大紫荊勳賢, J.P. THE HONOURABLE JOHN TSANG CHUN-WAH, G.B.M., J.P. THE FINANCIAL SECRETARY",
+    "律政司司長袁國強先生, S.C., J.P. THE HONOURABLE RIMSKY YUEN KWOK-KEUNG, S.C., J.P. THE SECRETARY FOR JUSTICE",
+    "民政事務局局長許曉暉女士, S.B.S., J.P. MS FLORENCE HUI HIU-FAI, S.B.S., J.P. SECRETARY FOR HOME AFFAIRS",
+    "勞工及福利局局長張建宗先生, G.B.S., J.P. THE HONOURABLE MATTHEW CHEUNG KIN-CHUNG, G.B.S., J.P. SECRETARY FOR LABOUR AND WELFARE",
+    "財經事務及庫務局局長陳家強教授, G.B.S., J.P. PROF THE HONOURABLE K C CHAN, G.B.S., J.P. SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY",
+    "商務及經濟發展局局長蘇錦樑先生, G.B.S., J.P. THE HONOURABLE GREGORY SO KAM-LEUNG, G.B.S., J.P. SECRETARY FOR COMMERCE AND ECONOMIC DEVELOPMENT",
+    "政制及內地事務局局長譚志源先生, G.B.S., J.P. THE HONOURABLE RAYMOND TAM CHI-YUEN, G.B.S., J.P. SECRETARY FOR CONSTITUTIONAL AND MAINLAND AFFAIRS",
+    "保安局局長黎棟國先生, S.B.S., I.D.S.M., J.P. THE HONOURABLE LAI TUNG-KWOK, S.B.S., I.D.S.M., J.P. SECRETARY FOR SECURITY",
+    "教育局局長吳克儉先生, S.B.S., J.P. THE HONOURABLE EDDIE NG HAK-KIM, S.B.S., J.P. SECRETARY FOR EDUCATION",
+    "公務員事務局局長鄧國威先生, J.P. THE HONOURABLE PAUL TANG KWOK-WAI, J.P. SECRETARY FOR THE CIVIL SERVICE",
+    "食物及衞生局局長高永文醫生, B.B.S., J.P. DR THE HONOURABLE KO WING-MAN, B.B.S., J.P. SECRETARY FOR FOOD AND HEALTH",
+    "環境局副局長陸恭蕙女士, J.P. MS CHRISTINE LOH KUNG-WAI, J.P. UNDER SECRETARY FOR THE ENVIRONMENT",
+    "財經事務及庫務局副局長劉怡翔先生, J.P. MR JAMES HENRY LAU JR., J.P. UNDER SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY"
+  ],
+  "clerksInAttendance": [
+    "助理秘書長薛鳳鳴女士 MS ANITA SIT, ASSISTANT SECRETARY GENERAL",
+    "助理秘書長梁慶儀女士 MISS ODELIA LEUNG HING-YEE, ASSISTANT SECRETARY GENERAL",
+    "助理秘書長盧思源先生 MR MATTHEW LOO, ASSISTANT SECRETARY GENERAL"
+  ],
+  "speeches": [
+    {
+      "title": "全委會主席",
+      "content": "全體委員會繼續就若干總目的款額納入附表逐一進行表決。",
+      "sequence": 1,
+      "bookmark": "SP_LC_CM_00008"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 2,
+      "bookmark": "SP_LC_CM_00010"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目51的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 3,
+      "bookmark": "EV_PUT_00011"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳偉業議員起立要求記名表決。 Mr Albert CHAN rose to claim a division.",
+      "sequence": 4,
+      "bookmark": "SP_LC_CM_00012"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員要求記名表決。表決鐘會響1分鐘。 \n(表決鐘鳴響了1分鐘後)",
+      "sequence": 5,
+      "bookmark": "SP_LC_CM_00013"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 6,
+      "bookmark": "SP_LC_CM_00014"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 7,
+      "bookmark": "EV_BELL_00015"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 8,
+      "bookmark": "SP_LC_CM_00016"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、梁志祥議員、麥美娟議員、郭家麒議員、郭偉强議員、郭榮鏗議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 9,
+      "bookmark": "SP_LC_CM_00017"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 10,
+      "bookmark": "EV_VOTED_00018"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 11,
+      "bookmark": "SP_LC_CM_00019"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目53的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 12,
+      "bookmark": "EV_PUT_00020"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手)  \n陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 13,
+      "bookmark": "SP_LC_CM_00021"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 14,
+      "bookmark": "SP_LC_CM_00022"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 15,
+      "bookmark": "SP_LC_CM_00023"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭家麒議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 16,
+      "bookmark": "SP_LC_CM_00024"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 17,
+      "bookmark": "EV_VOTED_00025"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 18,
+      "bookmark": "SP_LC_CM_00026"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目55的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 19,
+      "bookmark": "EV_PUT_00027"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 20,
+      "bookmark": "SP_LC_CM_00028"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 21,
+      "bookmark": "SP_LC_CM_00029"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 22,
+      "bookmark": "SP_LC_CM_00030"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 23,
+      "bookmark": "SP_LC_CM_00031"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n全委會主席宣布有37人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 24,
+      "bookmark": "EV_VOTED_00032"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 25,
+      "bookmark": "SP_LC_CM_00033"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目59的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 26,
+      "bookmark": "EV_PUT_00034"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 27,
+      "bookmark": "SP_LC_CM_00035"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 28,
+      "bookmark": "SP_LC_CM_00036"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 29,
+      "bookmark": "SP_LC_CM_00037"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、\n郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 30,
+      "bookmark": "SP_LC_CM_00038"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 31,
+      "bookmark": "EV_VOTED_00039"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 32,
+      "bookmark": "SP_LC_CM_00040"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目60的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 33,
+      "bookmark": "EV_PUT_00041"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 34,
+      "bookmark": "SP_LC_CM_00042"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 35,
+      "bookmark": "SP_LC_CM_00043"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 36,
+      "bookmark": "SP_LC_CM_00044"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 37,
+      "bookmark": "SP_LC_CM_00045"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 38,
+      "bookmark": "EV_VOTED_00046"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 39,
+      "bookmark": "SP_LC_CM_00047"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目62的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 40,
+      "bookmark": "EV_PUT_00048"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手)  \n陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 41,
+      "bookmark": "SP_LC_CM_00049"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 42,
+      "bookmark": "SP_LC_CM_00050"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 43,
+      "bookmark": "SP_LC_CM_00051"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 44,
+      "bookmark": "SP_LC_CM_00052"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有38人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 38 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 45,
+      "bookmark": "EV_VOTED_00053"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 46,
+      "bookmark": "SP_LC_CM_00054"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目63的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 47,
+      "bookmark": "EV_PUT_00055"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 48,
+      "bookmark": "SP_LC_CM_00056"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 49,
+      "bookmark": "SP_LC_CM_00057"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 50,
+      "bookmark": "SP_LC_CM_00058"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、陳克勤議員、陳健波議員、黃國健議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 51,
+      "bookmark": "SP_LC_CM_00059"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n全委會主席宣布有38人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 38 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 52,
+      "bookmark": "EV_VOTED_00060"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 53,
+      "bookmark": "SP_LC_CM_00061"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目70的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 54,
+      "bookmark": "EV_PUT_00062"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 55,
+      "bookmark": "SP_LC_CM_00063"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 56,
+      "bookmark": "SP_LC_CM_00064"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 57,
+      "bookmark": "SP_LC_CM_00065"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、陳克勤議員、陳健波議員、黃國健議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n陳偉業議員及陳志全議員反對。",
+      "sequence": 58,
+      "bookmark": "SP_LC_CM_00066"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有38人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 38 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 59,
+      "bookmark": "EV_VOTED_00067"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 60,
+      "bookmark": "SP_LC_CM_00068"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目72的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 61,
+      "bookmark": "EV_PUT_00069"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 62,
+      "bookmark": "SP_LC_CM_00070"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 63,
+      "bookmark": "SP_LC_CM_00071"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 64,
+      "bookmark": "SP_LC_CM_00072"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、梁君彥議員、李慧琼議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 65,
+      "bookmark": "SP_LC_CM_00073"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有38人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 38 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 66,
+      "bookmark": "EV_VOTED_00074"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 67,
+      "bookmark": "SP_LC_CM_00075"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目74的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 68,
+      "bookmark": "EV_PUT_00076"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 69,
+      "bookmark": "SP_LC_CM_00077"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 70,
+      "bookmark": "SP_LC_CM_00078"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 71,
+      "bookmark": "SP_LC_CM_00079"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、李慧琼議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員、陳志全議員及郭偉强議員反對。",
+      "sequence": 72,
+      "bookmark": "SP_LC_CM_00080"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、梁繼昌議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，26人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 26 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 73,
+      "bookmark": "EV_VOTED_00081"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 74,
+      "bookmark": "SP_LC_CM_00082"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目76的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 75,
+      "bookmark": "EV_PUT_00083"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 76,
+      "bookmark": "SP_LC_CM_00084"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 77,
+      "bookmark": "SP_LC_CM_00085"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 78,
+      "bookmark": "SP_LC_CM_00086"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、李慧琼議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 79,
+      "bookmark": "SP_LC_CM_00087"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、陳克勤議員、莫乃光議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，26人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 35 Members present, 26 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 80,
+      "bookmark": "EV_VOTED_00088"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 81,
+      "bookmark": "SP_LC_CM_00089"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目79的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 82,
+      "bookmark": "EV_PUT_00090"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 83,
+      "bookmark": "SP_LC_CM_00091"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 84,
+      "bookmark": "SP_LC_CM_00092"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 85,
+      "bookmark": "SP_LC_CM_00093"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、黃定光議員、李慧琼議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n\n陳偉業議員及陳志全議員反對。",
+      "sequence": 86,
+      "bookmark": "SP_LC_CM_00094"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 87,
+      "bookmark": "EV_VOTED_00095"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 88,
+      "bookmark": "SP_LC_CM_00096"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目82的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 89,
+      "bookmark": "EV_PUT_00097"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 90,
+      "bookmark": "SP_LC_CM_00098"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 91,
+      "bookmark": "SP_LC_CM_00099"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 92,
+      "bookmark": "SP_LC_CM_00100"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、黃定光議員、李慧琼議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 93,
+      "bookmark": "SP_LC_CM_00101"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、胡志偉議員、莫乃光議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 94,
+      "bookmark": "EV_VOTED_00102"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 95,
+      "bookmark": "SP_LC_CM_00103"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目90的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 96,
+      "bookmark": "EV_PUT_00104"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 97,
+      "bookmark": "SP_LC_CM_00105"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 98,
+      "bookmark": "SP_LC_CM_00106"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 99,
+      "bookmark": "SP_LC_CM_00107"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 100,
+      "bookmark": "SP_LC_CM_00108"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、胡志偉議員、莫乃光議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，27人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 27 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 101,
+      "bookmark": "EV_VOTED_00109"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 102,
+      "bookmark": "SP_LC_CM_00110"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目91的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 103,
+      "bookmark": "EV_PUT_00111"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 104,
+      "bookmark": "SP_LC_CM_00112"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 105,
+      "bookmark": "SP_LC_CM_00113"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 106,
+      "bookmark": "SP_LC_CM_00114"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 107,
+      "bookmark": "SP_LC_CM_00115"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、郭家麒議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，27人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 35 Members present, 27 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 108,
+      "bookmark": "EV_VOTED_00116"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 109,
+      "bookmark": "SP_LC_CM_00117"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目92的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 110,
+      "bookmark": "EV_PUT_00118"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 111,
+      "bookmark": "SP_LC_CM_00119"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。 \n(表決鐘鳴響了1分鐘後)",
+      "sequence": 112,
+      "bookmark": "SP_LC_CM_00120"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在尚欠1位委員才夠法定人數。秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 113,
+      "bookmark": "SP_LC_CM_00121"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 114,
+      "bookmark": "EV_BELL_00122"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 115,
+      "bookmark": "SP_LC_CM_00123"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n\n陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員、陳志全議員及蔣麗芸議員反對。",
+      "sequence": 116,
+      "bookmark": "SP_LC_CM_00124"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，27人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 27 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 117,
+      "bookmark": "EV_VOTED_00125"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 118,
+      "bookmark": "SP_LC_CM_00126"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目95的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 119,
+      "bookmark": "EV_PUT_00127"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 120,
+      "bookmark": "SP_LC_CM_00128"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 121,
+      "bookmark": "SP_LC_CM_00129"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 122,
+      "bookmark": "SP_LC_CM_00130"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 123,
+      "bookmark": "SP_LC_CM_00131"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 124,
+      "bookmark": "EV_VOTED_00132"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 125,
+      "bookmark": "SP_LC_CM_00133"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目96的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 126,
+      "bookmark": "EV_PUT_00134"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 127,
+      "bookmark": "SP_LC_CM_00135"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 128,
+      "bookmark": "SP_LC_CM_00136"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 129,
+      "bookmark": "SP_LC_CM_00137"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、張宇人議員、王國興議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 130,
+      "bookmark": "SP_LC_CM_00138"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 35 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 131,
+      "bookmark": "EV_VOTED_00139"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 132,
+      "bookmark": "SP_LC_CM_00140"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目100的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 133,
+      "bookmark": "EV_PUT_00141"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 134,
+      "bookmark": "SP_LC_CM_00142"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 135,
+      "bookmark": "SP_LC_CM_00143"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 136,
+      "bookmark": "SP_LC_CM_00144"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、黃定光議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n\n陳偉業議員及陳志全議員反對。",
+      "sequence": 137,
+      "bookmark": "SP_LC_CM_00145"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員、陳家洛議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，27人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 27 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 138,
+      "bookmark": "EV_VOTED_00146"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 139,
+      "bookmark": "SP_LC_CM_00147"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目118的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 140,
+      "bookmark": "EV_PUT_00148"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 141,
+      "bookmark": "SP_LC_CM_00149"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 142,
+      "bookmark": "SP_LC_CM_00150"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 143,
+      "bookmark": "SP_LC_CM_00151"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、王國興議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 144,
+      "bookmark": "SP_LC_CM_00152"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 145,
+      "bookmark": "EV_VOTED_00153"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 146,
+      "bookmark": "SP_LC_CM_00154"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目121的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 147,
+      "bookmark": "EV_PUT_00155"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 148,
+      "bookmark": "SP_LC_CM_00156"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 149,
+      "bookmark": "SP_LC_CM_00157"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 150,
+      "bookmark": "SP_LC_CM_00158"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 151,
+      "bookmark": "SP_LC_CM_00159"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、李卓人議員、劉慧卿議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 152,
+      "bookmark": "EV_VOTED_00160"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 153,
+      "bookmark": "SP_LC_CM_00161"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目122的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 154,
+      "bookmark": "EV_PUT_00162"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 155,
+      "bookmark": "SP_LC_CM_00163"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。 \n(表決鐘鳴響了1分鐘後)",
+      "sequence": 156,
+      "bookmark": "SP_LC_CM_00164"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在尚欠兩位委員才夠法定人數。秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 157,
+      "bookmark": "SP_LC_CM_00165"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 158,
+      "bookmark": "EV_BELL_00166"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 159,
+      "bookmark": "SP_LC_CM_00167"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 李卓人議員、劉慧卿議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 160,
+      "bookmark": "SP_LC_CM_00168"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員及莫乃光議員沒有表決。 \n全委會主席宣布有35人出席，29人贊成，4人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 29 were in favour of the motion and four against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 161,
+      "bookmark": "EV_VOTED_00169"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 162,
+      "bookmark": "SP_LC_CM_00170"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目137的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 163,
+      "bookmark": "EV_PUT_00171"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 164,
+      "bookmark": "SP_LC_CM_00172"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。 \n(表決鐘鳴響了1分鐘後)",
+      "sequence": 165,
+      "bookmark": "SP_LC_CM_00173"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 166,
+      "bookmark": "SP_LC_CM_00174"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 167,
+      "bookmark": "EV_BELL_00175"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 168,
+      "bookmark": "SP_LC_CM_00176"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員反對。",
+      "sequence": 169,
+      "bookmark": "SP_LC_CM_00177"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、何俊仁議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，30人贊成，1人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 30 were in favour of the motion and one against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 170,
+      "bookmark": "EV_VOTED_00178"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 171,
+      "bookmark": "SP_LC_CM_00179"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目138的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 172,
+      "bookmark": "EV_PUT_00180"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳偉業議員起立要求記名表決。 Mr Albert CHAN rose to claim a division.",
+      "sequence": 173,
+      "bookmark": "SP_LC_CM_00181"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 174,
+      "bookmark": "SP_LC_CM_00182"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 175,
+      "bookmark": "SP_LC_CM_00183"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 176,
+      "bookmark": "SP_LC_CM_00184"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、何俊仁議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，30人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 30 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 177,
+      "bookmark": "EV_VOTED_00185"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 178,
+      "bookmark": "SP_LC_CM_00186"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目139的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 179,
+      "bookmark": "EV_PUT_00187"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 180,
+      "bookmark": "SP_LC_CM_00188"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 181,
+      "bookmark": "SP_LC_CM_00189"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 182,
+      "bookmark": "SP_LC_CM_00190"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 183,
+      "bookmark": "SP_LC_CM_00191"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、何俊仁議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，30人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 37 Members present, 30 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 184,
+      "bookmark": "EV_VOTED_00192"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 185,
+      "bookmark": "SP_LC_CM_00193"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目140的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 186,
+      "bookmark": "EV_PUT_00194"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 187,
+      "bookmark": "SP_LC_CM_00195"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 188,
+      "bookmark": "SP_LC_CM_00196"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 189,
+      "bookmark": "SP_LC_CM_00197"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n\n梁君彥議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 190,
+      "bookmark": "SP_LC_CM_00198"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，29人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 29 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 191,
+      "bookmark": "EV_VOTED_00199"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 192,
+      "bookmark": "SP_LC_CM_00200"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目141的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 193,
+      "bookmark": "EV_PUT_00201"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 194,
+      "bookmark": "SP_LC_CM_00202"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 195,
+      "bookmark": "SP_LC_CM_00203"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 196,
+      "bookmark": "SP_LC_CM_00204"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 197,
+      "bookmark": "SP_LC_CM_00205"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、陳克勤議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，30人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 30 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 198,
+      "bookmark": "EV_VOTED_00206"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 199,
+      "bookmark": "SP_LC_CM_00207"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目142的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 200,
+      "bookmark": "EV_PUT_00208"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 201,
+      "bookmark": "SP_LC_CM_00209"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 202,
+      "bookmark": "SP_LC_CM_00210"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 203,
+      "bookmark": "SP_LC_CM_00211"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 204,
+      "bookmark": "SP_LC_CM_00212"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，30人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 30 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 205,
+      "bookmark": "EV_VOTED_00213"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 206,
+      "bookmark": "SP_LC_CM_00214"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目143的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 207,
+      "bookmark": "EV_PUT_00215"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 208,
+      "bookmark": "SP_LC_CM_00216"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 209,
+      "bookmark": "SP_LC_CM_00217"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 210,
+      "bookmark": "SP_LC_CM_00218"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。 \n 陳偉業議員、姚思榮議員及陳志全議員反對。",
+      "sequence": 211,
+      "bookmark": "SP_LC_CM_00219"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、馮檢基議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，30人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 37 Members present, 30 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 212,
+      "bookmark": "EV_VOTED_00220"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 213,
+      "bookmark": "SP_LC_CM_00221"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目144的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 214,
+      "bookmark": "EV_PUT_00222"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 215,
+      "bookmark": "SP_LC_CM_00223"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 216,
+      "bookmark": "SP_LC_CM_00224"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 217,
+      "bookmark": "SP_LC_CM_00225"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾樹根議員及謝偉銓議員贊成。  \n陳偉業議員及陳志全議員反對。",
+      "sequence": 218,
+      "bookmark": "SP_LC_CM_00226"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、馮檢基議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，31人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 31 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 219,
+      "bookmark": "EV_VOTED_00227"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 220,
+      "bookmark": "SP_LC_CM_00228"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目147的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 221,
+      "bookmark": "EV_PUT_00229"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 222,
+      "bookmark": "SP_LC_CM_00230"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 223,
+      "bookmark": "SP_LC_CM_00231"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 224,
+      "bookmark": "SP_LC_CM_00232"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 225,
+      "bookmark": "SP_LC_CM_00233"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、馮檢基議員、梁家傑議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，28人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 28 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 226,
+      "bookmark": "EV_VOTED_00234"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 227,
+      "bookmark": "SP_LC_CM_00235"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目148的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 228,
+      "bookmark": "EV_PUT_00236"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 229,
+      "bookmark": "SP_LC_CM_00237"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 230,
+      "bookmark": "SP_LC_CM_00238"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 231,
+      "bookmark": "SP_LC_CM_00239"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 232,
+      "bookmark": "SP_LC_CM_00240"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、馮檢基議員、梁家傑議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 233,
+      "bookmark": "EV_VOTED_00241"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 234,
+      "bookmark": "SP_LC_CM_00242"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目151的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 235,
+      "bookmark": "EV_PUT_00243"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 236,
+      "bookmark": "SP_LC_CM_00244"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 237,
+      "bookmark": "SP_LC_CM_00245"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 238,
+      "bookmark": "SP_LC_CM_00246"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員及謝偉銓議員贊成。 \n 梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 239,
+      "bookmark": "SP_LC_CM_00247"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、梁家傑議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，28人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 35 Members present, 28 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 240,
+      "bookmark": "EV_VOTED_00248"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 241,
+      "bookmark": "SP_LC_CM_00249"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目152的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 242,
+      "bookmark": "EV_PUT_00250"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 243,
+      "bookmark": "SP_LC_CM_00251"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 244,
+      "bookmark": "SP_LC_CM_00252"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 245,
+      "bookmark": "SP_LC_CM_00253"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員及謝偉銓議員贊成。 \n\n梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 246,
+      "bookmark": "SP_LC_CM_00254"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、梁家傑議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有35人出席，28人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 35 Members present, 28 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 247,
+      "bookmark": "EV_VOTED_00255"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 248,
+      "bookmark": "SP_LC_CM_00256"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目155的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 249,
+      "bookmark": "EV_PUT_00257"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 250,
+      "bookmark": "SP_LC_CM_00258"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 251,
+      "bookmark": "SP_LC_CM_00259"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 252,
+      "bookmark": "SP_LC_CM_00260"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 253,
+      "bookmark": "SP_LC_CM_00261"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、梁家傑議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有36人出席，29人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 36 Members present, 29 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 254,
+      "bookmark": "EV_VOTED_00262"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 255,
+      "bookmark": "SP_LC_CM_00263"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目156的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 256,
+      "bookmark": "EV_PUT_00264"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 257,
+      "bookmark": "SP_LC_CM_00265"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 258,
+      "bookmark": "SP_LC_CM_00266"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 259,
+      "bookmark": "SP_LC_CM_00267"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 260,
+      "bookmark": "SP_LC_CM_00268"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、梁家傑議員、莫乃光議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，30人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 30 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 261,
+      "bookmark": "EV_VOTED_00269"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 262,
+      "bookmark": "SP_LC_CM_00270"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目158的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 263,
+      "bookmark": "EV_PUT_00271"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 264,
+      "bookmark": "SP_LC_CM_00272"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 265,
+      "bookmark": "SP_LC_CM_00273"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 266,
+      "bookmark": "SP_LC_CM_00274"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、吳亮星議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 267,
+      "bookmark": "SP_LC_CM_00275"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、梁家傑議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有38人出席，30人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 38 Members present, 30 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 268,
+      "bookmark": "EV_VOTED_00276"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 269,
+      "bookmark": "SP_LC_CM_00277"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目159的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 270,
+      "bookmark": "EV_PUT_00278"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 271,
+      "bookmark": "SP_LC_CM_00279"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 272,
+      "bookmark": "SP_LC_CM_00280"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 273,
+      "bookmark": "SP_LC_CM_00281"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n\n梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 274,
+      "bookmark": "SP_LC_CM_00282"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、劉慧卿議員、梁家傑議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，28人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 28 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 275,
+      "bookmark": "EV_VOTED_00283"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 276,
+      "bookmark": "SP_LC_CM_00284"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目162的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 277,
+      "bookmark": "EV_PUT_00285"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 278,
+      "bookmark": "SP_LC_CM_00286"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 279,
+      "bookmark": "SP_LC_CM_00287"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 280,
+      "bookmark": "SP_LC_CM_00288"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 281,
+      "bookmark": "SP_LC_CM_00289"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、劉慧卿議員、梁家傑議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有38人出席，29人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 38 Members present, 29 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 282,
+      "bookmark": "EV_VOTED_00290"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 283,
+      "bookmark": "SP_LC_CM_00291"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目170的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 284,
+      "bookmark": "EV_PUT_00292"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 285,
+      "bookmark": "SP_LC_CM_00293"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 286,
+      "bookmark": "SP_LC_CM_00294"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 287,
+      "bookmark": "SP_LC_CM_00295"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、陳恒鑌議員、陳婉嫻議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 梁耀忠議員、陳偉業議員及陳志全議員反對。",
+      "sequence": 288,
+      "bookmark": "SP_LC_CM_00296"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、劉慧卿議員、梁家傑議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有38人出席，29人贊成，3人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 38 Members present, 29 were in favour of the motion and three against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 289,
+      "bookmark": "EV_VOTED_00297"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 290,
+      "bookmark": "SP_LC_CM_00298"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目174的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 291,
+      "bookmark": "EV_PUT_00299"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 292,
+      "bookmark": "SP_LC_CM_00300"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 293,
+      "bookmark": "SP_LC_CM_00301"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 294,
+      "bookmark": "SP_LC_CM_00302"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、陳恒鑌議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 295,
+      "bookmark": "SP_LC_CM_00303"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、劉慧卿議員、梁家傑議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 37 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 296,
+      "bookmark": "EV_VOTED_00304"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 297,
+      "bookmark": "SP_LC_CM_00305"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目180的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 298,
+      "bookmark": "EV_PUT_00306"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 299,
+      "bookmark": "SP_LC_CM_00307"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 300,
+      "bookmark": "SP_LC_CM_00308"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 301,
+      "bookmark": "SP_LC_CM_00309"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n\n陳偉業議員及陳志全議員反對。",
+      "sequence": 302,
+      "bookmark": "SP_LC_CM_00310"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、劉慧卿議員、梁家傑議員、莫乃光議員、梁繼昌議員及單仲偕議員沒有表決。 \n 全委會主席宣布有37人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 303,
+      "bookmark": "EV_VOTED_00311"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 304,
+      "bookmark": "SP_LC_CM_00312"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目181的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 305,
+      "bookmark": "EV_PUT_00313"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 306,
+      "bookmark": "SP_LC_CM_00314"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 307,
+      "bookmark": "SP_LC_CM_00315"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 308,
+      "bookmark": "SP_LC_CM_00316"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 309,
+      "bookmark": "SP_LC_CM_00317"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、何俊仁議員、劉慧卿議員、梁家傑議員、莫乃光議員及梁繼昌議員沒有表決。 \n 全委會主席宣布有37人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 310,
+      "bookmark": "EV_VOTED_00318"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 311,
+      "bookmark": "SP_LC_CM_00319"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目186的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 312,
+      "bookmark": "EV_PUT_00320"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 313,
+      "bookmark": "SP_LC_CM_00321"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 314,
+      "bookmark": "SP_LC_CM_00322"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 315,
+      "bookmark": "SP_LC_CM_00323"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 316,
+      "bookmark": "SP_LC_CM_00324"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、何俊仁議員、劉慧卿議員、梁家傑議員、莫乃光議員及梁繼昌議員沒有表決。 \n 全委會主席宣布有37人出席，29人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 37 Members present, 29 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 317,
+      "bookmark": "EV_VOTED_00325"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 318,
+      "bookmark": "SP_LC_CM_00326"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：總目190的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 319,
+      "bookmark": "EV_PUT_00327"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 林大輝議員起立要求記名表決。 Dr LAM Tai-fai rose to claim a division.",
+      "sequence": 320,
+      "bookmark": "SP_LC_CM_00328"
+    },
+    {
+      "title": "全委會主席",
+      "content": "林大輝議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 321,
+      "bookmark": "SP_LC_CM_00329"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 322,
+      "bookmark": "SP_LC_CM_00330"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、馬逢國議員、陳恒鑌議員、梁志祥議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 323,
+      "bookmark": "SP_LC_CM_00331"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、何俊仁議員、劉慧卿議員、梁家傑議員、莫乃光議員及梁繼昌議員沒有表決。 \n 全委會主席宣布有38人出席，30人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 \nTHE CHAIRMAN announced that there were 38 Members present, 30 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 324,
+      "bookmark": "EV_VOTED_00332"
+    },
+    {
+      "title": "全委會主席",
+      "content": "全體委員會已就所有總目的款額納入附表完成表決。",
+      "sequence": 325,
+      "bookmark": "SP_LC_CM_00333"
+    },
+    {
+      "title": "",
+      "content": "我現在向各位提出的待決議題是：附表納入本條例草案。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 326,
+      "bookmark": "EV_PUT_00334"
+    },
+    {
+      "title": "全委會主席",
+      "content": "反對的請舉手。 \n(委員舉手) \n 陳偉業議員起立要求記名表決。 Mr Albert CHAN rose to claim a division.",
+      "sequence": 327,
+      "bookmark": "SP_LC_CM_00335"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 328,
+      "bookmark": "SP_LC_CM_00336"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 329,
+      "bookmark": "SP_LC_CM_00337"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北俊議員、何俊賢議員、姚思榮議員、馬逢國議員、莫乃光議員、陳恒鑌議員、梁志祥議員、梁繼昌議員、麥美娟議員、郭偉强議員、張華峰議員、\n葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員、鍾國斌議員及謝偉銓議員贊成。 \n 陳偉業議員及陳志全議員反對。",
+      "sequence": 330,
+      "bookmark": "SP_LC_CM_00338"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員、何俊仁議員、劉慧卿議員及梁家傑議員沒有表決。 \n 全委會主席宣布有39人出席，33人贊成，2人反對。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 39 Members present, 33 were in favour of the motion and two against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 331,
+      "bookmark": "EV_VOTED_00339"
+    },
+    {
+      "title": "全委會主席",
+      "content": "全體委員會已完成條例草案附表的審議，現在審議條例草案的條文。我現在向各位提出的待議議題是：以下條文納入《2015年撥款條例草案》。",
+      "sequence": 332,
+      "bookmark": "SP_LC_CM_00340"
+    },
+    {
+      "title": "秘書",
+      "content": "第1及2條。",
+      "sequence": 333,
+      "bookmark": "SP_LC_CLK_00341"
+    },
+    {
+      "title": "全委會主席",
+      "content": "全委會現在進行第8項辯論。",
+      "sequence": 334,
+      "bookmark": "SP_LC_CM_00342"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有委員想發言？",
+      "sequence": 335,
+      "bookmark": "SP_LC_CM_00343"
+    },
+    {
+      "title": "梁繼昌議員",
+      "content": "主席，我本來沒有作好充分準備發言，但現在想就《2015年撥款條例草案》(“條例草案”)作一些總結評論。 \n 除了不滿條例草案中某些分目的支出外，我更不滿政府把很多本應交由財務委員會(“財委會”)討論的項目，與條例草案捆綁一起。雖然政府法律上可以這樣做，但這做法對立法會過往十多二十年確立的傳統和行政立法關係造成相當大的影響。 \n 雖然如此，主席，鑒於條例草案涉及近千億元政府支出，即使我對很多地方不滿，我和莫乃光議員作為公共專業聯盟一分子，今次也會支持條例草案。此外，我也想談談一項與公共理財有關而大家也十分關心的議題，那便是市民經常批評政府，特別是政府經常每年都錯估盈餘，而且每次估計的盈餘數字都比實際數字低很多。其實，我理解當中的困難，作為一名專業人士，我希望可以向公眾人士簡單解釋當中的困難。 \n 當然，政府可以控制和直接影響支出項目。但身為在商界和財經界有多年經驗的專業人士，我認為很難估計政府的整體收入。香港是一個開放型經濟體系，雖然每個財政年度為期只有短短12個月，但政府收入可能因國際形勢和經濟波動而受到影響。根據公共理財或一般理財原則，政府必須謹慎行事  其實這個詞語並不能貼切地翻譯prudent這個字。總體而言，prudent的意思是指不能高估企業收入，而且要作出謹慎估計，不能預期一定會有收入。就企業支出來說  企業支出當然可能指政府支出  我們必須估計支出成本，並且全數列入有關項目的帳目內。所以，我經常看到也理解為何現任財政司司長曾俊華，以及以往多屆財政司司長傾向低估收入和高估支出。但是，我不能代特區政府向公眾解釋，主席，我只可以我的專業身份，向公眾解釋這是會計師的理財準則。 \n 話雖如此，一個城市、地方或國家的公共理財哲學，其實跟一間公營機構或上市公司的理財哲學有很多相似之處，但也不盡相同。我所說的相似之處，是指市民其實跟公司股東一樣，希望得到回報。可是，一間公司要取得回報，必須進行投資。雖然很多公司的經營手法十分守舊，每年只靠一些租金收入或經常性收入，便可以維持營運，甚至是上市公司的業務，但一個城市的公共理財哲學，必須有願景\n(vision)。換言之，即使某些投資有時候可能會在中短期出現虧蝕的情況，我們仍然要進行投資，因為某些基礎或資本投資，可以長遠令市民即公司股東得益，所以這些投資必須進行。但是，當政府向市民和立法會解釋這些投資，尤其最近很多基礎工程設施超支的時候，我發覺政府的估算，尤其是projection，可謂不盡不實。可是，我們沒有能力和資源要求政府就逐項projection(所謂投射)提供證明  例如蓮塘口岸通關後，如何計算每天通車帶來的收益  我們也無從知道政府是否有證據支持有關的估計數據。 \n 所以，我希望政府日後向立法會或財委會提交基建工程撥款申請時，能夠把文件做得更清楚和仔細，並且把assumption寫得清清楚楚，因為政府就未來10年或20年的收入或支出做projection的時候，必須根據一些現有狀況和許多假設作出估計。如果政府的假設超乎現實，即使得出的數據如何理想，也都是虛假數字，這道理十分簡單。如果政府根據現實情況作出假設，我們便要仔細看看所有假設的基礎，這才是我們審議每項重大支出時應有的態度。 \n 所以，主席，雖然我對今次條例草案中的多個項目，甚至整個撥款程序感到不滿，但由於這為數過千億元的撥款會影響整個香港的運作，我和莫乃光議員會投票支持本條例草案。 \n 主席，我謹此陳辭。",
+      "sequence": 336,
+      "bookmark": "SP_MB_KL_00344"
+    },
+    {
+      "title": "單仲偕議員",
+      "content": "主席，由於條例草案很快便要三讀，所以我在此作出發言。對於今次的條例草案，我們...... \n(陳偉業議員站起來)",
+      "sequence": 337,
+      "bookmark": "SP_MB_SCK_00345"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員，你有甚麼問題？",
+      "sequence": 338,
+      "bookmark": "SP_LC_CM_00346"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "我相信單仲偕議員有很重要的事想跟大家說，所以，我想多些議員在席聆聽會較好。主席，麻煩點算法定人數。",
+      "sequence": 339,
+      "bookmark": "SP_MB_CWY_00347"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 340,
+      "bookmark": "SP_LC_CM_00348"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 341,
+      "bookmark": "EV_BELL_00349"
+    },
+    {
+      "title": "全委會主席",
+      "content": "單仲偕議員，請繼續發言。",
+      "sequence": 342,
+      "bookmark": "SP_LC_CM_00350"
+    },
+    {
+      "title": "單仲偕議員",
+      "content": "我要多謝陳偉業議員要求點算法定人數，使多些議員回來聽我發言。我相信大家應會作出最後的發言，因為財政預算案(“預算案”)應該很快便會進入三讀。 \n 主席，財政司司長在今年的預算案第167段中預計今年的盈餘是368億元。但是，由於股市出現“新常態”，我相信今年的盈餘將會大幅上升。根據香港交易及結算所有限公司(“港交所”)的網頁，今天的市場成交量是2,000億元，這大概令政府可能獲得近5億元印花稅收入。按1年240天trading days計算，如果每天的成交量維持這樣，單是印花稅也有過千億元。 \n 主席，今早梁振英提到甚麼三大引擎，即滬港直通車、深港直通車及基金互認。對於內地金融政策如何能透過香港這個平台國際化，自有其他平台供大家討論，我們今天主要談預算案。現時已經出現一種“新常態”  內地喜歡說“新常態”  亦即結構性的財政盈餘。主席，財政司司長數年前成立了一個名為長遠財政計劃工作小組，預計香港10多年後會出現所謂結構性的財政赤字。然而，我們看到今時今日出現的是結構性的財政盈餘。一如過去7年，政府今次的預算案繼續所謂“派糖”，今年繼續“派雙糧”、“派三糧”等，明年亦可能又是舊板斧，但對於我們今天看到的種種事情，政府採取的仍然是眼光十分短淺的措施。 \n 行政長官今早提到大埔安老院舍發生的問題，他說歸根究底又是土地的問題。現在3年已過去，行政長官在未上任前給人的感覺是他作為測量師，對土地會有所認識，應該可以令樓價上升。我最近與一名地產商吃飯，他說他們很支持梁振英出任行政長官，因為自梁振英出任行政長官之後，樓價升幅比以往各屆特首的年代更高。過去3年，樓價升幅遠遠超過董建華及曾蔭權年代的升幅。我不知道他是否“曲\n線”幫助地產商，但我們明顯看到，預算案並沒有以長遠的規劃和政策來改善民生和福利。 \n 我希望財政司司長來年能夠深切反省他過去7年的預算案。在日後的兩至3年，他還有機會留任，其任期最低限度會到2017年，即最低限度還有2016年及2017年兩份預算案。他可以運用豐厚的財政盈餘和結構性盈餘  單是說財政盈餘，存放在香港金融管理局(“金管局”)的那些不計算在內，直至明年3月底，我們將會有8,500多億元盈餘。我估計這數字真的可能有機會超越9,000億元，因為港交所出現一種所謂“新常態”，每天成交量有2,000億元及每天帶來5億元的印花稅收入，這情況會令我們未來的財政盈餘大幅攀升。 \n 主席，我認為如果財政司司長不釜底抽薪或痛定思痛，將難以令預算案獲得支持，最少民主黨不會支持。我們期待財政司司長能夠深切反省。我們會反對本年度的預算案，因為事實上仍是老調重彈，一直都是“派糖”、“派糖”、“派糖”。如果政府於七、八年前已開始就我們的醫療、大學學位及院舍服務等作出長遠規劃，其實今時今日的情況已經會有很多的改善；但是，我們還繼續每年“派糖”，繼續每年派300億元、400億元。明年也會一樣，明年也將面對同樣的問題。今年撥200億元給房屋委員會，明年可能又多撥200億元給醫院管理局，接着再撥200億元、300億元給其他機構，從而減低財政盈餘的數目，令政府看來沒有再估錯數。 \n 不過，就這些“招數”來說，做總比不做好；但更重要的是要釜底抽薪，對恆常性開支及一些基本的民生政策作出徹底的改善，而在過去數星期，我們有不少同事已提及這些方面，故此，我今天不再重複。民主黨一開始時已表明不會就預算案“拉布”，我們亦提出10多項修正案，儘管這些修正案也一一被否決。我們在預算案全體委員會審議階段棄權，但在三讀階段，我們會投反對票。 \n 我希望司長或副局長能夠把信息帶回去，在現階段開始準備明年如何處理過千億元的盈餘。其實，你們應該很清楚有關數目，但你們現時仍在不斷說結構性財赤，而我們看到的卻是財政的“新常態”，是有結構性的盈餘，你們會如何處理和利用呢？世界上並沒有多少個政府好像香港政府般幸運。大家看看希臘，不知道它將何時“爆煲”、何時破產。我們應認真思量如何處理我們的盈餘，把盈餘多用在需要處理的工作上。  \n 事實上，我們也很清楚，存放在金管局的財政儲備的回報只是3%多一點  田北俊議員更說沒有，回報一直在下降，因為其中1年的回報很低，所以整體來說是較低，但來年的平均回報會上升少許  即存放在金管局的財政儲備的moving average  但無論是4%或3%，回報也是相對地低。如果投放於社會中，回報會遠遠大於這數目，亦會減低民憤，減少社會撕裂。 \n “派糖”只會換來短暫掌聲，我們必須解決較長遠的深層次問題。大埔安老院舍的事件反映了甚麼？是我們對長者的照顧不足夠。除了土地外，我們還可以做些甚麼呢？在土地方面，我們也有很多事情可以做。在政府的政策方面，其實過去數月來我們已全部說過了。現在我只是作綜合發言，我只想告訴財政司司長  他現時不在席  你們必須做些事，否則一年復一年，明年我們會繼續反對。 \n 我謹此陳辭。",
+      "sequence": 343,
+      "bookmark": "SP_MB_SCK_00351"
+    },
+    {
+      "title": "王國興議員",
+      "content": "主席，對於這份財政預算案(“預算案”)，整體而言，我們是支持的。我們認為政府就這次預算案，考慮和採納了建制派議員，包括工聯會議員的建議。在最初揚言要“減甜”的情況下，政府當局考慮到我們反映了廣大基層市民面對通脹和生活的壓力，政府有責任紓困的意見，因此，對於弱勢社羣，在“生果金”、長者生活津貼、傷殘津貼和綜援等方面，政府均“出三糧”；例如在公屋居民方面，政府則再代繳1個月公屋租金；此外，在稅務和差餉方面也推出了寬減措施。當然，這些並未能完全滿足各方面的訴求，但肯定這些也是接納了建制派議員的建議而作出回應的措施。就此，我們表示歡迎，也支持這份預算案。 \n 其實，如果我們看看整份預算案，當政府進行醞釀、草擬和收集意見時，我們留意到泛民陣營的議員並沒有給予任何意見，一開始已經反對，而這也是他們去年宣布展開全面不合作運動的延續。因此，他們由始至終也反對，剛才民主黨的單仲偕議員已經印證了這個事實。所以，在這種情況下，期望他們會支持這份預算案，我相信是無須有任何幻想的。事實上，這份預算案是建制派議員努力提出意見的結果，在審議過程中，政府亦有很多環節與我們有溝通、交流和質詢。在這個過程當中，雖然相關政府部門也未能完全和即時地滿足我們提出的所有建議，但總算在一些地方、觀點甚至設想方面也持較開明或開放的態度，接納了我們提出的建議。  \n 以乘車優惠為例，在今年3月29日擴展至小巴服務後，在預算案的審議和討論過程中，我提出希望政府在1年後進行檢討，並考慮仿效例如內地的城市，使合資格長者也可以有免費乘車的優惠。張建宗局長在這個環節的討論當中，對我提出的建議作出了正面的回應，表示政府會持開放的態度，願意進行跟進研究，在1年後進行檢討時會考慮這個問題。又例如原授專利制度的立法，政府當初不太確定會採納這個方向，但是，在預算案審議的環節當中，我再進一步跟進和提出；因此，蘇錦樑局長便作出了較切實的回應，願意在2016-2017年度爭取進行立法。 \n 從這些過程可以看到，其實政府的預算案決定了未來1年香港各項施政、方針和政策的落實，我們身為民選議員應積極參與，提出意見，在過程中爭取改善政府的政策或有關的措施，這才是正面、積極和健康的做法。為甚麼我會作出這種整體性的評論呢？我是想引申指出，“拉布”的方法並不能達到這個目的。在這次為時10多天的“拉布”最初開始時，我已指出用“拉布”的方法只會浪費公帑，令議會“大塞車”，市民也會蒙受重大損失，“拉布”16天將會造成4,304萬元的損失，連續4年“拉布”，便合共損失26億1,699萬元。 \n 但是，損失了這些金錢，能否達致任何進取性的目的呢？主席，回看這10多天，我們看到各種點算法定人數、冗長和重複的發言、抹黑和攻擊等手法...... \n(陳偉業議員站起來)",
+      "sequence": 344,
+      "bookmark": "SP_MB_WKH_00352"
+    },
+    {
+      "title": "全委會主席",
+      "content": "王國興議員，請稍停。陳偉業議員，你有甚麼問題？",
+      "sequence": 345,
+      "bookmark": "SP_LC_CM_00353"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "既然王國興議員那麼喜歡談論點算法定人數，主席，那麼便請你點算法定人數。",
+      "sequence": 346,
+      "bookmark": "SP_MB_CWY_00354"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 347,
+      "bookmark": "SP_LC_CM_00355"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 348,
+      "bookmark": "EV_BELL_00356"
+    },
+    {
+      "title": "全委會主席",
+      "content": "王國興議員，我要提醒你，在這項辯論中，委員應就條例草案整體發表自己的看法，不應重複在過往任何一項辯論中已發表的言論。王議員，請繼續發言。",
+      "sequence": 349,
+      "bookmark": "SP_LC_CM_00357"
+    },
+    {
+      "title": "王國興議員",
+      "content": "主席，我現在正是從整體上評論這份預算案。剛才陳偉業議員利用點算法定人數來打斷我的發言，我認為是枉作小人，“拉布”不得人心，要求點算法定人數更加不得人心。在進行“拉布”的6場辯論期間，充斥着謾罵、抹黑、“扣帽子”和肆意攻擊，其實是取不到任何效果的。 \n 我們看到，意圖利用這些方法來令今年政府的預算案得以改善或改進，其實並不見得可達致何種果效；我們再看看這4年，“拉布”這方法其實亦得不到這效果。與其如此，我們應否重回原來較為健康、正常的軌道來討論預算案，讓政府可能在大家互動的情況下得以改進？所以，“拉布”不得人心，“拉布”已經是“神台貓屎”，神憎鬼厭，不要再“拉布”了。 \n 主席，雖然預算案到了這個階段，應可於今晚或明天付諸表決通過，但我留意到這不等於預算案可以一帆風順，令市民盡早受惠，因為正如大家所見，要在財務委員會具體落實已獲通過的預算案下的各項紓困措施，還要過五關斬六將。因此，我希望全港市民都看到“拉布”確實令民生受到很大的影響，令議會出現嚴重阻塞...... \n(陳偉業議員再次站起來)",
+      "sequence": 350,
+      "bookmark": "SP_MB_WKH_00358"
+    },
+    {
+      "title": "全委會主席",
+      "content": "王國興議員，請稍停。陳偉業議員，你有甚麼問題？",
+      "sequence": 351,
+      "bookmark": "SP_LC_CM_00359"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，現在法定人數又不足了。",
+      "sequence": 352,
+      "bookmark": "SP_MB_CWY_00360"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 353,
+      "bookmark": "SP_LC_CM_00361"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 354,
+      "bookmark": "EV_BELL_00362"
+    },
+    {
+      "title": "全委會主席",
+      "content": "王國興議員，請繼續發言。",
+      "sequence": 355,
+      "bookmark": "SP_LC_CM_00363"
+    },
+    {
+      "title": "王國興議員",
+      "content": "陳偉業議員利用點算法定人數來“招呼”我，其實只會令更多人留意我的發言，更認識我而已。 \n 我剛才提到“拉布”的果效。從果效方面來看，這樣處理預算案是否真的會有成果呢？我們只要看一看今年及過往4年，如果肆意“拉布”的委員可以舉出1個成功例子，那麼我也會信服。他們稍後有很多發言時間，請他們舉出1個例子，如能證明肆意“拉布”可令政府聽從他們的意思修改預算案，我便會寫一個“服”字。可是，經過了4年如此冗長、一而再、再而三的做法後，證明了這只會浪費市民的血汗錢，阻礙議會時間，令議會付出沉重代價。那麼，我懇切希望肆意“拉布”的委員應該到此為止。 \n 事實上，我們要監察政府施政，督促政府更好地服務市民，但肆意“拉布”卻無法達到這目的。今年的預算案再度被“拉布”，我們每逢星期三至星期五連續3天都活在被“拉布”困擾的狀態下，令在座委員有時要於星期一及星期二的某段時間內同時參與3個會議，需要走來走去來支持這些正常的事務委員會、法案委員會或小組委員會會議，令一些本來可以嚴謹審議政府文件或督促政府的機會也失去了。我們星期三的例會本來設有口頭質詢環節，現時已沒有了，很多市民急切想我們提出的質詢，我們也沒有機會提出了。在1年間損失了36個提出口頭質詢的機會，這又是否一個代價呢？委員在這6次會議中本來可以提出12項議員議案辯論，現時也沒有機會提出了。儘管這些議員議案並無立法效力，我們總算有機會進行討論，現時卻沒有了。 \n 我們付出了令議會“大塞車”的代價，但“拉布”手段又無法達到任何果效，我相信香港市民看到後也感到煩厭，一年如此，兩年如此，三年如此，四年也如此，再做下去也是無謂的。因此，我懇切及充滿誠意地呼籲肆意“拉布”的委員適可而止，放下屠刀，立地成佛，因為這的確無法達到任何成效。 \n 主席，就今年的預算案辯論，你根據自己的權力作出了一個較好的裁決，本來近4 000項的修正案，經你“一剪”後只剩下618項。儘管如此，我們仍然要花上6次會議，連明天也計算在內便是16天的時間，這也是使人相當無奈的。 \n\n 我希望全港市民可以看到這情況，亦真的要想一想，我們是否要讓立法會繼續這樣浪費公帑和時間呢？香港是否要繼續在這情況下沉淪下去呢？我希望全港市民和全社會都可以深切反思，這種狀況是不應該繼續下去的。我希望大家在往後的區議會或立法會選舉中，真的要以他們的神聖一票來改寫議會的命運和前途。 \n 多謝主席。 \n(梁國雄議員站起來)",
+      "sequence": 356,
+      "bookmark": "SP_MB_WKH_00364"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，規程問題。",
+      "sequence": 357,
+      "bookmark": "SP_MB_LKH_00365"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你有甚麼問題？",
+      "sequence": 358,
+      "bookmark": "SP_LC_CM_00366"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "他剛才在做甚麼？他說的是選舉，他在拉票，如果在選舉期間，這是要計算開支的。",
+      "sequence": 359,
+      "bookmark": "SP_MB_LKH_00367"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，請坐下。你提出的並不是規程問題。",
+      "sequence": 360,
+      "bookmark": "SP_LC_CM_00368"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "這怎麼不是問題......",
+      "sequence": 361,
+      "bookmark": "SP_MB_LKH_00369"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，現在不是你發言的時間。",
+      "sequence": 362,
+      "bookmark": "SP_LC_CM_00370"
+    },
+    {
+      "title": "李慧琼議員",
+      "content": "主席，市民真的看到大為光火，王國興議員15分鐘的發言，連梁國雄議員的提問在內，3次被打斷，一次是“假規程問題”，另兩次是要求點算法定人數。 \n 主席，這些在議員或官員發言期間要求點算法定人數的做法，其中一個目的，很明顯是要打斷議員或官員的發言，令他們受阻，這是嚴重濫用《議事規則》。大家試想想，如果大家都這樣做，互相不滿意，我們的會議根本無法運作。  \n 主席，我希望你在執行《議事規則》時可以更嚴謹，因為你有責任確保會議順利舉行。這確實是...... \n(梁國雄議員站起來)",
+      "sequence": 363,
+      "bookmark": "SP_MB_SL_00371"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你有甚麼問題？",
+      "sequence": 364,
+      "bookmark": "SP_LC_CM_00372"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 365,
+      "bookmark": "SP_MB_LKH_00373"
+    },
+    {
+      "title": "李慧琼議員",
+      "content": "主席，我請你裁決這個假規程問題。",
+      "sequence": 366,
+      "bookmark": "SP_MB_SL_00374"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，她在挑戰你......",
+      "sequence": 367,
+      "bookmark": "SP_MB_LKH_00375"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，如果你再胡亂提出你所謂的規程問題，我會視你違反《議事規則》，並要求你離開會議廳。請你坐下，不要再隨意打斷委員的發言。",
+      "sequence": 368,
+      "bookmark": "SP_LC_CM_00376"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "多謝主席。",
+      "sequence": 369,
+      "bookmark": "SP_MB_LKH_00377"
+    },
+    {
+      "title": "全委會主席",
+      "content": "李慧琼議員，就你剛才指出的問題，如果要避免經常響鐘傳召委員，委員便應留在會議廳內開會。請你繼續發言。",
+      "sequence": 370,
+      "bookmark": "SP_LC_CM_00378"
+    },
+    {
+      "title": "李慧琼議員",
+      "content": "主席，不論是濫用《議事規則》或不斷點算人數的做法，其實都是徹頭徹尾浪費議會時間，亦是“有破壞，無建設”的行為。市民看到這情況感到很憤怒，縱使市民覺得這些鐘聲很煩厭，對這些無理行為感到憎恨，但是，市民其實並無選擇。最可悲的是，現時有部分這些“破壞黨”利用財政預算案(“預算案”)及市民的福祉作為“人\n質”，但不要緊，我們會盡忠職守，確保他們的奸計無法得逞。我們不能讓他們導致預算案被否決，令香港有機會跌入“財政懸崖”。 \n 經過了5星期，合共13天的不斷發言、點算人數，以至日以繼夜的表決，預算案的“拉布戰”到今天終於接近尾聲。主席，今年的“拉布戰”原本更長，因為“拉布”議員就今年的預算案提出了數千項修正案，當中絕大部分修正案的目的很簡單，便是體現他們的全面不合作運動、拖延時間、打擊政府施政、阻止預算案中不同利民紓困措施的落實。 \n 主席，你早前作出的裁決，我是非常支持的。假如預算案不能及時通過，很有可能會出現“財政懸崖”。一旦香港跌入“財政懸崖”，不但會影響政府部門的運作，更會連累不少基層人士。所以，縱使“拉布”做法無理，縱使這些鐘聲、濫用《議事規則》的做法多麼令人討厭  其實，市民真的很討厭這些做法  我們依然會緊守崗位，阻止反對派的不合作運動得逞，確保預算案最終能夠通過。 \n 主席，過去數星期，我以至不少建制派議員都指出，他們提出的不少修正案不合情理，為修訂而修訂。正如我早前提到，有些修正案提出削減政府就青年人到內地交流的開支及推廣《基本法》的開支，一旦通過這些修正案，只會妨礙青年交流，令他們對國家產生疏離感，這根本是為了他們本身的政治目的，而拖累青年人的未來發展。 \n 其實，我們從79天的佔領行動已經清楚看到，香港部分青年人錯誤理解《基本法》，對國家民族情感薄弱，而這些修正案亦只會令青年人的視野更為狹窄。他們的政治目的是要青年人否定內地，做法令人心痛及遺憾......",
+      "sequence": 371,
+      "bookmark": "SP_MB_SL_00379"
+    },
+    {
+      "title": "全委會主席",
+      "content": "李議員，正如我已提醒委員，在這項辯論中，委員不應再就先前已處理的修正案發表意見，而應就《2015年撥款條例草案》整體表達支持或反對的意見。",
+      "sequence": 372,
+      "bookmark": "SP_LC_CM_00380"
+    },
+    {
+      "title": "李慧琼議員",
+      "content": "主席，我們支持預算案，亦支持預算案中提出的很多措施。 \n 主席，根據不同的民調，今年的預算案是“財爺”上任8年以來，其中一份最令人滿意的預算案。這份預算案推出了綜援及“生果\n金”“出三糧”、寬免公屋租金和差餉、退稅、支援受佔中影響的商戶等紓困措施，令基層、中產以至中小企業都能夠受惠。與此同時，預算案亦顧及長遠經濟發展，包括提出發展多元經濟，進一步支援初創企業。總體而言，預算案體現對市民的關顧，亦為促進經濟加大力度。所以，民建聯支持預算案。 \n 主席，但令人氣憤的是，有議員提出大量修正案，他們的修正案若然獲得通過，其實會令香港蒙受很大損失。我們很記得社會上有一項共識，大家經常批評政府未能解決市民的住屋問題及回應他們對置業的期望。但是，反對派為了打擊特區政府，他們提出的修正案幾乎將特區政府在這方面的工作的相關開支全部刪除，例如削減古洞北及粉嶺北發展區前期工程及第一階段工程的設計及工地勘探等策略性研究的開支及員工薪酬，同時亦削減為推行長遠房屋策略的跟進工作的開支。大家可以想想，如果我們不在這裏緊守崗位，而這些無理的修正案獲得通過，有關資源便可能被削減，這樣的話，究竟還有誰去解決“地從何來”的問題？最後，市民依然會批評特區政府未能解決住屋問題，這樣便中了反對派的計謀。他們指責政府，但當政府想解決問題時，他們卻削減這方面的開支，最後，市民便中了他們的圈套。 \n 主席，另一方面，反對派議員亦特別針對內地人，這些修正案令人非常反感，他們提出削減對旅遊發展局的資助，漠視旅遊業對香港經濟的貢獻，特別是只削減對內地旅客宣傳的開支，此舉有歧視內地人的成分，最終其實是要達致他們的政治目的，便是將香港與內地變得更為疏離。 \n 主席，在香港現時的抗爭新常態下，抗爭的對象已經蔓延至內地旅客。我們在電視畫面上或街上看見很多令人心痛的畫面，“拖篋黨”和購物行動等是專門針對內地旅客的不文明行為，其實在內地已經引起很大回響。一小撮人的惡行令香港的聲譽掃地，旅遊發展局確實有需要推出各種針對措施，以修補香港和內地的關係。所以，他們這些建議和行徑，其實只會傷害香港。 \n 主席，全面不合作運動在香港已經成為新常態，在激進力量全面倒梁和盲目反對下，正如我剛才提到，縱使今年預算案得到整體市民支持，但無論預算案內容如何，都難免被“拉布”，難免被追擊，而且在程度上越演越烈。前年預算案被“拉布”，辯論時間花了67小時，到去年增加至83小時。今年反對派原本提出的修正案數目較去年多出1倍，如果不是主席出手，把數千項修正案縮減至600多項，萬一真的\n要逐一表決修正案的話，預算案的辯論極可能會拖延至6月，這不但會拖垮政府的施政，亦會禍及民生。 \n 主席，除了一些即時的破壞，例如綜援、長者生活津貼、殘疾津貼、“生果金”等“出雙糧”會被拖延外，其實大家都留意到，若然無法解決財政上的安排，即使醫院管理局等機構提供市民亟需的服務，但這些機構也要想辦法尋找款項，以解決運作需要，其實真的很諷刺。 \n 現在“拉布”議員騎劫議會，不斷玩弄程序、提出修正案，以至動議休會或中止辯論，這種安排其實不單出現在預算案辯論中。大家都很清楚，現時整個立法會基本上被騎劫、被“拉布”，很多基建工程不能上馬，而所帶來的禍害亦陸續浮現。 \n 根據發展局的資料，政府在2014-2015年度僅批出18份基本工程合約，總值182億元，與2013-2014年度相比，工程合約數目及合約總額分別大幅下跌68%和64%，甚至比2003年SARS時期更低。單單是去年的“拉布”，已令大量工程進度緩慢，工程開支上升26億元，而且工程項目大幅減少，更累及建築業工人的“飯碗”。 \n 主席，我理解以“拉布”這種行為作為抗爭手段，以阻止某些具爭議的法案或撥款條例，在其他地方也有發生，但在香港，這種情況已經變為常態，不理會預算案的內容好壞，不理會預算案的支持程度，“拉布”變成一定會發生。由2013年起，“拉布”真的好像一齣連續劇，觀眾知道“拉布”根本就是鬧劇，無法達到任何目的。究竟“拉布”議員為甚麼一定要這樣做呢？ \n 在數次預算案“拉布”中，“拉布”議員搬出的理由不外乎是要令政府提供款項或落實退休保障，今年新加入的理由包括反對機場興建第三條跑道等。任何頭腦清晰的人都會理解，單憑“拉布”其實無法令政府在短時間內就這些具爭議的政策作出承諾，因為這些政策確實需要經過一些程序，需要尋求社會共識，一同尋找解決方法。作為負責任的政府，如果一看見“拉布”，便承諾議員提出的項目，我想本會很多議員都會為了爭取自己倡議的項目而“拉布”，屆時真的會天下大亂。 \n 對於這些質疑，其實“拉布”議員均從未作出回應，原因很簡單，因為“拉布”根本不是為廣大市民着想，而只是為了一己政治目的，純粹為“拉布”而“拉布”，為破壞而破壞，為反對......為了達到自己的政\n治目的，他們根本是以廣大市民的福祉和預算案作為他們的人質，所以市民現在對“拉布”確實深惡痛絕。 \n 主席，除了“拉布”議員外，早前部分反對派議員與我們達成協議，大家都同意盡量留在議會內以防止流會，並減少點算人數所需的時間。不過，大家也看見，特別在表決期間，對方的議員只有數人  雖然部分議員會返回會議廳  甚至在有關環節差不多要結束，或在議員發言期間，亦有部分議員不斷提出點算法定人數，目的是製造流會。有些議員曾公開向市民表示他們不支持“拉布”，但他們沒有按其承諾返回會議廳參與預算案的會議，其實是變相縱容“拉布”，變相支持“拉布”。 \n 主席，預算案“拉布戰”已經進入尾聲，但不代表香港可以鬆一口氣，因為撥款條例草案獲得通過後，下一項議程便是審議有關創新及科技局的擬議決議案，反對派議員已經事先張揚，一定會再次想辦法“拉布”。此外，大家也知道，這種“拉布”的情況已經蔓延至整個立法會，例如財務委員會、工務小組委員會和人事編制小組委員會均已積壓很多項目。 \n 主席，對於“拉布”的鬧劇，市民真的非常厭倦，但“拉布”議員為了其政治目的，樂此不疲，香港最終只會在沉淪中逐漸失去競爭力。所以，我在此呼籲各位反對派議員、“拉布”議員，請他們回頭是岸，亦請所有市民記住，哪些議員“拉布”、騎劫議會，令立法會無法運作；哪些議員以預算案、市民的福祉作為人質，因為這些行為確實是背棄市民的意願。對於這些“有破壞，無建設”的議員，我們必須用選票把他們趕出議會，還社會一個公道，讓香港繼續向前發展。 \n 主席，民建聯支持預算案。我期望預算案盡快獲得通過，亦期望立法會可以正常運作。主席，我謹此陳辭。",
+      "sequence": 373,
+      "bookmark": "SP_MB_SL_00381"
+    },
+    {
+      "title": "林健鋒議員",
+      "content": "主席，財政預算案(“預算案”)的漫長“拉布戰”已經進入尾聲，我們從天晴一直討論至下雨，今天總算是雨過天晴，外面也是藍天白雲。我希望在這樣美好的天氣中，這份預算案可以盡快獲得通過。事實上，市民已等到“頸長”。要是他們可以早數星期或一個月獲得這筆錢來投資，“峰哥”都可以幫他們賺很多錢，但現在卻是一場空。 \n\n 雖然是次“拉布”進入尾聲，但究竟是一個噩夢的終結，還是另一個噩夢的開始呢？我看到少數的激進議員會繼續熱衷於這種具破壞性的政治鬥爭，“拉布”必然會陸續有來。他們進入會議廳要求點算法定人數，但自己卻在會議廳外享用三文治。他們口口聲聲說是幫助市民，但他們其實是享受一些市民享受不到的東西。 \n 不知何時開始，“拉布”已經成為別人騎劫議會、癱瘓施政的慣常手段。我們可以預見，將來但凡有議員不滿意預算案、擴建堆填區、新界東北發展或興建機場第三條跑道等，只要利用議事程序“拉布”，便可以“玩殘”議員、“玩殘”政府官員，甚至“玩殘”市民。 \n 可悲的是，“拉布”導致大量經濟民生議案被卡着。我記得在去年的預算案“拉布”中，我們花了接近150個小時才可以在6月初通過預算案。結果，20多個機構被迫動用儲備，例如醫管局因此少收近100萬元利息。“拉布”更加導致大量工程延誤，令到政府被迫增加數以億元計的額外支出。最終，由誰來“埋單找數”呢？就是香港的納稅人。這些“拉布”議員口口聲聲說要幫助市民，但他們其實是害苦了市民，要市民自掏腰包。 \n 主席，這份預算案提出了340億元的紓困措施，惠及基層、中產和中小型企業(“中小企”)，民意評分亦創出2010年以來的新高。如果這些措施未能如期推出，我相信市民大眾都會覺得非常失望。 \n 可悲的是，在現在的制度下，“拉布”似乎是“剪不斷，理還亂”，政府、議員和受影響的市民就好像熱鍋上的螞蟻，心急如焚，但卻苦無對策。 \n 主席，雖然“拉布”並非香港獨有，但世界上沒有一個議會可以因為少數議員“拉布”，便癱瘓議會和政府運作。在民主社會，少數人的意見和利益固然要尊重，但這並不代表少數人的意見和利益可以凌駕大多數人的意見和利益。這反映香港立法會的《議事規則》存在很大漏洞，變相令少數議員可以利用《議事規則》的漏洞，通過提出大量的修正案和發言來“拉布”。 \n 事實上，市民對“拉布”已經感到非常厭倦。我認為熱衷於“拉布”的議員應該適可而止，停止“拉布”，真正“急市民所急，想市民所想”。不同黨派的議員亦應該放下黨派之見，以社會整體福祉為重，研究堵塞《議事規則》漏洞，杜絕惡性“拉布”，共同創造一個理性的議政空間。  \n 主席，在這份預算案中，“財爺”接受了經民聯的多項建議，經民聯會支持這份預算案。不同機構在這數月進行的民意調查均顯示，市民對這份預算案的滿意程度，是近年最高的。特別是“財爺”從善如流，大手筆地退稅協助中產，令很多市民喜出望外。 \n 中產是穩定社會的重要支柱。可是，中產人士一直有怨氣，認為自己交稅多、福利少，今年預算案退稅2萬元，對於很多家庭來說，是一項德政。 \n 至於在支援中小企方面，預算案提出延長“中小企融資擔保計劃”下的“特別優惠措施”申請，為“中小企業市場推廣基金”和“中小企業發展支援基金”注資15億元，以及寬減2014-2015年度75%利得稅，上限2萬元等，這些措施我們都是歡迎的。 \n 主席，這數年，我們看到特區政府錄得財政盈餘，很多人指庫房“水浸”，於是不停要求政府“回水”和“開倉派米”。可是，我們必須居安思危。回顧過去數年，政府的開支不斷上升，而香港正面對人口老化的問題，日後照顧長者的福利和醫療開支也會逐年增加，所以我們確實要小心處理公共財政，沒有人希望香港將來要面對財赤。我們知道歐洲很多國家過去也很風光，擁有很多儲備。可是，希臘今天卻淪落至借貸度日，我們是否想香港也落入這個境況呢？ \n (代理全委會主席梁君彥議員代為主持會議) \n  此外，很多無謂的開支也是因“拉布”造成，這些資源本可好好利用，但現在卻無緣無故把錢丟進鹹水海。有些人指出，既然用不了那麼多東江水，為何仍要浪費金錢購買，這是把錢丟進鹹水海。可是，現時的情況更糟，因為涉及的開支是以百億元計。 \n 代理主席，《基本法》第一百零七條訂明香港應該“量入為出”、“力求收支平衡”和“避免赤字”。為免香港將來出現赤字，政府應該做好開源的工作，包括推動新產業發展，改善本港營商環境，吸引更多海內外投資，扶持本地中小企等。最重要的是，造大我們經濟這個餅，如果廣大市民都有好的發展、好的機會，我們就無須坐困愁城。我同意財政司司長提出的多項多元產業發展的概念。我認為應該由政府投放資源、提供誘因，鼓勵不同業界跳出條條框框，開創出企業發展的新路向。  \n 代理主席，全球經濟環境至今仍然未明朗。美國經濟剛剛復蘇，但何時完全復蘇，我們現在也無法估計。內地經濟增長放緩，全世界都在絞盡腦汁刺激消費、發展經濟。經濟體系之間的競爭不但激烈，更是十分殘酷。香港是一個細小的經濟體系，容易受到外圍環境影響，逆水行舟，不進則退，我們要維持良好的營商環境，開拓多元產業發展，鞏固基礎產業，令香港在世界經濟大潮流中站得住腳。 \n 在現有的產業中，如旅遊業，我們過往曾享受到一些成果，亦創造了很多就業機會。我想藉此機會奉勸那些攪亂香港旅遊業的激進分子，不要再攪亂我們的市場，要為香港的經濟、為香港的就業着想。 \n 最後，代理主席，我重申經民聯支持今天的預算案，亦希望本會盡快通過有關議案。 \n 多謝代理主席。",
+      "sequence": 374,
+      "bookmark": "SP_MB_LKF_00382"
+    },
+    {
+      "title": "廖長江議員",
+      "content": "代理主席，我發言支持把條文第1及2條納入《2015年撥款條例草案》，支持撥款3,000多億元以支付來年度的政府開支。 \n 由於我在之前有關財政預算案(“預算案”)的發言中已詳述我支持的原因，故此我在這裏不再重複。此外，我想說說有些議員在這次預算案審議過程中實行慣性“拉布”，並在個多月以來的每一個環節拖延審議和通過撥款條例草案，因而引發的嚴肅議會憲制責任問題。 \n 代理主席，《基本法》是香港特區的憲制性法律，就行政與立法關係來說，當中有關行政與立法關係的條文已訂立了一個十分嚴謹的憲制架構，讓行政機關和立法機關既互相制衡，亦互相合作。 \n 根據《基本法》第六十四條，“香港特別行政區政府必須遵守法律，對香港特別行政區立法會負責：執行立法會通過並已生效的法律；定期向立法會作施政報告；答覆立法會議員的質詢；徵稅和公共開支須經立法會批准。” \n 《基本法》第七十三條載列了立法會許多重要職能，包括：“(一)根據本法規定並依照法定程序制定、修改和廢除法律；(二)根據政府的提案，審核、通過財政預算；(三)批准稅收和公共開支；(四)聽取行政長官的施政報告並進行辯論；(五)對政府的工作提出質詢”等。 \n 在這些責任當中，“審核、通過財政預算”是議會在監察政府方面其中一項很重要的職能，亦是每年度議會最重要的工作之一。即使是發起“拉布”的議員，都表示很重視這項立法會監察政府的權力。 \n 但是，很可惜，這些在口頭上表示的珍惜，在行動上卻正正是在削弱議會這項重要的職權，因此而造成的破壞極為深遠。它已經不僅關係到政府撥款延遲多少天批出、“拉布”浪費了多少公帑，甚至是否拖慢或癱瘓議會和政府的工作，這些已經引起社會廣泛關注的問題。比較少人討論，但事實上影響極為重大的，是這種行為正在帶着整個議會走向自毀長城，甚至會損害到《基本法》中憲制架構的平衡。實際上，整個社會都為此付出沉重的代價。 \n 代理主席，我們的社會講求民主、多元，崇尚理性討論。但是，某些議員年復年的變本加厲地“拉布”，提出大量大同小異的修正案。在2013年，他們對撥款條例草案提出了共762項修正案；2014年倍增至1 917項；到今年再倍增至3 904項。即使這些修正案並非全部獲得主席批准提出，但數目仍然十分可觀。 \n 以今年618項獲批的修正案來說，按主席所估計的在5月底可以完成所有辯論及表決程序，由恢復二讀至今亦足足拖延了一個半月，單是投票已經需要約17小時，結果全部都給本會以大比數否決。加上“拉布”議員不斷冗長發言及要求點算開會的議員人數，在這樣的情況下，議員的發言即使如何有見地，批評時政如何一針見血，都只會淹沒在冗長的發言或點算人數鐘聲裏，難以獲得重視。 \n 最令人關注的是，這種“拉布”把以往有秩序的理性辯論擠出了議事堂，令撥款條例草案的辯論亦相應變質，使原來審核預算案的辯論場合變成某部分議員一面倒反政府的抗爭工具。 \n 進一步細看這些為“拉布”而提出的修正案，他們謀求刪除不同首長、官員以至整個部門人員的薪酬、某部門或特定政策措施的開支，受影響的包括行政長官、政務司司長、財政司司長、律政司司長和警務處等。但是，他們又完全沒有提供任何後備方案。如果這些修正案真的獲得通過，屆時香港羣龍無首，政府在政治、經濟、司法和治安方面都缺人缺錢施政，因而淪為一種無政府狀況，社會能夠得益嗎？到時又可以如何收拾這個亂局呢？對於這些問題，有關議員全然不管，令人懷疑他們提出修正案根本不是志在爭取議會通過，發言也不是志在讓政府當局及社會大眾聆聽。其實，他們只是在利用立法會審\n核預算案的重要職能來達到自己的政治目的，如果做不到癱瘓政府施政，最少亦要在議事堂盡情謾罵官員，企圖損害政府的威信。 \n 代理主席，這種不合作及與行政機關對敵的態度本身並沒有建設性，亦無助於立法會履行審核預算案、監察政府的憲制職能，與《基本法》所設定的互相制衡、互相合作的行政立法關係更是南轅北轍。更可悲的是，在現時的機制下，少數議員的“拉布”行動已經足以綁架整個預算案的審議過程，令到議會在原本應該理性討論及監察政府開支的時候卻自縛手腳。社會大眾看見立法會只是不斷“拉布”、擺姿態、不做實事，實在是很無奈。 \n 今年因為主席汲取了教訓，並參照過往經驗，為每項辯論定下了一定的辯論時段和時數，令到其他議員無須好像往年一樣，為了避免變相“幫手‘拉布’”而被迫選擇盡量不發言，情況勉強算是好了一點。但是，“拉布”仍然是對議會履行“審核、通過財政預算”這項重要憲制職能方面造成了嚴重的延宕及妨礙。事實上，這種不健康的“拉布”已經困擾議會太久，並且隨時任意擴散到議會的不同部分，猶如我們在憲制和制度上的癌細胞。 \n 代理主席，最後我想說，如果議會是尊重我們的憲制責任，如果我們的社會仍然認為大家應該採取積極態度，同心合力建設香港，我呼籲各位同事不分黨派，同心令立法會重回理性議政，真正有效地監察政府，這樣才是社會之福。 \n 代理主席，我支持把第1及2條納入《2015年撥款條例草案》。謹此陳辭。",
+      "sequence": 375,
+      "bookmark": "SP_MB_ML_00383"
+    },
+    {
+      "title": "謝偉銓議員",
+      "content": "代理主席，我支持將第1及2條納入《2015年撥款條例草案》，稍後亦會支持條例草案三讀。一如以往，今年立法會共開了10多天會議，就多位議員提出超過600項修正案進行審議，當中大部分修正案都是不切實際的。他們平時亦在工務小組委員會、人事編制小組委員會、財務委員會，甚至事務委員會發動“拉布”，這種行為實際上已令不少涉及社會、民生、經濟的直接利民措施的實施和推行受到很大程度的阻延，不但無助維持公營部門的有效運作，更會嚴重損害香港的整體發展，相信這些都是香港社會和市民不希望見到的。事實上，不少市民已對“拉布”感到非常厭惡，同時亦對參與“拉布”的議員感到極為失望。  \n 代理主席，我留意到部分議員多次反駁指工程造價上升並非“拉布”造成，亦與“拉布”無關，但“拉布”令工程造價上升已是鐵一般的事實。部分議員在議會發起“拉布”，令不少議題和撥款建議的討論和審批大受影響，導致大量工程項目積壓，不但影響新工程項目的開展，損害有關發展的整體效益，更令工程項目存在不少未知之數，直接影響承建商和建築工程相關顧問公司對工程造價的估算和人手安排，令承建商和顧問公司需要承擔額外風險，使風險大為增加，以致他們在承投工程項目及顧問服務方面的風險和成本上升，導致造價上漲。 \n 在建築工程成本中，建築材料和工資開支分別約佔四成和三成，其餘兩成則包括器材、管理、風險成本及利潤等開支。根據一間跨國建築測量工料造價專業服務公司提供的資料，過去5年，香港建築工人的工資增加約25%，同期建築工程投標價格指數則增加約40%，而且近兩年兩者的差距似乎有擴闊的趨勢。根據建築業界的資料，除工人工資上升外，近年建築材料價格變動不大，相對較平穩。建築工程投標價格出現較大幅度的上升，主要因素是承建商要承擔更多因“拉布”造成的額外風險。 \n “拉布”嚴重影響建造業和香港整體發展。近日，有傳媒報道指有建築工程公司及建築顧問公司因議會“拉布”令不少工程項目撥款受阻，而現有項目快將完工，加上新項目開展無期，因而要裁減員工。有業界人士擔心裁員潮可能會蔓延，同時亦擔心這種情況會影響新人入行，令建造業人手青黃不接的問題進一步惡化。這些都是“拉布”的禍害。 \n 代理主席，正如財政司司長在財政預算案(“預算案”)所述，“人是香港最重要的資產，而人的質素決定香港的未來。”因此，投放資源做好教育和培訓工作非常重要。但在教育問題上，我們不應只考慮擴充學額的橫向發展，更應制訂政策和措施，與就業作出連貫的縱向考慮。縱向發展是由學校的學術教育到校內和職場的技術訓練，以至在職增值及終身學習，應是一個連貫的過程。 \n 能夠達致全人教育是最理想的目標。當然，除知識傳授外，培育個人修養、理性思維，以至國民身份認同均非常重要。因此，對於《基本法》推廣方面應多做工夫，加強《基本法》推廣工作的闊度和深度，讓市民對《基本法》和“一國兩制”有更深入和正面理解的同時，亦可以加強市民的國民身份認同，對香港的整體發展絕對有正面幫助。 \n 財政司司長在預算案亦提到“香港的經濟和社會發展，除了人力之外，主要制約是土地。”因此，我非常認同我們必須多管齊下，善用土地，增加供應。與此同時，為了讓更多舊樓的住宅單位可以在市場上發揮更大作用，政府有必要增撥資源，鼓勵和協助市民做好樓宇維修和管理，對改善現有住宅單位的質素會有一定幫助。 \n 代理主席，多元發展和擴大優勢是今年預算案的重要部分。其中，司長強調要把握“一帶一路”的新機遇，我絕對認同和支持，因為發展“一帶一路”已是中國的國策。香港作為中國的一部分，我們更應好好把握這個黃金發展機會，藉着我們的優勢，為我們不同的專業、行業和產業創造更大的發展空間和機遇。不過，機會是留給有準備的人，我們能否抓緊和好好把握“一帶一路”的發展機遇，在很大程度上視乎香港有否做好充足準備，包括人才、基礎建設，尤其是交通運輸和物流方面的基建設施和服務等相關軟硬件。因此，我希望政府認真考慮是否需要進行第四次整體運輸研究。 \n 代理主席，議員“拉布”已造成不少實質影響，我希望《2015年撥款條例草案》能夠盡快通過，讓各項利民紓困措施得以落實，令不同階層的市民、行業、產業能夠早日受惠。 \n 代理主席，我謹此陳辭。",
+      "sequence": 376,
+      "bookmark": "SP_MB_TT_00384"
+    },
+    {
+      "title": "陳克勤議員",
+      "content": "代理主席，我發言支持將第1及2條納入《2015年撥款條例草案》(“條例草案”)。代理主席，今年的財政預算案(“預算案”)當然並非最完美，但也不是最差。雖然預算案未能照顧每一個領域，但我看到預算案除了扶助基層、社區和弱勢社羣外，也有針對中產，以及為受違法佔中影響的中小企提供支援，這些措施得到了社會上大部分人士認同。 \n 代理主席，不論一份預算案有多好，如果遇上為反對而反對的反對派，成效也會大受影響。“拉布”議員經常“惡人先告狀”，常常自誇“拉布”的偉大之處，又指責反對“拉布”的議員只懂按鈕投票。事實上，建制派議員不想跟他們一起“拉布”，才不跟他們爭辯。反對派議員和“拉布”議員其實剝奪了我們不少辯論時間，本會今天已積壓了10多項議案辯論，議員也少了30多個提出口頭質詢的機會。 \n\n 代理主席，這些議員剝削了我們監察政府的職能，也浪費了議會的時間。我經常聽到“拉布”議員自誇他們的發言質素高，他們其實不應“賣花讚花香”，而應落區聆聽市民的意見。很多市民在我落區時對我說不知道“拉布”議員在說甚麼，而且發言無聊，浪費議會時間和納稅人金錢。 \n 代理主席，我相信你也聽得出“拉布”議員發言內容空洞而且東拉西扯，有時候甚至出現邏輯混亂的情況。讓我舉一個例子，有議員在開始討論預算案時說要削減水務署撥款，因為東江水的供水協議不平等，又說東江水不能飲用，甚至有“拉布”議員形容東江水為“屎水”。但是，他說了一大番道理後，又說東江水其實很重要，所以不會削減水務署撥款。 \n 讓我多舉一個例子，有同事認為要削減發展局撥款，因為該局建議發展新界東北。新界東北不但被形容為“雙非城”和“富豪後花園”，而且被指責導致中港邊界消失。這些議員所提出的理由似是而非，其實不堪一駁。新界東北發展的6萬個單位中有36 000個是公營房屋單位，這些公營房屋如果不是為香港人提供居所，請問是為誰提供居所呢？但是，同一批議員又指政府的建屋目標存欺騙成分，而且每年都不達標，又說政府沒有興建足夠公屋和居屋，讓市民安居樂業。這些議員一方面反對新界東北發展計劃，建議削減發展局撥款；但另一方面又說政府沒有興建居屋和公屋。這怎說得過去呢？這些議員的邏輯是否有點混亂呢？ \n 代理主席，你又會看到預算案辯論時經常響鐘，有議員經常提出議事堂的議員人數不足。如果“拉布”議員的發言那麼重要，為何有那麼多議員缺席呢？而且不但建制派議員缺席，連泛民主派議員和“拉布”議員的同路人也經常不在議事廳內。我們最常看到的是，只有一、兩位泛民議員坐在這裏。所以，我們不一定要就議員發言的質素是否好和重要而投票，而是議員會用腳來投票。 \n 代理主席，我不想再重複“拉布”對多少項與民生有關的工程和社會福利項目造成阻礙。我認為“拉布”對立法會甚至全港造成了重大損害，而且損害程度已不能量化，“拉布”本身更破壞了香港的精神和核心價值。香港是一個不斷前進的城市，如果我們停下來，香港便不再是香港。不過，“拉布”議員每年重複做的事正正令香港停下來。這些議員一方面說香港已被周邊城市趕上，而且喪失了我們的優勢；他們另一方面正正在拉香港的後腿，最終令香港整體社會和市民受害。當\n然，沒有人會說這份預算案已達完美，我相信財政司司長也不敢說這是一份完美的預算案。我們基於理性務實的理由，反對“拉布”議員的修正案和“拉布”行為，我們也不一定要預算案十全十美，才會予以支持。 \n 這些議員每年重演“拉布”其實令我們十分着急，也令市民十分緊張。如果每年都這樣拖拖拉拉，我們如何發展經濟和改善民生呢？代理主席，我很期望一些有良知和不同意“拉布”的泛民議員同意盡快修訂《議事規則》，又或者參考外國議會的良好做法，對“拉布”行為施加限制，防止“拉布”議員再浪費議會的時間，使議會得以重回正軌。 \n 代理主席，我謹此陳辭，支持條例草案。",
+      "sequence": 377,
+      "bookmark": "SP_MB_CHK_00385"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "是否有其他委員想發言？ \n(沒有其他委員表示想發言)",
+      "sequence": 378,
+      "bookmark": "SP_LC_DCM_00386"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "是否有官員想發言？ \n(沒有官員表示想發言)",
+      "sequence": 379,
+      "bookmark": "SP_LC_DCM_00387"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 380,
+      "bookmark": "SP_LC_DCM_00388"
+    },
+    {
+      "title": "",
+      "content": "代理全委會主席：我現在向各位提出的待決議題是：第1及2條納入本條例草案。現在付諸表決，贊成的請舉手。 \n(委員舉手)",
+      "sequence": 381,
+      "bookmark": "EV_PUT_00389"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "反對的請舉手。 \n(沒有委員舉手)",
+      "sequence": 382,
+      "bookmark": "SP_LC_DCM_00390"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 383,
+      "bookmark": "SP_LC_DCM_00391"
+    },
+    {
+      "title": "",
+      "content": "代理全委會主席：我認為議題獲得在席委員以過半數贊成。我宣布議案獲得通過。 \n 會議現在暫停10分鐘。  \n下午5時56分 5.56 pm \n會議暫停。 Meeting suspended. \n 下午6時零9分 6.09 pm \n會議隨而恢復。 Committee then resumed. \n (全委會主席恢復主持會議)",
+      "sequence": 384,
+      "bookmark": "EV_VOTED_00392"
+    },
+    {
+      "title": "全委會主席",
+      "content": "全體委員會現在回復為立法會。 \n 全體委員會隨而回復為立法會。 Council then resumed.",
+      "sequence": 385,
+      "bookmark": "SP_LC_CM_00393"
+    },
+    {
+      "title": "主席",
+      "content": "法案：三讀。",
+      "sequence": 386,
+      "bookmark": "SP_LC_PSD_00395"
+    },
+    {
+      "title": "財政司司長",
+      "content": "主席， \n《2015年撥款條例草案》 \n無經修正已通過全體委員會審議階段。我動議此條例草案予以三讀並通過。",
+      "sequence": 387,
+      "bookmark": "SP_PO_FS_00397"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：《2015年撥款條例草案》予以三讀並通過。 \n 根據《議事規則》第70條，這項三讀議案不容修正或辯論而付諸表決。",
+      "sequence": 388,
+      "bookmark": "SP_LC_PSD_00398"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 389,
+      "bookmark": "SP_LC_PSD_00399"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 390,
+      "bookmark": "EV_PUT_00400"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 梁耀忠議員起立要求記名表決。 Mr LEUNG Yiu-chung rose to claim a division.",
+      "sequence": 391,
+      "bookmark": "SP_LC_PSD_00401"
+    },
+    {
+      "title": "主席",
+      "content": "梁耀忠議員要求記名表決。表決鐘會響5分鐘。",
+      "sequence": 392,
+      "bookmark": "SP_LC_PSD_00402"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 393,
+      "bookmark": "SP_LC_PSD_00403"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、譚耀宗議員、石禮謙議員、張宇人議員、王國興議員、李國麟議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、林大輝議員、陳克勤議員、陳健波議員、黃國健議員、葉國謙議員、葉劉淑儀議員、謝偉俊議員、田北辰議員、吳亮星議員、何俊賢議員、姚思榮議員、馬逢國議員、莫乃光議員、陳婉嫻議員、梁志祥議員、梁繼昌議員、麥美娟議員、郭偉强議員、張華峰議員、葛珮帆議員、\n廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員、鍾國斌議員、鍾樹根議員及謝偉銓議員贊成。 \n 何俊仁議員、李卓人議員、梁耀忠議員、劉慧卿議員、馮檢基議員、何秀蘭議員、梁家傑議員、梁國雄議員、陳偉業議員、黃毓民議員、陳志全議員、單仲偕議員、黃碧雲議員及葉建源議員反對。",
+      "sequence": 394,
+      "bookmark": "SP_LC_PSD_00404"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布有52人出席，37人贊成，14人反對。由於議題獲得在席議員以過半數贊成，他於是宣布議案獲得通過。 THE PRESIDENT announced that there were 52 Members present, 37 were in favour of the motion and 14 against it.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 395,
+      "bookmark": "EV_VOTED_00405"
+    },
+    {
+      "title": "秘書",
+      "content": "《2015年撥款條例草案》。",
+      "sequence": 396,
+      "bookmark": "SP_LC_CLK_00406"
+    },
+    {
+      "title": "主席",
+      "content": "議案。商務及經濟發展局局長根據《釋義及通則條例》第54A條，動議兩項擬議決議案。",
+      "sequence": 397,
+      "bookmark": "SP_LC_PSD_00408"
+    },
+    {
+      "title": "主席",
+      "content": "第一項議案旨在廢除本會於2014年10月29日通過成立創新及科技局移轉相關法定職能的決議。 \n 第二項議案旨在依據成立創新及科技局的建議，移轉《電子交易條例》下的法定職能。而陳志全議員及陳偉業議員已分別作出預告，就此議案各自動議16項修正案，合共32項修正案。 \n\n 由於這兩項議案均與成立創新及科技局有關，並且由同一個小組委員會審議，本會會就這兩項議案及修正案進行合併辯論。我會先請局長就兩項議案發言及動議第一項議案；然後分別請陳志全議員及陳偉業議員發言，但他們在現階段不可動議修正案。 \n 合併辯論完畢後，本會會先表決第一項議案。如第一項議案獲得通過，局長便可動議第二項議案。如第一項議案被否決，本會便不會處理第二項議案及有關的修正案。就表決的次序及各項修正案的內容，議員可參閱講稿附錄III。",
+      "sequence": 398,
+      "bookmark": "SP_LC_PSD_00409"
+    },
+    {
+      "title": "主席",
+      "content": "合併辯論現在開始。有意就議案發言的議員請按下“要求發言”按鈕。 \n 我現在請商務及經濟發展局局長就兩項議案發言及動議第一項議案。",
+      "sequence": 399,
+      "bookmark": "SP_LC_PSD_00410"
+    },
+    {
+      "title": "商務及經濟發展局局長",
+      "content": "主席，我謹動議通過根據《釋義及通則條例》(第1章)第54A條提出的第一項議案，內容已載列於議程內。 \n 為準備成立創新及科技局，立法會於2014年10月29日通過原決議，將《電子交易條例》(第553章)下的相關法定職能，由商務及經濟發展局局長和商務及經濟發展局常任秘書長(通訊及科技)移轉到創新及科技局局長和創新及科技局常任秘書長。原決議的生效條文訂明，原決議會於財務委員會(“財委會”)核准為成立創新及科技局而修改《2014-15年度開支預算案》的撥款建議當日後的第十四天生效，或於提出和通過原決議當日後的第十四天生效，兩者以較後的日期為準。 \n 由於相關的撥款建議未能及時獲財委會通過，不能把相關的撥款修改納入在2月25日提交立法會的《2015-16年度開支預算草案》，政\n府已經暫時撤回撥款建議，原決議因而無法生效。我們將在《2015年撥款條例草案》獲立法會通過後，向財委會提交一項修改《2015-16年度開支預算案》的撥款建議。 \n 於2月24日...... \n(梁國雄議員站起來)",
+      "sequence": 400,
+      "bookmark": "SP_PO_SCED_00412"
+    },
+    {
+      "title": "主席︰局長，請稍等。梁國雄議員，你有甚麼問題？",
+      "content": "",
+      "sequence": 401,
+      "bookmark": "SP_LC_PSD_00413"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "不好意思，我認為本會不足法定人數。",
+      "sequence": 402,
+      "bookmark": "SP_MB_LKH_00414"
+    },
+    {
+      "title": "主席",
+      "content": "秘書，請響鐘傳召議員返回會議廳。",
+      "sequence": 403,
+      "bookmark": "SP_LC_PSD_00415"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位議員返回會議廳)",
+      "sequence": 404,
+      "bookmark": "EV_BELL_00416"
+    },
+    {
+      "title": "主席",
+      "content": "局長，請繼續發言。",
+      "sequence": 405,
+      "bookmark": "SP_LC_PSD_00417"
+    },
+    {
+      "title": "商務及經濟發展局局長",
+      "content": "於2月24日，我們建議立法會提出一項修訂決議，以修訂原決議的生效條文，使原決議將於財務委員會(“財委會”)核准2015-2016財政年度提交的撥款建議當天後的第十四天生效，或於提出和通過修訂決議當日後的第十四天生效，兩者以較後的日期為準。 \n 在審議期間，立法會法律事務部認為原決議可能已經失效，並質疑能否透過修訂決議對原決議作出修訂。 \n 我們不同意法律事務部的觀點，並且認為原決議仍然有效及存在，只是未開始實施，因此可以透過修訂決議作出修訂。由於原決議根本未開始生效，尚未有任何持續效力，因此不存在失效的問題。雖然如此，考慮到法律事務部對原決議的法律地位的關注，我們決定不會繼續處理修訂決議，並會提交一項廢除原決議的決議，以及一項全新的決議，以移轉相關的法定職能，亦即是我現在動議的第一項決議\n及稍後動議的第二項決議。我們必須重申，這個做法純粹是為了避免不必要地在有關法律技術問題的爭論上耗費時間，以加快立法程序；這並不損害我們的立場，以及不應被視作先例；政府將來亦會繼續採用同樣的方式，在相類似的情況修改有關法例的生效條文，使法例可以實施。 \n 第一項決議廢除原決議，而第二項決議與原決議相同，只是原決議生效條文中有關《2014-2015年度開支預算案》的提述，被替代為《2015-2016年度開支預算案》，使決議將於財委會核准2015-2016財政年度提交的撥款建議當天後的第十四天生效，或於提出和通過新決議當天後的第十四天生效，兩者以較後的日期為準。 \n 立法會內務委員會於4月10日的會議上決定成立小組委員會，審議兩項決議的擬稿。小組委員會於4月20日舉行會議，並順利完成審議兩項決議。我感謝小組委員會的工作。 \n 兩項決議實際上只是對原決議作技術修訂，並不涉及對原決議的任何實質改動。現在我先動議第一項決議，以廢除原決議，懇請議員支持決議。 \n 謝謝主席。 \n商務及經濟發展局局長動議的議案如下： \n“議決廢除立法會於2014年10月29日提出和通過並在憲報以2014年第132號法律公告刊登的決議。”",
+      "sequence": 406,
+      "bookmark": "SP_PO_SCED_00418"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：商務及經濟發展局局長動議的第一項議案，予以通過。",
+      "sequence": 407,
+      "bookmark": "SP_LC_PSD_00419"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，剛才在上一場辯論，即就第1及第2條納入《2015年撥款條例草案》進行辯論時，民建聯的陳克勤議員表示，如果“拉布”的議員的發言是精彩的，便不會沒有議員坐在會議廳了，即使是你們的同路人民主派的議員也不在席。剛才我們看見的例子正好證明陳克勤議員的觀察是錯誤的，因為商務及經濟發展局局長蘇錦樑發言\n時，他的同路人也不在席，這是否代表他的發言精彩與否或重要與否呢？ \n 主席，人民力量旗幟鮮明，由第一天開始便反對成立創新及科技局(“創科局”)。蘇局長尚未對此事緊張時，他對上的  其實也不能這樣說，因為他們並沒有等級之分  即創科局之母羅范椒芬前來游說我們時，我們已旗幟鮮明地告訴她，我們會堅決、堅決反對這項議案。雖然羅太很有誠意，明知我們反對，但仍多次前來游說我們，甚至cold call，直接上來按門鐘，再向我們進行游說，但人民力量今天同樣會反對這兩項議案。 \n 其實，創科局的原議案於去年10月已在立法會會議上獲得通過，但這項議案只覆蓋一個財政年度，決議案因而失效，於是政府今天便要再次提交決議案。當然，剛才大家聽到蘇局長說，他不承認這項議案已失效。在此，我要感謝立法會的法律事務部，他們真的保持立法會的中立和獨立性，沒有受政府的壓力和影響，立法會沒有與政府勾結。我們有時也不知道應否相信秘書處是公正嚴明的，但今次的事件證明他們是公正嚴明的。 \n 立法會法律事務部認為原議案已經失效，當然他們很客氣，只說原議案可能已經失效，並質疑能否透過修訂決議對原決議作出修訂。蘇局長表示不同意這個法律觀點，認為只是尚未開始實施。既然尚未開始實施，於是便尚未生效，而既然尚未生效，即尚未失效。雖然他這樣說，最後他採用了一個理由硬撐，也就是說不再與秘書處爭論，免得拖延和浪費時間。為了加快立法程序，你們說怎樣便怎樣。我們撤回舊的那項議案，今天提出新的議案。不過，他說這既不損害他的立場，又不能作為先例，將來亦會繼續採用同樣的方式處理相似的情況。 \n 我想對蘇局長說，這便是先例，無論你背後的理由為何，你說你讓我們，不與我們爭辯，現在你便是要前來立法會再行提交這項議案。如果下次遇到相同情況，應該也是以同樣的理由處理，即使今天不是蘇局長在席，明天是其他局長，你的理由便是不想有不必要的法律技術爭拗浪費時間。當下次遇到相同情況，亦應尊重立法會法律事務部。立法會法律事務部在未來遇到這些情況，亦應繼續堅持這個法律觀點。所以，你不認不認還須認，這亦是一個先例。如果你說這不是先例，那麼你便不要跟從我們的法律事務部的觀點，與我們爭辯到底；如果你覺得道理在你那邊，即使爭論至法庭我們也奉陪。 \n 主席，其實政府早已作好幾手準備，他們早料到創科局不會那麼容易“順產”。上次在財務委員會(“財委會”)已經把張宇人議員迫到差不多要在年三十晚開會，希望遷就並通過創科局的撥款；然後又想迫陳家強局長延遲印製財政預算案，等財委會通過議案才付印。最後，幸好我們的公務員也堅守基本原則，斷不能等到3月31日才印製財政預算案或加入附頁，又或強迫財委會一直開會至通過撥款，然後把它加進去。所以，最後  我們也不能稱之為“胎死腹中”  也許可以說是胎兒還未能出生，正如哪吒的母親也懷孕3年才把他生下。 \n 其實，政府亦已經變陣，我們覺得這變陣也是不應該的，亦有很多人不予支持，便是將創科局變成創新及科技諮詢委員會，任命前理工大學副校長“陽痿”  不是“陽痿”，是楊偉雄  擔任委員會主席，以及出任行政會議非官守成員及行政長官創新及科技顧問。他身兼3項公職，但只有行政會議成員1項才有薪酬。不過，這也是變相使用納稅人的錢，讓政府政治供養這個“難產局長”或“未產局長”，這在政治倫理上也是有問題的。你覺得這個“陽痿”......楊偉雄如此厲害，何不一早委任他加入行政會議？ \n 另一方面，我們也要慶幸創科局尚未能成事，因為盛傳會出任副局長一職的是劉鳴煒先生，即梁振英先前在公開場合曾明示或暗示的。現時，如果局長或副局長未能生產出來的話，原來政府是要補償的，即楊偉雄得不到那份300多萬元的年薪，便要給他行政會議成員、科技顧問和委員會主席的職位。我不知道劉鳴煒這個青年事務委員會主席是否由於他那個副局長未生產或生產不出，所以便要讓他出任這職位。聽說他也是“第N手”或執“第N攤”，他也不知道自己是執第幾攤。我看過張寶華主持的訪問，她問他這個青年事務委員會主席的職位是執第幾攤，他回答說好像是第六攤。這位“離地”的青年事務委員會主席勸那些月薪15,000元的年輕人少些看電影，少些去日本旅行，便能儲錢買樓，這番言論即時引起民憤。如果要政治委任這位副局長，究竟是否按其能力知人善用，抑或背後有甚麼親疏有別或甚麼轇轕利益，還是以前得罪了人，如今要作出補償，其實社會是難以監察的。 \n 其實，香港一直存在與創新科技相關的行業。業界自有其自力生存的方法，現時政府的有關部門亦對業界提供幫助。政府願意加強支持力度，當然是好事，但為何政府在未有全面討論前便急於成立創科局，急於申請撥款增設數個政治任命的職位，這難免令很多人對這些\n新職位有所擔心。暫且不說創科局的好與壞，如今我們看見的這些新職位，是否政治“分餅仔”？是否政治酬庸？ \n 蘇局長，由你第一天來立法會推銷成立創科局時，我已提出一個強烈意見，便是不應由你推銷，應該由你老闆曾俊華司長推銷，但從來沒有人直接回應我這個問題。我的理據很充分，因為蘇局長你現在是要求減少你的工作量，客觀的情況是減少你的工作量，但沒有減少薪酬，你的薪酬是沒有減少的。所以，如果要減少工作量，當然要問你的上司，對吧？ \n 蘇局長，你在所謂的“拉布”期間推搪責任，指議員要在議會內議事論事，不是為反對而反對，又說“拉布”沒有意義和沒有建設性...... \n(陳偉業議員站起來)",
+      "sequence": 408,
+      "bookmark": "SP_MB_CCC_00420"
+    },
+    {
+      "title": "主席︰陳偉業議員，你有甚麼問題？",
+      "content": "",
+      "sequence": 409,
+      "bookmark": "SP_LC_PSD_00421"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，由於剛才陳志全議員的論述是頗值得參考的，請議員回來聽一聽。麻煩點算法定人數。",
+      "sequence": 410,
+      "bookmark": "SP_MB_CWY_00422"
+    },
+    {
+      "title": "主席",
+      "content": "秘書，請響鐘傳召議員返回會議廳。",
+      "sequence": 411,
+      "bookmark": "SP_LC_PSD_00423"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位議員返回會議廳)",
+      "sequence": 412,
+      "bookmark": "EV_BELL_00424"
+    },
+    {
+      "title": "主席",
+      "content": "陳志全議員，請繼續發言。",
+      "sequence": 413,
+      "bookmark": "SP_LC_PSD_00425"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，我要再次重申，雖然人民力量反對設立創新及科技局，但這並不代表我們反對發展創新科技。我們支持香港發展創意產業、支持開發創新科技。 \n 不過，經過1年多來我們向市民作出解釋後，越來越多市民明白到為何我們要如此堅決地反對成立創新及科技局，甚至一些在業界內\n工作的人士，雖然最初不明白我們為何要反對，但聽過我們更多的論述後，也開始明白，甚至認同我們的做法。其實，我已經說過無數次，並非真的成立一個新的政策局，興建一間屋，掛上一個寫着“創新及科技局”的招牌，便能夠幫助香港的創新科技發展。如果真是這樣，蘇局長便只須換一個招牌便行了，招牌要寫多長的名字也可以，想做甚麼，便全部寫上去。然後，現時有一間新屋，掛上一個招牌，聘請一羣新人，香港的創新科技是否自然便會一帆風順？香港人是英明的消費者，而不是掛着招牌說那是能醫百病的靈丹，大家便會相信，然後便舉腳贊成，不計成本、不管花多少錢也要購買。 \n 回到最根本的問題，我剛才數算了蘇局長幾句。其實，如果用比較科學的方法來討論，便應該看一看  蘇錦樑局長不是新上任的嘛  在這麼多年來，在他領導之下，究竟他的政策局有甚麼創新科技政策。接着，我們便再檢視究竟這些政策和措施能否達標，如果不達標，便要問究竟是架構出現了問題，還是那些人出現了問題。局長也得做一份檢討報告，檢討一下他轄下負責創新科技政策的同事有否出現問題。 \n 反過來，我又會問：究竟是蘇局長不懂得如何從事這方面的工作，還是他的工作太多，沒有時間處理呢？這又是一個問題。蘇局長不會正面回應這個問題，即不會自己“秤”自己，說不是這樣子的，如果交由他負責，他是會很厲害的，只是架構內太多束縛，令他無法從事這方面的工作吧了。當我們進行過科學分析後，除了要問他的老闆財政司司長曾俊華之外，還要問一問他的同事、業界和市民，看看他們覺得在他的領導下，我們有何創新科技政策？如果是局長力有不逮，便須更換局長，而不是成立另一個政策局。如果結果是很公道地指出真的是架構問題，而不是人的問題，那麼局長可以再來說服我們，說要成立創新及科技局。 \n 早前，香港有18個參展項目在日內瓦國際發明展中獲獎，梁振英在出席於政府總部舉行的酒會時，“也文也武”，說結果展示本港在創新科技方面的能力...... \n(梁國雄議員站起來)",
+      "sequence": 414,
+      "bookmark": "SP_MB_CCC_00426"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，規程問題。",
+      "sequence": 415,
+      "bookmark": "SP_MB_LKH_00427"
+    },
+    {
+      "title": "主席",
+      "content": "梁國雄議員，你有甚麼問題？",
+      "sequence": 416,
+      "bookmark": "SP_LC_PSD_00428"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "為了向梁振英致敬，我要求議員返回會議廳聽“梁振英”三個字，請點算人數。",
+      "sequence": 417,
+      "bookmark": "SP_MB_LKH_00429"
+    },
+    {
+      "title": "主席",
+      "content": "議員如要提出規程問題，應直接指出是引用哪項《議事規則》，不應發表無關的言論。梁議員，我聽不清楚你說甚麼。",
+      "sequence": 418,
+      "bookmark": "SP_LC_PSD_00430"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "不管哪項《議事規則》，我只是指出現在法定人數不足。",
+      "sequence": 419,
+      "bookmark": "SP_MB_LKH_00431"
+    },
+    {
+      "title": "主席",
+      "content": "秘書，請響鐘傳召議員返回會議廳。",
+      "sequence": 420,
+      "bookmark": "SP_LC_PSD_00432"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位議員返回會議廳)",
+      "sequence": 421,
+      "bookmark": "EV_BELL_00433"
+    },
+    {
+      "title": "主席",
+      "content": "請議員返回座位。陳志全議員，請繼續發言。",
+      "sequence": 422,
+      "bookmark": "SP_LC_PSD_00434"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，雖然我這13分鐘的發言被兩度打斷，但我不會怪責要求點算人數的議員。根據建制派議員的邏輯，我應該自我檢討，因為在主席和我以外，我無法吸引33位議員留席聆聽發言，不過我認為這跟我的發言質素並無直接關係。 \n 我剛才提到，早前香港有18個參展項目在日內瓦國際發明展獲獎，於是，梁振英在政府總部舉行慶祝會  這是指定動作  他說結果顯示，本港在創新科技方面的能力和潛力均相當高，並乘機要求我們盡快通過成立創新及科技局。這個政府就是這樣，有甚麼對它有利的，它便會趁勢利用，例如說甚麼佔中或佔領行動影響香港的競爭力，香港已被深圳追上，但他今早卻對外表示，香港在他的領導下情況很好，競爭力更提升至第二位，僅次於美國而已。真的會趁勢利用對自己有利的事。 \n\n 其實，無論一個社會或政府如何不濟，總會有創新科技的人才，亦會有機會獲獎。相反，開設這個政策局後，政府能否保證可以多獲數個獎項呢？不過，這並非重點，主席，重點是其中一間獲獎公司當場揭露政府冷待創新科技，他們本來於2013年希望透過食物安全中心與政府合作，但被拒絕，政府沒有採用他們這次獲獎的科技，否則該公司便可以提早發現塑化劑等食物安全問題。現時政府冷待創新科技，但當人家獲獎回來，便待他們如珠如寶。其實運動員、藝術家和導演的情況亦一樣，政府甚麼也幫不到。難道政府以為開設了香港電影發展局，便可以在奧斯卡或康城影展中獲獎嗎？難道政府以為開設創新及科技局便能協助他人獲獎嗎？連外國人也懂得欣賞香港的產品，香港政府卻不欣賞。這就是香港的創新科技政策！",
+      "sequence": 423,
+      "bookmark": "SP_MB_CCC_00435"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我發言反對有關廢除立法會於2014年10月29日提出及通過，並在憲報以2014年第132號法律公告刊登的決議。我反對廢除是因為基本上我看不到有任何理由，要在現階段廢除有關先前已經通過的議案。 \n 主席，要廢舊立新，也得有個合理機制。你要推動一個新制度，也要對舊制度的人有所交代。到今天為止，蘇錦樑局長並無公開承認他在創新科技方面是無知無能  我沒有說“無耻”，那個留給“長毛”說吧  對嗎？所以，多年來香港在創新科技方面的問題，是一潭死水，甚麼也做不到，導致特首很不滿，導致羅范椒芬很不滿，把我詛咒得差點五雷轟頂，也要成立創新及科技局。 \n 所以，主席，要廢舊也要解釋得到，而這個舊局是由“卡片局長”負責，是由民建聯  差點說了“淫賤聯”  民建聯前副主席  “老兄”，香港第一大黨的副主席  現任局長統領其事。正如曾德成統領民政事務局，雖然他有自閉症，但統領了這麼多年，是這麼多朝的元老，經歷這麼多朝的特首，仍然屹立不倒。另一位民建聯副主席要成立一個局，又說要將它一分為二，也要交代一下吧。是否“卡片局長”處事無能無德，我們可以換上另一個人去做呢？主席，正如你踢足球  我們這些“波牛”  有些人不適合當前鋒，可能當中場較好；過去也有些人原本是當前鋒，轉到另一隊後不是太適合，後來轉任中場，更加入國家隊  這類人有很多。所以，轉換\n位置可能適合某些人做事，但是這個政府卻“亂點鴛鴦譜”，好像完全不懂發展的會計師，當初以為自己去當財政司副司長，但被我們“拉布”拉倒了“五司”...... \n(梁國雄議員站起來)",
+      "sequence": 424,
+      "bookmark": "SP_MB_CWY_00436"
+    },
+    {
+      "title": "主席︰梁國雄議員，你有甚麼問題？",
+      "content": "",
+      "sequence": 425,
+      "bookmark": "SP_LC_PSD_00437"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，“喬太守亂點鴛鴦譜”，梁國雄亂點人數。我認為這裏法定人數不足。",
+      "sequence": 426,
+      "bookmark": "SP_MB_LKH_00438"
+    },
+    {
+      "title": "主席",
+      "content": "秘書，請響鐘傳召議員返回會議廳。",
+      "sequence": 427,
+      "bookmark": "SP_LC_PSD_00439"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位議員返回會議廳)",
+      "sequence": 428,
+      "bookmark": "EV_BELL_00440"
+    },
+    {
+      "title": "主席",
+      "content": "陳偉業議員，請繼續發言。",
+      "sequence": 429,
+      "bookmark": "SP_LC_PSD_00441"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，剛才談到現屆政府最愛“亂點鴛鴦譜”和胡亂行事。不少司長和局長，特別是局長和副局長，都不為人認識，而且完全不知他們的背景。我剛才也提到，不懂發展的會計師被派往發展局工作，只懂囤地和建“劏房”；不懂運輸的人被派往運輸及房屋局工作，而且類似情況普遍存在。 \n 例如，政府仍然未能解釋為何聘請蘇錦樑這名從外國回來具有法律背景而且曾經統領一個如此龐大政黨的人，卻不懂創新及科技。如果他對這方面沒有認識，為何當初聘請他擔任局長負責這部分工作。如果他能力不夠，為何當初不找一名熟悉創新及科技的人擔任副局長，這樣便可以分工，讓局長繼續派名片，其他工作就由副局長統領。可是，政府又沒有這樣做，這是十分嚴重的問題。 \n 主席，這項議案在去年提交立法會時，我們曾經提出修正案，並且進行了長時間討論和多輪投票。當然，我們的修正案最後全被否\n決，對嗎？但是，基於撥款未能配合，新局因而胎死腹中，須重新提交議案，因而導致一些法律爭議。由於陳志全議員剛才已指出這些爭議，我不再重複。 \n 主席，關於成立新局的建議，表面上得到很多創新及科技界人士大力支持，我原則上也十分支持......主席，政府在最初提出成立新局時  我們當時還沒有打算“拉布”和提出反對  我對政府說香港發展這個行業是好建議。過去10多年來，我每年都向政府建議重振香港工業，特別是發展高增值工業，使香港經濟能夠達致平衡。我一向反對董建華只發展旅遊和金融的建議，我認為這做法等同把香港建立在浮沙上面，也是極為錯誤的策略和設計。 \n 我是一個十分誠實和實在的人，我希望可以做好工業發展，因為我的父親也是工業出身。一個城市有良好的工業發展，市民的生活自然能夠得到適當照顧，瑞士和以色列便是好例子。新加坡的工業其實也不錯，但香港的工業卻一塌糊塗。 \n 主席，議會內的法定人數不足。我現在談論如此重要的事情，當然要有多些議員聆聽，對嗎？所以，我希望你點算法定人數。",
+      "sequence": 430,
+      "bookmark": "SP_MB_CWY_00442"
+    },
+    {
+      "title": "主席",
+      "content": "秘書，請響鐘傳召議員返回會議廳。",
+      "sequence": 431,
+      "bookmark": "SP_LC_PSD_00443"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位議員返回會議廳)",
+      "sequence": 432,
+      "bookmark": "EV_BELL_00444"
+    }
+  ],
+  "date": "2015-5-28",
+  "url": "https://www.legco.gov.hk/yr14-15/chinese/counmtg/floor/cm20150528-confirm-ec.pdf"
+}

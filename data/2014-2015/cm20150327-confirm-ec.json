@@ -1,0 +1,644 @@
+{
+  "membersPresent": [
+    "主席曾鈺成議員, G.B.S., J.P. THE PRESIDENT THE HONOURABLE JASPER TSANG YOK-SING, G.B.S., J.P.",
+    "何俊仁議員 THE HONOURABLE ALBERT HO CHUN-YAN",
+    "李卓人議員 THE HONOURABLE LEE CHEUK-YAN",
+    "涂謹申議員 THE HONOURABLE JAMES TO KUN-SUN",
+    "劉慧卿議員, J.P. THE HONOURABLE EMILY LAU WAI-HING, J.P.",
+    "譚耀宗議員, G.B.S., J.P. THE HONOURABLE TAM YIU-CHUNG, G.B.S., J.P.",
+    "方剛議員, S.B.S., J.P. THE HONOURABLE VINCENT FANG KANG, S.B.S., J.P.",
+    "王國興議員, B.B.S., M.H. THE HONOURABLE WONG KWOK-HING, B.B.S., M.H.",
+    "林健鋒議員, G.B.S., J.P. THE HONOURABLE JEFFREY LAM KIN-FUNG, G.B.S., J.P.",
+    "梁君彥議員, G.B.S., J.P. THE HONOURABLE ANDREW LEUNG KWAN-YUEN, G.B.S., J.P.",
+    "黃定光議員, S.B.S., J.P. THE HONOURABLE WONG TING-KWONG, S.B.S., J.P.",
+    "湯家驊議員, S.C. THE HONOURABLE RONNY TONG KA-WAH, S.C.",
+    "何秀蘭議員, J.P. THE HONOURABLE CYD HO SAU-LAN, J.P.",
+    "李慧琼議員, J.P. THE HONOURABLE STARRY LEE WAI-KING, J.P.",
+    "陳克勤議員, J.P. THE HONOURABLE CHAN HAK-KAN, J.P.",
+    "陳健波議員, B.B.S., J.P. THE HONOURABLE CHAN KIN-POR, B.B.S., J.P.",
+    "梁美芬議員, S.B.S., J.P. DR THE HONOURABLE PRISCILLA LEUNG MEI-FUN, S.B.S., J.P.",
+    "黃國健議員, S.B.S. THE HONOURABLE WONG KWOK-KIN, S.B.S.",
+    "葉國謙議員, G.B.S., J.P. THE HONOURABLE IP KWOK-HIM, G.B.S., J.P.",
+    "梁家傑議員, S.C. THE HONOURABLE ALAN LEONG KAH-KIT, S.C.",
+    "梁國雄議員 THE HONOURABLE LEUNG KWOK-HUNG",
+    "陳偉業議員 THE HONOURABLE ALBERT CHAN WAI-YIP",
+    "吳亮星議員, S.B.S., J.P. THE HONOURABLE NG LEUNG-SING, S.B.S., J.P.",
+    "易志明議員 THE HONOURABLE FRANKIE YICK CHI-MING",
+    "胡志偉議員, M.H. THE HONOURABLE WU CHI-WAI, M.H.",
+    "姚思榮議員 THE HONOURABLE YIU SI-WING",
+    "馬逢國議員, S.B.S., J.P. THE HONOURABLE MA FUNG-KWOK, S.B.S., J.P.",
+    "莫乃光議員, J.P. THE HONOURABLE CHARLES PETER MOK, J.P.",
+    "陳志全議員 THE HONOURABLE CHAN CHI-CHUEN",
+    "陳恒鑌議員, J.P. THE HONOURABLE CHAN HAN-PAN, J.P.",
+    "陳家洛議員 DR THE HONOURABLE KENNETH CHAN KA-LOK",
+    "陳婉嫻議員, S.B.S., J.P. THE HONOURABLE CHAN YUEN-HAN, S.B.S., J.P.",
+    "麥美娟議員, J.P. THE HONOURABLE ALICE MAK MEI-KUEN, J.P.",
+    "單仲偕議員, S.B.S., J.P. THE HONOURABLE SIN CHUNG-KAI, S.B.S., J.P.",
+    "黃碧雲議員 DR THE HONOURABLE HELENA WONG PIK-WAN",
+    "葉建源議員 THE HONOURABLE IP KIN-YUEN",
+    "廖長江議員, S.B.S., J.P. THE HONOURABLE MARTIN LIAO CHEUNG-KONG, S.B.S., J.P.",
+    "潘兆平議員, B.B.S., M.H. THE HONOURABLE POON SIU-PING, B.B.S., M.H.",
+    "鍾樹根議員, B.B.S., M.H., J.P. THE HONOURABLE CHRISTOPHER CHUNG SHU-KUN, B.B.S., M.H., J.P.",
+    "謝偉銓議員, B.B.S. THE HONOURABLE TONY TSE WAI-CHUEN, B.B.S."
+  ],
+  "membersAbsent": [
+    "陳鑑林議員, S.B.S., J.P. THE HONOURABLE CHAN KAM-LAM, S.B.S., J.P.",
+    "梁耀忠議員 THE HONOURABLE LEUNG YIU-CHUNG",
+    "劉皇發議員, 大紫荊勳賢, G.B.S., J.P. DR THE HONOURABLE LAU WONG-FAT, G.B.M., G.B.S., J.P.",
+    "石禮謙議員, G.B.S., J.P. THE HONOURABLE ABRAHAM SHEK LAI-HIM, G.B.S., J.P.",
+    "張宇人議員, S.B.S., J.P. THE HONOURABLE TOMMY CHEUNG YU-YAN, S.B.S., J.P.",
+    "馮檢基議員, S.B.S., J.P. THE HONOURABLE FREDERICK FUNG KIN-KEE, S.B.S., J.P.",
+    "李國麟議員, S.B.S., J.P., Ph.D., R.N. PROF THE HONOURABLE JOSEPH LEE KOK-LONG, S.B.S., J.P., Ph.D., R.N.",
+    "林大輝議員, S.B.S., J.P. DR THE HONOURABLE LAM TAI-FAI, S.B.S., J.P.",
+    "梁家騮議員 DR THE HONOURABLE LEUNG KA-LAU",
+    "張國柱議員 THE HONOURABLE CHEUNG KWOK-CHE",
+    "葉劉淑儀議員, G.B.S., J.P. THE HONOURABLE MRS REGINA IP LAU SUK-YEE, G.B.S., J.P.",
+    "謝偉俊議員, J.P. THE HONOURABLE PAUL TSE WAI-CHUN, J.P.",
+    "黃毓民議員 THE HONOURABLE WONG YUK-MAN",
+    "毛孟靜議員 THE HONOURABLE CLAUDIA MO",
+    "田北辰議員, B.B.S., J.P. THE HONOURABLE MICHAEL TIEN PUK-SUN, B.B.S., J.P.",
+    "田北俊議員, G.B.S., J.P. THE HONOURABLE JAMES TIEN PEI-CHUN, G.B.S., J.P.",
+    "何俊賢議員 THE HONOURABLE STEVEN HO CHUN-YIN",
+    "范國威議員 THE HONOURABLE GARY FAN KWOK-WAI",
+    "梁志祥議員, B.B.S., M.H., J.P. THE HONOURABLE LEUNG CHE-CHEUNG, B.B.S., M.H., J.P.",
+    "梁繼昌議員 THE HONOURABLE KENNETH LEUNG",
+    "郭家麒議員 DR THE HONOURABLE KWOK KA-KI",
+    "郭偉强議員 THE HONOURABLE KWOK WAI-KEUNG",
+    "郭榮鏗議員 THE HONOURABLE DENNIS KWOK",
+    "張華峰議員, S.B.S., J.P. THE HONOURABLE CHRISTOPHER CHEUNG WAH-FUNG, S.B.S., J.P.",
+    "張超雄議員 DR THE HONOURABLE FERNANDO CHEUNG CHIU-HUNG",
+    "葛珮帆議員, J.P. DR THE HONOURABLE ELIZABETH QUAT, J.P.",
+    "鄧家彪議員, J.P. THE HONOURABLE TANG KA-PIU, J.P.",
+    "蔣麗芸議員, J.P. DR THE HONOURABLE CHIANG LAI-WAN, J.P.",
+    "盧偉國議員, B.B.S., M.H., J.P. IR DR THE HONOURABLE LO WAI-KWOK, B.B.S., M.H., J.P.",
+    "鍾國斌議員 THE HONOURABLE CHUNG KWOK-PAN"
+  ],
+  "publicOfficersAttending": [
+    "教育局局長楊潤雄先生, J.P. MR KEVIN YEUNG YUN-HUNG, J.P. SECRETARY FOR EDUCATION"
+  ],
+  "clerksInAttendance": [
+    "助理秘書長梁慶儀女士 MISS ODELIA LEUNG HING-YEE, ASSISTANT SECRETARY GENERAL"
+  ],
+  "speeches": [
+    {
+      "title": "主席",
+      "content": "各位早晨。本會現在繼續辯論“全面檢討新高中課程下的通識教育科”的議案。",
+      "sequence": 1,
+      "bookmark": "SP_LC_PSD_00007"
+    },
+    {
+      "title": "謝偉銓議員",
+      "content": "主席，開辦通識教育科(“通識科”)的目的，是要透過探究各類議題，以擴闊學生的知識基礎，加強學生對社會的觸覺。希望透過通識科的學習，幫助學生加深對個人、社會、國家的理解，而對於社會、經濟、政治等不同議題，能夠作出批判性、多角度的獨立思考，從而促進學生的全人發展，增加他們面對日後挑戰的信心。我認同政府在新高中課程加入通識科的理念和方向，而通識科是有其作用和需要的。不過，有關科目自2009年開辦以來，一直備受社會關注，亦引起了不少爭議，因此，我支持這項議案，並要求政府全面檢討新高中課程下的通識科。 \n 主席，通識科無論在課程內容和結構、教學取向和實施，以至考試的評核方法等各方面，均有別於傳統以學術為本的科目，甚至有人認為是南轅北轍。無論如何，通識科始終是一個新設的獨立科目，而且更是新高中學制下4個必修的核心科目之一，學生在通識科的成績，對他們的升學機會會有一定影響。因此，與通識科教與學相關的每一個環節均非常重要。 \n 教育局在去年11月展開新學制中期檢討及前瞻諮詢，就更新課程及調整公開考試、照顧師生工作量、學生的多元出路及如何順利銜接、學生學習的多樣性和對老師的支持，以及新學制能否有效地達致教育目標等多個方面，諮詢學界和持份者的意見。當中提出了有關刪除通識科部分單元內容的建議，亦提出把部分內容重疊的單元進行整合，並加入探討身份認同、責任感等元素，探討香港居民在本地、國家和國際層面的多重身份等。  \n 教育界對於政府的建議意見紛紜，但我亦留意到，有部分人士認為，由於早前發生非法佔中等敏感事件，以致通識科被政治化。政府的建議修訂在一定程度上無疑可以減輕教師的工作量，亦有助加強學生的國家民族意識。因此，教育界亦有不少人認為有關調整建議是合適的。不過，局方在落實調整修訂時，亦必須考慮其他相關問題，包括教師是否有足夠的培訓，他們對通識科的核心價值和意義，是否有正確、不偏不倚的理解和掌握、政府能否為教師在尋找或自製教材方面，提供充分的協助和支援、學校能否為通識科的教與學提供有利、鼓勵學習和討論的空間及環境、家長能否適當地給予子女發揮的空間，讓他們及早發展自主的學習能力等，這些問題都是同樣重要的，必須積極作出處理。 \n 主席，近年越來越多青年人對社會的不同議題有較多關注和討論，這些議題包括新界東北發展、開辦德育及國民教育科，反水貨客活動，以及政制發展等，青年人多關注社會問題絕對是好事。可是，他們的人生經驗和閱歷始終較淺，對於很多事情的理解和掌握可能不夠全面，需要多方面的協助，因此，通識科的學習更形重要。我希望學生在通識科的課堂上，透過議題探討的過程，能夠掌握事實、理解現象、澄清概念，亦希望他們能夠明白有關的分歧和衝突，從而進行反思、作出公正的評價、判斷，探求多方面的解決辦法，對此學校、教師、家長、政府和社會各方面均須共同努力。 \n 主席，政府預計今年7月將會公布通識科課程的中期檢討結果，局長亦曾表示，日後就通識科作重要的修訂時，會先諮詢教師和其他持份者的意見，並作討論，以落實有關修訂。鑒於通識科有一定的重要性，希望局長能夠廣聽各方的意見，詳加考慮，並採取積極的措施，增加對學校、教師、學生，以至家長的支援，使通識科的推行更為有效、順暢，更能促進學生的全人發展。 \n 主席，我謹此陳辭。",
+      "sequence": 2,
+      "bookmark": "SP_MB_TT_00009"
+    },
+    {
+      "title": "鍾樹根議員",
+      "content": "主席，相信大家都吃過北京填鴨，飼養方法是強行把飼料灌進鴨子口裏，鴨子硬啃下食物後長肥。在港英時代，香港的教育制度被冠名“填鴨式教育”，這在當時是理所當然的，學生腦袋有越多書本知識，考試分數越高，進入大學的機會便會越大。“求學不是求分數”的願景只是那時如我之類的懶惰學生的藉口。 \n 然而，回歸以後，社會普遍質疑“填鴨式教育”有否問題。教育統籌委員會於是在2000年着手進行課程改革，2003年發表了《高中學制檢討報告》，建議把通識教育科(“通識科”)列為高中必修科目之一，旨在改變考試只着重死記硬背的弊端，有關建議在2009年正式實行。由此可見，通識科的背景是希望糾正“填鴨式教育”的弊端，為學生引入一門明辨是非、主動學習、關心社會、國家和全球互動的科目。所謂勿忘初衷，今天議事堂內議員批評通識科富爭議，通識科似乎一無是處，但我們不應忘記初衷，當日推出通識科是時勢所趨，目的是糾正學生死記硬背的問題。 \n 正所謂過猶不及，我同意通識科有存在的價值。但到了今天，通識科正面對矯枉過正的問題，有需要檢討。由於通識科設立時過分着重啟發學生思考、主動學習，甚至連教科書也不使用，很多師生在課堂上只是泛泛而談，各抒己見，學習目標不明確。一些聰明、資優的學生會主動蒐集資料學習，但大部分學生都是被啟發的，對於通識科，他們只能被學校的老師牽着鼻子走，背誦一些模擬答案(model answers)。 \n 此外，通識科範疇過廣，牽涉層面很多，例如第四單元的“全球化”涉及經濟、文化、環境生態等範圍。這些問題本身已經可以作為很多博士論文的研究題目，中學老師又怎樣蒐集資料呢？正由於通識科放任自流，有學校為求學生取得高分數而各走極端，變相返回“填鴨式”的道路。老師依照教科書講課，學生依靠老師協助啟發，背誦“雞精書”的模擬答案。因此，我認為教育局現時要做的，就是怎樣在放任自流與“填鴨式”之間，適度平衡通識科。 \n 為了防止學生學習“有毒教材”，以及避免被一些有偏見的老師牽着鼻子走，老師必須為通識科訂立明確的指引和教材，教科書出版前必須經過審查，老師的培訓亦要加強，要求他們從多角度探討事物，幫助學生思考。反對派現時很擔心政府藉優化通識科來為學生“洗腦”，但事實剛好相反，我覺得現時放任的通識科才令那些別有用心的老師為學生“洗腦”。如果通識科的老師像那位在街上用粗言穢語辱罵警員、有明顯政治傾向的林老師，被她教導的學生不被“洗腦”才怪。 \n 事實上，在去年佔中期間，不難發覺每天都有很多穿着校服的學生參與，他們聲稱由通識科的老師帶領前來。如果老師存有政治偏見，通識科便變成政治宣傳、政治灌輸的“洗腦科”。不僅中學如此，大學都是這樣。一些鼓吹非法佔中的教授以歪理為學生“洗腦”，例如\n“違法後自首便可以”、“公民抗命衝擊警方是合情合理”、“犯法並非不尊重法治”等。反對派議員指特區政府想藉改善通識科而“洗腦”，根本是賊喊捉賊。 \n 哲學家李天命教授曾說，“教育家的理想在於啟發人思考，野心家的夢想是要取代人的思考”。我們期望政府推出的通識科，是令下一代能明辨是非、獨立思考、理性認識自己社會及國家的學科，而不是變成一小撮有野心、有政治偏見的教師的“政治洗腦科”。希望政府盡快作出檢討。 \n 主席，我謹此陳辭。",
+      "sequence": 3,
+      "bookmark": "SP_MB_CCA_00010"
+    },
+    {
+      "title": "主席",
+      "content": "是否有其他議員想發言？",
+      "sequence": 4,
+      "bookmark": "SP_LC_PSD_00011"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，明天是3月28日，是一年一度“地球一小時”運動舉行的日子，現呼籲大家明天晚上8時半關燈1小時。這是一個環保議題，也是一個通識議題。明天，3月28日，亦是香港雨傘運動半周年，一羣年輕人呼籲大家明天支持“地球一小時”運動，晚上8時半關燈1小時，也希望大家支持“689慳啲啦”運動，不僅響應“慳電”，也請他“慳啲啦”，呼籲大家重返金鐘佔領區，一同參與這項既環保亦有爭取普選意義的運動。 \n 一場雨傘運動，令很多事情也改變了。雨傘運動好像一面鏡子，反映出特區政府很多管治問題。我記得林大輝議員兩天前質詢政府時，引用李克強總理的一段說話，要政府查找不足，但政府的心態為何？政府不會檢討自己做錯了甚麼和有何不足，而是會指摘外界提出問題的人，認為他們一定出現了問題。 \n 政府往往在管治出現危機時，便四周找尋靈丹妙藥，以圖解決當下的問題。水貨客成災如是，中港矛盾如是，貧富懸殊如是。其實一連串的社會問題已經捲成一團，而一場佔領運動則令它們浮上檯面。年輕人要求無篩選、真普選，要求得到一個可以自己掌握未來的機會，這是一個政制問題，政府卻把它當成異見聲音，想盡辦法以軟功、硬功來消滅它。  \n 佔領運動、反水貨運動，甚至謝偉銓議員剛才提及的反新界東北發展運動，的確有很多年輕人參與，而且他們非常投入。政府應找尋原因，處理問題，對症下藥，而不應一開始便認為是年輕人出現問題、青年工作出現問題、教育出現問題。若把年輕人的不滿，把他們關心社會、投入社會運動的熱誠，看成是教育問題、出路問題，歸咎於通識教育太過政治化、中史課程的近代史不足而令年輕人沒有足夠的愛國意識，以及他們缺乏北上機會以致對祖國認識不足，並非對症下藥。說通識教育出現問題，通識教育科(“通識科”)老師出現問題，所以要檢討課程設計和師資培訓，這是推卸責任，諉過於人，製造“稻草人”，找人來“祭旗”。 \n 大家都留意到，梁美芬議員的議案看來好像是中立的，表面上是要求全面檢討通識科  沒有人會反對檢討，也沒有人會認為通識科是完美的  但實際上她的潛台詞是甚麼？就是現時的通識科教壞年輕人，導致他們反政府，反權威，甚至反家長，反對一切。她又說很多事情即使仍未有定論或富爭議性，但老師也教給學生。可是，莫說是科學，人文學科的大部分議題也是非常具爭議性的。 \n 我也做了一些功課，在互聯網上找到梁美芬議員很多批評通識科的評論。她說通識科偏重政治，建議通識科“去政治化”，包括取消必答題，檢討必考安排，甚至要求公開擬卷人的身份等。梁議員所謂的課程設計有爭議，是指通識科有太大篇幅提到政治知識，沒有必要；所謂教學範圍有爭議，就是評批教學內容有機會涉及中國人權和貪污問題，忽略中國過去數十年的發展成就，令學生不愛國；所謂考核方式有爭議，就是批評政治議題被列為必答題，學生不能夠迴避；所謂師資培訓有爭議，就是指通識科題材廣泛，老師不可能“通通都識”，可能連出卷人自己也未必答得好。 \n 當然，教授通識科的人未必“通通都識”，即使是大學教授也未必“通通都識”，而且有大學教授對一些很基本的議題也未必掌握得到。其實，通識教育的精神並不在於教授或灌輸了甚麼給學生，而是在於開拓學生的眼界，訓練他們思考。鍾樹根議員剛才竟然膽敢搬我們的老師李天命出來，說野心家要取代人的思考，這不正是在說共產黨嗎？我們要開啟年輕人的思考，而年輕人被開啟思考之後，甚或會反對我們，這也是有的。看看那些激進民主力量，便可以見到很多這種例子。 \n 然而，不要緊的，只要年輕人開了眼界，他們自己會判斷是非，這樣就行。當然，他們在判斷的過程中會出錯，但大家判斷事情的時\n候也會有錯，我們不應該因此而擔憂年輕人開了眼界會帶來問題。在這個時代，一人一手機，民智跟10多年前已不一樣。倒不如說，發明電視機......發明互聯網的人就好像打開了潘朵拉盒子一樣，促使年輕人自行找尋真相，探究自己關心的問題，繼而自行作出判斷，參與社會事務。 \n 時代巨輪向前推進，年輕人眼界開了，便無法收回。即使取消通識科，也不能夠扭轉一些人所認為通識科令年輕人反叛和反對一切的這個客觀事實。政府應該對症下藥，先要查找不足，自我檢討，各大官員應帶頭做起。我當然明白吳克儉局長承受很大壓力，因為內地官員經常“出口術”，意圖影響他的教育政策，認為他做得不夠好，但我希望香港的老師堅持下去，繼續為我們的下一代努力，不可以被這些政治、行政手段所影響。",
+      "sequence": 5,
+      "bookmark": "SP_MB_CCC_00012"
+    },
+    {
+      "title": "主席",
+      "content": "是否有其他議員想發言？",
+      "sequence": 6,
+      "bookmark": "SP_LC_PSD_00013"
+    },
+    {
+      "title": "胡志偉議員",
+      "content": "主席，教育的目標是要令學生明辨是非、分清黑白。通識教育令學生在不同環節中接觸相關知識，廣開眼界。但是，當局現在進行所謂的檢討，卻懷着政治目標，認為通識教育科(“通識科”)令學生思想變得偏頗，而部分教育內容，就如鍾樹根議員和梁美芬議員所言，成為老師宣傳政治信念的平台。我覺得這種扣帽子的說法完全不要得。 \n 事實上，我們看到特首本身的語言“偽術”，指鹿為馬、將黑說成白，這種做法已大大損害學生在成長過程中明辨是非觀念。大家曾否聽過梁美芬議員或其他建制派議員批評特首的言論指鹿為馬？如果他們連這樣也不做，卻將現時社會的矛盾和問題，歸因於通識科，指教師在教育過程中提醒學生要明辨是非、擴闊眼界、分清黑白等的基本概念，是問題的根源。這完全不是對症下藥的做法。 \n 昨天，特首竟然在答問會上表示，我們的國家(中共)、北韓、緬甸等國家按照憲法寫下的選舉制度，就等於真普選。試問大家會接受這種論述而不認為他是指鹿為馬嗎？更令人驚訝的是，他將自己的出選方式與英國首相和美國總統作比擬，他認為美國和英國的選舉制度不能令選舉出來的首相或總統獲得人民授權。一個連政治ABC也搞不\n好的特首，試問怎能提出一種令市民信服的說法？老師在教授通識課程中怎能不向學生清楚指出這就是問題的根源呢？ \n 若說要檢討通識科，或是泛泛地說就通識科的內容進行檢討，研究如何才能做得更好，我相信不會有太大爭議。但是，若將問題說成通識科成為教師的政治宣傳平台，這只能證明所謂的檢討其實別有用心。 \n 剛才鍾樹根議員提到要就課程內容進行檢討，檢討的方向是由教育局制訂所有內容和範疇，然後予以審批。這種做法是否合適呢？當然，教育局會制訂每個學科單元的大致內容，而需要審批的部分可能只涉及內容的真確性。過往也會這樣做。但是，政府會否對政治內容進行審批？若是如此，我們是否希望通識科成為只能歌功頌德而不能批評政府的工具？若是如此，便明顯有違教育的根本意義。香港的教育制度從來都不是要將學生變成社會經濟發展的工具，我們希望學生有能力明辨是非，為未來創造更廣闊空間。 \n 對於學生參與佔中，有些社會人士，尤其是建制派議員，都批評是由於學生不明白或沒有掌握社會意識，以致被人誤導。究竟處理這個問題的方法是正本清源，弄清楚問題核心，即政治制度不彰、政治制度向利益團體傾斜、小圈子選舉產生的利益集團影響了施政方向，還是將問題變成教育問題，即學生只是因為他們沒有向上流動的機會而尋找發泄的機會？根本不是這麼一回事。 \n 其實，沒有人能預知未來的世界會怎樣，我不相信梁美芬議員或其他建制派議員有本事告訴大家，香港和世界未來會朝甚麼方向發展。正如互聯網在60年代已經出現，雖然當時只屬於軍方技術，但到了80年代，互聯網慢慢走進學校和教育圈。大家有否想過，經過這二、三十年的轉變，互聯網令整個世界變成一個平面世界，將我們的知識層面變得廣闊，我們取得知識的方法已是唾手可得。 \n 正因如此，我們更需要訓練學生在取得知識的過程中，明白知識面有很廣泛的來源，這些來源需要學生從各方面尋找，而非只指向某一種形態。如果我們將這些問題扣上政治元素，只會無可避免地令人覺得提出這項議案的梁美芬議員，又或是支持議案的建制派議員，其實心裏只想提供一種意識形態讓學生接受。  \n 我們要讓學生明白國家在過去數十年的經濟發展成就，而事實上這些信息已有不少，但是，我們更看到國家在發展的過程中貪污腐敗帶來的影響。我們希望政治制度的變化(計時器響起)......能夠帶來長遠改變。多謝主席。",
+      "sequence": 7,
+      "bookmark": "SP_MB_WCW_00014"
+    },
+    {
+      "title": "主席",
+      "content": "是否有其他議員想發言？ \n(沒有其他議員表示想發言)",
+      "sequence": 8,
+      "bookmark": "SP_LC_PSD_00015"
+    },
+    {
+      "title": "主席",
+      "content": "梁美芬議員，你現在可以就各項修正案發言。發言時限是5分鐘。",
+      "sequence": 9,
+      "bookmark": "SP_LC_PSD_00016"
+    },
+    {
+      "title": "梁美芬議員",
+      "content": "主席，兩天合計，共有16位議員就這項議案發言，有7位議員提出了修正案。令我失望的是，只有16位議員關心通識教育科(“通識科”)的發展。我預計數位泛民議會有較激烈反應，但他們的發言比我想像中冷靜，我覺得今天的討論容讓大家繼續探討如何檢討通識科。 \n 首先，希望黃碧雲議員了解，我是否想取消通識科；我絕對不希望取消通識教育，但我很希望大家反思，通識教育是否等於通識科？是否等於考試？是否等於公開考試的必修科？我以前很喜歡通識教育，因為我在中大讀書時很喜歡那種很自由，可以聽talk的教學模式。最初發展通識教育時，我以為可以令學生很喜歡和enjoy的。但是，在推行後，即我剛才也讓同事看我昨天提到的教材書，我也給何俊仁議員看看，那不是我捏造出來的......",
+      "sequence": 10,
+      "bookmark": "SP_MB_LMF_00017"
+    },
+    {
+      "title": "主席",
+      "content": "梁議員，你應該用這段時間就各項修正案發言。",
+      "sequence": 11,
+      "bookmark": "SP_LC_PSD_00018"
+    },
+    {
+      "title": "梁美芬議員",
+      "content": "是的，我知道，這都是相關的，主席。這套教材書有6本，都是基本的教材。如此一來，變成完全返回傳統的教學方式，這的確有違通識教育的原意。通識教育的原意固然是好的，因為它教授多元社會、欣賞和尊重，學習處理互相衝突的價值觀。我也曾說過很\n多次，我最喜歡的通識科的專題部分，但很可惜，葉建源議員昨天表示，他問過其他人，他不太贊成這部分，我希望他可以開放一點。 \n 我很希望同事明白，特別是何秀蘭議員問到，為何我要再談及教材。如果不用考試，當然不用編這6本教材；但如果要考試，要迫學生讀書，我便希望政府能夠撥出資源，令教材變得合理，即雙方都認為必須研讀的範圍。 \n 其實，凡事都有兩面，他們現時用陰謀論的角度來看此事，覺得我們希望反過來，變成單方面的教育，但我反而希望通識科可以像一個不倒翁，將兩方面最極端的主張，或用workshop形式，而不一定是考試或必答題的形式來教授，可以用學生喜歡而老師又懂得的方式教授，讓兩方面不同的專家向學生講解說明。但現在不是這樣，迫老師教授，怎可以不教？他們要交分，所以......",
+      "sequence": 12,
+      "bookmark": "SP_MB_LMF_00019"
+    },
+    {
+      "title": "主席",
+      "content": "梁議員，你的發言時間已過了大半，但我仍未聽到你就各項修正案發言。",
+      "sequence": 13,
+      "bookmark": "SP_LC_PSD_00020"
+    },
+    {
+      "title": "梁美芬議員",
+      "content": "主席，最後我會一併說明。我希望黃碧雲議員、何秀蘭議員、葉建源議員和陳家洛議員不要用陰謀論來看原議案。 \n 在多項修正案中，我支持葉劉淑儀議員、李慧琼議員和王國興議員的修正案。陳家洛議員和黃碧雲議員的修正案把我最想檢討的部分刪除了，其實他們提出的內容是可以討論的，但他們刪除了我提出教材和考核範圍的檢討，完全改變了原議案的方向；葉建源議員的修正案雖然沒有刪除原議案的主要建議，但他在發言時表示最不同意我提出就通識科保留或增撥資源的部分，所以我只能反對他們的修正案。 \n 我相信我的議案今天未必能夠通過，其實大家討論了這個課題多年，我希望提出修正案的同事可否放下成見？我絕對不希望通識科由“右”一下子變成“左”，好像梁國雄議員說，望遠鏡加了“黃片”，拿走了“黃片”又加“紅片”，我們不希望這樣。即使政治學也可以有不同派系，大家可以一起與學生討論。我亦支持政府應多撥資源，擬備較優質的教材，令老師在授課時能夠輕鬆得多，以免做了工夫，但受眾(即家長或僱主)卻有意見。 \n 主席，我謹此陳辭。",
+      "sequence": 14,
+      "bookmark": "SP_MB_LMF_00021"
+    },
+    {
+      "title": "教育局局長",
+      "content": "主席，我感謝梁美芬議員提出今天的議案、7位議員的修正案及多位議員的寶貴意見。新高中課程及評估的全面檢討工作自2012年起已分階段進行。作為高中課程的核心科目，通識教育科的檢討工作受到各界關注；我們亦一直以行之有效的專業機制進行檢討，諮詢業界的專業團體、校長、前線教師及各界持份者，深入檢討通識教育科的設計和施行的各相關環節，並提出有效的建議及措施，讓通識教育科的理念與宗旨得以成功實踐。 \n 在課程內容和理念方面，我們認為通識教育科作為新高中課程的核心科目，可以確保學生的選修科不論是否有所側重，或他們將來是否繼續升學，他們仍可在高中階段得到寬廣的教育。通識教育科採取跨學科的課程設計，利用當代重要議題為切入點，讓學生融會各科所學，並繼續建構知識及擴闊視野；亦可加強學生對社會的觸覺、培養思考能力，以及建立正面價值觀和積極的人生態度，從而成為有識見及負責任的公民。教育界以至社會大眾普遍認同上述理念。 \n 有議員擔心通識教育科偏向討論時事，容易鼓勵學生遊談無根。其實這科的課程設計，是以學生從小學和初中階段學習所得的必需知識和能力為基礎，繼續擴闊和深化知識。通識教育科的課程架構由“自我與個人成長”、“社會與文化”及“科學、科技與環境”這3個互相關連的學習範圍所組成，均衡地涵蓋人類的處境和當代世界的重要關注點，為相關的議題探究學習過程提供穩固的立足點，並讓學生了解不同概念之間的關聯，從而更清晰地理解現今世界的狀況。學生可以在具體的情況下應用不同學科的知識和概念，並能從科學、經濟、歷史、文化等不同角度了解議題，以延伸學生學習的廣度和深度。因此，通識教育科的學習確實無須迴避涉及時事和政治的議題；但與此同時，我們寄望學生從這科獲得更廣闊而均衡的知識和視野，而不會偏側於只關心時事和政治。 \n 在通識教育科繼續維持作為核心科目的前提下，通識教育科委員會仔細檢討各單元的詳細內容，並就部分內容提出修訂建議，一方面令到涉及的範疇更為具體及聚焦，以收精簡學習內容之效；另一方面亦對部分內容及參考例子作出更新，以配合知識和社會的發展。至於葉建源議員擔心通識教育科的檢討可能會受到政治因素影響，我必須指出，教育局、課程發展議會和香港考試及評核局一向以來均以專業及“學生學習為中心”的原則，按既定時間表推行檢討。我亦呼籲各界勿將社會上一些政治性爭議滲入學校課程發展中，並尊重香港在課程發展和考核上的專業精神和機制。事實上，通識教育科委員會就各單\n元所作的建議修訂初步獲得學校普遍支持，可見通識教育科課程檢討工作取得教育專業同工的認同。 \n 在課程資源方面，我們明白各位議員對通識教育科教學範圍和學習材料的關注，也感謝議員所提出的改善建議，例如葉劉淑儀議員提出引入“建議閱讀篇章”和列出基本概念、設立通識教育科教科書送審制度等。實際上，通識教育科透過以學習範圍、單元、主題和探討問題組成的“較開放式”課程架構，標示探究的焦點和方向，鼓勵學生以不同角度和明辨性思考處理不斷發展和轉變的當代議題，並以確實的證據和資料為基礎提出個人意見、判斷及建議。教師必須靈活選取多元化的學與教資源，而學生亦應自行探索不同或新出現的資料，研習時才能以確實的證據和資料來分析及作出合理的判斷。因此，以傳統課本的方式處理通識教育科的學與教並非最佳的選擇，而我們目前亦不接受教科書的送審。教育局一直透過“通識教育科網上資源平台”，免費為教師提供實用而多樣化的課程資源、學與教素材及評估項目等，能對應課程不同部分；有關內容並不時加以更新及增潤，以便教師能輕省地施教。 \n 為了支援教師理解課程的廣度和深度，以及掌握公開評核的要求，教育局和香港考試及評核局於2013年聯合編訂了《通識教育科課程與評估資源套》。教育局會在今年內出版《通識教育科課程資源冊系列》，進一步解釋課程重點，並按課程的6個單元為教師和學生提供更適切的學與教資源。我們往後亦會推出一系列跟進措施，例如舉辦研討會及工作坊、邀請教師分享學與教經驗，並在“通識教育科網上資源平台”更新示例的內容及相關的學與教資源。 \n 我們相信，上述的措施能夠幫助教師優化通識教育科的教學工作，亦有助減少教師和學生對坊間未經評審的通識教育科教科書的倚賴。長遠而言，教育局會研究接受通識教育科教科書送審的可行性，以及訂定配合該科獨特學習要求和內容的教科書評審要求及準則，以達至質素保證。 \n 此外，亦有議員關注通識教育科教師的工作量，以及在培訓方面對教師的支援。事實上，學校從實施通識教育科的最初數年累積了很多經驗及正面成果，信心亦見增強，教師對教學的內容和評估的要求已有更好的掌握；加上建議中的課程修訂將進一步精簡各單元的內容，相信能減輕教師和學生的負擔。教育局將繼續提供一連串的措施，以支援學校施行通識教育科。除了我在前面提及的編製課程支援\n材料及提供網上資源平台外，有關措施亦包括為教師舉辦專業發展課程、組織網絡活動及提供到校支援服務等。 \n 至於通識教育科的公開評核，一直為大眾所關注。葉劉淑儀議員建議須確保考核內容切合課程內的6個單元，並“加強考核學生運用數據的分析能力”；李慧琼議員亦建議，考試題目和評分準則的擬定“應在6個單元之間作出平衡”。事實上，我們一向所重視評估須緊貼課程目的、設計及內容，這亦是這次新學制中期檢討的焦點之一。在剛完成的諮詢中，對於過去3屆通識教育科公開考試是否已經反映課程內6個單元的均衡涵蓋，以及是否有效照顧整體高中學生的不同能力和興趣，學校所持的意見比較分歧。有不少意見認為應檢討試題種類，例如“試卷一”應否設選答題；對各卷的考試時間等亦有不同意見。課程發展處和香港考試及評核局會進一步建議改良措施。我們會在本月底再次發出問卷，就這些建議收集意見，並於本年7月公布結果。 \n 主席，隨着科技發達和資訊泛濫，培養青年人多元和明辨思考的能力及正面的價值觀和人生觀，令他們成為有見識、守法和負責任的公民，當下變得更加重要。在新學制檢討中，通識教育科已有初步成效，之前有部分建議已如期推行，而課程方面的建議修訂亦大致獲得同工支持。我們會提出有效的建議及措施，進一步理順通識教育科課程與公開評核的關係，為通識教育科的長遠發展創造更好的條件。多謝主席。",
+      "sequence": 15,
+      "bookmark": "SP_PO_SE_00022"
+    },
+    {
+      "title": "主席",
+      "content": "由於葉劉淑儀議員不在席，我現在請黃碧雲議員動議修正案。",
+      "sequence": 16,
+      "bookmark": "SP_LC_PSD_00023"
+    },
+    {
+      "title": "黃碧雲議員",
+      "content": "主席，我動議我的修正案，請各位支持。 \n黃碧雲議員動議的修正案如下： \n“在“新高中課程下的通識教育科自推行”之前加上“鑒於”；在“以來”之後刪除“備受關注，該科無論在課程設計、教學範圍、考核方式及師資培訓等方面均富爭議性；就此”，並以“一直強調幫助學生從文化、社會、經濟、政治及科技不同情境中經常出現的當代議題作多角度及批判性思考”代替；在“政府”之後刪除“全面”，並以“在”代替；及在緊接句號之前加上“時，應吸納教師及學生的觀點再作專業判斷，運用教育專業審視課程發展，並提\n供所需支援，進一步提升該科的學與教質素，從而更有效地培育學生的基本知識與技能，讓他們認識自我與社會、國家以至全球的關係”。”",
+      "sequence": 17,
+      "bookmark": "SP_MB_HW_00024"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：黃碧雲議員就梁美芬議員議案動議的修正案，予以通過。",
+      "sequence": 18,
+      "bookmark": "SP_LC_PSD_00025"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 19,
+      "bookmark": "SP_LC_PSD_00026"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 20,
+      "bookmark": "EV_PUT_00027"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 葉國謙議員起立要求記名表決。 Mr IP Kwok-him rose to claim a division.",
+      "sequence": 21,
+      "bookmark": "SP_LC_PSD_00028"
+    },
+    {
+      "title": "主席",
+      "content": "葉國謙議員要求記名表決。表決鐘會響5分鐘。",
+      "sequence": 22,
+      "bookmark": "SP_LC_PSD_00029"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 23,
+      "bookmark": "SP_LC_PSD_00030"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n何俊仁議員、涂謹申議員、莫乃光議員及葉建源議員贊成。 \n方剛議員、梁君彥議員、黃定光議員、李慧琼議員、陳健波議員、葉國謙議員、吳亮星議員、易志明議員、姚思榮議員、馬逢國議員、廖長江議員及謝偉銓議員反對。 \n 潘兆平議員棄權。 \n 地方選區： Geographical Constituencies: \n劉慧卿議員、湯家驊議員、何秀蘭議員、梁家傑議員、陳偉業議員、胡志偉議員、陳志全議員、陳家洛議員、單仲偕議員及黃碧雲議員贊成。 \n 譚耀宗議員、陳克勤議員、梁美芬議員、陳恒鑌議員及鍾樹根議員反對。 \n 王國興議員、黃國健議員及麥美娟議員棄權。",
+      "sequence": 24,
+      "bookmark": "SP_LC_PSD_00031"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有17人出席，4人贊成，12人反對，1人棄權；而經由分區直接選舉產生的議員，有19人出席，10人贊成，5人反對，3人棄權。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 17 were present, four were in favour of the amendment, 12 against it and one abstained; while among the Members returned by geographical constituencies through direct elections, 19 were present, 10 were in favour of the amendment, five against it and three abstained.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was negatived.",
+      "sequence": 25,
+      "bookmark": "EV_VOTED_00032"
+    },
+    {
+      "title": "梁君彥議員",
+      "content": "主席，我動議若稍後就“全面檢討新高中課程下的通識教育科”所提出的議案或修正案再進行記名表決，表決須在鐘聲響起1分鐘後進行。",
+      "sequence": 26,
+      "bookmark": "SP_MB_AL_00033"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：梁君彥議員動議的議案，予以通過。",
+      "sequence": 27,
+      "bookmark": "SP_LC_PSD_00034"
+    },
+    {
+      "title": "主席",
+      "content": "是否有議員想發言？ \n(沒有議員表示想發言)",
+      "sequence": 28,
+      "bookmark": "SP_LC_PSD_00035"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 29,
+      "bookmark": "SP_LC_PSD_00036"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 30,
+      "bookmark": "EV_PUT_00037"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(沒有議員舉手)",
+      "sequence": 31,
+      "bookmark": "SP_LC_PSD_00038"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 32,
+      "bookmark": "SP_LC_PSD_00039"
+    },
+    {
+      "title": "",
+      "content": "主席：我認為議題獲得經由功能團體選舉產生及分區直接選舉產生的兩部分在席議員，分別以過半數贊成。我宣布議案獲得通過。 \n我命令若稍後就“全面檢討新高中課程下的通識教育科”所提出的議案或修正案再進行記名表決，表決須在鐘聲響起1分鐘後進行。",
+      "sequence": 33,
+      "bookmark": "EV_VOTED_00040"
+    },
+    {
+      "title": "主席",
+      "content": "陳家洛議員，請你動議你的修正案。",
+      "sequence": 34,
+      "bookmark": "SP_LC_PSD_00041"
+    },
+    {
+      "title": "陳家洛議員",
+      "content": "主席，我動議修正梁美芬議員的議案。 \n陳家洛議員動議的修正案如下： \n“在“；就此”之前刪除“新高中課程下的通識教育科自推行以來備受關注，該科無論在課程設計、教學範圍、考核方式及師資培訓等方面均富爭議性”，並以“培養年輕人的獨立思考和批判分析\n的能力對發展香港的公民社會及維護香港的核心價值極為重要，新高中課程下的通識教育科在這方面擔當重要角色”代替；及在緊接句號之前加上“，提升學生在探究學校、社區、社會及政治相關議題的興趣、知識和學習效能”。”",
+      "sequence": 35,
+      "bookmark": "SP_MB_KC_00042"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：陳家洛議員就梁美芬議員議案動議的修正案，予以通過。",
+      "sequence": 36,
+      "bookmark": "SP_LC_PSD_00043"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 37,
+      "bookmark": "SP_LC_PSD_00044"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 38,
+      "bookmark": "EV_PUT_00045"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 葉國謙議員起立要求記名表決。 Mr IP Kwok-him rose to claim a division.",
+      "sequence": 39,
+      "bookmark": "SP_LC_PSD_00046"
+    },
+    {
+      "title": "主席",
+      "content": "葉國謙議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 40,
+      "bookmark": "SP_LC_PSD_00047"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 41,
+      "bookmark": "SP_LC_PSD_00048"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n何俊仁議員、涂謹申議員、莫乃光議員及葉建源議員贊成。 \n方剛議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、陳健波議員、葉國謙議員、吳亮星議員、易志明議員、姚思榮議員、馬逢國議員、廖長江議員及謝偉銓議員反對。 \n 潘兆平議員棄權。 \n 地方選區： Geographical Constituencies: \n劉慧卿議員、湯家驊議員、何秀蘭議員、梁家傑議員、陳偉業議員、胡志偉議員、陳志全議員、陳家洛議員、單仲偕議員、黃碧雲議員及鍾樹根議員贊成。 \n 譚耀宗議員、陳克勤議員、梁美芬議員及陳恒鑌議員反對。 \n 王國興議員、黃國健議員及麥美娟議員棄權。",
+      "sequence": 42,
+      "bookmark": "SP_LC_PSD_00049"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有18人出席，4人贊成，13人反對，1人棄權；而經由分區直接選舉產生的議員，有19人出席，11人贊成，4人反對，3人棄權。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 18 were present, four were in favour of the amendment, 13 against it and one abstained; while among the Members returned by geographical constituencies through direct elections, 19 were present, 11 were in favour of the amendment, four against it and three abstained.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was negatived.",
+      "sequence": 43,
+      "bookmark": "EV_VOTED_00050"
+    },
+    {
+      "title": "主席",
+      "content": "葉建源議員，請你動議你的修正案。",
+      "sequence": 44,
+      "bookmark": "SP_LC_PSD_00051"
+    },
+    {
+      "title": "葉建源議員",
+      "content": "主席，我動議修正梁美芬議員的議案。 \n葉建源議員動議的修正案如下： \n“在“論在課程設計”之前刪除“新高中課程下的通識教育科自推行以來備受關注，該科無”，並以“鑒於當局現正進行新高中課程檢討，與其他學科一樣，通識教育科不”代替；在“培訓等方面均”之後刪除“富爭議性”，並以“備受關注；當局應就該科加強師資培訓、增加教學資源及提升教學水平，盡快回應學界的訴求；在改善教學範圍方面，應從教學專業出發，考慮通識教育科的課程是否過量，減輕教師及學生的負擔，但不迴避涉及時事及政治的議題”代替；在“政府”之後加上“在”；及在緊接句號之前加上“時，必須按既定程序、持守教育專業原則，以及以改善該科教與學為依歸，有關檢討亦不應受到政治因素影響”。”",
+      "sequence": 45,
+      "bookmark": "SP_MB_IKY_00052"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：葉建源議員就梁美芬議員議案動議的修正案，予以通過。",
+      "sequence": 46,
+      "bookmark": "SP_LC_PSD_00053"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 47,
+      "bookmark": "SP_LC_PSD_00054"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 48,
+      "bookmark": "EV_PUT_00055"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 葉國謙議員起立要求記名表決。 Mr IP Kwok-him rose to claim a division.",
+      "sequence": 49,
+      "bookmark": "SP_LC_PSD_00056"
+    },
+    {
+      "title": "主席",
+      "content": "葉國謙議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 50,
+      "bookmark": "SP_LC_PSD_00057"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 51,
+      "bookmark": "SP_LC_PSD_00058"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n何俊仁議員、涂謹申議員、莫乃光議員及葉建源議員贊成。 \n 方剛議員、林健鋒議員、梁君彥議員、易志明議員及姚思榮議員反對。 \n 黃定光議員、李慧琼議員、陳健波議員、葉國謙議員、吳亮星議員、馬逢國議員、廖長江議員、潘兆平議員及謝偉銓議員棄權。 \n 地方選區： Geographical Constituencies: \n劉慧卿議員、湯家驊議員、何秀蘭議員、梁家傑議員、陳偉業議員、胡志偉議員、陳志全議員、陳家洛議員、單仲偕議員及黃碧雲議員贊成。 \n 梁美芬議員反對。 \n 譚耀宗議員、王國興議員、陳克勤議員、黃國健議員、陳恒鑌議員、麥美娟議員及鍾樹根議員棄權。",
+      "sequence": 52,
+      "bookmark": "SP_LC_PSD_00059"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。  \n主席宣布經由功能團體選舉產生的議員，有18人出席，4人贊成，5人反對，9人棄權；而經由分區直接選舉產生的議員，有19人出席，10人贊成，1人反對，7人棄權。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 18 were present, four were in favour of the amendment, five against it and nine abstained; while among the Members returned by geographical constituencies through direct elections, 19 were present, 10 were in favour of the amendment, one against it and seven abstained.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was negatived.",
+      "sequence": 53,
+      "bookmark": "EV_VOTED_00060"
+    },
+    {
+      "title": "主席",
+      "content": "王國興議員，請你動議你的修正案。",
+      "sequence": 54,
+      "bookmark": "SP_LC_PSD_00061"
+    },
+    {
+      "title": "王國興議員",
+      "content": "主席，我動議修正梁美芬議員的議案。 \n王國興議員動議的修正案如下： \n“在“自推行”之前刪除“新高中課程下的通識教育科”，並以“有意見認為，新高中課程下的通識教育科內容過於廣泛，部分學習內容更與中國歷史科重疊，因而令師生在教與學上難以掌握；而該科”代替；在“關注，”之後刪除“該科”；及在緊接句號之前加上“，精簡課程內容，把通識教育科與中國歷史科重疊的學習內容整合，使通識教育科的課程內容更清晰和更易掌握，並使經整合後的中國歷史科得以列作核心科目”。”",
+      "sequence": 55,
+      "bookmark": "SP_MB_WKH_00062"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：王國興議員就梁美芬議員議案動議的修正案，予以通過。",
+      "sequence": 56,
+      "bookmark": "SP_LC_PSD_00063"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 57,
+      "bookmark": "SP_LC_PSD_00064"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 58,
+      "bookmark": "EV_PUT_00065"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 陳家洛議員起立要求記名表決。 Dr Kenneth CHAN rose to claim a division.",
+      "sequence": 59,
+      "bookmark": "SP_LC_PSD_00066"
+    },
+    {
+      "title": "主席",
+      "content": "陳家洛議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 60,
+      "bookmark": "SP_LC_PSD_00067"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 61,
+      "bookmark": "SP_LC_PSD_00068"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、陳健波議員、葉國謙議員、吳亮星議員、姚思榮議員、馬逢國議員、廖長江議員、潘兆平議員及謝偉銓議員贊成。 \n 何俊仁議員、涂謹申議員、莫乃光議員及葉建源議員反對。 \n 方剛議員及易志明議員棄權。 \n 地方選區： Geographical Constituencies: \n譚耀宗議員、王國興議員、陳克勤議員、梁美芬議員、黃國健議員、陳恒鑌議員、麥美娟議員及鍾樹根議員贊成。  \n劉慧卿議員、湯家驊議員、何秀蘭議員、梁家傑議員、陳偉業議員、胡志偉議員、陳志全議員、陳家洛議員、單仲偕議員及黃碧雲議員反對。",
+      "sequence": 62,
+      "bookmark": "SP_LC_PSD_00069"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有18人出席，12人贊成，4人反對，2人棄權；而經由分區直接選舉產生的議員，有19人出席，8人贊成，10人反對。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 18 were present, 12 were in favour of the amendment, four against it and two abstained; while among the Members returned by geographical constituencies through direct elections, 19 were present, eight were in favour of the amendment and 10 against it.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was negatived.",
+      "sequence": 63,
+      "bookmark": "EV_VOTED_00070"
+    },
+    {
+      "title": "主席",
+      "content": "何秀蘭議員，請你動議你的修正案。",
+      "sequence": 64,
+      "bookmark": "SP_LC_PSD_00071"
+    },
+    {
+      "title": "何秀蘭議員",
+      "content": "主席，我動議修正梁美芬議員的議案。 \n何秀蘭議員動議的修正案如下： \n“在“新高中課程下的通識教育科自推行以來”之前加上“鑒於”；在“備受關注”之後刪除“，該科無論在課程設計、教學範圍、考核方式及師資培訓等方面均富爭議性；就此”；及在緊接句號之前加上“，以達致培育學生具有批判思考的獨立人格、擁有尊重人權和維護自由的意識，並會積極主動而不受限制地參與公共事務的目的，從而推動社會進步”。”",
+      "sequence": 65,
+      "bookmark": "SP_MB_CH_00072"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：何秀蘭議員就梁美芬議員議案動議的修正案，予以通過。",
+      "sequence": 66,
+      "bookmark": "SP_LC_PSD_00073"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 67,
+      "bookmark": "SP_LC_PSD_00074"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 68,
+      "bookmark": "EV_PUT_00075"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 葉國謙議員起立要求記名表決。 Mr IP Kwok-him rose to claim a division.",
+      "sequence": 69,
+      "bookmark": "SP_LC_PSD_00076"
+    },
+    {
+      "title": "主席",
+      "content": "葉國謙議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 70,
+      "bookmark": "SP_LC_PSD_00077"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 71,
+      "bookmark": "SP_LC_PSD_00078"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n何俊仁議員、涂謹申議員、莫乃光議員及葉建源議員贊成。 \n 方剛議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、陳健波議員、葉國謙議員、吳亮星議員、易志明議員、姚思榮議員、馬逢國議員、廖長江議員及謝偉銓議員反對。 \n 潘兆平議員棄權。  \n地方選區： Geographical Constituencies: \n劉慧卿議員、湯家驊議員、何秀蘭議員、梁家傑議員、陳偉業議員、胡志偉議員、陳志全議員、陳家洛議員、單仲偕議員及黃碧雲議員贊成。 \n 譚耀宗議員、王國興議員、陳克勤議員、梁美芬議員、黃國健議員、陳恒鑌議員、麥美娟議員及鍾樹根議員反對。",
+      "sequence": 72,
+      "bookmark": "SP_LC_PSD_00079"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有18人出席，4人贊成，13人反對，1人棄權；而經由分區直接選舉產生的議員，有19人出席，10人贊成，8人反對。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 18 were present, four were in favour of the amendment, 13 against it and one abstained; while among the Members returned by geographical constituencies through direct elections, 19 were present, 10 were in favour of the amendment and eight against it.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was negatived.",
+      "sequence": 73,
+      "bookmark": "EV_VOTED_00080"
+    },
+    {
+      "title": "主席",
+      "content": "李慧琼議員，你可以動議你的修正案。",
+      "sequence": 74,
+      "bookmark": "SP_LC_PSD_00081"
+    },
+    {
+      "title": "李慧琼議員",
+      "content": "主席，我動議修正梁美芬議員的議案。 \n李慧琼議員動議的修正案如下： \n“在緊接句號之前加上“，並分階段檢視該科各個環節，包括在擬定考試題目和評分準則方面，應在6個單元之間作出平衡；而政府亦應向學校提供更多專業支援，為該科的教與學訂立指引和\n教材，並加強師資培訓，讓老師從多角度掌握課程內容，以及檢視該科的校本評核和學習課時，以便更有效地推行通識教育科”。”",
+      "sequence": 75,
+      "bookmark": "SP_MB_SL_00082"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：李慧琼議員就梁美芬議員議案動議的修正案，予以通過。",
+      "sequence": 76,
+      "bookmark": "SP_LC_PSD_00083"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 77,
+      "bookmark": "SP_LC_PSD_00084"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 78,
+      "bookmark": "EV_PUT_00085"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 陳志全議員起立要求記名表決。 Mr CHAN Chi-chuen rose to claim a division.",
+      "sequence": 79,
+      "bookmark": "SP_LC_PSD_00086"
+    },
+    {
+      "title": "主席",
+      "content": "陳志全議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 80,
+      "bookmark": "SP_LC_PSD_00087"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 81,
+      "bookmark": "SP_LC_PSD_00088"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n方剛議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、陳健波議員、葉國謙議員、吳亮星議員、易志明議員、姚思榮議員、馬逢國議員、廖長江議員、潘兆平議員及謝偉銓議員贊成。 \n何俊仁議員、涂謹申議員、莫乃光議員及葉建源議員反對。 \n 地方選區： Geographical Constituencies: \n譚耀宗議員、王國興議員、陳克勤議員、梁美芬議員、黃國健議員、陳恒鑌議員、麥美娟議員及鍾樹根議員贊成。 \n 劉慧卿議員、湯家驊議員、何秀蘭議員、梁家傑議員、陳偉業議員、胡志偉議員、陳志全議員、陳家洛議員、單仲偕議員及黃碧雲議員反對。",
+      "sequence": 82,
+      "bookmark": "SP_LC_PSD_00089"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有18人出席，14人贊成，4人反對；而經由分區直接選舉產生的議員，有19人出席，8人贊成，10人反對。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 18 were present, 14 were in favour of the amendment and four against it; while among the Members returned by geographical constituencies through direct elections, 19 were present, eight were in favour of the amendment and 10 against it.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was negatived.",
+      "sequence": 83,
+      "bookmark": "EV_VOTED_00090"
+    },
+    {
+      "title": "主席",
+      "content": "梁美芬議員，你現在可以發言答辯，你還有1分零4秒。",
+      "sequence": 84,
+      "bookmark": "SP_LC_PSD_00091"
+    },
+    {
+      "title": "梁美芬議員",
+      "content": "主席，今天討論的議題關乎未成年人的通識教育，我明白這個議題涉及很多老師的“飯碗”，但社會、家長和未來的僱主如何看待畢業的同學亦同樣重要，我希望教育局進行檢討時要涵蓋這些持份者。  \n 如果通識教育科真的比其他專科重要，是必修科目，我要求專科專教，例如法律、政治、環保等範疇，應該由曾經修讀相關學位的人士教授，當局真的不可以敷衍了事，這樣才是對青年人、對香港社會公道。 \n 我也希望葉建源議員再多考慮專題探討的部分，我覺得該部分不錯，值得繼續探討，可以為學生和老師帶來更多空間，而且不會涉及“飯碗”的問題。 \n 主席，我謹此陳辭，希望大家支持我的原議案。",
+      "sequence": 85,
+      "bookmark": "SP_MB_LMF_00092"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 86,
+      "bookmark": "SP_LC_PSD_00093"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出的待決議題是：梁美芬議員動議的議案，予以通過。",
+      "sequence": 87,
+      "bookmark": "EV_PUT_00094"
+    },
+    {
+      "title": "主席",
+      "content": "現在付諸表決，贊成的請舉手。 \n(議員舉手)",
+      "sequence": 88,
+      "bookmark": "SP_LC_PSD_00095"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 梁國雄議員起立要求記名表決。 Mr LEUNG Kwok-hung rose to claim a division.",
+      "sequence": 89,
+      "bookmark": "SP_LC_PSD_00096"
+    },
+    {
+      "title": "主席",
+      "content": "梁國雄議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 90,
+      "bookmark": "SP_LC_PSD_00097"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 91,
+      "bookmark": "SP_LC_PSD_00098"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。  \n功能團體： Functional Constituencies: \n方剛議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、陳健波議員、葉國謙議員、吳亮星議員、易志明議員、姚思榮議員、馬逢國議員、廖長江議員、潘兆平議員及謝偉銓議員贊成。 \n 何俊仁議員、涂謹申議員、莫乃光議員及葉建源議員反對。 \n 地方選區： Geographical Constituencies: \n譚耀宗議員、王國興議員、陳克勤議員、梁美芬議員、黃國健議員、陳恒鑌議員、麥美娟議員及鍾樹根議員贊成。 \n 劉慧卿議員、湯家驊議員、何秀蘭議員、梁家傑議員、梁國雄議員、陳偉業議員、胡志偉議員、陳志全議員、陳家洛議員、單仲偕議員及黃碧雲議員反對。",
+      "sequence": 92,
+      "bookmark": "SP_LC_PSD_00099"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有18人出席，14人贊成，4人反對；而經由分區直接選舉產生的議員，有20人出席，8人贊成，11人反對。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布議案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 18 were present, 14 were in favour of the motion and four against it; while among the Members returned by geographical constituencies through direct elections, 20 were present, eight were in favour of the motion and 11 against it.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the motion was negatived.",
+      "sequence": 93,
+      "bookmark": "EV_VOTED_00100"
+    }
+  ],
+  "date": "2015-3-27",
+  "url": "https://www.legco.gov.hk/yr14-15/chinese/counmtg/floor/cm20150327-confirm-ec.pdf"
+}

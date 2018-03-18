@@ -91,9 +91,20 @@ fun main(args: Array<String>) {
             val destionation = action.destination as PDNamedDestination
             val namesDict = catalog.names
             val dests = namesDict.dests
-            val xyz = dests.getValue(destionation.namedDestination) as PDPageXYZDestination
-            bookmarkNames.add(destionation.namedDestination)
-            bookmarks.add(xyz)
+            var xyz = dests.getValue(destionation.namedDestination) as PDPageXYZDestination?
+
+            xyz?.let {
+                //ugly workaround for cm20141112-confirm-ec.pdf
+                if (fileName == "cm20141112-confirm-ec.pdf") {
+                    if (destionation.namedDestination == "SP_MB_KKK_00195")
+                        xyz?.top = 700
+                    if (destionation.namedDestination == "SP_MB_KKK_00200")
+                        xyz?.top = 400
+                }
+                bookmarkNames.add(destionation.namedDestination)
+                bookmarks.add(xyz)
+            }
+
         }
 
         currentBookmark = currentBookmark.nextSibling
