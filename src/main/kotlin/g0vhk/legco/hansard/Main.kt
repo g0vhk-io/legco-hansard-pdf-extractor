@@ -155,6 +155,22 @@ fun main(args: Array<String>) {
                         destionation.namedDestination == "SP_PO_CE_00078") {
                     skipped = true
                 }
+                if (fileName == "cm0703-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_SCK_00282") {
+                    skipped = true
+                }
+                if (fileName == "cm0110-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_DK_00145") {
+                    skipped = true
+                }
+                if (fileName == "cm1212-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00433") {
+                    skipped = true
+                }
+                if (fileName == "cm1024-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00257") {
+                    skipped = true
+                }
                 if (! skipped) {
                     bookmarkNames.add(destionation.namedDestination)
                     bookmarks.add(xyz)

@@ -1,0 +1,3446 @@
+{
+  "membersPresent": [
+    "主席曾鈺成議員, G.B.S., J.P. THE PRESIDENT THE HONOURABLE JASPER TSANG YOK-SING, G.B.S., J.P.",
+    "何俊仁議員 THE HONOURABLE ALBERT HO CHUN-YAN",
+    "李卓人議員 THE HONOURABLE LEE CHEUK-YAN",
+    "涂謹申議員 THE HONOURABLE JAMES TO KUN-SUN",
+    "陳鑑林議員, S.B.S., J.P. THE HONOURABLE CHAN KAM-LAM, S.B.S., J.P.",
+    "劉皇發議員, 大紫荊勳賢, G.B.S., J.P. DR THE HONOURABLE LAU WONG-FAT, G.B.M., G.B.S., J.P.",
+    "劉慧卿議員, J.P. THE HONOURABLE EMILY LAU WAI-HING, J.P.",
+    "譚耀宗議員, G.B.S., J.P. THE HONOURABLE TAM YIU-CHUNG, G.B.S., J.P.",
+    "石禮謙議員, S.B.S., J.P. THE HONOURABLE ABRAHAM SHEK LAI-HIM, S.B.S., J.P.",
+    "張宇人議員, S.B.S., J.P. THE HONOURABLE TOMMY CHEUNG YU-YAN, S.B.S., J.P.",
+    "方剛議員, S.B.S., J.P. THE HONOURABLE VINCENT FANG KANG, S.B.S., J.P.",
+    "王國興議員, M.H. THE HONOURABLE WONG KWOK-HING, M.H.",
+    "李國麟議員, S.B.S., J.P. DR THE HONOURABLE JOSEPH LEE KOK-LONG, S.B.S., J.P.",
+    "林健鋒議員, G.B.S., J.P. THE HONOURABLE JEFFREY LAM KIN-FUNG, G.B.S., J.P.",
+    "梁君彥議員, G.B.S., J.P. THE HONOURABLE ANDREW LEUNG KWAN-YUEN, G.B.S., J.P.",
+    "黃定光議員, S.B.S., J.P. THE HONOURABLE WONG TING-KWONG, S.B.S., J.P.",
+    "湯家驊議員, S.C. THE HONOURABLE RONNY TONG KA-WAH, S.C.",
+    "何秀蘭議員 THE HONOURABLE CYD HO SAU-LAN",
+    "李慧琼議員, J.P. THE HONOURABLE STARRY LEE WAI-KING, J.P.",
+    "林大輝議員, S.B.S., J.P. DR THE HONOURABLE LAM TAI-FAI, S.B.S., J.P.",
+    "陳克勤議員, J.P. THE HONOURABLE CHAN HAK-KAN, J.P.",
+    "陳健波議員, B.B.S., J.P. THE HONOURABLE CHAN KIN-POR, B.B.S., J.P.",
+    "梁美芬議員, J.P. DR THE HONOURABLE PRISCILLA LEUNG MEI-FUN, J.P.",
+    "張國柱議員 THE HONOURABLE CHEUNG KWOK-CHE",
+    "黃國健議員, B.B.S. THE HONOURABLE WONG KWOK-KIN, B.B.S.",
+    "葉國謙議員, G.B.S., J.P. THE HONOURABLE IP KWOK-HIM, G.B.S., J.P.",
+    "葉劉淑儀議員, G.B.S., J.P. THE HONOURABLE MRS REGINA IP LAU SUK-YEE, G.B.S., J.P.",
+    "謝偉俊議員, J.P. THE HONOURABLE PAUL TSE WAI-CHUN, J.P.",
+    "梁家傑議員, S.C. THE HONOURABLE ALAN LEONG KAH-KIT, S.C.",
+    "梁國雄議員 THE HONOURABLE LEUNG KWOK-HUNG",
+    "陳偉業議員 THE HONOURABLE ALBERT CHAN WAI-YIP",
+    "黃毓民議員 THE HONOURABLE WONG YUK-MAN",
+    "毛孟靜議員 THE HONOURABLE CLAUDIA MO",
+    "田北辰議員, B.B.S., J.P. THE HONOURABLE MICHAEL TIEN PUK-SUN, B.B.S., J.P.",
+    "田北俊議員, G.B.S., J.P. THE HONOURABLE JAMES TIEN PEI-CHUN, G.B.S., J.P.",
+    "吳亮星議員, S.B.S., J.P. THE HONOURABLE NG LEUNG-SING, S.B.S., J.P.",
+    "何俊賢議員 THE HONOURABLE STEVEN HO CHUN-YIN",
+    "易志明議員 THE HONOURABLE FRANKIE YICK CHI-MING",
+    "胡志偉議員, M.H. THE HONOURABLE WU CHI-WAI, M.H.",
+    "姚思榮議員 THE HONOURABLE YIU SI-WING",
+    "范國威議員 THE HONOURABLE GARY FAN KWOK-WAI",
+    "馬逢國議員, S.B.S., J.P. THE HONOURABLE MA FUNG-KWOK, S.B.S., J.P.",
+    "莫乃光議員 THE HONOURABLE CHARLES PETER MOK",
+    "陳志全議員 THE HONOURABLE CHAN CHI-CHUEN",
+    "陳恒鑌議員 THE HONOURABLE CHAN HAN-PAN",
+    "陳家洛議員 DR THE HONOURABLE KENNETH CHAN KA-LOK",
+    "陳婉嫻議員, S.B.S., J.P. THE HONOURABLE CHAN YUEN-HAN, S.B.S., J.P.",
+    "梁志祥議員, B.B.S., M.H., J.P. THE HONOURABLE LEUNG CHE-CHEUNG, B.B.S., M.H., J.P.",
+    "梁繼昌議員 THE HONOURABLE KENNETH LEUNG",
+    "麥美娟議員, J.P. THE HONOURABLE ALICE MAK MEI-KUEN, J.P.",
+    "郭家麒議員 DR THE HONOURABLE KWOK KA-KI",
+    "郭偉強議員 THE HONOURABLE KWOK WAI-KEUNG",
+    "郭榮鏗議員 THE HONOURABLE DENNIS KWOK",
+    "張華峰議員, J.P. THE HONOURABLE CHRISTOPHER CHEUNG WAH-FUNG, J.P.",
+    "張超雄議員 DR THE HONOURABLE FERNANDO CHEUNG CHIU-HUNG",
+    "單仲偕議員, S.B.S., J.P. THE HONOURABLE SIN CHUNG-KAI, S.B.S., J.P.",
+    "黃碧雲議員 DR THE HONOURABLE HELENA WONG PIK-WAN",
+    "葉建源議員 THE HONOURABLE IP KIN-YUEN",
+    "葛珮帆議員, J.P. DR THE HONOURABLE ELIZABETH QUAT, J.P.",
+    "廖長江議員, J.P. THE HONOURABLE MARTIN LIAO CHEUNG-KONG, J.P.",
+    "潘兆平議員, B.B.S., M.H. THE HONOURABLE POON SIU-PING, B.B.S., M.H.",
+    "鄧家彪議員 THE HONOURABLE TANG KA-PIU",
+    "蔣麗芸議員, J.P. DR THE HONOURABLE CHIANG LAI-WAN, J.P.",
+    "盧偉國議員, B.B.S., M.H., J.P. IR DR THE HONOURABLE LO WAI-KWOK, B.B.S., M.H., J.P.",
+    "鍾國斌議員 THE HONOURABLE CHUNG KWOK-PAN",
+    "鍾樹根議員, B.B.S., M.H., J.P. THE HONOURABLE CHRISTOPHER CHUNG SHU-KUN, B.B.S., M.H., J.P.",
+    "謝偉銓議員 THE HONOURABLE TONY TSE WAI-CHUEN"
+  ],
+  "membersAbsent": [
+    "梁耀忠議員 THE HONOURABLE LEUNG YIU-CHUNG",
+    "馮檢基議員, S.B.S., J.P. THE HONOURABLE FREDERICK FUNG KIN-KEE, S.B.S., J.P.",
+    "梁家騮議員 DR THE HONOURABLE LEUNG KA-LAU"
+  ],
+  "publicOfficersAttending": [
+    "財政司司長曾俊華先生, 大紫荊勳賢, J.P. THE HONOURABLE JOHN TSANG CHUN-WAH, G.B.M., J.P. THE FINANCIAL SECRETARY",
+    "財經事務及庫務局局長陳家強教授, G.B.S., J.P. PROF THE HONOURABLE K C CHAN, G.B.S., J.P. SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY",
+    "環境局局長黃錦星先生, J.P. THE HONOURABLE WONG KAM-SING, J.P. SECRETARY FOR THE ENVIRONMENT",
+    "財經事務及庫務局副局長梁鳳儀女士, S.B.S., J.P. MS JULIA LEUNG FUNG-YEE, S.B.S., J.P. UNDER SECRETARY FOR FINANCIAL SERVICES AND THE TREASURY"
+  ],
+  "clerksInAttendance": [
+    "副秘書長林鄭寶玲女士 MRS JUSTINA LAM CHENG BO-LING, DEPUTY SECRETARY GENERAL",
+    "助理秘書長劉國昌先生 MR ANDY LAU KWOK-CHEONG, ASSISTANT SECRETARY GENERAL",
+    "助理秘書長梁慶儀女士 MISS ODELIA LEUNG HING-YEE, ASSISTANT SECRETARY GENERAL",
+    "助理秘書長馬朱雪履女士 MRS PERCY MA, ASSISTANT SECRETARY GENERAL"
+  ],
+  "speeches": [
+    {
+      "title": "全委會主席",
+      "content": "全體委員會繼續審議《2013年撥款條例草案》。委員現在可以繼續就26項沒有修正案的總目的款額納入附表發言。 \n 是否有委員想發言？",
+      "sequence": 1,
+      "bookmark": "SP_LC_CM_00008"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，會議剛開始，出席人數卻不足似的，這好像不太尊重你“老人家”，請點算人數。",
+      "sequence": 2,
+      "bookmark": "SP_MB_CWY_00010"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員進入會議廳。",
+      "sequence": 3,
+      "bookmark": "SP_LC_CM_00011"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員進入會議廳)",
+      "sequence": 4,
+      "bookmark": "EV_BELL_00012"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有委員想發言？",
+      "sequence": 5,
+      "bookmark": "SP_LC_CM_00013"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，就沒有修正案的總目納入附表的辯論，我相信我發言後辯論將會完結，並進入下一個程序。 \n 主席，我基本上只想補充兩點。第一點是澄清昨天發言的少許錯誤，我昨晚睡覺時突然醒過來，憶起自己說錯了一些話，令致睡不安寧。問題主要在於昨天談論“總目33 ─ 土木工程拓展署”的開支時，我誤將荃灣行人天橋延誤啟用的問題歸入此項目中，這是因為當時有些資料整理出錯。其實，有關荃灣行人天橋延誤啟用的問題，應屬路政署的職責。我謹此致歉，當時資料整理有少許錯漏，誤將其他部門的職責範圍納入此項目，這是不恰當的，我謹此先作澄清。 \n 主席，我最後想就總目168有關香港天文台的開支表達意見。主席，我們支持這項總目的開支，而對昨天談論有關工業貿易署的開支則表示反對。然而，對於香港天文台的開支，我們存有極大的憂慮。主席，請你看看有關的整體財政開支。香港天文台於2013-2014年度的整體開支較上一年其實只有極輕微的增幅，其今年預算案的開支是2.47億元，較去年的2.4億元只增長700萬元。 \n 當中有兩個項目，我們認為政府在有關方面缺乏危機意識。其一是地震的研究或監管項目，當中的綱領(3)是有關時間標準及地球物理的服務。根據預算案，這項開支由去年1,200萬元削減至今年僅1,000萬元，減幅為12.3%。鑒於最近全球不少地區發生地震，政府在這方面的服務削減開支，恐怕影響有關服務質素和地震的預測。由於這涉及香港人生命財產的保障，所以我必須大表憂慮。 \n 另一項是綱領(2)涉及輻射監察的開支，這項開支按年錄得零增長，2012-2013年度的修訂開支與2013-2014年度的預算開支同為2,580萬元，即較去年的修訂開支並無增長。然而，輻射問題亦對社會影響至大。 \n 對於輻射和地震這兩大問題的監控或研究方面，我認為天文台似乎有所忽略，我希望不會因此而影響市民的生命財產，以及令有關的預測及紀錄有所疏漏，令我們不察覺問題而對市民的生命或健康構成嚴重損害。但是，我們原則上不希望否決天文台這方面的開支。如果可增加撥款，我很希望天文台就上述兩大範疇的服務  地震研究和監控，以及輻射監測的服務  作出重大改善。 \n 多謝主席。",
+      "sequence": 6,
+      "bookmark": "SP_MB_CWY_00014"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 7,
+      "bookmark": "SP_LC_CM_00015"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，請你根據《議事規則》第17條點算人數。",
+      "sequence": 8,
+      "bookmark": "SP_MB_LKH_00016"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 9,
+      "bookmark": "SP_LC_CM_00017"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 10,
+      "bookmark": "EV_BELL_00018"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 11,
+      "bookmark": "SP_LC_CM_00019"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "早晨主席，聞歌起舞，不亦樂乎？ \n 我說的是“總目42 ─ 機電工程署”的綱領(2)，關於機械裝置安全。主席，看到嗎？ \n 旨是甚麼呢？首先說支出，如果社會福利的支出是這樣便好了，增加了多少呢？是166.9%。為甚麼會這樣呢？最初看的時候，我以為政府一向是“小政府，大市場”，有何理由突然增加一倍多呢？各位，睡醒了嗎？知道我說甚麼了嗎？原來是關於機械裝置安全，與維修升降機有關，主席......",
+      "sequence": 12,
+      "bookmark": "SP_MB_LKH_00020"
+    },
+    {
+      "title": "王國興議員",
+      "content": "主席，我希望你裁定梁國雄議員的發言是重複、無聊，因為機械裝置和撥款無關，而且有關款額無須修訂，亦沒有爭議。今天進入“拉布”第二天，已經又浪費200萬元了。",
+      "sequence": 13,
+      "bookmark": "SP_MB_WKH_00021"
+    },
+    {
+      "title": "全委會主席",
+      "content": "王議員，請坐下。梁國雄議員，有關機電工程署和用於升降機安全的開支，昨天已先後有兩位委員談論過，我希望你不要重複他們說過的內容。我相信你也很留心聽了他們說甚麼。請你繼續發言。",
+      "sequence": 14,
+      "bookmark": "SP_LC_CM_00022"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我只是說了“聞雞起舞，不亦樂乎”，應該沒有重複吧。他都不知道我在說甚麼。",
+      "sequence": 15,
+      "bookmark": "SP_MB_LKH_00023"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我希望你知道自己在說甚麼。",
+      "sequence": 16,
+      "bookmark": "SP_LC_CM_00024"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席明鑒，主席聰明，耳目清醒，聽到我說的話。",
+      "sequence": 17,
+      "bookmark": "SP_MB_LKH_00025"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你繼續發言。",
+      "sequence": 18,
+      "bookmark": "SP_LC_CM_00026"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我正在說增加了一倍多的支出。大家看看綱領(2)  我知道，你已叫我不要重複  與升降機有關。實際上，為何升降機會出現問題呢？其實並不是政府的支出不足夠，而是資方的支出不足夠。甚麼是資方，不是G4，是製造電梯和升降機的老闆的支出不足。政府增加自己的開支，而不能令事故的本源開支增加，哪有何用呢？不在點子上  我相信這沒有說過了吧？我昨天有聆聽的。",
+      "sequence": 19,
+      "bookmark": "SP_MB_LKH_00027"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你在財委會特別會議上有否提出這問題？",
+      "sequence": 20,
+      "bookmark": "SP_LC_CM_00028"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "財委會特別會議的情況都是一樣，我尚未說到，便有人站起來說：“主席，梁國雄議員的發言與議題無關”。那次主席是容許我說的，那次主席明鑒，讓我繼續說，但只有4分鐘時間......",
+      "sequence": 21,
+      "bookmark": "SP_MB_LKH_00029"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請不要在這裏長篇討論應該於財委會特別會議上討論的議題。",
+      "sequence": 22,
+      "bookmark": "SP_LC_CM_00030"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我沒有重複，肯定沒有。我是解釋......",
+      "sequence": 23,
+      "bookmark": "SP_MB_LKH_00031"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你繼續發言。我已經說了，如果你離題或重複，我是會制止你發言的。",
+      "sequence": 24,
+      "bookmark": "SP_LC_CM_00032"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我沒有離題，也沒有重複。我昨天回去思索良久才準備這篇講辭的。 \n 其實問題是甚麼呢？不論是政府外判公共屋邨升降機服務的外判商也好，甚麼也好，27%的升幅是大，即升降機的總數，但人手只有5.5%。主席，你看看那支出，哪一項是用以培訓人手？監察是沒有用的，石頭又如何能榨出血來？沒有人手。因此，我想提出增加撥款又不行，想提出減少撥款也不行，不知該如何是好，對症而不下藥。你找很多inspectors來inspect是沒有意思的，因為沒有人做事。 \n 主席，你知道，也聽到了，我不重複。全香港人也知道的，到茶樓喝茶也會遇到升降機下墮而意外死亡，便在2樓發生，墮斃不是因為跳樓身亡，而是那升降機送你到地獄。所以，在綱領(2)，各位同事這麼關心安全，應該看到這個問題，我不知道為何他們不說，我沒有辦法，便曲筆來說。我想減他們薪酬，因為他們做得不好，但減薪酬又對市民不好，現在我說加薪也不行。 \n 所以，如果綱領(2)是支出了一倍多的薪酬，仍不足以應付大家想解決的問題，這便是敗筆。如果相關的局長，我知道應是發展局局長，他也看不到這個問題......他經常說人手不足，其實再說下去，這真的與他有關。向僱員再培訓基金注資150億元，其實僱員再培訓基金應重點下重藥，現在沒有辦法了，因為我們的議會已無話可說。所以我今天在這裏盡言責，希望即使我們就條例草案不能要求增加開支，但也不能用減薪酬來懲罰他  將來我會懲罰其他人  我只能說，當我們......司長都離開了，曾俊華應該如是，他應督促僱員再培訓基金重點下重藥，現在我們撥了150億元出來......",
+      "sequence": 25,
+      "bookmark": "SP_MB_LKH_00033"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你正在重複，請不要再重複。",
+      "sequence": 26,
+      "bookmark": "SP_LC_CM_00034"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "好的，我不說這問題。我說說當中的鐵路安全問題，在綱領(2)中，他是負責監察的。 \n 主席，鐵路的安全問題究竟是甚麼？現時香港只得一間鐵路公司，便是港鐵，涵蓋了所有鐵路，而我們在機械裝置安全綱領(2)上是要做些工夫。增加166%，只是用以應付升降機的安全，已經有問題。主席，我們在監察港鐵時表示，如果出現事故便要扣分，或規定其不加價，但這是沒有意思的。錢固然重要，但人若到了陰間是不能花錢的。如果出現重大的安全事故，或因此而令立法會議員不能乘坐適當的鐵路回來開會，這樣有多淒慘呢？王國興議員便是說因為西鐵堵車，令他......",
+      "sequence": 27,
+      "bookmark": "SP_MB_LKH_00035"
+    },
+    {
+      "title": "王國興議員",
+      "content": "主席，請你裁決梁國雄議員的發言根本與《2013年撥款條例草案》無關，只是重複又重複說政策，希望你裁決。",
+      "sequence": 28,
+      "bookmark": "SP_MB_WKH_00036"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我有重複？好的，主席，我知道我有原罪，我不說了。",
+      "sequence": 29,
+      "bookmark": "SP_MB_LKH_00037"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你離題了。",
+      "sequence": 30,
+      "bookmark": "SP_LC_CM_00038"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我知道我有原罪。這是重複？真是天地良心，我說他的問題，他遲到，說是因為乘坐西鐵堵車，我為他鳴不平。",
+      "sequence": 31,
+      "bookmark": "SP_MB_LKH_00039"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你離題了。",
+      "sequence": 32,
+      "bookmark": "SP_LC_CM_00040"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "日以繼夜，夜以繼日都無以為繼。 \n 所以，如果我們的財政司司長有統籌能力，應過問而不是由下面拿“信封”，如果“信封”不足，便說：“兒子，你夠錢花嗎？”......",
+      "sequence": 33,
+      "bookmark": "SP_MB_LKH_00041"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請停止再就這方面發言。",
+      "sequence": 34,
+      "bookmark": "SP_LC_CM_00042"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我知道這是原罪的問題，我犯了原罪，我下地獄，其他人則上天堂。我現在不說了，天地良心，各位明鑒。",
+      "sequence": 35,
+      "bookmark": "SP_MB_LKH_00043"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？ \n(沒有其他委員表示想發言)",
+      "sequence": 36,
+      "bookmark": "SP_LC_CM_00044"
+    },
+    {
+      "title": "全委會主席",
+      "content": "如果沒有，我現在請政府官員發言答辯。 \n(財經事務及庫務局局長示意無需發言答辯)",
+      "sequence": 37,
+      "bookmark": "SP_LC_CM_00045"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 38,
+      "bookmark": "SP_LC_CM_00046"
+    },
+    {
+      "title": "",
+      "content": "全委會主席：我現在向各位提出的待決議題是：上述各總目的款額納入附表。現在付諸表決，贊成的請舉手。 \n(委員舉手) \n陳偉業議員起立要求記名表決。 Mr Albert CHAN rose to claim a division.",
+      "sequence": 39,
+      "bookmark": "EV_PUT_00047"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員要求記名表決。表決鐘會響5分鐘。 \n(在表決鐘響起期間，梁國雄議員舉手示意)",
+      "sequence": 40,
+      "bookmark": "SP_LC_CM_00048"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你有甚麼問題？",
+      "sequence": 41,
+      "bookmark": "SP_LC_CM_00049"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "這裏的燈光可否調校光暗？",
+      "sequence": 42,
+      "bookmark": "SP_MB_LKH_00050"
+    },
+    {
+      "title": "全委會主席",
+      "content": "燈光有甚麼問題？",
+      "sequence": 43,
+      "bookmark": "SP_LC_CM_00051"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我看不清楚。",
+      "sequence": 44,
+      "bookmark": "SP_MB_LKH_00052"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我請工作人員看一看。",
+      "sequence": 45,
+      "bookmark": "SP_LC_CM_00053"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "謝謝。",
+      "sequence": 46,
+      "bookmark": "SP_MB_LKH_00054"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在開始表決。",
+      "sequence": 47,
+      "bookmark": "SP_LC_CM_00055"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請各位委員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 陳鑑林議員、劉皇發議員、譚耀宗議員、張宇人議員、王國興議員、林健鋒議員、梁君彥議員、黃定光議員、李慧琼議員、陳克勤議員、陳健波議員、梁美芬議員、黃國健議員、葉國謙議員、田北辰議員、吳亮星議員、何俊賢議員、易志明議員、姚思榮議員、莫乃光議員、\n陳婉嫻議員、梁志祥議員、郭偉強議員、張華峰議員、葛珮帆議員、廖長江議員、潘兆平議員、鄧家彪議員、蔣麗芸議員、盧偉國議員及謝偉銓議員贊成。 \n 李卓人議員、劉慧卿議員、何秀蘭議員、張國柱議員、毛孟靜議員、胡志偉議員、郭榮鏗議員、張超雄議員、單仲偕議員及葉建源議員反對。 \n 梁國雄議員、陳偉業議員、黃毓民議員及陳志全議員棄權。",
+      "sequence": 48,
+      "bookmark": "SP_LC_CM_00056"
+    },
+    {
+      "title": "",
+      "content": "全委會主席曾鈺成議員沒有表決。 \n 全委會主席宣布有46人出席，31人贊成，10人反對，4人棄權。由於議題獲得在席委員以過半數贊成，他於是宣布議案獲得通過。 THE CHAIRMAN announced that there were 46 Members present, 31 were in favour of the motion, 10 against it and four abstained.  Since the question was agreed by a majority of the Members present, he therefore declared that the motion was passed.",
+      "sequence": 49,
+      "bookmark": "EV_VOTED_00057"
+    },
+    {
+      "title": "全委會主席",
+      "content": "全委會現在開始就57個有修正案的總目進行辯論，涉及共710項修正案。 \n 全委會將會就該710項修正案進行共113項合併辯論及35項獨立辯論。在所有辯論結束後，全委會會按條例草案載列各總目的次序，逐一表決各項修正案及相關的總目。 \n 辯論組合及各項修正案的詳情載於會議講稿附錄I。全委會將按照附錄I所列的次序進行每項辯論。 \n 在每項辯論開始時，我會先請附錄I所列出的該項辯論中動議第1項修正案的委員發言及動議該項修正案，然後再請在該項辯論中動議其他修正案的委員及其他委員發言。",
+      "sequence": 50,
+      "bookmark": "SP_LC_CM_00058"
+    },
+    {
+      "title": "全委會主席",
+      "content": "現在進行第1項辯論。",
+      "sequence": 51,
+      "bookmark": "SP_LC_CM_00059"
+    },
+    {
+      "title": "秘書",
+      "content": "總目21。",
+      "sequence": 52,
+      "bookmark": "SP_LC_CLK_00060"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員及陳志全議員已分別作出預告，提出共6項修正案，以削減分目000而將總目21削減不同的款額。修正案關於行政長官辦公室員工薪酬及其他開支。 \n 全委會現在就該6項修正案進行合併辯論。我會先請梁國雄議員發言及動議會議講稿附錄I的第1項修正案。",
+      "sequence": 53,
+      "bookmark": "SP_LC_CM_00061"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，早晨，我根據你的指示，動議你剛才讀出的修正案。 \n 主席，長話短說，我的修正案所針對的是行政長官辦公室的開支。控制公帑開支其實是一個未必正確的構想，相信主席當年求學時，可能也曾讀過數篇由馬克思撰寫的文章，內容涉及嘲諷所謂廉價政府的論述，意思是難道你以為減少官僚的收入，便可以造福社會了嗎？社會的貧窮或低下階層人士受苦，並非因為有些人薪金太高，而是支付薪金給他們的人透過他們作出“搵笨”和剝削的行為。為何小弟當年讀過這些文章之後，要在今天重提舊調呢？沒有辦法，那是因為根據我所作出的些許研究，本地官員的薪金出奇地高，而本地議員的薪酬則與外國議員相若。行政長官辦公室的許多開支，均用以侍奉一種很特別的議員。港英時代稱這種議員為行政局議員，這當然是英國人在找我們便宜，給他們冠上議員之名，但他們議事時其實是面對一位遠渡重洋而來，老家在外國的港督。 \n 現時的行政長官辦公室當然不是行政會議的直接組成部分，而是協助行政長官令行政會議得以有效運作。相信主席你也知道，我們的政制常有改變，有時說司局級官員是行政會議的成員，有時卻改口說不是，聲稱他們只是on call(應召)的，只會在有必要時進會議室說幾句話。其實到了現在，我也不知道這制度究竟如何運作，陳家強局長應向我們解釋一下。坦白說，我不知道其行事方式如何，行政會議召開會議時，3司12局官員究竟是否要在門外候命，當談到某一議程時便召其進內作出解說？是否在談到運輸及房屋局職權範圍內的事務\n時，有關局長便要出席會議，我實在不知道。所以，在行政長官辦公室的開支是否用得其所這方面，我們作為《基本法》授權監察的機構，其實是不知其法，亦不得其法，因為我不能經常向局長問個究竟。 \n 接着，我要指出為何要削減行政長官辦公室的開支，而我要提出的第一點，自然與我所爭取的目的有關，那就是全民退休保障毫無進展。主席，你昨天要求不要讓這東西遮掩着我，所以我沒有將之豎起。你可以看到，梁振英在其競選政綱第33頁怎樣說。他說(我引述)“研究人口老化對公共財政的影響，及早籌謀和作出財政撥備，成立及累積養老基金，以應付日後人口老化對養老、護老、醫療等服務需求的額外開支。”(引述完畢)這是載於梁振英競選政綱第33頁的一個莊嚴承諾。 \n 主席，梁振英上台後，的確有一些動作，“成熟一項推一項”，這我亦聽到，但問題是要怎樣令它成熟呢？究竟行政長官辦公室有否令行政長官的競選政綱成熟呢？看來沒有。舉例而言，行政長官提出的5司14局方案，在上一屆立法會不得要領，碰了壁。然而，撫心自問，天地良心，行政長官也確實從無放棄這構思，從未宣稱不再實行5司14局之議，不是嗎？他在競選時作出了莊嚴的承諾，冀能透過5司14局，在增設兩個副司長職位及兩個政策局之下，秉行他的政綱，這究竟能否在不能如願組裝成所需機器的情況下，發揮同等效能？梁振英先生並無交代，究竟是5司14局的發明屬於僭建和無必要，還是因為5司14局的組成受到阻撓，而令他原本設想達成的效能無法實現？小弟曾作出研究，副政務司司長在工作上可協助政務司司長，讓林鄭月娥無須事無大小，也要親自來立法會處理，只要是特首未克處理的事情，她都要接手。其實，她是代替了特首，只是我們無法開設一個副特首的職位而已。 \n 現在的問題是一般而言，在5司14局這部機器崩壞之後，梁振英究竟使用政府內部哪一套機器來秉行其莊嚴承諾？又或梁振英如何處理其行政長官辦公室的職務？無人知曉。我們當然不能因為特首的過失而懲罰其下屬，但其下屬有一重要職能，就是要實踐特首的競選承諾，但這卻未能實現。我們現在看到的是，特首把所有希望寄託於一點，把所有雞蛋放在一個籃子裏，而這個籃子就是重設扶貧委員會。 \n 主席，請你看一看，行政長官辦公室內有哪一編制，是針對此一事情？他派人前來告訴我，請我不用擔心，因為有關全民退休保障一事，他們正在研究，很快便有結果。他們請我不用着急，說即使“拉\n布”也不會“拉”出甚麼結果來。我於是問他，伊于胡底，為何不乾脆告訴我。我甚至向他索取資料，詢問他既然說有進展，那麼又有否與立法會各黨派商談？可否給我相關資料？但是卻甚麼也沒有......",
+      "sequence": 54,
+      "bookmark": "SP_MB_LKH_00062"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你的修正案是將行政長官辦公室的全年開支由九千多萬元削減至1,000元，你剛才的發言跟這項修正案有甚麼關係？",
+      "sequence": 55,
+      "bookmark": "SP_LC_CM_00063"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我只說了一部分。由九千多萬元削減至1,000元，是因為行政長官辦公室的人員失職......",
+      "sequence": 56,
+      "bookmark": "SP_MB_LKH_00064"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你應該在發言時說明你的修正案。",
+      "sequence": 57,
+      "bookmark": "SP_LC_CM_00065"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "對，單是不設立全民退休保障或令其成為空中樓閣這一罪孽，已應將其開支削減2,000萬元。原因很簡單，這是他向長者或本會議員“誓神劈願”地說要為長者做的事。我有時也要求其他議員和CY談一談，但他們反過來着我不要戲弄他們，因為除了和他共進早餐之外，他們也沒有機會見他。我反問不是聯絡行政長官辦公室便可以了嗎，但卻獲告知即使進入該辦公室也有困難。在下層用膳完畢想轉左離開之際，已經會被截住查問，原來是必須預約的，又或你必須專程找他。 \n 行政長官辦公室內究竟有否專責部門處理此事？我認為沒有，為此已經要削減其2,000萬元開支。不過算了吧，既然今天要與人為善，給它打個九折，只削減1,800萬元好了。 \n 主席，我今天本不應站在這裏，而應處理其他事情。削減其撥款額的目的是要彰顯一點，那便是“做官不為民作主，不如回家賣蕃薯”。老實說，我們已經非常仁慈，給他留下了1,000元，讓他真的可以買些蕃薯回去烤。 \n 主席，你也許會覺得我有否言過其實，但你可以看看我昨天讀出的內容，我也不想再讀出，免得讓人尷尬。我想舉出的一個例子是，政府大張旗鼓，委任一位必定是透過行政長官辦公室或中央政策組找\n來的仁兄周永新教授，由他開始作出爭取。在我昨天讀出的1994年譚耀宗議員大戰彭定康的紀錄中，譚耀宗議員曾反駁當時尚未是教授而只是博士的周永新，聲稱周永新誤會了他，他們的立場從沒有退縮。 \n 試想一下，周永新教授在1994年的英治時代與譚耀宗議員“論劍”時......",
+      "sequence": 58,
+      "bookmark": "SP_MB_LKH_00066"
+    },
+    {
+      "title": "王國興議員",
+      "content": "主席，我希望你裁決梁國雄議員的發言正在重複昨天曾經引述的故事。",
+      "sequence": 59,
+      "bookmark": "SP_MB_WKH_00067"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我昨天甚麼時候引述過周永新？王國興議員可否“聽書”？他太離譜了。",
+      "sequence": 60,
+      "bookmark": "SP_MB_LKH_00068"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請面向主席發言。",
+      "sequence": 61,
+      "bookmark": "SP_LC_CM_00069"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我昨天有否提過周永新？",
+      "sequence": 62,
+      "bookmark": "SP_MB_LKH_00070"
+    },
+    {
+      "title": "全委會主席",
+      "content": "王國興議員，多謝你多次提醒我作出裁決。我正很認真聆聽委員發言，希望你不要再打斷委員發言以提醒我。如果我發現委員離題或重複，我是會制止的。 \n 梁國雄議員，你剛才的發言過於長篇，請針對你為甚麼要將行政長官辦公室的全年開支削減至1,000元作出解釋。",
+      "sequence": 63,
+      "bookmark": "SP_LC_CM_00071"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "即使要遙望繁星，也要腳踏實地，切實聆聽他人的發言才是。 \n 我為何要這樣做呢？因為你可能公事繁忙，不知道現時扶貧委員會內的周永新教授說過些甚麼。他現已白髮蒼蒼，自己也有機會領取“老人金”，而被委任加入該委員會的他說過些甚麼呢？他是這樣說的......",
+      "sequence": 64,
+      "bookmark": "SP_MB_LKH_00072"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你的發言內容跟行政長官辦公室的開支無關。",
+      "sequence": 65,
+      "bookmark": "SP_LC_CM_00073"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "怎會無關？讓我給你解釋，將謎底告訴你。",
+      "sequence": 66,
+      "bookmark": "SP_MB_LKH_00074"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你說出當中的關係。",
+      "sequence": 67,
+      "bookmark": "SP_LC_CM_00075"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "一位獲全港認為是研究全民退休保障泰斗的教授，在加入扶貧委員會後，竟對記者說他想到一個天下無敵的好點子，詳情我不細表，總之是每月派發4,000元，而政府無須付錢。他還說出了以下一句話：“我不認為2017年在扶貧委員會內會有共識。”換言之，在他由現在2013年留任至2017年期間，也不知道他在做甚麼。",
+      "sequence": 68,
+      "bookmark": "SP_MB_LKH_00076"
+    },
+    {
+      "title": "全委會主席",
+      "content": "這跟行政長官辦公室的開支有甚麼關係呢？",
+      "sequence": 69,
+      "bookmark": "SP_LC_CM_00077"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "因為它請來了一個被公認為泰斗的人，但這人提出的意見卻無法執行，那麼是否請錯了人呢？如果政府真的有誠意，又怎會邀請一位為此爭取了數十年的人加入委員會，提出良策，然後卻對記者聲稱看不到未來數年可以做到些甚麼？究竟是周永新教授“老懵懂”，還是政府請錯人？這樣不是浪費公帑嗎？我聽到之後實在深感憤怒(計時器響起)......",
+      "sequence": 70,
+      "bookmark": "SP_MB_LKH_00078"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，發言時限到了。",
+      "sequence": 71,
+      "bookmark": "SP_LC_CM_00079"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "......所以，有時其實...... \n梁國雄議員動議的議案如下： \n“議決為削減分目000而將總目21削減94,480,000元。”",
+      "sequence": 72,
+      "bookmark": "SP_MB_LKH_00080"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我現在請陳志全議員發言，但他在現階段不可動議修正案。",
+      "sequence": 73,
+      "bookmark": "SP_LC_CM_00081"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "多謝主席讓我們發言，也盡量不打斷我們發言。其實，發言時間不過是15分鐘，但如果被打斷，有可能導致要點算人數，所以，如果委員能暢順地完成發言，會議也會暢順一點。但是，如今，在我發言之前，我希望點算人數。",
+      "sequence": 74,
+      "bookmark": "SP_MB_CCC_00082"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 75,
+      "bookmark": "SP_LC_CM_00083"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 76,
+      "bookmark": "EV_BELL_00084"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請委員返回座位。陳志全議員，請繼續發言。",
+      "sequence": 77,
+      "bookmark": "SP_LC_CM_00085"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，接下來我們會有148項合併辯論及獨立辯論。在這部分，我們要處理的是行政長官辦公室、行政會議及行政長官相關的開支。就這部分的修正案，主席安排了4項合併辯論，而第1項合併辯論集中討論行政長官辦公室的員工薪酬及其他開支。梁國雄議員剛才提出要削減的9,448萬元包括了行政會議的開支，但由於現在這部分是合併辯論，第1項合併辯論是關於行政長官辦公室員工的，所以，我會留待第2項合併辯論才討論關於行政會議的修正案。不過，我希望主席明白，由於這4部分互有關連，我們未必是故意離題或重複，在引述時會互相指涉，希望主席盡量包容，如果我們有所逾越，可以給予我們適當的裁示，我先此聲明這一點。 \n 我的修正案與梁國雄議員的修正案的分別在於減去行政會議及其非官守成員的酬金開支，這點我剛才已說過了。因此，我的第2項修正案只建議削減72,699,000元，另外那3項修正案則建議削減員工個人薪酬、津貼、一般部門及特別委任開支。我不在此詳細讀出數字了，我相信議員手上已有文件，可以自行細看。 \n 行政長官辦公室這個部門，無論對市民或議員來說，都是比較神秘、不貼身和不清楚的。立法會議員對行政長官辦公室的監察，有可能是就財政預算案(“預算案”)提出修正案以修訂其開支時，才有機會向公眾表達其不足或不合格之處，需要削減開支，甚或削減其大部分開支。我的修正案建議削減其開支72,699,000元。很多市民未必知道香港特別行政區行政長官辦公室(下稱“特首辦”)在哪裏，現時特首辦位於香港金鐘添華道1號，即政府總部及立法會綜合大樓後面。 \n 在我交代如何及為何要削減特首辦的開支時，要有一個公道的標準。首先，我想闡述我的立論。要評核特首辦做得好不好、應否削減其開支、應削減多少開支，最科學的方法是瞭解其基本宗旨是甚麼、有否完成其應有職能；如否，便要看看是什麼程度，應該如何削減其開支？因此，我在此會詳細和清楚地說明，希望說服其他議員支持我這項削減特首辦開支的修正案。 \n 首先，我們要看看究竟特首辦的職能是甚麼。別說問市民，即使問議員，他們也未必可以完全說得清楚，我現在立論時先說明一下。根據這份預算案的政府一般收入帳目，其實每個部門都有列出其宗旨和簡介。看了各部門的宗旨和簡介後，便可以相應評核部門有哪些工作已完成或沒有完成。特首辦的宗旨是提供支援予行政長官，以輔助他制訂政策和兌現施政報告的承諾。因此，我剛才不同意梁國雄議員讀出梁振英的政綱，指梁振英未有履行其政綱，因為沒有明文規定特首辦須協助特首履行其政綱。但是，稍後當我們討論削減梁振英薪酬時，大家便可以拿梁振英的政綱來討論，評論他有否兌現其政綱，如果兌現了三成，那便把他的薪酬削減七成吧。現時特首辦的宗旨只是輔助行政長官制訂政策和兌現施政報告的承諾。由於施政報告“遲交功課”，在1月初才發表，因此，就特首有否兌現施政報告的承諾，暫時還未能打分。 \n 特首辦還為行政長官籌劃公務和社交活動，並執行各項有關安排，統籌政府的新聞資訊及公共關係策略，確保行政長官辦公室大樓、香港禮賓府及行政長官的粉嶺別墅管理得宜。我亦會參考簡介中提及特首辦的職能，始評核特首辦是否稱職，需否削減其開支。特首辦負責確保行政長官在制訂和協調政策，以及香港特別行政區政府的管治工作上，得到最佳意見及支援。關於這一點，我不擬在這一節詳述，但我認為其他議員可以留意特首辦能否讓行政長官得到最佳意見和支援。此外，特首辦負責確保行政長官和行政長官夫人(梁太)可有效地履行公務和出席各種社交活動  我也試過與梁太一起主禮，不知道是榮幸還是倒楣  以及行政長官能以合乎香港特區體面的方式接見訪客並予以款待。 \n 主席，特首辦在預算案中的全年預算開支，扣減行政會議及其非官守議員的薪酬開支(我剛才指出梁國雄議員修正案中並沒有扣減這部分)，高達7,270萬元，這是一筆為數不少的公帑，與政府現擬給四川的賑災撥款相比，只相差少許。這筆錢能否用得合情合理，我們必須要有基本的評審準則，因為這是納稅人的錢。剛才，我已根據總目\n21說出特首辦的官方宗旨和簡介。其中，宗旨提及特首辦負責統籌政府的新聞資訊和公共關係策略，我想在這一節集中討論和釐清這點，因為這裏涉及一個很重要的概念  我不會逐個概念闡述，不然說三天三夜也說不完  這裏我想集中討論公共關係這概念，看看特首辦究竟能否達到這個職能。 \n 公共關係這個概念最先出現於美國總統托馬斯․傑斐遜在1807年的國會演說。根據他的定義，公共關係是一種管理功能，制訂政策和程式以獲得公眾的諒解和接納。梁振英的首要任務可能不是“做實事”，而是做好公共關係，因為他制訂的政策除了“硬推”外，也要得到公眾的諒解和接納，我相信這裏說的“公眾”包括立法會，如果得不到立法會接納，這些政策是無法有效推行的。 \n 根據《美利堅百科全書》的定義，公共關係是建立一個組織與其既定公眾之間相互瞭解的活動；根據《大英百科全書》，公共關係旨在傳遞有關個人、公司、政府機構或其他組織的信息，並改善公眾對其態度的種種政策或行動。上述定義是我從眾多解釋中揀選出來的。大家都會認為，在過去這段日子，即去年7月1日至今，特首辦在公共關係方面的處理非常差。特首辦履行其公共關係職責的表現，是否符合要求而應獲得撥款呢？ \n 既然公共關係包含兩個重大方向：傳遞有關政府機構的信息，並改善公眾對其態度的種種政策或行動；也要完成其管理功能，在制訂政策時獲得公眾的諒解和接納，那麼，我認為特首辦有天大的失職，單是“公共關係”這概念所提出的要求，已經做不到，這樣才能確切評價我們現時討論要削減撥款，各位認為是否成立，以及應該削減多少撥款。 \n 在釐清概念後，我還會提供理據作支持，以嚴謹地論證我對撥款提出的質疑。我們且由梁振英上任後  我突然說了書面語 從梁振英上任後的一些公眾活動安排，我們可以得出一些結論，便是市民認為他的公共關係處理非常差，我稍後會就此再作討論。我現在想談特首辦回應查詢的態度和效率。毛孟靜議員在席真好，因為我所舉的例子與她有關，如果有機會，她可以就這項目發言。特首辦是應該回應查詢和投訴的，但他們似乎沒有任何指引，政府部門接獲投訴後必須在多少時間內回覆呢？雖然有關回覆只是告訴你在24小時內會收到，但亦有就處理和解決作出指引。然而，特首辦卻似乎沒有這些規限。我舉個例子  我不想浪費時間，只餘下1.5分鐘發言時\n間，希望可以說完  在北京舉行兩會期間，有香港記者在諾貝爾和平獎得獎者劉曉波的妻子劉霞被當局軟禁的住所下採訪，卻被來歷不明，自稱是保安人員的人毆打受傷，我相信大家也記得這件事......",
+      "sequence": 78,
+      "bookmark": "SP_MB_CCC_00086"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，會議不足法定人數。",
+      "sequence": 79,
+      "bookmark": "SP_MB_WYM_00087"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 80,
+      "bookmark": "SP_LC_CM_00088"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 81,
+      "bookmark": "EV_BELL_00089"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員，請繼續發言。",
+      "sequence": 82,
+      "bookmark": "SP_LC_CM_00090"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，我剛才在第1項合併辯論中談到要削減特首辦員工的薪酬。我舉例說明特首辦未能克盡職守。我提到在北京舉行兩會期間，有記者被保安人員毆打，此外，示威者楊匡亦被公安扣押。在此我要申報，楊匡是我所屬的另一個政治組織“前綫”的其中一位執委。公民黨立法會議員毛孟靜事後致函特首辦要求關注事件，但事隔1個月後，毛議員才收到回信，信中重申特區政府的立場是保障及尊重記者在內地的合法採訪，又指香港特區政府駐北京辦事處已即時聯絡有關人士。 \n 毛孟靜議員抨擊  報道是這樣說的  特首辦故意拖延回應，待事件丟淡了才作沒有內容的回應，是“搏”香港人忘記事件。毛孟靜議員亦指信件沒有內容，反映當局希望置身事外(計時器響起)......我還沒有說完，一會兒再說。 \n(黃毓民議員站起來)",
+      "sequence": 83,
+      "bookmark": "SP_MB_CCC_00091"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃毓民議員，請坐下。",
+      "sequence": 84,
+      "bookmark": "SP_LC_CM_00092"
+    },
+    {
+      "title": "MS CLAUDIA MO",
+      "content": "Chairman, I think I am going to do this in English, so that I could, maybe, avoid being accused of getting repetitive.  I had no idea that Mr CHAN was going to raise my experience as an example.  Now, to actually ……",
+      "sequence": 85,
+      "bookmark": "SP_MB_CM_00093"
+    },
+    {
+      "title": "全委會主席",
+      "content": "毛議員，你用哪種語言跟你是否重複並無關係。",
+      "sequence": 86,
+      "bookmark": "SP_LC_CM_00094"
+    },
+    {
+      "title": "MS CLAUDIA MO",
+      "content": "At least it is linguistically different, Chairman.  Now, to actually suggest that we should cut down the expenses, the staff payments of this Chief Executive\u0027s Office, from $90 million to ― what do you say ― $1,000 may be unrealistic, naturally, right?  Come on, a $1,000 bucks.  How are you going to operate on that?  But I am going to cite my own example to show that this Chief Executive\u0027s Office is not actually doing its job properly.   \n For one, it is supposed to do PR (public relations), right?  On 11 March, I wrote a letter to the Chief Executive, addressed to the Chief Executive\u0027s Office, naturally.  I demanded the Chief Executive to do something about this business about Hong Kong reporters, mainly television cameramen, being really beaten up ― not just being manhandled but actually beaten up ― in Beijing in broad daylight.  What on earth is happening?  Where is the free press right that should be enjoyed by all press people anywhere, not just those from Hong Kong. And this is a Hong Kong-Mainland affair.  So I wrote a letter saying that he should do something, that he should liaise with the authorities up there to see what was happening, and that he should get the culprits, the baddies, the thugs caught and so on and so forth.  I think, about 10 days later, I actually received a letter signed by a personal secretary of the Chief Executive that said, \"We acknowledge receipt of your letter to the Chief Executive and we are going to reply to you accordingly.\"  I beg your pardon, right?  I thought, \"We are doing official correspondences and that is the sort of reply I get after 10 days to start with!\"   \n Now, Chairman, I am not particularly a particular person.  I do not care about etiquette or anything ― except if you look at that first reply I got, you will see the wording is actually amazing.  It is practically rude.  It is actually rude. I do not know if that is the set format they would reply to any member of the public who writes letters to the Chief Executive\u0027s Office.  I thought, \"Never mind, okay, you have acknowledged receipt of my letter.  Fine, I will wait to hear from you again.\"  And, finally, on 12 April, exactly a month after I wrote the original letter, I got their reply.  Again, with that sort of rather rude tone, the letter said, \"We are doing our best …… Of course, we will safeguard press freedom …… Goodbye\".  That was the sort of tone I got.  And it took them ― the Chief Executive\u0027s Office ― one whole month to reply to my complaint and \ndemand.  I wrote to them in my capacity as a legislator, talking about the relationship between the executive and the legislative branches in this town. It is shameful.  It is absolutely shameful.  Why would they do things like that?  I mean if they are just going to give such a superficial reply, they should not be bothered anyway.  They could always just do it a week after they got my letter, right?  I am not expecting …… I was not demanding an official answer within 24 hours.  I know things do take time.  But exactly one month later …… And mind you, that final reply letter was actually dated two days before I got it.  As we were saying, the Chief Executive\u0027s Office is located just behind us.  It took that letter practically two days, 48 hours, to reach my office upstairs.  What is happening to the staff at the Chief Executive\u0027s Office, Sir?   \n When you guys over there say we should cut it down to $1,000 bucks and let the Chief Executive\u0027s Office run on its own, you are just making fun of things. Okay.  As far as the numbers are concerned, I may have reservations.  But to actually say \"This is nonsense, you should not complain.  Things are doing just fine.  And, if you stand up to talk, you are just doing filibustering\" is …… Now, this is most unfair.  That would be very unfair as well.  I have the responsibility to be my constituents\u0027 representative.  I was a journalist for years and years on end, and I know what free press is about.  I do not need ……  \n(黃毓民議員站起來)",
+      "sequence": 87,
+      "bookmark": "SP_MB_CM_00095"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃毓民議員，你有甚麼問題？",
+      "sequence": 88,
+      "bookmark": "SP_LC_CM_00096"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，請點算人數。",
+      "sequence": 89,
+      "bookmark": "SP_MB_WYM_00097"
+    },
+    {
+      "title": "全委會主席",
+      "content": "毛議員，請先坐下。秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 90,
+      "bookmark": "SP_LC_CM_00098"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 91,
+      "bookmark": "EV_BELL_00099"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請委員返回座位。毛孟靜議員，請繼續發言。",
+      "sequence": 92,
+      "bookmark": "SP_LC_CM_00100"
+    },
+    {
+      "title": "MS CLAUDIA MO",
+      "content": "Thank you.  Now, to go back to what I was saying.  I found the performance of the Chief Executive\u0027s Office staff incompetent, ineffectual and actually appalling.  I was literally appalled by that reply letter I was talking about ― the reply letter I finally got on 12 April.  It was insincere, to say the least.  It was insincere.  Perhaps, I should consider giving a copy of those two letters ― the first one acknowledging receipt of my complaint letter and the second one replying to me with no replies, practically.  This Chief Executive\u0027s Office is operating, as I was saying, incompetently and ineffectually, at least on the PR front.  What do you think you are doing?  Instead of trying to make things better, to try to get the opposition into your count and to soothe feelings, you actually make things worse.  So I do not know how the $90 million set aside, earmarked, for this Chief Executive\u0027s Office is to be spent.  I do not know exactly who does what.  Who should care most of the time anyway? You just do your job, okay?  Do your work.  In modern society, we all live with this thinking of trust.  Trust is very important.  I trust you do your work. I am a taxpayer.  But if that is the attitude the Chief Executive\u0027s Office would adopt, what does one say?   \n Now, as Mr CHAN quoted me telling some reporters over this particular experience of mine, my conclusion is that the Chief Executive\u0027s Office is designed and destined to actually shoo away bothers, troubles and inconveniences.  You guys just go away.  And it took them that long a time to reply to such an obvious and not-that-difficult-to-deal-with complaint.  Why would they do that?  That could be just one reason ― stalling tactic, stalling. They want to make sure the public in Hong Kong would just forget about this particular incident, controversy and get fatigued.  They say, \"Oh, we have got so many controversies around town.  I was so tired, so bored, almost so sick of it, of all of them.\"  Aren\u0027t we?  Should we get tired and fatigued and forget about it?  Indeed, that particular incident of Hong Kong press people, TV cameramen in particular, being really beaten up in Beijing, when it first happened, Sir, it was front-page news.  But by the time I got that letter from the Chief Executive\u0027s Office a month later, nobody cared except one newspaper by the name of Hong Kong Economic Journal.  The reporter saw my posting on Facebook and called me up, \"Oh, what do you think about this lateness of the letter?\"  And so I answered him by saying \"stalling tactic\".  That is what this Administration is about.  And, you want $90 million to play your stalling game?  This is completely unacceptable. \n Once again, I do not know …… and I could not possibly agree that we should agree to this $1,000 operation fee or fund for the Office.  But this amount of expenditure for the Chief Executive\u0027s Office really deserves a huge cut.  That is for sure.  Thank you.",
+      "sequence": 93,
+      "bookmark": "SP_MB_CM_00101"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，其實在北京發生的事情，即陳志全議員和毛孟靜議員剛才所說的事情，無論他們是以甚麼語言發言，所說的均是同一件事情。有關我申請削減行政長官辦公室的開支這項修訂，其實大家也知道，行政長官辦公室的其中一項工作，正是統籌政府的新聞資訊及公共關係策略。 \n 主席，“冠蓋滿京華，斯人獨憔悴”，當天你也在場，你正在那裏開會，你當然是代表立法會，雖然你當天並非以立法會主席的身份到那裏開會。你對傳媒說得非常清楚  所有正在吃飯的人捧着飯碗一直在看  你說：“絕對不能接受打人，一定要查”。這是擲地有聲的，但擲下的不是頭顱，而是擲下飯碗“嘣”的一聲說：“好，說得好”。“老兄”，一位特首被人追問數次也是支吾以對，而那些負責協助他處理這件事的人還要拖延時間。 \n 主席，你用了多少錢聘用公關人員，你是沒有這樣做的。我們立法會主席並沒有聘用公關人員負責統籌新聞資訊和公共關係策略，是沒有這個職位的，對不對？有沒有？",
+      "sequence": 94,
+      "bookmark": "SP_MB_LKH_00102"
+    },
+    {
+      "title": "全委會主席",
+      "content": "立法會秘書處是有開設職位，聘請人員擔任公關工作的。不過，梁議員，剛才兩位委員實際上已就此說了很多，我希望你不要再花大量時間討論同樣的事宜。",
+      "sequence": 95,
+      "bookmark": "SP_LC_CM_00103"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白，舉一反三。 \n 我又說回類似的事件。在一次特意就特首的樓宇有否僭建物或曾否挖洞一事在本會舉行的特別會議上，陳茂波局長到本會接受我們的諮詢。因為我們當時並非採用《立法會(權力及特權)條例》，所以只是普通諮詢。我聽到主席說有些事情其實可在委員會上提問。我問局長究竟特首所挖的洞是怎樣的呢？主席，這真是公關大失敗，我不知\n道陳茂波局長有否詢問過特首，但他怎樣也不願意說出來。他與一位名叫區載佳的官員答覆說：“很抱歉，我們不會就個別個案評論。”。 \n 主席，你都知道今天最少也有數十萬人正在看着你主持會議和看着我發言，這還不是公關是甚麼？",
+      "sequence": 96,
+      "bookmark": "SP_MB_LKH_00104"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你所列舉的兩位官員，跟現在討論的行政長官辦公室有甚麼關係？",
+      "sequence": 97,
+      "bookmark": "SP_LC_CM_00105"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "有關係的。如果他曾詢問特首，統籌新聞資訊及公關關係策略的人應為特首定調，建議他如何回答議員的問題，因為這是關乎特首之榮辱也。主席，你要聽我說，因為這真的是公共關係。陳茂波局長未進入這座建築物前，也會有記者到場“扑咪”，問他到來會說甚麼。當局長進入議會內回答我們的質詢時，所為的又是公關，對不對？這些真的全都是為了特首，並非為了政府。 \n 主席，你不要以為我亂說話。他們是否正在代表政府？他們是代表政府回答有關特首的問題。這個統籌政府新聞資訊及公共關係策略的組織是收取公帑的。這件事最少涉及兩個問題。陳茂波是否要人頭落地是他的事情，但如果特首在是次答問會中，因為陳茂波回答得差勁或區載佳回答得差勁，甚或他們兩人並沒有請示統籌政府新聞資訊及公共關係策略的專家  這些肯定是專家，否則怎會高薪厚祿  如果他們沒有這樣做，你說是否會導致特首公關形象低落呢？ \n 主席，你聽我說，你猜他們的答案是甚麼？就是“我們不會就個別個案發言”。天地良心，我們是立法機關，我們召開特別會議就1個人處理1項議程，那人名叫梁振英。當然，這個世界上有很多“梁振英”，但我們是不會理會其他梁振英有否挖洞。我們所處理的一定是我們的對口單位，就是我們根據《基本法》所賦予的職權有責任監察的那人。",
+      "sequence": 98,
+      "bookmark": "SP_MB_LKH_00106"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你舉出的這個例子，跟你這項有關削減行政長官辦公室開支的修正案關係牽強，而且你已發言超過5分鐘，請不要再重複。",
+      "sequence": 99,
+      "bookmark": "SP_LC_CM_00107"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，你錯了，你沒有看清楚資料。“老兄”，政府要求增設兩名新聞主任，但增加了表現仍然不理想。",
+      "sequence": 100,
+      "bookmark": "SP_MB_LKH_00108"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我已經提醒了你，不要再重複你的觀點。",
+      "sequence": 101,
+      "bookmark": "SP_LC_CM_00109"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我一點也沒有重複。主席，削減撥款也要有尺度，究竟要削減多少？為何現在要大刀闊斧削減呢？好像很不近人情，但這是因為那些公關的表現真的太差了。 \n 他竟然教那些......我有理由相信是他所教的，因為他是為特首的公關辦事的，而該議程是針對特首的。他竟然教局長和那個處長答覆說“我們不回答個別個案”。我便繼續問他們  我也是與人為善的  我問他們有沒有......",
+      "sequence": 102,
+      "bookmark": "SP_MB_LKH_00110"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，我已經告訴你不要再花時間談論此事，你已經說得很清楚。你正在重複你的發言內容。",
+      "sequence": 103,
+      "bookmark": "SP_LC_CM_00111"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是的，那我當作沒有說過好了。主席，一個特首動用135萬元增加兩個職位，而得到的效果卻是適得其反的。這職位要求的人才不是庸庸碌碌的，就好像在席各位議員般，不是庸庸碌碌的，而是要能突破的，即是說要保住特首的。主席，這些公帑真的是花得太冤枉了。 \n 再說，如果他們稍有自知之明，稍有瀏覽互聯網的習慣，便應該看到這個四川賑災撥款的問題。有關四川賑災撥款的修正案昨天已經讀出了，我們在總目當中說明，撥款的基礎是要有市民的廣泛支持，只要到互聯網上瀏覽，十居其九的意見都是聲言不應撥款的。究竟有沒有廣泛支持呢？沒有廣泛支持，不就等於要特首把頭撞到牆壁上送命，何況他還是人在北京。 \n 你說這個公關多失敗，假如特首人在香港而未能取得撥款，也不會有人問他是不是故意挑撥中港關係，明知不能取得撥款，悶聲發大財不就行了嗎？倒不如拿那4,000萬元撥款預算捐出去吧，國家才不需要香港那1億元，因為興建高鐵也要數百億元。這真是個公關大災\n難。第一，不獨是我們立法會議員被擺上“劏豬凳”上。甚麼是“劏豬凳”？就是凡被放在凳上的都會遭宰殺，捐款會固然“被宰”，不捐款亦會“被宰”。 \n 第二，實際上，那4,000萬元預算......一個從事公關的專家應該向其老闆提議，反正只是一點點意思，只是一封紅包或帛金，即使金額不大亦沒有問題，實在沒有需要到保險箱取錢，況且保險箱有一個名為“長毛”的人手持鎖匙，他手持鎖匙但拒絕給錢，無法封紅包或帛金便大問題了。這個公關的策略是絕對失敗的，明英宗遠征到土木堡，現在特首到了北京，天天都被人責罵。 \n 不止於此，還有的是“限奶令”的問題。同樣地，每逢特首到北京，千軍萬馬friendly fire的時候，都是公關大災難。結果，港人無論是支持他還是不支持他，都一樣煩得要死。特首在內地是“hang in air”，沒有落腳點的。兩件事都是如此，事後又無法即時給予特首一個答案，能像主席你“老人家”那樣擲地有聲......",
+      "sequence": 104,
+      "bookmark": "SP_MB_LKH_00112"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，我聽到了陳志全議員剛才的意見。的確，開首數項辯論都是關乎總目21，即行政長官辦公室的開支，所以，委員之間的發言內容或會重疊，但我想提醒你，稍後的第4項辯論是有關行政長官辦公室主要人員，包括行政長官辦公室新聞統籌專員及高級特別助理的薪酬，你剛才的論點較適合留待進行該項辯論時才提出來。",
+      "sequence": 105,
+      "bookmark": "SP_LC_CM_00113"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "知道，即先用未來錢。主席，你是對的。",
+      "sequence": 106,
+      "bookmark": "SP_MB_LKH_00114"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我請你不要再重複。",
+      "sequence": 107,
+      "bookmark": "SP_LC_CM_00115"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，為人應當節儉，現在是小弟失策，你的指導是正確的。我覺得，既然主席覺得我可以在將來再作說明，小弟向你致以萬二分的歉意，你如此英明的教導是應該讓議員察悉的。",
+      "sequence": 108,
+      "bookmark": "SP_MB_LKH_00116"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請不要離題。",
+      "sequence": 109,
+      "bookmark": "SP_LC_CM_00117"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我請求你根據《議事規則》第17條，呼籲本會的議員回來聽這勸諭。我想說明不是“傷人17”，因為廖長江議員說有“傷人17”這件事，我並不傷人的。",
+      "sequence": 110,
+      "bookmark": "SP_MB_LKH_00118"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 111,
+      "bookmark": "SP_LC_CM_00119"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我只是嚴重傷害他人的方便而已。主席明鑒，小弟獲益良多。",
+      "sequence": 112,
+      "bookmark": "SP_MB_LKH_00120"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請先坐下。",
+      "sequence": 113,
+      "bookmark": "SP_LC_CM_00121"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我跟你說話是要站着的，對嗎？",
+      "sequence": 114,
+      "bookmark": "SP_MB_LKH_00122"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你先坐下。",
+      "sequence": 115,
+      "bookmark": "SP_LC_CM_00123"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "原來如此。 \n(在傳召鐘響起期間，蔣麗芸議員舉手示意)",
+      "sequence": 116,
+      "bookmark": "SP_MB_LKH_00124"
+    },
+    {
+      "title": "全委會主席",
+      "content": "蔣麗芸議員，你有甚麼問題？",
+      "sequence": 117,
+      "bookmark": "SP_LC_CM_00125"
+    },
+    {
+      "title": "蔣麗芸議員",
+      "content": "這樣“拉布”，會否“拉”至5月底也不能結束？可否要求有關的議員具體一點說出數字，例如為何他們要把九千多萬元削減至1,000元，例如他們剛才說，有些......",
+      "sequence": 118,
+      "bookmark": "SP_MB_CLW_00126"
+    },
+    {
+      "title": "全委會主席",
+      "content": "蔣議員，請坐下。辯論是會按照《議事規則》的規定進行。",
+      "sequence": 119,
+      "bookmark": "SP_LC_CM_00127"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 120,
+      "bookmark": "EV_BELL_00128"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 121,
+      "bookmark": "SP_LC_CM_00129"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，我現在就第1項合併辯論，即有關6項修正案的合併辯論發言。我會主要談及行政長官辦公室(下稱“特首辦”)。 \n 在我作出詳細論述之前，我想指出我們最近收到審計署的衡工量值審計報告，即每年兩份的其中一份報告。但是，不知道主席是否有印象，回歸以來，審計署作為監管政府部門開支的一個獨立機關......作為一個應發揮政治防腐作用的機構，審計署卻沒有對特首辦和中央政策組作出衡工量值審計。基於這一點，我們在提出這些修正案時，也應發揮政治防腐作用，以彌補審計署的不足。自回歸以來，審計署發表了很多衡工量值審計報告，卻從沒有為特首辦做過衡工量值審計報告。 \n 關於今年的財政預算案，我記得在座的林大輝議員曾經提出一項問題(問題編號為0754)  “由行政長官辦公室在2013-2014年度預算中，為特別委任而支付的酬金較2012-2013年度下跌，原因為何？請提供相關人士的預算酬金明細、有關人員入職和離職的條件。”可是，政府在財務委員會會議上提供的答覆  我不會重複問題，請你放心，以免你又要“失禮”地要求我閉嘴  雖然政府的答覆很長，不過，我認為林大輝議員一定不會滿意。林大輝議員問政府為何酬金會下跌，但第一部分答覆卻說是因為2012-2013年度的假期，對嗎？我記得十分清楚，我是一位很專業的立法會議員。答覆是由於2012-2013年度有假期要補回給有關人員，所以有關款項沒有放在2013-2014年度的預算中，以致酬金好像比上一年下跌。但是，林大輝議員的問題重心......林大輝議員是一位很了不起的議員，我認為以建制派議員來說，他算是一位精明的議員。他的問題重心在於有關人員的入職和離職條件，但政府卻沒有回答他的問題。 \n 主席，我不用拖延時間，因為關於特首辦這部分，我最少可以連續討論4小時，也不會被你說我重複或嘮叨......",
+      "sequence": 122,
+      "bookmark": "SP_MB_WYM_00130"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你繼續發言。",
+      "sequence": 123,
+      "bookmark": "SP_LC_CM_00131"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "OK，讓我繼續發言。我不是想挑戰你，老實說，有關總目放在那裏實在有點兒牽強，所以令你感到不高興，我要為此向你\n道歉，讓你這麼“失禮”要我閉嘴。但是，就這部分正式提出的修正案是有理據的，我也會繼續說下去。 \n 審計署從來沒有對特首進行審計，也沒有對特首辦做過衡工量值的審計工作。我們不會以陰謀論揣測因為那是特首辦，所以審計署不敢碰它。審計署連ICAC也敢碰，為何不敢碰特首辦？我不會以陰謀論看這件事，但事實上，作為立法會議員，我們今天坐在這裏在財政預算案進入全體委員會審議階段提出修正案，這是我們身為議員的職責，你卻認為我“拉布”，又說我說話冗長。 \n 陳偉業議員去年曾經提出修正案，要求裁撤特首辦。我記得在2012年3月28日立法會就財政預算案進行的辯論中，我曾就陳偉業議員提出裁撤特首辦的修正案發言。我記得馮檢基議員當時也曾經發言，而不像今天的泛民議員吃了啞藥一樣，杯葛所謂的“拉布”行為。馮檢基議員在發言中對陳偉業議員直斥其非，他說雖然陳議員可以提出修正案，但如果特首辦被裁撤，公務員便沒有收入，他反而建議陳議員提出削減開支建議。記憶力好的議員應該記得，當時我對“基哥”說，陳偉業議員的修正案並非針對公務員，他不應扭曲事實。當然，在提出有關修正案的時候，每位議員都可以作政治表態，但那只是政治論述，不用這麼認真，對嗎？修正案一定不會獲得通過，陳偉業議員提出的修正案在這裏進行分組投票，一定沒可能獲得通過。所以，我告訴“阿基”不用那麼認真，既然明知沒可能削減公務員薪酬，他不用那麼着緊，更何況公務員可以調職。 \n 看到這些所謂“盟友”的議員，我有時會感到很奇怪。主席也應十分清楚，議員提出的修正案只不過是政治論述、政治表態，他卻這麼認真對待，議員只是盡天職而已。當我發表這些意見的時候，主席也沒有說我離題......",
+      "sequence": 124,
+      "bookmark": "SP_MB_WYM_00132"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你正在重複。",
+      "sequence": 125,
+      "bookmark": "SP_LC_CM_00133"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "......也沒有制止我，我這樣說是因為大家都可以提出修正案。很多時候議員作出政治表態，例如建議裁撤特首辦，是因為特首辦不稱職，不是識才識所。當然，陳偉業議員的修正案也比較過火。所以，今年梁國雄議員懂得要求減工資，另外還提出了5項相關的修\n正案。對於特首辦是否猶如大花筒般亂花錢，是否符合衡工量值，議員可以各有不同看法。 \n 讓我們看看3任特首，究竟董建華、曾蔭權到梁振英的辦公室做過甚麼工作呢？我們暫且不談這3個人是否“一蟹不如一蟹”，公關形象是否一個比一個差。這也可能跟特首本人有關，可能他本人魅力不足或形象欠佳。但是，特首辦的職員，包括特首辦主任、秘書、新聞統籌專員，以至今天我們要求削減薪金的全體職員，都應負上責任。 \n 剛才有些議員提及特首辦的職能，我們要一個人或機構執行任務的時候，也應賦予這個人或機構執行任務的權力。我說得對嗎，主席？可是，這種權力有其限制，這個限制是不能逾越的，否則便會出現濫權的情況，就像警務處處長或其他政府部門出現的濫權情況。但是，濫權的相反情況就是一事無成，獲授權也無法運用，於是無法執行任務，這也是一個問題。濫權固然構成問題，因為逾越權力限制會胡亂行事。現在說的不是濫權，而是辦事不力，就像你被指派執行某個任務，並且獲得執行這個任務的權力，但你卻沒有行使執行這個任務的權力，以致任務泡湯，最後令主人蒙羞，這是十分嚴重的問題。 \n 可是，歷任的特首辦主任，我主要針對特首辦主任，他是D8職級人員。歷任特首辦主任每位都榮華富貴......",
+      "sequence": 126,
+      "bookmark": "SP_MB_WYM_00134"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，我剛才已經說過，行政長官辦公室主要官員的開支，稍後會在第4項辯論中討論。",
+      "sequence": 127,
+      "bookmark": "SP_LC_CM_00135"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "沒有問題，我不會重複論點，只不過我要討論特首辦人員。我們會在接着的辯論提到每一位特首辦職員，請你放心，由林煥光、曾俊華、陳德霖、譚志源，以至梁卓偉，邱騰華等，每一位都會提及，請你安心，因為我要求削減他們的薪金。 \n 現在這個環節並不是針對人，而是他們為這3位特首的形象工程做了甚麼工作呢？當這些特首“出醜”的時候，他們又做過甚麼事呢？我先舉一個與我有關的例子，主席，這件事可能會冒犯你“老人家”，我不太想...... \n(梁國雄議員站起來)",
+      "sequence": 128,
+      "bookmark": "SP_MB_WYM_00136"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你有甚麼問題？",
+      "sequence": 129,
+      "bookmark": "SP_LC_CM_00137"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我想給時間讓他想一想是否會冒犯你，我希望你根據《議事規則》第17條點算人數，讓大家先冷靜一下。",
+      "sequence": 130,
+      "bookmark": "SP_MB_LKH_00138"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 131,
+      "bookmark": "SP_LC_CM_00139"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 132,
+      "bookmark": "EV_BELL_00140"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃毓民議員，請繼續發言。請委員返回自己的座位。",
+      "sequence": 133,
+      "bookmark": "SP_LC_CM_00141"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，我們剛才提到特首辦，特別是一些幫助歷任特首做形象工程、做公關的工作人員的不稱職，我們要舉出一些事例，當然例子非常多。我看到你昨天動氣，便想起一個與你有關的例子。在2009年......應該是2011年10月13日立法會行政長官答問會，當天我是第一位議員提問，後來被你驅逐離場。你那次把我驅逐離場，是非常冤枉我，當然這與本題無關，但亦是有關，因為你“老人家”判斷錯誤。",
+      "sequence": 134,
+      "bookmark": "SP_MB_WYM_00142"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，如果你認為是跟這項議題無關，便請不要再說。",
+      "sequence": 135,
+      "bookmark": "SP_LC_CM_00143"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我至今仍怨氣未消，說一句也可以吧？只花數秒時間而已。2011年......",
+      "sequence": 136,
+      "bookmark": "SP_MB_WYM_00144"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我昨天說的並非意氣話。",
+      "sequence": 137,
+      "bookmark": "SP_LC_CM_00145"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，我現在沒有浪費時間，是你在浪費我的時間。",
+      "sequence": 138,
+      "bookmark": "SP_MB_WYM_00146"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，鑒於你昨天的表現，我叫你“收聲”，那是合適的用語。請你不要再重複。",
+      "sequence": 139,
+      "bookmark": "SP_LC_CM_00147"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "你浪費我的時間，我已經閉嘴了，你繼續跟我辯論，沒有辦法。 \n 在2011年10月13日行政長官答問會中，行政長官是曾蔭權。當時我提出的問題是，行政長官說政治倫理，有些反對派的議員在議會內稍為粗魯，他便說違背政治倫理。我說政治倫理是政治學上很重要的部分。東方有孔子、孟子，西方有康德、阿里士多德、柏拉圖，我不知道他說的是哪一方面。但是，最缺乏政治倫理便是他曾蔭權，因為不仁者而居高位，是播其惡於眾也。然後主席說：你不要再說了，請提問。我說他委任一位民望最低的局長林瑞麟為政務司司長，公然與民為敵......",
+      "sequence": 140,
+      "bookmark": "SP_MB_WYM_00148"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你說的是上一任行政長官，跟這項議題有甚麼關係？",
+      "sequence": 141,
+      "bookmark": "SP_LC_CM_00149"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "當然有關，如果他的公關人員懂得協助他，明知道那一天跟議員對答時失禮，然後又說“爛仔”、“黑社會”，我尚未說完。",
+      "sequence": 142,
+      "bookmark": "SP_MB_WYM_00150"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，我們現在是討論2013年財政預算案中，關乎現屆行政長官的行政長官辦公室的開支，但你則在說上一屆的情況，所以是跟今天的議題無關。",
+      "sequence": 143,
+      "bookmark": "SP_LC_CM_00151"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我說上一屆是舉一些事例而已，證明我的記性佳。因為行政長官辦公室包括新聞統籌專員，包括所謂心戰室的人，令行政長官公然出醜，在議事堂上大聲責罵一個議員......",
+      "sequence": 144,
+      "bookmark": "SP_MB_WYM_00152"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，我已經提醒了你。我從不懷疑你的記性，但你所記得的，並非全部跟現在的議題有關。",
+      "sequence": 145,
+      "bookmark": "SP_LC_CM_00153"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我不會跟你辯論。我現在說的是特首辦公室內的新聞統籌專員和政治公關是垃圾，所以要減他們薪金。要說他們是垃圾，這是價值判斷，是一個主觀判斷，必須有客觀事實來佐證。",
+      "sequence": 146,
+      "bookmark": "SP_MB_WYM_00154"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你說的是上一屆政府的情況。",
+      "sequence": 147,
+      "bookmark": "SP_LC_CM_00155"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "上一屆的情況同樣適用，因為今屆沒有更改。梁振英不懂溫故知新，我要說梁振英多的是，說他的僭建事件，我稍後會說的。他要懂得溫故知新，汲取曾蔭權的新聞統籌專員或其特首辦公室所犯的錯誤，不要重蹈覆轍。結果，梁振英的辦公室不但重蹈覆轍，且比曾蔭權的辦公室更要不堪。 \n 說完，下次再說。",
+      "sequence": 148,
+      "bookmark": "SP_MB_WYM_00156"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 149,
+      "bookmark": "SP_LC_CM_00157"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，梁國雄議員的修正案建議把整個行政長官辦公室(下稱“特首辦”)的開支，由九千四百多萬元減至1,000元。他比我仁慈，正如黃毓民議員剛才也說，去年我是提出刪除特首辦的開支。 \n 數位議員也提到有關特首辦的失職，這是鐵一般的事實，特別是有關在公關方面最重要的失職情況，我也不重複其他議員的評論和事例了，因為這是數不勝數的，我相信可以撰寫為一本實例和教訓的紀錄，對所有修讀公關的人來說，我想這是很好的參考......",
+      "sequence": 150,
+      "bookmark": "SP_MB_CWY_00158"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是反面教材。",
+      "sequence": 151,
+      "bookmark": "SP_MB_LKH_00159"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "......是一些反面教材，“長毛”說得很好，是公關的反面教材，因為梁振英當選及成立特首辦之後出現的惡劣公關例子數不勝數；但我覺得最大的問題是，公關差劣只會影響你個人聲譽，但施政方面的統籌失誤，受苦的是700萬香港市民，甚至是我們的子孫。其中一個最明顯、最大的失誤，其實在財政預算案(“預算案”)二讀辯論時，林大輝議員的某些評論與我的分析都有十分相似的地方，也就是他很清楚地指出，預算案與施政報告......",
+      "sequence": 152,
+      "bookmark": "SP_MB_CWY_00160"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，報告，“日以繼夜，夜以繼日”不在現場，我請你引用《議事規則》第17條召喚“魂兮歸來”。",
+      "sequence": 153,
+      "bookmark": "SP_MB_LKH_00161"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 154,
+      "bookmark": "SP_LC_CM_00162"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 155,
+      "bookmark": "EV_BELL_00163"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員，請繼續發言。",
+      "sequence": 156,
+      "bookmark": "SP_LC_CM_00164"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我剛才提到關於公關方面的災難，以及特首辦的失職，其他議員已說過了，我不重複；但我想說的重點是關於施政報告的承諾，因為特首辦其中一項最重要的工作，便是輔助特首制訂政策及兌現施政報告的承諾。就施政報告過去的做法來說，當然，施政報告涉及很多政策的釐定和落實，關乎政策局的職責。很多時候，為落實施政報告大方向的建議，往往需要以年計的時間，很多時候要成立委員會，要諮詢和再作討論等。 \n 可是，施政報告中不少措施的落實與財政有關，所以，如果要看施政報告能否兌現及有效地落實，便要確保施政報告宣布後，該份預算案中有關財政的安排是否已充分考慮及涵蓋施政報告所提的範疇，作出部門行政上的支援，或就施政報告的建議作相應配合。我看了這麼多年的施政報告與預算案之間的關係，從未見過一份預算案與施政報告的方向的差異，比今年的預算案與剛於早前公布的施政報告的差異更離譜。林大輝議員也很清楚指出兩個思維模式的矛盾和分歧。兩者連方向都不同。預算案走“大市場，小政府”和政府不干預的方向，施政報告則不斷強調政府要介入某些範疇。主席，如果對比施政報告和預算案的範疇，根本看不到有和應，是完全看不到有和應。",
+      "sequence": 157,
+      "bookmark": "SP_MB_CWY_00165"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，你現在所說的，跟這些修正案有甚麼關係？",
+      "sequence": 158,
+      "bookmark": "SP_LC_CM_00166"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，因為這是關於刪減特首辦的開支，而特首辦其中一個開宗明義的宗旨，總目21宗旨2下開宗明義說明，宗旨是提供支援予行政長官，以輔助他制訂政策和兌現施政報告的承諾。因此，如果特首辦在這些問題上......它要不是盲的，便是完全不理解。主席，我想分析這是架構上的問題。 \n 我接着要說的是，特首辦最高薪酬的是主任。說到特首辦涉及的員工，其實很多議員並不知道，如果看回以前港督時代的人手編制，在1973-1974年度，當時港督的整個辦事處員工數目只是58人，1974-1975年度同樣是58人，但特首辦現時人數卻暴升至101人。如果相對當年港督的工作範圍和表現，1974-1975年度的港督是麥理浩，他的民望是極高的。很多議員剛才提到特首辦職員人手眾多，薪金又高，但實際可以幫助特首在民望方面，以及在實際政策落實方面，都是有失職的。 \n 對於失職的問題，當然，這與特首的能力，以及其本身對政策的掌握、施政理念等有關，但團隊是十分重要的。團隊如有能力幫助特首的話，雖然未必能夠令他表現得很傑出，正所謂“爛泥扶不上壁”，有時候是挺困難的，但最低限度不會令他經常出醜，甚至出醜到這麼嚴重的程度。施政報告和預算案的嚴重分歧，可以說是等於整個政府部門和其他政策局摑了特首兩巴掌，完全不和應他的施政報告。這與特首辦的編制有關。特首辦的編制現時最高級的是行政長官辦公室主任邱騰華。如果看看其薪酬，行政長官辦公室主任的月薪好像是接近20萬元吧，但如果要靠一個這職級的主任來影響其他政策局，特別是影響財政司，他還差數級呢。",
+      "sequence": 159,
+      "bookmark": "SP_MB_CWY_00167"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，我剛才已說了，稍後有一項辯論是討論行政長官辦公室主任薪酬的。",
+      "sequence": 160,
+      "bookmark": "SP_LC_CM_00168"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "OK。主席，我正在分析特首辦為何不能夠履現職責，協助特首在施政方面的工作。主因是特首辦輔助特首的人員級別未夠高，便會令......老實說，邱騰華當年也是跟着另外兩位司長出身，對嗎？他先前是他們的助手或職級低於他們的，而如果你要協助一個人，你自己的聲望和能力若然足夠......",
+      "sequence": 161,
+      "bookmark": "SP_MB_CWY_00169"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，請圍繞這項辯論所涵蓋的6項修正案要求削減的金額發言。",
+      "sequence": 162,
+      "bookmark": "SP_LC_CM_00170"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "明白，主席。所以，有關現在要削減的數字，很多朋友未必知道實際削減的職位涉及的是甚麼。削減這九千多萬元，會涉及\n一百多名員工，當中其實包括很多職級。如果把整個部門取消，我更是絕對認同，我去年也曾提出類似的修正案。不過，如果是削減的話，其實有部分是可以保留的，“長毛”。大家可以再仔細研究。梁國雄議員可能未必仔細看到或瞭解特首辦那九千多萬元開支所涉職系的分布，我希望他可以再仔細研究。舉例說，有些職位，例如管家、一級家務員、二級家務員、三級家務員、四級家務員、五級家務員等，我想很多市民也不知道原來特首辦竟然也包括家務員。要削減這些職位，當中有些也是很高級的，例如管家的薪級表是第26至31點級，所以是頗高薪的職位，另外也包括貴賓車高級私人司機、貴賓車私人司機、貴賓車司機、汽車司機，單是特首辦的司機也有7名，可說頗誇張。因此，要削減司機、管家這些公務員，我是絕對認同的。 \n 很多人都提到要削減社交秘書這職位，我們對此也完全沒有意見。助理社交秘書也應削減，也不需要這麼多社交。老實說，整個特首辦要維繫的，其實只是跟中聯辦的聯絡，有中聯辦的照顧便甚麼也行。港共治港，任何其他公關也不重要，最重要的是中聯辦的支持。因此，把這些職位全部削減，對梁振英出任特首其實沒有多大分別。當然，他便要自己做家務，難為梁太要辛苦一點了。 \n 此外，有些職位也真的頗為特別。如果不是要研究刪除那九千多萬元的撥款是否合理，我也未必會這麼仔細研究這項目。機密檔案室助理也有5名，我真的不明白為何要5名機密檔案室助理這麼多。當然，主席會問我為何不在財務委員會特別會議上提問，我明年可能會仔細問清楚這些機密檔案室究竟是做甚麼，還有最怕的是機密檔案被銷毀，這是大家也擔心的問題。單是機密檔案室的助理也有5名，還有4名辦公室助理員、7名文書助理、10名助理文書主任、4名文書主任、二級......",
+      "sequence": 163,
+      "bookmark": "SP_MB_CWY_00171"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，正如你自己剛才指出，這些問題應該在財委會特別會議上提出，讓政府官員解釋。",
+      "sequence": 164,
+      "bookmark": "SP_LC_CM_00172"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我現在不是質疑他的工作範圍，我現在是要說明哪些職位可以削減，哪些不可以削減。因此，就削減那九千多萬元來說，絕大部分我也是支持的，但如果特首辦要存在，無論如何也要留下數名秘書吧，1,000元怎可以......“長毛”現時不在，1,000元怎可以維持一個辦事處？最少也要保留一、兩名秘書，最低限度在架構上也是\n一個......因為1,000元根本不足以聘請秘書。站在人民力量的立場來說，我們沒有理由勞役和剝削......這甚至少於最低工資，所以要設計一個職位，最少要符合最低工資和基本的安排。如果說要削減所有家務員，這並沒有問題，那便叫他自己做家務，但如果仍然要維持一個基本的辦公室，最少要保留1至兩名文書職級人員，而且要符合基本的公務員聘用條件。大家看看這裏的薪級表，最低的是第1點，例如文書助理，而私人助理是薪級表第33點，那些是很高薪的職位。因此，看回整體人手編制和職級的種類和薪級表，如果把金額削減至1,000元，我覺得某個程度上是於理不合的。 \n 當然，我絕對理解梁國雄議員提出把金額削減至1,000元，可能是基於修正案的局限，所以他才這樣提出，但如果他可以多做一些研究，可以保留特首辦基本存在的格局，我覺得這是較為恰當的。",
+      "sequence": 165,
+      "bookmark": "SP_MB_CWY_00173"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 166,
+      "bookmark": "SP_LC_CM_00174"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "我想先要求點算人數。",
+      "sequence": 167,
+      "bookmark": "SP_MB_CCC_00175"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 168,
+      "bookmark": "SP_LC_CM_00176"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 169,
+      "bookmark": "EV_BELL_00177"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員，請發言。",
+      "sequence": 170,
+      "bookmark": "SP_LC_CM_00178"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "在我開始這部分發言之前，我想回應一下陳偉業議員剛才的發言。首先，多謝陳偉業議員支持我提出對行政長官辦公室員工薪酬及其他開支的修訂。但是，剛才陳偉業議員所舉出的數字、數目和薪酬，都是比較“拉雜”和籠統的。我覺得既然我們要削減一個辦公室的開支，我想提出給一個比較概括、有系統、有層次的概念，究竟現在行政長官辦公室的人手編制如何，他們的薪酬分布如何。我不會好像陳偉業議員般，讀出每個員工的薪酬，我會概括說明，希望可以給一幅完整的圖畫讓各位議員及香港市民看到，決定究竟我們所提出的修訂是否成立。 \n 截至2013年3月31日止，行政長官辦公室的人手編制有101個常額職位。當中96個是非首長級職位及5個首長級職位，分別為行政長官辦公室常任秘書長、行政長官私人秘書、新聞統籌專員、行政長官副私人秘書及行政會議秘書。 \n 行政長官辦公室在2013-2014年度，以增設1個高級新聞主任和1個新聞主任職位，以應付行政長官辦公室在新聞和公共關係工作上的需要。這兩個職位分別是高級新聞主任，年薪是754,000元，以及新聞主任，年薪是598,000元。我知道這兩個職位的討論會在第4項合併辯論處理，所以，我不會在這部分作冗長的論述。 \n 2012-2013年度，行政長官辦公室人手編制、職務分類和薪酬水平大致是這樣。我會簡單分類，概括地向大家講述。第一，是政策統籌策劃及安排行政長官的公務活動，以及新聞及公共關係工作統籌。今天早上發言的議員大部分都很關心這個職務類別。職位有10個，每月的月薪水平，由87,000元  是約數，我不會仔細說  至20萬元月薪。第二，是部門行政，有11個職位，月薪由43,000元至10萬元左右。第三，翻譯有兩個職位，由43,000元至10萬元左右，即一個是43,000元，另一個是10萬元，共有兩個職位。第四，是秘書及其他支援服務，有20個，每月的薪酬水平是12,000元至68,000元。文書及一般支援服務有30個，薪酬水平是1萬元至31,000元左右。接着是陳偉業議員剛才提到的行政長官官邸家居服務，有21個職位，月薪水平是12,000元至接近5萬元，我想管家的薪酬應該是5萬元。而駕駛服務有7個職位，月薪由13,000元至22,000元左右。這些就是這101個職位的簡介，我不想逐個讀出。 \n 陳偉業議員提出，港英時代港督辦公室所用的人手只是數十人，為何回歸後，現在行政長官辦公室的人數會突破100人呢？其實要分析這個問題，我做的功課可能不足夠，如果有時間的話，希望稍後我會再做，需要看回港英時代港督辦公室的職能跟現在回歸後，行政長官辦公室的職能，首先是職能比較，接着是再說成效，即他們做到甚麼、有甚麼果效，這樣分析才更有意思，可以讓議員決定是否支持我所提出的修正案。這是我嘗試補充陳偉業議員剛才比較散亂和“拉雜”的數字。 \n 接着我要多謝毛孟靜議員，她剛才提供自己的切身例子，我只不過是讀出報章的報道。但是，都可以看到，行政長官辦公室在回應一\n些重要問題的時候，未能夠達到果效。其實不單毛孟靜議員或這裏的人是這樣說，我們看看坊間的人，有沒有這樣的投訴和指責呢？我找到的例證便是，商業電台節目“左右大局”的主持人黃潔慧女士，她有這種說法，她說：“他們時常向特首辦查詢，回覆得來的，是九字真言，‘不評論、不回應、無補充’”。他們曾嘗試要求特首辦針對喬曉陽指“開展政改諮詢，需有前提”的說法作出回應。這我記得在立法會大會的口頭質詢中都提問過。而特首辦回覆的用詞就是一貫裝傻，別人問喬曉陽，而特首辦的回應就用“各界人士”，即是不敢......別人問他喬曉陽，特首辦回應這個查詢，卻不敢提喬曉陽，是文不對題，被嘲笑為特首辦如果這樣答問題，考文憑試的話，便會不合格。這些例子我們是屢見不鮮，如果要我逐個抽出來說，主席便會說我們重複或太深入了。但是，這正正是一個很好的例證便是，特首辦用最多的人手做我剛才說第一點的工作，即政策統籌、公務活動、新聞公關等。但是，這部分似乎是做得最差的。這是我回應剛才毛孟靜議員的提問所作出的補充。 \n 我想作的主題論述是，關於梁振英的落區問題，梁振英很喜歡落區  他曾經是這樣，這是大家都感覺到的  當他上任後，特首辦有份負責這些工作的統籌。記得梁振英未選特首的時候，他很勇於落區，他落區的感覺比另一名候選人唐英年，甚或是何俊仁議員，令市民留下深刻的印象。我記得他是帶着一張摺凳、一支筆和一本簿去聽市民的意見。當然，當時他的僭建事件還未被揭發，他當時的支持度甚高，所以，他落區時，我看到很多羣眾歡迎他，和他合照，向他反映意見。但是，他當選後，落區活動便安排得非常差勁，我相信特首辦的同事難辭其咎。 \n 我再舉一些例子。當梁振英上任後翌日，不知道大家是否記得他去過屯門，你們有沒有狙擊他？最後得到報章標題是“落難屯門”。不過，我們也要肯定特首辦的同事，因為他們沒有被一次經驗所嚇怕而不繼續辦落區活動。接着，他不但自己落區，還帶同司局長一起落區。報道說“他無畏無懼，落區變落難”的經歷，然後他帶同新任運輸及房屋局局長張炳良到黃大仙會見市民，結果......",
+      "sequence": 171,
+      "bookmark": "SP_MB_CCC_00179"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，這跟現時討論的修正案有甚麼關係？",
+      "sequence": 172,
+      "bookmark": "SP_LC_CM_00180"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "我舉例說明特首辦安排梁振英落區非常差勁，以支持我提出削減行政長官辦公室員工薪酬這個論點，當然我不會......如果主席有所提示，我不會將每段落區的報道都讀一次。 \n 然而，另一個課題都是關於落區的，我要重點討論，這便是私訪。特首辦協助特首梁振英，我不應說他特首，我經常嘗試逃避，我應該稱他“689”，但對不起，我說了特首，多謝大家提醒我或罵我。他曾經所謂的微服出巡，微服出巡即事先沒有通知傳媒，或只通知小部分友好傳媒。他曾到北區、天水圍等，梁振英以私人活動的名義到天水圍，和建制派的地區人士會面。特首辦和新聞處沒有發放新聞稿和相片，反而由建制派的地區人士向個別傳媒發放相片和會面內容。這種做法跟一位特首，我不是指梁振英，我說的是概念上，特首落區的程序與過去不同，亦是不適當的，被批評不夠公開、不夠透明，只聽建制派的聲音，是偏聽，沒有搞好施政。對於我們剛才提到特首辦其中一個很重要的功能  公共關係，是達不到的。 \n 我知道梁振英花很多時間搞內交，內交即是內地關係，但真正的內交應是香港，他和香港人的關係，而不是和建制派或“梁粉”的關係。正如我舉例的天水圍落區，人們向新聞處查詢時，它亦不知情。向特首辦查詢，這便與特首辦有關了，它的回應是“不評論特首私人活動”。這其實牽涉到在座一些建制派同事。簡單來說，譬如梁志祥議員當時......天水圍那次落區你似乎亦在場？你說你雖然是民建聯，但不是以政黨的身份會見梁振英，相信梁振英會約見民主派，報道是這樣說的。不知道最後有沒有北區或元朗區的民主派人士......不過，民主派議員現時又不在席。 \n 前公務員事務局局長王永平先生批評，我亦同意他的批評，其實特首這些所謂半公開活動  因為你絕對不可以指這是私人活動，絕對不是  大家可以參與辯論，大家可以發言，歡迎建制派的議員發言，參與這項辯論。特首辦的職員有否責任提示特首這個處理方法不當？我引述王永平先生的批評：“高官落區不一定大鑼大鼓，但事後通常都會經新聞處或特首辦發簡單新聞稿。梁振英作為特首，是代表政府聽取地區人士意見。”人家皆因你是特首才邀請你，你不是特首又怎會邀請你？根本不存在私人訪問的空間，他認為梁振英的做法奇怪。而且，這兩次落區，包括北區和天水圍，均由第三者發新聞稿。如果這樣可以善用資源，其實每次均由對方發新聞稿，由對方派人，即派“梁粉”當隨員，自己不用派隨員陪同，便可節省很多人手。大家幫幫忙，裁減少許，不用裁太多，亦可裁減少許這方面的資源，可以善用資源。梁振英落區不依正常程序，不公開，不透明。\n高官落區通常由民政事務處安排，若是特首落區則由特首辦聯絡民政事務處幫忙，沒可能像逛街般獨來獨住。(計時器響起)",
+      "sequence": 173,
+      "bookmark": "SP_MB_CCC_00181"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，古語有云，“一入侯門深似海，從此蕭郎陌路人”。一位女子進入侯門已不再是自己了，她是很可憐的。可是，在現時的政治委任制下，身為一地之首卻公私不分，真的怪哉矣。按陳議員所說，他不知何時是公、何時是私，行政長官辦公室(下稱“特首辦”)的其中一項職能是(我引述)：“為特首籌劃公務及社交活動及執行有關安排”。 \n 主席，曾幾何時，梁振英只以一支筆、一張凳、一本簿為號召，以示他親民，好得很。可是，你想想，當這位孤家寡人得登大位，由公帑輔助他履行競選承諾  親民時，竟然變成了另一景象，就是“一支公、一張嘴、一本帳”。我為何這樣說呢？因為他只是一個人出席，其他人並不知他是為公還是為私，又不知他與甚麼人聯繫......",
+      "sequence": 174,
+      "bookmark": "SP_MB_LKH_00182"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，由於這是你第三次發言，所以請不要重複你或其他委員已經表達了的觀點。",
+      "sequence": 175,
+      "bookmark": "SP_LC_CM_00183"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我沒有重複。你錯了，我說的事例雖然相同，但觀點卻不一樣。 \n 主席，這個“咕臣”是獨一無二的  “你呃人”、“唔好講大話”  首見於特首逛花市之時。我怎樣說也是一位立法會議員，當天我在維園恭候我監察的對象多時，在維園與各市民寒暄一番，等待了30分鐘，與警力的負責人和類似特首辦、類似民政署的人打招呼、打交道，希望向梁特首拜早年，也想贈送一個“咕臣”給他帶回家，既可收墊腰之效，亦可收警惕之效......",
+      "sequence": 176,
+      "bookmark": "SP_MB_LKH_00184"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你現在所說的，跟這項議題有甚麼關係？",
+      "sequence": 177,
+      "bookmark": "SP_LC_CM_00185"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是有的，就是他的安排差，明知那是憲制上要接觸的人，他也要拒諸千里之外，令大量“灰衣人”  我不知他們是便衣警察\n還是民政的人員  在不能表明身份的情況下推撞我。由於我求見心切，也沒法子，只有承受這種不必要的苦楚和凌辱。對於在場的市民  有“梁粉”，也有“非梁粉”  濟濟一堂，也只是希望見到他，我亦看到有人手持支持他的橫額和標語牌。主席，正反雙方也在等待梁振英的眷顧，希望他收下這些東西，這樣便完事。 \n 主席，若論“為特首籌劃公務及社交活動及執行有關安排”，最少也涉及多個政府部門，包括民政署喬裝路人甲和乙、穿上灰色制服，形成一種不可追究、不可察悉的恐怖力量，以阻擋市民在花市的自由行為......",
+      "sequence": 178,
+      "bookmark": "SP_MB_LKH_00186"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你離題了，請不要再長篇論述一些跟這項議題無關的事項。",
+      "sequence": 179,
+      "bookmark": "SP_LC_CM_00187"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白，我知道這與議題沒有直接關係，但卻有間接的關係。那麼我倒不如說有直接關係的。我想請教主席一點。一位公務員濫權，固然不要得的，但瀆職也是要不得的。在特首辦下支薪的人員，明知主人會在年尾到花市向市民拜年，而市民亦會禮尚往來地向他致以節日的問候，主席，但他們就是不安排特首與這些人見面，只安排了警力和“灰衣人”。他們沒有安排請願區，也沒有安排行政長官在一個安全且合適的地方會見市民，令他與市民的接觸有效果、有建設性、“和理非非”  即和平、理性、非暴力、非粗口......",
+      "sequence": 180,
+      "bookmark": "SP_MB_LKH_00188"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你在這項辯論中如此詳細評論一些政府部門或公職人員在某件事上的表現，並不公道。",
+      "sequence": 181,
+      "bookmark": "SP_LC_CM_00189"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我說另一些好了。",
+      "sequence": 182,
+      "bookmark": "SP_MB_LKH_00190"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你應該在適當的場合，讓有關人員可以答辯時再辯論。",
+      "sequence": 183,
+      "bookmark": "SP_LC_CM_00191"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白。那麼我說一件有關人員可以答辯的事情，便是立法會新春團拜，當時你要主持答問遊戲，我坐了你的座位，大家都玩得不亦樂乎，這裏便有很多人可以證明......",
+      "sequence": 184,
+      "bookmark": "SP_MB_LKH_00192"
+    },
+    {
+      "title": "全委會主席",
+      "content": "這跟現時的議題有甚麼關係呢？",
+      "sequence": 185,
+      "bookmark": "SP_LC_CM_00193"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "“為特首籌劃公務及社交活動及執行有關安排”，他來這裏是為了公務還是私務呢？可能是公私兼顧。那天，我以立法會議員身份出席，大家都喜氣迎迎，包括我在內。當時，我只想向他贈送一個cushion，上面寫着  我不在這裏展示了，大家都知道上面寫了甚麼。我只不過想交給他，這樣也受到重重阻滯，連累謝偉俊議員要仗義出來承擔責任，他說“‘長毛’，打仗也會休戰。”我問......",
+      "sequence": 186,
+      "bookmark": "SP_MB_LKH_00194"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請不要再在此就你以往在行政長官出席的場合上，跟行政長官或隨行人員曾發生的事項作詳細論述，這是不合適的，亦與這項議題無關。如果你繼續長篇論述這些問題，我便要停止你發言。",
+      "sequence": 187,
+      "bookmark": "SP_LC_CM_00195"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我只想引述我一位同事的名言：“我連自己的髮型也無法捍衞，還捍衞甚麼？”立法會議員連向特首請願的權利也無法捍衞，更遑論監督了，真是斯文掃地。",
+      "sequence": 188,
+      "bookmark": "SP_MB_LKH_00196"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你當然可以捍衞你的權利，但現在辯論的修正案，是有關扣減預算案中一個總目的款額，請你針對這項議題進行辯論。",
+      "sequence": 189,
+      "bookmark": "SP_LC_CM_00197"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "舉其他例子沒有佐證，但舉自己為例，以身作則又被稱為重複，真是中文之巧妙。",
+      "sequence": 190,
+      "bookmark": "SP_MB_LKH_00198"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，我已經提醒你了。",
+      "sequence": 191,
+      "bookmark": "SP_LC_CM_00199"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白，那我不說了，我不說我的親身感受。 \n 且說另一個問題，也不說請願的事了。小弟以梁振英為政敵，不是私敵，你自己親口說的了，在上屆立法會會期臨近結束時，我說“君子之爭，必也射乎”。換言之，我跟他沒有私怨，這已經是公開說了\n的，傳媒也拍攝下來。即是說“長毛”即使跟他不是朋友，但也只不過是政治上的敵人。可是，“為特首籌劃公務及社交活動及執行有關安排”的人，有否找過我呢？",
+      "sequence": 192,
+      "bookmark": "SP_MB_LKH_00200"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你的觀點很清楚，便是在以往多個你跟行政長官一起出席的場合，你遇到了一些令你感到非常不滿的經歷。為此，你便將行政長官辦公室的開支，由每年九千四百多萬元削減至1,000元。你的觀點已經說得很清楚，請不要重複。",
+      "sequence": 193,
+      "bookmark": "SP_LC_CM_00201"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，明白。",
+      "sequence": 194,
+      "bookmark": "SP_MB_LKH_00202"
+    },
+    {
+      "title": "全委會主席",
+      "content": "至於你列舉的其他事例，其實也只是不斷說明這個觀點。",
+      "sequence": 195,
+      "bookmark": "SP_LC_CM_00203"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，你非常聰明，但也要有限度，我還沒有說。我其實是說proportion，即為甚麼是削減至剩下1,000元呢？我是要求在不同的部分作出扣減。如果我好像上屆......",
+      "sequence": 196,
+      "bookmark": "SP_MB_LKH_00204"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你現在加以說明。",
+      "sequence": 197,
+      "bookmark": "SP_LC_CM_00205"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "好的，我現即說明這個問題。對於這夥人，我還要考量一點，便是究竟是梁振英作為主人差，還是他們作為僕人差，但這卻不可考。因此，我只有多舉一些事例，希望他們聽到了，會在今天晚上致電給我，說明他們是否已告訴梁振英：“長毛”有甚麼好怕的，4個人便可以把他抬出去，不用弄成這個樣子的，又或是另有情況呢。我今天在這裏仗義執言，固然是為了公義，但也不想某些人備受無謂的枉屈，所以我在這裏所說也當然留有餘地。當中牽涉那麼多事情，坦白說，你也是證人，只是你不能說而已。究竟是否那些人已向你提出特首的意思，但你跟他持相反意見，認為他所說的不行，立法會不可任憑他胡亂來。究竟是否有這情況呢？不知道。這便引入我下一個要說的主題，便是銷毀檔案的問題。 \n 主席，你看清宮秘史，康熙是每天寫日誌的，所以我們今天才可以追溯，如《大義覺迷錄》等，讓我們知其原本。我今天所說的，說甲便得罪甲、說乙便得罪乙、說丙也可能得罪丙，我只不過是盡我的言責，為各方討回公道。依我以為，梁振英雖有狗膽，但也不敢有如此淫威。我認為他應該沒有聽過這勸諫，有聽過勸諫而不銷毀檔案......",
+      "sequence": 198,
+      "bookmark": "SP_MB_LKH_00206"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，我看不到你剛才那一大番說話，跟這項修正案有甚麼關係。請你針對這項議題，不要再離題。",
+      "sequence": 199,
+      "bookmark": "SP_LC_CM_00207"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "原因是我也不知道那1,000元應分給誰，所以我要找出源頭。我提出的修正案是將該項目削減至1,000元，所以我要先作論述，說不定在這論述過程中，有議員會向我提出這1,000元應留給某部門使用，又或他們會反對我，指出不用減至1,000元，只減1,000元便可。這是公開讓大家辯論的，對嗎？我們在這裏辯論為的是甚麼，不是為辯論而辯論，而是為了實事求是而辯論。立法會70位議員也可能是證人，因為除了小弟未被梁振英“打過招呼”外，其他很多議員可能已被“打過招呼”，他們可能也是證人，稍後他們可以起來發言......",
+      "sequence": 200,
+      "bookmark": "SP_MB_LKH_00208"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你所說的全部離題。如果你沒有新的觀點，請你停止發言。",
+      "sequence": 201,
+      "bookmark": "SP_LC_CM_00209"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "好的，小弟有新觀點了，承蒙主席的裁決。我舉出另外一個關於“為特首籌劃公務及社交活動及執行有關安排”的例子，主席，我剛才只說了“為他籌劃”的部分......",
+      "sequence": 202,
+      "bookmark": "SP_MB_LKH_00210"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，請傳召委員回來聽聽梁國雄議員解釋那1,000元該怎麼花。",
+      "sequence": 203,
+      "bookmark": "SP_MB_CWY_00211"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "“魂兮歸來”，嘴皮說得漂亮。",
+      "sequence": 204,
+      "bookmark": "SP_MB_LKH_00212"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 205,
+      "bookmark": "SP_LC_CM_00213"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 206,
+      "bookmark": "EV_BELL_00214"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請委員返回座位。梁國雄議員，請繼續發言。",
+      "sequence": 207,
+      "bookmark": "SP_LC_CM_00215"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我要向你報告。我不得不冒着被你斥責的危險，道出一個事實。其實，很多人想我告訴你，他們想“放飯鐘”，只是他們不好意思說出來而已。我無法子不秉筆直書。你現在要宰要殺，我也要說......",
+      "sequence": 208,
+      "bookmark": "SP_MB_LKH_00216"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你繼續發言。",
+      "sequence": 209,
+      "bookmark": "SP_LC_CM_00217"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我說完便作罷。中國時之所難，便是偽善。我已經說出來了。各位，我已經說過了；我已拯救我的靈魂。 \n 好了，言歸正傳。主席，我明白你的說法，便是不能夠重複事例來證明觀點。你說得對，一道幾何題目證明過便是證明過。我的發言是與削減行政長官辦公室開支有關的，而有關安排的部分，其實已幾近結束。 \n最可惡的是甚麼呢？是“一蟹不如一蟹”。意思是，一位特首在沒有公帑制助下可以親民，反而在有公帑制助下卻不可以親民。我不能證明特首是否壞人，我只能夠指出，在制度上，我認為這制度是毫無用處的。我的靈魂告訴我，其實可能是一個獨夫的錯，可能是該獨夫令制度更加錯。 \n各位被我冒犯的公務員，感到委屈的，請打電話給“蘋果”或打電話給傳媒，我不想冤枉你們，因為我只能相信獨夫是對的，而我亦只能批評制度。 \n多謝主席。",
+      "sequence": 210,
+      "bookmark": "SP_MB_LKH_00218"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 211,
+      "bookmark": "SP_LC_CM_00219"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "這部分的辯論主要是關乎裁減行政長官辦公室(下稱“特首辦”)的全年開支預算，即梁國雄議員在剛才的發言中所提及的事宜，而有關行政會議及其他主要官員的部分，我們稍後才會討論。我會繼續針對此議項表達意見。 \n 在財務委員會(“財委會”)的特別會議上，曾有議員就離任安排提出質詢。雖然政府對此問題已作出答覆，但我們並不滿意。事實上，類似問題確實曾經發生。 \n 上屆政府有5位政治委任官員不獲留任  他們屬於同一屆政府的，有些不獲留任，有些則獲留任  有5位不獲留任的政治委任官員均有新工作。不過，有特別委任人員，包括特首辦的新聞統籌專員......我們下一項辯論才討論新聞統籌專員。 \n 我們所討論的，是離任的安排。政府在答覆中指出，離任安排是根據特別委任人員的僱用條款而定的。如行政長官辦公室主任“擬於政府僱用期屆滿日或離職日起計的一年內展開工作，或在商業或專業機構出任董事或合伙人，或獨資或與他人合資經營業務，必須向前任行政長官及政治委任官員離職後工作諮詢委員會”  一個很長的名字  “向前任行政長官及政治委任官員離職後工作諮詢委員會徵詢意見”。 \n 新聞統籌專員和高級特別助理則必須徵得特首辦同意，才可在委任期屆滿後的指定期限內從事外間工作。至於非首長級人員方面，他們“並無離職後工作的限制”。不過，事實上，有5位離任官員獲准再就業，其中4人並無離職後工作的限制。很多議員均認為這安排非常不合理。 \n 我提出此事，當然與現在討論的議題有關，因為在財委會的特別會議上，有議員特別關心這問題，亦有議員跟進這問題。 \n 我們今天建議削減特首辦員工或其他人員的薪酬，便是基於這一論述：他們基本上是不稱職的。不僅他們不稱職，而離任安排制度亦非常混亂。所以，我們希望提出修正案，促使政府檢討該制度，即檢討離任安排制度與恰當地使用公帑......",
+      "sequence": 212,
+      "bookmark": "SP_MB_WYM_00220"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，離任安排跟現時辦公室員工的實際薪酬及其他開支有甚麼關係？",
+      "sequence": 213,
+      "bookmark": "SP_LC_CM_00221"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "所以，我們便建議削減他們的薪酬。我剛才向你說的是......你沒有聽清楚我的發言。兩者沒有直接關係，但我剛才所提及的事例卻曾經發生，其中有當事人是特首辦的人員。",
+      "sequence": 214,
+      "bookmark": "SP_MB_WYM_00222"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你的發言我聽得很清楚，我自會判斷是否有關。",
+      "sequence": 215,
+      "bookmark": "SP_LC_CM_00223"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "當然，這是你的權力範圍。 \n(梁國雄議員站起來)",
+      "sequence": 216,
+      "bookmark": "SP_MB_WYM_00224"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你有甚麼問題？",
+      "sequence": 217,
+      "bookmark": "SP_LC_CM_00225"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我要懲罰偽善。我要求你引用《議事規則》第17條點算人數。 \n 主席息怒。",
+      "sequence": 218,
+      "bookmark": "SP_MB_LKH_00226"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 219,
+      "bookmark": "SP_LC_CM_00227"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 220,
+      "bookmark": "EV_BELL_00228"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 221,
+      "bookmark": "SP_LC_CM_00229"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，在2013-2014年度，特首辦的編制上限(按薪級中點估計的年薪值)相等於由2013年3月31日預算設有的96個非首長級職位，增至2014年3月31日的98個，增幅為兩個，而所需的開支預算約為100萬元。然而，擬增設的兩個職位的職務和薪金水平與跟實際工作究竟有何關係呢？政府無法給予我們具體答覆。 \n 我們獲政府告知，特首辦“於2013-14年度擬增設1個高級新聞主任及1個新聞主任職位，以滿足本辦公室在新聞及公共關係工作上的需要”。我剛才曾作粗略計算，擬增設的兩個職位會招致約100萬元開支預算，即其中一個職位的薪級中點應為五萬多元，另一個則為六萬多元。政府當局建議，在現有的101個常額職位中，包括96個非首長級職位和5個首長級職位  首長級職位的部分，我們會留待稍後討論  在前者之上增加兩個職位來負責新聞和公關工作。 \n 主席剛才作出了英明的裁決，表示如果有議員擬削減某公職人員的薪酬的話，他便要解釋為何要予以削減，並解釋擬削減的金額為何。這項辯論涉及6項修正案，而6項修正案的內容皆不盡相同。即使我全部予以支持，但因為各項修正案須獨立進行表決，所以我根本不知道哪項修正案能獲得通過。 \n 身為監督政府的立法會議員，我們要監察政府；身為制衡行政機關的立法會議員，我們有責任  除審計署會發表衡工量值式審計報告來監察政府帳目外  在政府制訂開支預算時進行監察，這是我們的權力範圍。 \n 至於獲批的開支預算將來能否達到衡工量值式審計工作所訂的準則，審計署自會進行審查，然後向政府帳目委員會提交報告。這安排旨在監察政府，亦可謂以立法權來制衡行政權的程序之一，包括今天所提出的一眾修正案。即使有些議員認為，將開支預算削減至1,000元或更少似乎很無謂，但我之前已說過，凡此種種皆只是政治論述而已，而主席當然有權根據《議事規則》隨時停止議員發言。 \n 話說回頭，兩個擬增設的非首長級職位  1個高級新聞主任和1個新聞主任  是新設的，即在現有的96個非首長級職位之上增加兩個，其中一個的薪級中點約為5萬元，另一個則約為6萬元，合共十萬多元，1年所招致的開支約為100萬元。 \n 我認為毫無必要增設上述兩個非首長級職位。我不會詳細解釋原因，否則主席會停止我發言。在梁振英  “689”先生  上台後，他所謂的新聞工作為何呢？原先已有高級新聞主任替他發報新聞，而當他進行外訪、“內交”或“落區”時，亦已有一眾新聞主任替他發報新聞；安排傳媒進行訪問等工作也是特首辦高級新聞主任或新聞主任的工作。原有人手已足夠應付“689”先生的新聞工作  可能他的新聞人員亦要替他寫稿，實情為何我不知道  為何還要開設兩個職位呢？ \n 我們要求削減撥款的原因......當然，6項修正案所建議的削減金額皆有所不同，例如梁國雄議員建議刪減特首辦的全年預算開支至1,000元，當然有點離譜。我們先不談首長級職位，包括新聞統籌專員及特首辦主任劉女士，我只提述現時擬增設的兩個非首長級職位。我認為是毫無必要的，因為無論在公關或新聞發布上，現有編制人手已足夠應付。或許無需用上“足夠應付”的說法，因為現有人手編制甚至可謂存在冗員。 \n 就梁振英現時在宣導政府政令的工作範疇  我們稱之為“宣導政府政令”  他當然要出來發言，例如我們“拉布”，他當然要出來恫嚇他人，指我們會拖垮政府，令民生受影響，整個建制派跟他的口徑一致。他的發言稿究竟是由哪位高級新聞主任替他撰寫的呢？我認為真的非常豈有此理。 \n 如果是由高級新聞主任或新聞主任給他的意見......當然“給予意見”絕對是他們的職能，因為高級新聞主任，甚至是新聞統籌專員除了在他制訂政策、協調政策和管治工作上給予最佳的意見和支援外，還要在他“扑咪”時給予支援和意見。 \n 所有行政首長、領導人或總統對外所發表的言論，一字一句皆要秉持“一字皆不肯放鬆”的嚴謹態度。所謂“一言興邦，一言喪邦”，失言便會帶來極嚴重的後果。我不想在此列舉梁振英過去失言的例子，因為實在太多，可以留待我們辯論削減行政長官薪酬或酬酢開支的擬議修正案時才討論。他不值得領取那麼高的薪酬。 \n 我會專門論述新聞發布和公共關係的部分。我接下來會花數秒時間來提述一件舊事。當第一位新聞統籌專員林瑞麟履新時，我向他贈送一本名為《美國政府公共關係》的書籍。該書講述我們今天討論的特首辦人物：負責新聞、新聞發布及公關宣傳的人員。究竟他們的質\n素、基本條件及工作性質為何呢？此外，他們何時需要“補漏”呢？這方面的人才是十分渴求的。 \n 立法會秘書處會發放行政長官答問會的逐字紀錄本，而政府新聞處也會發放一個版本，當中偶然會出現白字或記錄錯誤。雖然我們今天提出修正案，但我們不可以動輒對公務員的表現月旦得太厲害，以防影響公務員士氣。不過，我只想說句，我們只是就制度以事論事罷了。 \n 在新聞發布、協助特首會見傳媒或與傳媒溝通時，特首辦的新聞主任負責向他提供意見及給予支援。由去年7月1日“689”先生梁振英上任至今，在宣導政令，甚至公關形象方面，他可謂徹底破產，主要原因是他惹人討厭，形象很差。所以，我有時候十分同情公務員，因為他的同事也許也覺得他“醫好都嘥藥費”，但仍要為他傷透腦筋。即使如此......",
+      "sequence": 222,
+      "bookmark": "SP_MB_WYM_00230"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你在重複發言內容。",
+      "sequence": 223,
+      "bookmark": "SP_LC_CM_00231"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我認為兩個擬新設的職位根本毫無必要。第一，是他們過去的表現已經不好，理應改善以往的新聞發布和公關工作的表現，而並非增設該兩個職位。我認為，這是我們建議削減薪酬的最重要原因之一。政府當局建議增加一百多萬元的開支預算，但我卻提出削減薪酬的修正案。單是新增該兩個職位，1年便需增加一百多萬元的開支。至於其他職位，我稍後才會論述。 \n 幸運地，主席這次並無動輒阻撓我發言，因為我返回正題。我希望你“老人家”  現在是中午時分，要吃午飯  息怒，因為我發覺這兩天你跟我有點相似，開始“上頭”了，這對你的身體不好，但我們沒有辦法，我們“食得鹹魚抵得渴”，把命拼了......",
+      "sequence": 224,
+      "bookmark": "SP_MB_WYM_00232"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，多謝你關心我的健康，但你的發言跟修正案無關，請坐下。",
+      "sequence": 225,
+      "bookmark": "SP_LC_CM_00233"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "是的，多謝主席。請你點算人數，順道吃午飯。",
+      "sequence": 226,
+      "bookmark": "SP_MB_WYM_00234"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 227,
+      "bookmark": "SP_LC_CM_00235"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 228,
+      "bookmark": "EV_BELL_00236"
+    },
+    {
+      "title": "全委會主席",
+      "content": "何秀蘭議員，請發言。",
+      "sequence": 229,
+      "bookmark": "SP_LC_CM_00237"
+    },
+    {
+      "title": "何秀蘭議員",
+      "content": "主席，我就特首辦負責管理檔案的職員編制，發言表達意見。雖然我不明白梁國雄議員提出修正案把行政長官辦公室(下稱“特首辦”)的營運開支減至1,000元的邏輯，但我尊重同事作出政治表態的權利。 \n 關於人事編制，我認為這方面有很大問題。我們一直都十分關注香港的檔案管理工作，尤以特首辦為甚。自1997年或之前數年至今的檔案管理，其實是香港歷史很重要的一部分。我曾經就此提出一項問題，詢問是甚麼人以及由甚麼職級的職員負責這項檔案管理工作。當然，財務委員會(“財委會”)特別會議的時間十分短促，我們未必有時間跟進問題。所以，我要在這裏留下紀錄。 \n 第一，原來合共有5名職員負責檔案管理工作，最高職級的兩位職員的職銜雖然是檔案經理，但他們事實上是總行政主任，另外一名助理部門檔案經理實際上是高級行政主任，並非專業人員。主席，我們十分看重立法會的檔案管理工作，因此本會須𦖛請專業人員。特首辦擁有大量機密文件，當中記錄了歷史上重要的決策，其實應該𦖛請一名專業的獨立人士負責處理檔案工作。像古代的史官一樣，他應該獨立不受上司或其他人的影響，而妥為執行他的任務。但是，上述幾位職員不幸要聽命於一名監督特首辦檔案管理工作的首長級人員，而我相信這名首長級人員便是特首辦主任。他是一位近乎政治任命的人員，如果由他監管這項應該獨立運作的檔案歷史保存工作，問題將會十分嚴重。 \n (代理全委會主席梁君彥議員代為主持會議) \n  我在財委會特別會議提出編號CEO006和007的質詢中，問及特首辦有多少檔案有待移交？有多少檔案得以保存？有多少檔案被銷\n毀？其實，我們曾經跟進銷毀檔案一事，政府把辦公室搬往添馬艦新政府大樓的時候，銷毀了差不多66直線米(即相等13個5層高書架)的檔案，當中包括......",
+      "sequence": 230,
+      "bookmark": "SP_MB_CH_00238"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "何議員，正如全委會主席剛才裁決，你的發言應該針對現時的情況。你剛才說的是上一屆政府的事，不應該在這時候繼續討論。",
+      "sequence": 231,
+      "bookmark": "SP_LC_DCM_00239"
+    },
+    {
+      "title": "何秀蘭議員",
+      "content": "代理主席，他們是同一批人。我不是說政治任命官員，我不是說邱騰華代替了梁卓偉。",
+      "sequence": 232,
+      "bookmark": "SP_MB_CH_00240"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "他們很多都屬同一批人，但全委會主席已作出裁決，委員的發言，必須針對與這份預算案有直接關係的事宜。",
+      "sequence": 233,
+      "bookmark": "SP_LC_DCM_00241"
+    },
+    {
+      "title": "何秀蘭議員",
+      "content": "代理主席，其實剛才我站起來開始發言時，我也恐怕會引起誤會，所以我首先指出那些職員應該是一些獨立的專業人士。為何他們必須是獨立專業人士呢？那是因為他們是同一批人，所以我需要簡單引述一些過往發生的事情。代理主席，請你放心，我不會重複論點，也不會長篇大論。 \n 在搬遷過程中，一些所謂行政檔案，包括一些重要的外訪紀錄和單據被銷毀了。這些檔案被銷毀的時候，非專業人士會認為這些檔案看似無關，但當大家日後想追查特首外訪安排的時候，卻發覺所有證據已經被銷毀。 \n 代理主席，這些高級部門經理和助理部門經理其實應該由專業人員出任，而不是由行政主任擔任。所以，我希望政府知悉此事，並且把此事記錄在案。我希望政府盡快將這數名管理檔案職員的職級，改為專業職級，否則，我會考慮來年審議特首辦開支的時候，特別將這個負責為香港保管歷史檔案的職位刪除。如果他們不懂得如何保管檔案，或胡亂銷毀檔案，我們寧願不設這些職位。如果沒有這些職位，政府檔案處自會派遣工作人員瞭解一下特首辦如何處理檔案紀錄。如果由一些非專業人士出任這些職位，而他們又不懂得如何保存歷史紀錄的話，結果會比沒有人處理此事更差。我抱歉梁國雄議員把特首辦\n的經費削減為1,000元，我真的不懂如何把這兩位職員的開支抽出來。所以，我要在這裏告訴政府，如果它不思改進，我們明年會考慮提出修正案。多謝代理主席。",
+      "sequence": 234,
+      "bookmark": "SP_MB_CH_00242"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我向代理主席報告：日以繼夜，夜以繼日，開24小時會議也不害怕的王國興議員失了蹤，我請代理主席引用《議事規則》第17條召他的魂兮歸來。",
+      "sequence": 235,
+      "bookmark": "SP_MB_LKH_00243"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁國雄議員，你想引用《議事規則》第17條哪一款？",
+      "sequence": 236,
+      "bookmark": "SP_LC_DCM_00244"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "第(2)款或第(3)款，由你選擇。",
+      "sequence": 237,
+      "bookmark": "SP_MB_LKH_00245"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "引用第(2)款或第(3)款，是由你決定的。",
+      "sequence": 238,
+      "bookmark": "SP_LC_DCM_00246"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "現在是否全體委員會審議階段？",
+      "sequence": 239,
+      "bookmark": "SP_MB_LKH_00247"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "是的。",
+      "sequence": 240,
+      "bookmark": "SP_LC_DCM_00248"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "那麼便引用第(3)款好了。",
+      "sequence": 241,
+      "bookmark": "SP_MB_LKH_00249"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 242,
+      "bookmark": "SP_LC_DCM_00250"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 243,
+      "bookmark": "EV_BELL_00251"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁國雄議員，請發言。",
+      "sequence": 244,
+      "bookmark": "SP_LC_DCM_00252"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "代理主席，削減行政長官辦公室的開支至1,000元，是我提出來的。我一直在聆聽曾鈺成主席  現時在吃午飯的那位 \n 他說一定要解釋修正案的原因，但卻不能仔細論述。原因是甚麼？這等於說，誰說24小時開會是可以的，但提議不要吃飯的人卻要受到懲罰一樣。這是作法自斃。整體而言  先不要討論婆婆媽媽的小數目了  行政長官辦公室有何職能呢？是林林總總的。我們應該考慮一個辦公室應否存在，或它的存在應該達到甚麼程度，例如我現時要把它的開支削減至1,000元，其實是令它名存實亡。為何要削減得這麼厲害呢？我們要考慮行政長官辦公室在制度方面而言，是否合適呢？以港督來說，他當然可以無法無天，但我現在說的並不是這東西，我是說被沿用的制度的本意，其實與行政長官辦公室現時在《基本法》之下賦予的權能是不一樣的......",
+      "sequence": 245,
+      "bookmark": "SP_MB_LKH_00253"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你離題了。全委會主席已經裁定，你應該針對就《2013年撥款條例草案》動議的修正案發言。",
+      "sequence": 246,
+      "bookmark": "SP_LC_DCM_00254"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "好的。我舉一個例子，但舉例也是不行的......很簡單，“特首及夫人可有效地出席社交活動”，是其中的一項職能。梁振英上任只是半年多一點，到現在是第九、十個月而已，但他在半年裏卻花掉了29萬元。“貪曾”在1年  顧名思義，“貪曾”是貪婪的，但他卻是“廉梁”  “貪曾”是胡亂酬酢的特首，但在1年裏也只花費了333,000元。代理主席，有人舉手示意。“我看見了，有人舉手了。(普通話)”",
+      "sequence": 247,
+      "bookmark": "SP_MB_LKH_00255"
+    },
+    {
+      "title": "蔣麗芸議員",
+      "content": "代理主席，曾鈺成主席剛才已經說得很清楚，請他們在發言期間，不要再提及上屆政府已退休的官員。現時討論的是2013-2014年度的預算案，是有關未來的財政預算，請他集中討論這方面。曾鈺成主席已指出了這一點。",
+      "sequence": 248,
+      "bookmark": "SP_MB_CLW_00256"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "我知道，我會就此作出裁決。",
+      "sequence": 249,
+      "bookmark": "SP_LC_DCM_00257"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "代理主席，我真的有提及預算案。我再重複一次，蔣麗芸議員，請你細心聆聽。我是說......你遮蓋着耳朵嗎？這樣，你便無法投訴我了。我指出的第一點是，梁振英擔任了特首半年，他已經花掉了29萬元......",
+      "sequence": 250,
+      "bookmark": "SP_MB_LKH_00258"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你在重複你的論述。",
+      "sequence": 251,
+      "bookmark": "SP_LC_DCM_00259"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "不，我是在解釋。",
+      "sequence": 252,
+      "bookmark": "SP_MB_LKH_00260"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "你無需解釋。",
+      "sequence": 253,
+      "bookmark": "SP_LC_DCM_00261"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我曾提及現任特首的酬酢費。為何我說不能撥款給他的辦公室呢？或者說，為何我給行政長官辦公室的撥款只有1,000元呢？這是一種懲罰。撫心自問，梁振英的支出超過上任特首，原因是甚麼？沒有人知道，我們看到的是  我不再舉例子了，因為會被人投訴  我們看到的是，梁振英明言，作為特首，他會“應使用金錢便使用”，但他的花費卻較上任特首為多。這真的違反了他的承諾。 \n 至於行政長官辦公室的開支，總體來說，亦因其編制膨脹而上升。大家均知道，他聘請了更多職員。所以，即使我不舉出具體的例子也沒有問題。第一，行政長官辦公室這一架構，究竟應否改革也是未知之數，因為果效是不顯著的；增加了資源，但果效卻更差劣。代理主席可能又會問：就算這樣，你有需要把它的開支預算削減至1,000元嗎？其實，每個細項都有說明的，但我想各位同事明白一點。我想舉出一個例子  沒法子了，不舉例不行，但這是新的例子。例如，在行政會議成員和局長的品格檢查方面，歷任特首的審查也沒有他的審查做得這麼差劣，我不舉例了......",
+      "sequence": 254,
+      "bookmark": "SP_MB_LKH_00262"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你離題了。全委會現在討論的是行政長官辦公室的薪酬和其他開支，品格審查並不在這項辯論範圍之內。",
+      "sequence": 255,
+      "bookmark": "SP_LC_DCM_00263"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白，因為他的品格審查做得不好，所以便要削減。如果不說他的品格審查做得不好，我拿甚麼理由來削減他的工資呢？我沒理由說他的外貌不討好。沒理由的，外貌不好也可以......",
+      "sequence": 256,
+      "bookmark": "SP_MB_LKH_00264"
+    },
+    {
+      "title": "蔣麗芸議員",
+      "content": "你的外貌也不好。",
+      "sequence": 257,
+      "bookmark": "SP_MB_CLW_00265"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是，我的外貌......不好意思，你是無法削減我的工資的。請你下屆來到新界東參選，使我失去議席，別讓我支薪，但你有否這樣的能力呢？有的話便過來，我鐵定在下屆提攜一位新人，搶奪你的選票......",
+      "sequence": 258,
+      "bookmark": "SP_MB_LKH_00266"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你已經離題，又多次重複。如果你再重複，我會停止你發言。",
+      "sequence": 259,
+      "bookmark": "SP_LC_DCM_00267"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是的，明白。代理主席，為何我說要削減行政長官辦公室的開支預算呢？它的其中一項職能是甚麼呢？“提供支援予行政長官，以輔助他制訂政策和兌現施政報告的承諾”  是“兌現”，即如“兌換”的“兌”  梁振英在競選的時候，說要採用香港速度，亦說了其他話。他即是說，他不單是空談，亦能做出成績，而這樣自然是需要一個團隊或參謀，而行政會議內的成員必須才德兼備，才能夠輔助特首施政，亦不會因為自己的品德低劣而令特首蒙羞。行政長官辦公室的其中一項職能，便是做這些事情，即留意特首揀選行政會議成員時，是否出現問題。 \n 代理主席，我知道調查工作是由警隊負責的  我已經在事務委員會提問過，知道是由警隊來進行調查。不過，由警隊哪一個部門負責，則不能公開，這點我是明白的。但是，行政長官辦公室的責任，是要讓特首由長名單到短名單，直至正式挑選時，能有所依從。 \n 試想想，代理主席，我不一一舉例，這會有傷感情。在梁振英上任至今，他所揀選的  我們不要重提“5司14局”，因為這提不得。他在“5司14局”失敗後，回復“3司12局”  局長的“揹鑊率”，即是令公眾譁然的頻率又如何呢？我不一一細舉了，大家心知肚明。撫心自問，一而再，再而三，甚至有某位行政會議成員涉嫌徇私，被特首命令放長假。不知道他現在在哪裏呢？ \n 代理主席，我認為，單單在負責提供資源以輔助特首制訂政策和兌現施政報告承諾方面，行政長官辦公室已經極之失敗。所謂“工欲善其事，必先利其器”。是要有一個團隊的，是要有一個參謀的，尤其是，代理主席，在我有限的記憶中，梁振英特首曾親自對着傳媒說，今屆行政會議成員與以往的不同。“梁粉”，你們知道嗎？你們不知道吧。他說：“不單局長要出來推銷政策，即使是行政會議成員，也要\n出來推銷政策。”OK？我當然假設梁振英的說話“算數”，說完便“算數”。但是，梁振英這個莊嚴的承諾，又未看到得以體現。即是說，你很少看到行政會議成員出來為梁振英分憂，推銷政策；他們只是解釋自己為何要“揹鑊”或不應該“揹鑊”。我不舉出例子。在這點上，行政長官辦公室的職員  如果我們假設梁振英是好人  一定是壞人，反之亦然。 \n 代理主席，我說過很多次，我也會幫助梁先生，只不過他是政敵，“君子之爭，必也射乎”，即正如射箭，是很公平的，不能夠偏私。老實說，我也有合理懷疑，梁振英說的話一定“算數”，但怎樣也做不到；而且適得其反，你說行政長官辦公室是否有問題呢？究竟是那些人與他為敵，還是制度有問題呢？難以考核，我在下一部分將會考核。但是，很明顯，如果我們撥款給行政長官辦公室，希望它能輔助特首制訂政策兌現施政報告的承諾，可是，它卻不能夠勝任一名普通公務員也能做得到的諫官職責，即是說，如果特首選擇了A，它沒有告訴他其實A是不可行的。同時，行政長官辦公室也未能與警方聯絡，查清楚該人士的背景。 \n 所以，代理主席，大家不要誤會，我只是在制度上作出考核。為何在一個制度下做事的人，如果制度沒有問題，而若他已經盡了100%或90%的努力，為何不能夠幫助一位有為的特首呢？我不能質疑特首，我只能夠質疑他們。在質疑他們時，只有一個很簡單的方法，便是削減他們的薪酬，減到他們害怕。所以，這是合乎常理的。 \n 其實，很多官員說特首不是這樣，我也贊成，因為是制度有問題。如果制度大約沒有問題，即表示做事的人有問題。所以，削減行政長官辦公室的開支，不是針對人，因為人是可以調職的。 \n 這個制度本身有深切的反省......",
+      "sequence": 260,
+      "bookmark": "SP_MB_LKH_00268"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，有關這個制度，你已經說了很多次，希望你不要再重複。",
+      "sequence": 261,
+      "bookmark": "SP_LC_DCM_00269"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我是解釋為甚麼把行政長官辦公室的全年預算開支削減至1,000元。",
+      "sequence": 262,
+      "bookmark": "SP_MB_LKH_00270"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "你的論據已經說得很清楚。",
+      "sequence": 263,
+      "bookmark": "SP_LC_DCM_00271"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "好的。代理主席，我現在決定不再發言了，但我在停止發言前，我看到魂兮歸來，我要召第二個魂。代理主席，請根據《議事規則》第17(3)條點算人數，謝謝。",
+      "sequence": 264,
+      "bookmark": "SP_MB_LKH_00272"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "好的。秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 265,
+      "bookmark": "SP_LC_DCM_00273"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 266,
+      "bookmark": "EV_BELL_00274"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳志全議員，請發言。",
+      "sequence": 267,
+      "bookmark": "SP_LC_DCM_00275"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "代理主席，剛才，梁國雄議員在發言時  他現時不在席  我想再提出的是，由於我們今次共有4項合併辯論均是關於行政長官、行政長官辦公室和行政會議的，而梁國雄議員剛才已經談論過後半部分關於行政會議或那些議員的品格審查，因此，他其實是可以集中在下一項，即第2項合併辯論才處理這方面的問題。 \n 代理主席，主席去了午膳，但我十分認同他較早前的提示，即在今次的辯論中不應就一些個別事件作長篇大論和冗長的描述，以致發言十多分鐘，我是同意的。然而，話說回來，由於我們現正討論裁減開支，例如我們現時討論的這部分是有關裁減行政長官辦公室員工的薪酬，因此，當你要削減一名員工的薪酬或解僱一名員工時，你當然要給一個理由，並且必須提供例子，例如他做了甚麼錯事或甚麼不好的事情等，所以我是必須列舉例子的，如果沒有例子可舉出來，便無須再說下去了。不過，如果要舉出例子，我當然會在兩、三分鐘內就例子提綱挈領地作出交代，而不會長篇大論地用每節的時間來講述一個例子。我希望主席和代理主席明白。 \n 此外，我們可否討論前朝的人，即“貪曾”、“老董”，甚至是“肥彭”呢？同樣道理，如果你無限發揮，那當然是不行的，但這也是在所難免的，因為我們正在討論現時行政長官辦公室的表現是否良好，是必須作出比較的。這可以是一個線性、直線的比較，跟曾蔭權時代、董建華時代，甚至是好像陳偉業議員提出般，與彭定康時代，也可與麥\n理浩時代比較，甚至是作一個橫線的比較，即當我們在討論行政長官的薪金時，要跟外國國家元首比較，援引他們例子及他們的職責，我相信代理主席或主席也會明白......",
+      "sequence": 268,
+      "bookmark": "SP_MB_CCC_00276"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳議員，你離題了。請你針對這項辯論的議題。",
+      "sequence": 269,
+      "bookmark": "SP_LC_DCM_00277"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "好的。我想繼續討論的是行政長官辦公室員工的職能，包括統籌政府新聞資訊及公共關係策略。我剛提及這些方面，是因為我想援引例子。我在前一節曾提及，該辦公室的編制與港英時代作出比較，員工的數目可能已由五、六十人增至現時的101人。我無法在短時間內找出一些他們的實際職能及果效的數字或數據，但卻找到一些例子，而且是一些經典例子。例如早前提到落區，讓我們看看這張圖片，在“肥彭”時代的“落區”，與現時在行政長官辦公室安排下、在梁振英時代的“落區”，大家可以看到當中的分別......",
+      "sequence": 270,
+      "bookmark": "SP_MB_CCC_00278"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳議員，你是在重複論據，其他委員已列舉過這種落區的例子。",
+      "sequence": 271,
+      "bookmark": "SP_LC_DCM_00279"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "可是，他們並沒有說過這個例子。",
+      "sequence": 272,
+      "bookmark": "SP_MB_CCC_00280"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "儘管如此，落區一事是已經說過了。請你針對議題，不要重複其他委員或自己的論據。",
+      "sequence": 273,
+      "bookmark": "SP_LC_DCM_00281"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "我只是想指出行政長官辦公室的其中一項職能，即協助行政長官建立公共關係和形象，比起前朝差了很多，所以我支持削減預算開支的修正案。 \n 其實，我在這節的發言重點並不在“落區”，我想說的是行政長官辦公室在處理新媒體上的表現，這方面暫時似乎仍未有議員提及過。其實，所謂新媒體也不是很新的了，只不過是互聯網的世界而已。由於要討論這項課題，我當然須援引前朝曾蔭權時代，因為在曾蔭權時\n代的行政長官辦公室在2010年9月15日設立了官方網頁、Facebook網頁，名為“上亞厘畢道”，我相信網友和議員們對此均有深刻印象......",
+      "sequence": 274,
+      "bookmark": "SP_MB_CCC_00282"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳議員，全委會主席已作出裁決，你應提供意見，說明是否支持具體的削減款額。你在重複之前的事項，你是離題了。",
+      "sequence": 275,
+      "bookmark": "SP_LC_DCM_00283"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "不是，代理主席，我想說的是：在同樣的資源下，甚至是在今次行政長官辦公室申請增撥的資源下，它所做的工作其實較曾蔭權時代為少。我是援引這個情況為例，就有關運用新媒體的情況進行討論，我不覺得我已經離題。",
+      "sequence": 276,
+      "bookmark": "SP_MB_CCC_00284"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "你是離題了，請你針對議題，解釋為甚麼支持有關的削減款額。",
+      "sequence": 277,
+      "bookmark": "SP_LC_DCM_00285"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "因為雖然行政長官辦公室運用增加了的款額，但卻做不到上屆曾蔭權政府時代做到的事情......",
+      "sequence": 278,
+      "bookmark": "SP_MB_CCC_00286"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "這是你的主觀看法。你可以按主觀看法發言，但這並非客觀數據。請你盡快針對議題發言。",
+      "sequence": 279,
+      "bookmark": "SP_LC_DCM_00287"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "數據不就是“沒有了”嗎？即是由有變無，由一變零，這不就是數據嗎？由有行政長官辦公室(下稱“特首辦”)的Facebook網頁，到自從梁振英上任後，在2012年7月1日結束了，一直未有再提供這類新媒體網頁。其實，梁振英在競選期間也使用了很多新媒體，例如他曾提出如果有誰在Facebook網頁“like”得到最多，便會邀請他一起茶敍，但在他上任後，卻竟然把這個網頁關閉了。大家也知道，原因很簡單，這個所謂“面書”(Facebook)的網頁，既是一個最有成本效益的宣傳工具，也無需預算案提供甚麼大額撥款，可能只需要一名同事、一名特首辦的文書人員及一般支援服務同事，便已經可以管理網頁。可是，梁振英在上任後竟然把這個如此有效、可以建立公共關係和形象的工具捨而不用，反而把資源浪費在一些實效更低的“公關show”上。 \n 我可以再援引一些外國例子。遠至美國總統奧巴馬，近至馬英九總統，也把這類新媒體運用得相當好，而特首辦在運用上似乎便有所欠缺。至於他們的工資，大家看到在文書及一般支援服務這30個職位當中，最高工資達每月三萬多元，這是否有效地運用了我們撥給它的資源呢？一些有效、廉價，甚至無須花錢的工具它不採用，卻自行編寫一些可能沒有人會拜訪的網頁。即使現時特首辦的政府網頁也並非一種互動媒體。如果市民想發表意見，便只可以發出電郵，跟着它便以一個官方的標準答案回覆你，當中是沒有任何互動的。 \n 因此，我認為政府應該更懂得運用一些免費的資源，從而有效地宣傳特首辦，包括行政長官的形象，與市民、外界，甚至是外國  雖然在內地無法連接Facebook，因為他們認為內交較為重要，所以並不重視這回事  但作為一個國際城市，與其他國家或地區的領導人比較，我認為特首辦在這方面也有失責，是要作出檢討的。 \n 我謹此陳辭。",
+      "sequence": 280,
+      "bookmark": "SP_MB_CCC_00288"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 281,
+      "bookmark": "SP_LC_DCM_00289"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，在我發言前，請你先點算人數。",
+      "sequence": 282,
+      "bookmark": "SP_MB_CWY_00290"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "你是根據《議事規則》哪一條要求點算人數？",
+      "sequence": 283,
+      "bookmark": "SP_LC_DCM_00291"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "是《議事規則》第17(3)條。",
+      "sequence": 284,
+      "bookmark": "SP_MB_CWY_00292"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 285,
+      "bookmark": "SP_LC_DCM_00293"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 286,
+      "bookmark": "EV_BELL_00294"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳偉業議員，請發言。",
+      "sequence": 287,
+      "bookmark": "SP_LC_DCM_00295"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，我們現時仍在討論第1項合併辯論，涉及修正案第1至6項，這是涉及削減行政長官辦公室員工薪酬，而梁國雄議員的修正案是把行政長官辦公室的預算開支由9,400萬元削減至1,000元。 \n 很多議員或公眾也未必瞭解行政長官辦公室員工數目暴升的誇張程度。我剛開始時說麥理浩年代只有五十多名職員，現在則增至一百多名。大家可回看港督當年的工作範圍，當年設立了房屋委員會及廉政專員公署等，工作量是極多的。我們為何要削減“689”這個行政長官辦公室的開支？因為人多錢多，但做不了事情。人多錢多但做不了事情，不排除是因為人太多，所以做不了事情。因為人太多，這個依靠那個，那個依靠這個，職責不清，導致很多問題。 \n 大家看到行政長官辦公室高級職員的增加，其實是令人感到憂慮的。現時的職位，包括1名首長級甲級政務官、1名首長級乙級政務官、1名首長級丙級政務官、4名高級政務主任、1名總行政主任及4名高級行政主任。這些主要行政主任和政務官級的職員一共有12名，在當年麥理浩年代只有1名。當年麥理浩年代，即1974年至1975年，只有1名Administrative Officer，現在則有12名，是否很誇張？跟當年麥理浩出任港督的年代相比，當年稱為港督府，現在則是特首辦，有12名政務主任級職員。當然，工資也大幅飆升。港督當年的年薪也只是252,000元，跟現在相比，特首現在年薪400萬元，相差二十倍。大家看到這些職位，以及這些職位的增加，當然，代理主席，不單是今年“689”一下子增加這麼多......",
+      "sequence": 288,
+      "bookmark": "SP_MB_CWY_00296"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳議員，你現在的發言內容，較適合留待進行第4項合併辯論時才提出。",
+      "sequence": 289,
+      "bookmark": "SP_LC_DCM_00297"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "不是，代理主席，因為削減......",
+      "sequence": 290,
+      "bookmark": "SP_MB_CWY_00298"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "第4項合併辯論涵蓋行政長官辦公室主要人員及擬增設職位的薪酬。你剛才談論的全部是AO，他們是行政長官辦公室的主要人員，所以你留待第4項合併辯論時才提出那些意見會較為穩妥。",
+      "sequence": 291,
+      "bookmark": "SP_LC_DCM_00299"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，我正就梁國雄議員的第1項修正案發言，即削減......",
+      "sequence": 292,
+      "bookmark": "SP_MB_CWY_00300"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "這項辯論所涵蓋的修正案，是有關削減行政長官辦公室員工薪酬及其他開支，涉及多個分目，而你現在的意見，較適合在進行第4項合併辯論時提出。委員要留意發言時應針對議題提出觀點。",
+      "sequence": 293,
+      "bookmark": "SP_LC_DCM_00301"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "不是，代理主席，第4項合併辯論是刪減......",
+      "sequence": 294,
+      "bookmark": "SP_MB_CWY_00302"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "第4項合併辯論是有關行政長官辦公室主要人員及擬增設職位的薪酬。你現在說的是行政長官辦公室的主要人員，全部是AO。",
+      "sequence": 295,
+      "bookmark": "SP_LC_DCM_00303"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "可是，代理主席，那些AO的薪酬是包括在整體9,400萬元開支內。",
+      "sequence": 296,
+      "bookmark": "SP_MB_CWY_00304"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "我只是提醒你，留待進行第4項合併辯論時才提出這些意見較為穩妥。",
+      "sequence": 297,
+      "bookmark": "SP_LC_DCM_00305"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "OK。我理解，代理主席。其實，並不是完全矛盾的。代理主席，你英明，當然，第4項合併辯論其中一個主點......我現在說的是整個行政長官辦公室的失職，並以政務主任級人員的增加情況來顯露或凸顯......",
+      "sequence": 298,
+      "bookmark": "SP_MB_CWY_00306"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "我明白，但你所說的那些論據，另外數位委員今早已重複了很多遍。",
+      "sequence": 299,
+      "bookmark": "SP_LC_DCM_00307"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，絕對沒有重複，沒有人說過這個數字。這個數字是我提出來的，我是找回前朝......接着這些數字也沒有人說過，\n對嗎？1996年7月1日只有6名總主任，代理主席。即使是2000年7月1日，董建華年代也只有8名，這些數字從來沒有人說過。因此，代理主席，雖然我有少許“老人癡呆”，但我仍然記得那些數字。梁國雄議員肯定沒有說過，黃毓民議員沒有說過，陳志全議員也沒有說過。",
+      "sequence": 300,
+      "bookmark": "SP_MB_CWY_00308"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "代理主席，會議廳沒有足夠的法定人數。",
+      "sequence": 301,
+      "bookmark": "SP_MB_WYM_00309"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 302,
+      "bookmark": "SP_LC_DCM_00310"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 303,
+      "bookmark": "EV_BELL_00311"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳偉業議員，請繼續發言。",
+      "sequence": 304,
+      "bookmark": "SP_LC_DCM_00312"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "似乎很多委員對有多位委員回來，感到很失望。 \n (全委會主席恢復主持會議) \n  主席，我剛才說到有關的職位之多，導致行政長官辦公室的表現低落或惡劣，有時候很可能是人多不懂做事，每個人產生的錯誤多，便導致行政長官的聲望下跌，以及整個行政長官辦公室在履行職責方面會不斷出錯。其實要數其出錯，我想三天三夜也數不完，我不會花大家時間，也不會長篇大論，只是簡單說幾個事例的名稱，我不會就每個事例詳細描述。 \n 很簡單，例如梁振英控告《信報》的事例已是極為錯誤；又例如很多次他被記者提問時，不主動回答，特別是對於香港記者在內地被毆打或拘留的情況等個案，多次都顯露行政長官和其辦公室的有關人員，在處理這些問題上缺乏智慧或專業常識，一而再，再而三地產生錯誤的回應，導致傳媒或公眾對行政長官及其辦公室都產生極負面的印象。再者，香港政府過去較少用的做事模式，例如用鱔相或鱔稿這類事，傳媒是十分討厭的。但是，梁振英擔任特首後，十分喜歡採用，導致傳媒對此有所不滿；辦公室很多時候做得差或錯，而使傳媒對其\n不滿，所以涉及到質素的問題，越多無能的人在其中，便導致工作表現惡劣。 \n 主席，在眾多修正案中，我想特別強調第6項修正案。這是陳志全議員提出的修正案，關乎議決削減分目000而將總目21削減9,714,000元這數字。有關這個削減數額，當中已說明是相當於行政長官辦公室就特別委任而支付的薪金的全年預算開支。很多市民或議員都未必明白究竟這是削減甚麼，我儘管提醒議員，行政長官辦公室有一個很特別的職位，是特別助理職位，這種做法是董建華始創的。大家可看看財務委員會討論文件1997年9月19日的總目21，當年董建華因為要聘用兩名私人顧問、一名特別助理、高級研究助理及他的司機，當時因為......",
+      "sequence": 305,
+      "bookmark": "SP_MB_CWY_00313"
+    },
+    {
+      "title": "林健鋒議員",
+      "content": "主席，因為陳偉業議員講解的內容大家都知道，我們無須他向我們重新解釋一次。我覺得這是不需要的解釋，是浪費我們的時間。",
+      "sequence": 306,
+      "bookmark": "SP_MB_LKF_00314"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員，請集中說明你支持或反對修正案的原因，不要過於冗長說明委員已很清楚知道的事情。",
+      "sequence": 307,
+      "bookmark": "SP_LC_CM_00315"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我不知道有多少委員知道1997年董建華這段歷史。",
+      "sequence": 308,
+      "bookmark": "SP_MB_CWY_00316"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你只談論相關的內容。",
+      "sequence": 309,
+      "bookmark": "SP_LC_CM_00317"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我相信在座八成委員都不知道這典故。如果林健鋒議員說他知道，我會感到一點驚訝。",
+      "sequence": 310,
+      "bookmark": "SP_MB_CWY_00318"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，你是在重複其他委員的論點。",
+      "sequence": 311,
+      "bookmark": "SP_LC_CM_00319"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，這是有關的，因為我想指出，梁振英的特首辦其中一個很獨特的職位，是陳建平先生這位高級特別助理。可能林健鋒\n議員很熟悉這些人，但這麼長時間我也沒有見過他，也沒有跟他交談過一句。雖然他在董建華年代和曾蔭權年代都在特首辦，梁振英年代他仍在特首辦，但多年來我從沒有正式見過這個人，雖然他是高級特別助理......",
+      "sequence": 312,
+      "bookmark": "SP_MB_CWY_00320"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，你現在說的是第6項修正案，你特別針對的是行政長官辦公室就特別委任而支付的酬金，款額達九百多萬元。你是否已很清楚知道這筆款額涉及甚麼？",
+      "sequence": 313,
+      "bookmark": "SP_LC_CM_00321"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我們試圖問過這問題，我們問完後，得到的結論是  當然這有待政府向我們澄清  我們所得的結論是，這名特別助理的薪酬應在這特別委任而支付的薪酬內，這是我們的理解。如果看看政府本身公布的數字，有關行政長官辦公室整體的行政開支，這部分是最神祕的。可能陳克勤議員會較為清楚，因為他曾當特別助理，好像只是做影印工作的也有8萬元月薪，對嗎？以我的理解，這項開支是在這部分內。 \n 當然，這名高級特別助理的薪酬是多少，是沒有交代的......",
+      "sequence": 314,
+      "bookmark": "SP_MB_CWY_00322"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，如果你說的是高級特別助理，第4項合併辯論中有一項由陳志全議員提出，編號第130號的修正案，便是建議削減行政長官辦公室高級特別助理的薪酬。陳志全議員稍後或許會解釋，但現時這項辯論涵蓋的這筆款項，是就特別委任而支付的酬金，跟你所說的行政長官辦公室高級特別助理的薪酬並無關係。請你認清要針對的議題。 \n 如果你認為你是基於甚麼理由支持某一項修正案，請你說明，但不要重複數位委員剛才反覆就行政長官本人的公關表現所作的批評。他們已說了很多，你無需再多作說明。",
+      "sequence": 315,
+      "bookmark": "SP_LC_CM_00323"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "OK，主席，那麼就特別助理的部分，我現時不再說了。可能是我的資料錯誤或哪裏出現問題，我回去看清楚，或在下部分再仔細說明。 \n 主席，我剛才提到有關公關方面的問題，有些網民建議我提出數點而已，主席，這是代表網民提出的。他們說如果懂得一點點公關知識，基本上有些基本錯誤是不應出現的，建議我代表他們向特首辦或行政長官“689”提一提，千萬不要犯這些錯誤。主席，很簡短，數點而已。 \n 其中一位說，千萬不要不做功課，做事一定要做功課，這是基本的公關技巧；第二，不要低估對手；第三，不要遮遮掩掩；第四，千萬不要說謊。這個“689”......",
+      "sequence": 316,
+      "bookmark": "SP_MB_CWY_00324"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，你說的這些都跟議題無關，請不要再說了。",
+      "sequence": 317,
+      "bookmark": "SP_LC_CM_00325"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "OK，因為我們反對撥款，所以...... \n 主席，請你點算法定人數。",
+      "sequence": 318,
+      "bookmark": "SP_MB_CWY_00326"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 319,
+      "bookmark": "SP_LC_CM_00327"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 320,
+      "bookmark": "EV_BELL_00328"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請委員返回座位。是否有其他委員想發言？",
+      "sequence": 321,
+      "bookmark": "SP_LC_CM_00329"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，我繼續討論第1項合併辯論的6項修正案。代理主席剛才已代你提示議員不要重複。你亦提示陳偉業議員，提到陳志全議員的第6項修正案，內容關乎削減相當於行政長官辦公室(下稱“特首辦”)就特別委任而支付的酬金全年預算開支。其實這些特別委任的官員包括新聞統籌專員、秘書長和高級助理等。然後，還有由梁國雄議員提出的第1項修正案，這修正案其實已甚麼也包括在內。嚴格來說，我們在這部分全部提出討論也可以，總之稍後不要重複便可，所以基本上沒有大問題。 \n 然而，我要說的是，我剛才提到新增的兩個非首長級職位，是屬於特首辦的新聞組的。當然，它設有一位總新聞主任，但還有高級新聞主任和新聞主任。我要舉一個例子，特首辦的工作，特別是公關或\n新聞主任的工作，很多時候一定要代行政長官發出一些新聞文稿。譬如有人逝世，他要發唁電。有人當選甚麼甚麼職位，他又要發賀電。不久前，英國前首相戴卓爾夫人逝世，結果這個新聞組......特首的中文悼詞說“讓我們再次向戴卓爾夫人送上最摯誠的祝福，願她早日安息。”不知道主席有沒有印象？這個“烏龍”實在太大，中文版本錯誤，向她送上最誠摯的祝福，但又祝她早日安息。“老兄”，他們怎值得這麼高薪？人也死了，你表示哀悼，所謂“rest in peace”(R.I.P.)，但你還要送上祝福。但是，原來英文卻沒有錯，主席。我姑且舉此一例子，我相信你不會阻攔我這個例子，因為實在太好笑了，對嗎？公帑要運用得宜，你現在要增加兩個職位：一名高級新聞主任和一名新聞主任，然而他們的工作質素卻是這樣。我不詳細說了，這個“烏龍”也算得大，對嗎？這與梁振英有關嗎？梁振英會否那麼愚蠢？向戴卓爾夫人的家人發出官式的哀悼，有何理由會送上祝福呢？會否有人受到處分呢？我們不知道。 \n 有關特首辦的修正案包括4個部分，如果議員有留心便會知道，不要以為我們只懂“拉布”，兜兜轉轉。第一部分是特首辦員工薪酬及其他開支；第二部分是有關行政會議；第三部分是正題，討論“689”的薪酬等，到時泛民便會發言，對嗎？第四部分是有關新聞統籌專員及特首辦的高級官員。主席，我們是很清楚的。不過，這部分的辯論其實即將結束，但我要說的是，在所有......譬如跟上一次，即2012-2013年度的修訂預算比較，今年增加了二百多萬元。增加的二百多萬元是浪費，好像掉落大海般。情況就等於我們去年為何就5司14局而“拉布”一樣，就是為了阻止政府浪費公帑。",
+      "sequence": 322,
+      "bookmark": "SP_MB_WYM_00330"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你是在重複你的觀點。",
+      "sequence": 323,
+      "bookmark": "SP_LC_CM_00331"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我們現在要求削減。老實說，6項修正案我都支持，雖然梁國雄議員提出的修正案略嫌荒謬。",
+      "sequence": 324,
+      "bookmark": "SP_MB_WYM_00332"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你在重複你的論點，請不要重複。",
+      "sequence": 325,
+      "bookmark": "SP_LC_CM_00333"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "是的。我剛才並沒有說對6項修正案都支持，對嗎？梁國雄議員提出的修正案實在有點問題，不過，在政治上我要支持他。如果在實際操作上，倒不如裁掉整個特首辦。裁掉整個特首辦豈不是\n不用運作，對嗎？所以對於梁國雄議員提出的修正案，我極之不以為然。不過，基於政治上的表態，我只好支持他的修正案。 \n 我們支持全部修正案，以削減特首辦非首長職級人員的開支預算，以及特首辦員工個人薪酬及一般部門開支，以及就特別委任而支付的酬金等的開支預算。 \n 事實上，由1997年回歸至今，特首辦由七十多人增至現時102人，增加接近30人，是否全部物有所值？我認為將來審計署其實也要審計一下。由1997年至今，審計署從來沒有審計過特首辦的開支。眾所周知，除了數位較高級的，譬如特首辦主任、常任秘書長、行政長官私人秘書，以至新聞統籌專員外，一直數下去，還有很多較低級的職員，包括行政組的高級行政主任、行政主任、特首辦的項目主任、管家、助理社交秘書一大堆，我在此不再重複。",
+      "sequence": 326,
+      "bookmark": "SP_MB_WYM_00334"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你正在重複論點。",
+      "sequence": 327,
+      "bookmark": "SP_LC_CM_00335"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我們現時提出的修正案的削減薪酬建議，均涵蓋這些人士在內，雖然對這些公務員也許不太公道。",
+      "sequence": 328,
+      "bookmark": "SP_MB_WYM_00336"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，如果你未能提出新論點，我要請你停止發言。",
+      "sequence": 329,
+      "bookmark": "SP_LC_CM_00337"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "明白。我的論點是，我支持所有6項修正案。有關這部分的辯論，其實我們已論述得差不多，因為接着在行政會議的開支方面，我們還有很多意見想表達。不過，無論如何，我想對主席說，我們希望可以有多些委員出席接下來的辯論。請你點算人數。",
+      "sequence": 330,
+      "bookmark": "SP_MB_WYM_00338"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 331,
+      "bookmark": "SP_LC_CM_00339"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 332,
+      "bookmark": "EV_BELL_00340"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 333,
+      "bookmark": "SP_LC_CM_00341"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我剛才走進你的辦公室找你，你正在休息中，我希望你保重身體。 \n 其實，我是始作俑者，要把行政長官辦公室的全年預算開支減至1,000元，我覺得這是有根據的，你得看一看。主席，我被指為“走狗”、“漢奸”，按照美國人的旨意辦事。美國政府......",
+      "sequence": 334,
+      "bookmark": "SP_MB_LKH_00342"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，由於這是你第五次發言，所以請你切勿離題。如果你的發言內容跟議題無關，我便不會讓你再發言。",
+      "sequence": 335,
+      "bookmark": "SP_LC_CM_00343"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "“肉隨砧板上”。一個能夠在特區收買一位立法會議員的政府，其編制當然是很龐大，薪金也很高。據我所知，美國也有一個總統辦公室(Executive Office of the President)，即無論是奧巴馬或哪位總統也好，也是須倚靠它來辦事的。以編制或人員來說，它仍然是膛乎梁振英現時的辦公室其後的，這點我不說了，我只討論薪金。 \n 主席，我首先想談談  我也想條理分明地發言  但無論我們怎樣向行政長官辦公室查問，問它聘請了哪些人、某某人的名字是甚麼、薪金有多少，都得不到答覆，只有一個數字。我現在姑且作出一個不能比較的比較，但其實也是可以比較的。有一位在美國受聘於奧巴馬政府的新聞助理(Press Assistant)，這個人其實是有名字的，但我姑隱其名。他的月薪是多少呢？我把他的  由於他是按年支薪的，因此我便把他的年薪除以12個月  這位擔任新聞助理的人的月薪是多少呢？真的會嚇你一跳，是23,400元。我們的特首辦......還有一位，也是一樣的......",
+      "sequence": 336,
+      "bookmark": "SP_MB_LKH_00344"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，除非你立即說明你現在所說的為甚麼跟現在的議題有關，否則，我便要停止你的發言。",
+      "sequence": 337,
+      "bookmark": "SP_LC_CM_00345"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我知道，因為我說要削減行政長官辦公室的全年預算開支至1,000元，而在我們的辯論中，亦有議員的發言涉及有關統籌政府新聞資訊和公共關係策略這個職項。主席，我知道你是英明的，你叫我不要再舉例，我便一個例子也沒有舉出來，我說的是美國，“老兄”......",
+      "sequence": 338,
+      "bookmark": "SP_MB_LKH_00346"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你為甚麼提及美國？美國的例子跟我們這項議題有甚麼關係？",
+      "sequence": 339,
+      "bookmark": "SP_LC_CM_00347"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "你真聰明，因為美國的薪金與香港的相差太遠了。我在最初發言時，你說我離題，之後我說美國政府被形容為可以影響到在東方的一個小島上一個名為“長毛”的立法會議員，而他們所聘請的人員的薪金卻比我們只管內政的人為低。主席，你也知道，《基本法》訂明我們不能夠管理外交事務。這即是說，黃毓民議員剛才說的大笑話  祝福一個死人  是多此一舉的。人家奧巴馬日理萬機，即使美國重回亞洲，如果你把話筒交給白宮的發言人，這位Press Assistant可能也有contribution  不，還是不要說英語好了  這位新聞助理也要執行職務，對嗎？他的薪金是多少呢？是23,400元，比立法會議員辦公室助理的工資還要低，因為你節儉嘛......",
+      "sequence": 340,
+      "bookmark": "SP_MB_LKH_00348"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你不能以一個外國總統辦公室編制中某名人員的薪金為例，論述這項議題。請你不要再離題。",
+      "sequence": 341,
+      "bookmark": "SP_LC_CM_00349"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "不是的，主席，他現時還要增聘兩位新聞主任，兩個職位的預算每年合共135萬元，“老兄”。這不是一個小數目。你可以說......主席，如果你的裁決是公正的，你可以說在下一個項目才說吧，不要“碌卡”，這是正確的，但你說我離題，這卻是不對的，因為我談論的是整個office，如果我談論office的一部分，便屬離題，那如何是好呢？因此，主席，恕我冒犯你，你在下一個環節這樣裁決我便對了，即我在下一次發言時，你可以說：“‘老兄’，你在上一個環節已經說過了。”當然，你的腦袋比我快，為防我在下一個環節......即以信用卡付款是要支付利息的，因此，你......",
+      "sequence": 342,
+      "bookmark": "SP_MB_LKH_00350"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請不要再離題。",
+      "sequence": 343,
+      "bookmark": "SP_LC_CM_00351"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是，主席，以我的愚見，如果作出一個縱向比較，你又不批准，即由麥理浩一直數到梁振英，你又說不能了；如果作出一個橫向比較，令香港的納稅人看看是否物有所值，這也是我的責任呀，因為我們須節制政府作出不必要的開支。這即是說，你可以開設一個\n職位，但這個職位是否物有所值呢？你可能說：“這當然不是你的問題，而是審計署的問題，因為審計署會在互聯網上查看英國和美國的編制，再與香港比較的。”但是，主席，它並沒有這樣做嘛，如果它沒有這樣做，便不能制止立法會議員作出一個橫向比較，對嗎？如果你說不能作出橫向比較，也不能作出縱向比較，那麼笛卡兒發明坐標有甚麼用呢？你是修讀數學的，沒有了兩條線，又怎樣尋找那個co-ordinate呢？ \n 因此，主席，我作出橫向比較，可能只是會刺激其他人作出思考而已。坦白說，我今天在這裏的發言，政府也是在聽着的  不過，現在政府說被癱瘓了，不過，即使是癱瘓了，還有一位局長在席，他並沒有被癱瘓，他是陳家強，綽號“傻強”，在這裏“傻吓傻吓”......",
+      "sequence": 344,
+      "bookmark": "SP_MB_LKH_00352"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你又離題了。",
+      "sequence": 345,
+      "bookmark": "SP_LC_CM_00353"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是的，知道。主席，如果你說花費23,400元便可以在美國聘請一位新聞助理，而我們的特區政府卻以135萬元來增設兩個職位，你說這是否公道呢？如果你說是公道的，那是你的意見，但我卻說這是不公道的。 \n 還有，下級人員是由上級人員管制的，有一個名為Assistant Press Secretary的職位，我也把其年薪除以12，你猜猜這職位的月薪是多少呢？是37,375元。這個已經是管理下級的人，即他是控制新聞助理做甚麼工作的人。 \n 主席，我必須承認，這並非特首辦獨有的病徵，而是我們聘請的人員的薪金相對國際水平而言是太高，而議員則太低。我現在並不是為自己發聲，而是為納稅人發聲。月薪37,375元的人，其管理範圍遍及五洲七海，與我們只是發發唁電或與我們的傳媒打交道的人員  即使說要做內交，也只是面對一個強國而已  相差實在很遠。如果衡工量值，這顯然是不值錢的。我提出削減他的薪金，你說是否合理呢？你可能會說這大致上是對的，但在“量”方面卻太厲害了，只餘下1,000元，難道要他們“食粥水”嗎？我的解釋是：我要再對你說一次，這是一種懲罰，叫做“矯枉必須過正”  這是毛主席說的  “矯枉必須過正”。我便是要做到一個效果，要令整個社會也說，究竟是“長毛”神經病，還是梁振英神經病呢？ \n 因此，我必須解釋一下，很多建制派議員在走廊遇到我，也問我是否傻的？要不便全數刪除，要不便是1,000元。我便是要刻意造成這種狀況。還有，我告訴你，你知道奧巴馬是依靠創新性和運用網頁而成為總統的。他在上台後，自然會做一件事。有一個職位名叫New Media Creative Director，很明顯這是“無事生事、無中生有、推陳出新、吐故納新”的職位，他的薪金是多少呢？我告訴你，年薪是85,000美元，與我們在特首辦工作的人無法相比。人家是主管全部，即從無到有和開創性的工作的。 \n 主席，雖然我不在此廟堂，但我也有聆聽大家的發言。陳志全議員舉出的例子是，特首所做的新媒體是不可以interactive，即不可以互動的。如果我收到你的email，我可以選擇是否回覆，而其他人是看不到的，“老兄”。他付出這麼多錢，卻做了一個更差的平台，連梁國雄立法會議員辦事處的平台或曾鈺成立法會議員辦事處的平台也比不上。你索取這麼多撥款，我又怎可以給你呢？是要物有所值的。 \n 主席，我必須承認，今天小弟在這裏有點越俎代庖。你要錢，便給你好了。在撥款後，應由審計人員評定是否物有所值。但是，杜漸防微，防患於未然。我們有責任令審計署的人員做少些工夫的。我們已經看到某種情況，即等於我們看到一定會有問題發生，已經出現“大不公”了，我們又有何理由可以任由“大不公”發生，然後才由另一個人說這是“大不公”呢？對嗎？因此，“check and balance”的意思便是指不停地制衡。",
+      "sequence": 346,
+      "bookmark": "SP_MB_LKH_00354"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你在重複論點。",
+      "sequence": 347,
+      "bookmark": "SP_LC_CM_00355"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白，主席。所以，我的說法是很簡單的。其實，以我看來  其實，我還有4個例子，我知道你“老人家”認為例子已經說過了，已經能夠以“殊相”證明“共相”了，因此，我也不再舉出“殊相”了，以免變為“衰相”。總括而言，根據我仍未泛泛而論和引述的諸種“殊相”，也證明了一個“共相”，這個“共相”便是“物不所值”。 \n 而這種“物不所值”......我再重複一次，我和梁振英是政敵而非私敵，因此我未必會懷疑梁振英做“衰人”，但只有兩個推論  用剔除法和用歸納法  要不便是制度有問題，要不便是人員有問題。人員有問題的機會根本上是微乎其微的，因為是你recruit(即聘請)人家的，人家根據你的聘用條件領薪，不能夠自動減薪，自行說：“我\n看過網頁，我北美行家的薪金那麼少，因此，我現在想好像某人般偽善，自己減薪。”是不會有這種情況的。因此，便是制度有問題了。即是說，我們的制度發明了一個物不所值的職位，令受聘的人含不白之冤，亦令特首含不白之冤。 \n 老實說，立法會是監察政府，而非監察個人的  如果是個人，我便會提出彈劾他的議案了  這是制度的問題嘛。這個制度並沒有監管，立法會議員想查詢詳細的數字，是做不到的。可是，在美國是有詳細數字可以看到的，即使是人名和CV(即履歷)也有，這樣便可以量度了。 \n 主席，小弟不能不在此為納稅人鳴冤。我亦懷疑這個制度不濟，因此把全年預算開支削減至1,000元，藉此懲罰他們(計時器響起)......多謝主席。",
+      "sequence": 348,
+      "bookmark": "SP_MB_LKH_00356"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，就這項編號1的合併辯論，我們至今已討論了六個半小時以上，在我自己而言，我為這部分所準備的發言內容已說了八八九九。但是，我要補充兩點，其一是我有一個很重要的例子。主席，你剛才“放飯”的時候，我還未說到想說的話便遭代理主席“閘住”，我想......",
+      "sequence": 349,
+      "bookmark": "SP_MB_CCC_00357"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我想請陳志全議員澄清何謂“放飯”？我聽不明白。",
+      "sequence": 350,
+      "bookmark": "SP_MB_LKH_00358"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席離席去吃飯時，由代理主席梁君彥議員代為主持會議......",
+      "sequence": 351,
+      "bookmark": "SP_MB_CCC_00359"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "知道，不用囉唆。",
+      "sequence": 352,
+      "bookmark": "SP_MB_LKH_00360"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，請坐下。陳志全議員，請繼續發言。",
+      "sequence": 353,
+      "bookmark": "SP_LC_CM_00361"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "我覺得那個例子非常重要，我簡單地以兩句話說出來，看看主席可否容許我用這個例子推演我認為行政長官辦公室需要削\n減開支的原因。這個事例是梁振英首次以行政長官身份到維園花市。他在敗走維園之前，買了4束開運竹，本來合共140元，但他卻只付了100元，還險些被人控告。這宗事例可否引申為行政長官辦公室安排活動時出現很多問題？ \n 本來我預備了數個論點要說出來......",
+      "sequence": 354,
+      "bookmark": "SP_MB_CCC_00362"
+    },
+    {
+      "title": "全委會主席",
+      "content": "無論是這個例子或你的論點，已有其他委員說過了，請你不要再長篇論述。",
+      "sequence": 355,
+      "bookmark": "SP_LC_CM_00363"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "好的，謝謝。 \n 在這一節我只想說出一個很簡單的問題，因為今次有關行政長官辦公室的合併辯論共分4項，而我稍後要提出的這個問題，原本是想在第3項合併辯論處理的，但因為第3項合併辯論討論的是行政長官薪酬及履行其職務的相關開支，而第1項合併辯論則是關乎行政長官辦公室及其他開支。我想談論的事宜是很簡單的，便是有關梁振英或行政長官或行政長官辦公室的長途電話費...... \n(梁國雄議員站起來)",
+      "sequence": 356,
+      "bookmark": "SP_MB_CCC_00364"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你有甚麼問題？",
+      "sequence": 357,
+      "bookmark": "SP_LC_CM_00365"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，請你根據《議事規則》第17(3)條點算人數。“日以繼夜，夜以繼日”的人再次失蹤，魂兮歸來。",
+      "sequence": 358,
+      "bookmark": "SP_MB_LKH_00366"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 359,
+      "bookmark": "SP_LC_CM_00367"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 360,
+      "bookmark": "EV_BELL_00368"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請委員返回座位。陳志全議員，請繼續發言。",
+      "sequence": 361,
+      "bookmark": "SP_LC_CM_00369"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "第1項合併辯論的討論已進行了接近7小時，而局長亦已換班，由陳家強局長換成是黃錦星局長。 \n 我把長途電話費的問題放在這最後部分，因我剛才已說過我有一疑惑。我本來想將之納入第3項合併辯論的環節，因為所針對的是行政長官。行政長官梁振英被指事事也要請示中央政府，總要致電詢問中方官員後才行動。例如在實施BSD即買家印花稅時，他也被指曾打過這類電話，究竟那是請示、批准還是通知，也不外是一種語言“偽術”  無論是虛偽的“偽”或藝術的“藝”，皆無不可。 \n 議員就此提出的問題是：行政長官致電中央人民政府各部委或各地方政府部委的次數和所涉及的長途電話費開支是多少，並希望取得過去3年的數字，以作出對比，看看行政長官是否真的事事也要請示中方機構。其實這些數字只能用作參考，不能讓我們知悉每次通話的內容，但政府卻答說沒有分開統計行政長官或行政長官辦公室致電不同人士及機構的次數和所涉及的長途電話費開支。換言之，行政長官或行政長官辦公室所作致電的分類開支資料，其實非常模糊，即使強行想將之歸類入第1項或第3項合併辯論，也是無法分清。所以，由於政府答說沒有分開統計行政長官或行政長官辦公室的致電資料，我便選擇在這最後部分提出。 \n 政府亦沒有提供資料，說明這些長途電話究竟是向內地還是外地打出，只提供了幾組數字，說明有關的長途電話費開支。過去3年，除固定月費外，行政長官辦公室的電話通話費開支，包括長途電話、漫遊通話及數據傳輸，分別是2010-2011年度的142,695元、2011-2012年度的141,651元，以及2012-2013年度的62,027元，並以括號註明是截至2013年2月，似乎涵蓋14個月的費用反而有所減少。不過，由於沒有內地和外地之分，所以我們無從得知在曾蔭權年代，他所打的長途電話是較多向內地還是外地打出。因此，我在此反映這問題，而且相信不難就行政長官辦公室致內地和外地的電話費開支分開作出統計。否則，我們日後也會一如現在這種做法，惟有透過削減整項開支來令當局反省長途電話費背後所衍生的意義。究竟這是否一個每天也在打電話，朝朝夕夕在打電話作出匯報的傀儡政府和傀儡辦公室，因而要事事作出請示？ \n 剛才引述的3組數字並未能反映實際情況，希望行政長官辦公室日後可分類備存致電外地和內地的電話費甚至次數資料。這其實不難做到，而且議員亦已在財務委員會特別會議上提出要求，所以我在這\n裏作出反映，並基於這開支現時屬行政長官辦公室職務範圍，而選擇在這個環節提出。 \n 我謹此陳辭。",
+      "sequence": 362,
+      "bookmark": "SP_MB_CCC_00370"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 363,
+      "bookmark": "SP_LC_CM_00371"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，不見“日以繼夜，夜以繼日”那人在這裏，請你傳召他  點算法定人數。",
+      "sequence": 364,
+      "bookmark": "SP_MB_CWY_00372"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。 \n(在傳召鐘響起期間)",
+      "sequence": 365,
+      "bookmark": "SP_LC_CM_00373"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "24個小時開會，有22個小時是不在的。 \n 回來了？24個小時在做甚麼？到了哪裏呢？你怎會這麼賤的呢？",
+      "sequence": 366,
+      "bookmark": "SP_MB_LKH_00374"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請不要高聲呼叫。",
+      "sequence": 367,
+      "bookmark": "SP_LC_CM_00375"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "“講就天下無敵”，別人......在開會，我從沒見過這麼賤的人，賤得不得了......",
+      "sequence": 368,
+      "bookmark": "SP_MB_LKH_00376"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，請不要高聲呼叫。",
+      "sequence": 369,
+      "bookmark": "SP_LC_CM_00377"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我不過是罵個天。從沒見過這麼賤的人，對着電視就說24小時開會也可以，然後自己卻24小時失蹤，搞得全部人“企晒喺度”等。你說甚麼？“賤格”。 \n 他們全部站起來了。我不說了，哪有這樣“賤格”的呢！主席，我先出去喝杯水，我看見“賤格”的人真是“好大鑊”，賤得不得了，“抽人水”，還要是“抽自己人水”。",
+      "sequence": 370,
+      "bookmark": "SP_MB_LKH_00378"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 371,
+      "bookmark": "EV_BELL_00379"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員，你是否要發言？",
+      "sequence": 372,
+      "bookmark": "SP_LC_CM_00380"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，就我上一次的發言，你曾指我有關特別委任所言的資料出錯。主席，我翻查2013-2014年度開支預算管制人員就行政長官辦公室開支的答覆，有關問題編號為0754，答覆編號為CEO011。主席，那是林大輝議員提出的問題。他的問題是：行政長官辦公室於2013-2014年度預算中為特別委任而支付的酬金較2012-2013年度下跌，原因為何？這是針對特別委任而支付的酬金，而政府的答覆清楚表示，為特別委任而支付的酬金是發給5名人員，行政長官聘任特別委任人員時，會考慮有關人選的能力及經驗。主席，2013-2014年度該辦公室特別委任人員的預算酬金中，除了行政長官辦公室主任及新聞統籌專員的酬金外，列於第三項是高級特別助理的酬金，其年薪為184萬元，接着是特別助理等人員的酬金。葉劉淑儀議員就2012-2013年度開支預算亦提出了類似的問題，當時涉及的特別委任人員包括高級特別助理，有關薪酬是373萬元。此前遠至2008-2009年度由陳方安生議員提出的有關問題中，涉及的特別委任人員也包括高級特別助理。 \n 主席，我只想指出，我覺得行政長官辦公室的整體薪酬開支很混亂，其中尤以特別委任人員為然。我經常覺得，行政長官辦公室很多時像個黑洞似的，即使不是黑洞也是密室。該辦公室的一些薪酬開支，特別是涉及特別委任人員的薪酬，是令人難以理解的。主席，我就陳志全議員提出第6項修正案談論這問題，正正因為整個特別委任人員的酬金制度無甚監察。董建華於1997年剛上任後開設這一特別項目而伸延至今，我當初談及此事時已說這是極為錯誤的做法。政府的所有任命，包括行政長官在內，又或財政預算案的整體薪酬及公帑開支，是按一套多年來行之有效的模式行事，特別是公務員和政務主任等人員的聘任，是必須符合有關的規則及基本要求。但是，行政長官辦公室的特別委任人員是完全無須  我強調是完全無須  \n作任何交代，也完全無須遵照公務員的聘用程序。因此，陳志全議員提出這項修正案，把行政長官辦公室有關總目的預算開支削減9,714,000元，即把有關特別委任而支付的全年預算酬金開支全部刪除，我覺得這樣不但可還公務員一個公道，更可還政府全部人員一個公道。 \n 董建華剛出任特首時未必知道一些事情，當年路祥安的事件是眾所周知的。路祥安犯下的錯誤，正正反映若不按照一般公務員聘用程序而任用了一些親信  說難聽點是“家奴”  是會出現問題。聘用沒有任何公共行政經驗的親信，不遵照公務員聘用程序行事，所衍生的問題可謂延綿不絕......",
+      "sequence": 373,
+      "bookmark": "SP_MB_CWY_00381"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，你所說的並非本屆政府的事情。",
+      "sequence": 374,
+      "bookmark": "SP_LC_CM_00382"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "這點我知道，我只是引述歷史來說明今年這問題。主席，我開始時談及高級特別助理陳建平，他據悉是三朝元老。我們就行政長官辦公室討論了這麼多事項，我剛才在外遇見擔任該辦公室主任的邱騰華......",
+      "sequence": 375,
+      "bookmark": "SP_MB_CWY_00383"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，我較早時已提醒了你，有關行政長官辦公室高級特別助理的薪酬，我們會留待處理陳志全議員提出的第130項修正案時處理。所以，如果你要特別針對行政長官辦公室高級特別助理的薪酬，應該在那時候才提出來。",
+      "sequence": 376,
+      "bookmark": "SP_LC_CM_00384"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "明白。主席，我並非針對這人，我只想以這例子解釋為何我支持削減這9,714,000元的預算開支。據我理解，今年該辦公室已沒有設立特別助理一職，只餘下高級特別助理一職。主席，我現在不引述他的姓名和職位，我只想指出，有關薪酬屬於這項目的開支，而有關人員的身份、資格及問責要求卻完全脫離公務員的監管機制，這是容易出亂子的，亦可能引致公帑開支不知如何......",
+      "sequence": 377,
+      "bookmark": "SP_MB_CWY_00385"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你已清楚說明了你的論點。",
+      "sequence": 378,
+      "bookmark": "SP_LC_CM_00386"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "是的，容許我舉一個簡單例子。主席，我剛才引述有關開支預算管制人員的答覆顯示，不同年度的相關開支差距很大。一般來說，某些年度的相關酬金開支可能僅百多萬元，以2008-2009年度為例，高級特別助理的酬金開支是1,545,000元。但是，2012-2013年度  即去年  有關職位的酬金開支已達373萬元，本年度的相關開支則降至184萬元。據我理解，有關開支去年突然暴升，可能涉及約滿酬金的問題，即涉及的約滿酬金高達百多萬元。這類資料往往只能猜測，因為有關人員不是按一般公務員制度聘用，其個人聘用合約及條件等資料全部處於保密狀態，他們可私相授受，只要特首認同的話，便可聘用有關人員。 \n 主席，請點算法定人數。",
+      "sequence": 379,
+      "bookmark": "SP_MB_CWY_00387"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 380,
+      "bookmark": "SP_LC_CM_00388"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 381,
+      "bookmark": "EV_BELL_00389"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員，你是否要繼續發言？",
+      "sequence": 382,
+      "bookmark": "SP_LC_CM_00390"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我簡略就剛才所言，再解釋為何支持削減特別委任人員的酬金開支。 \n 主席，我開始時提到行政長官辦公室的人員大幅飆升，這是整體趨勢，職級越高，增加的職位越多。主席，各項目的開支亦大幅飆升，如與當年比較，這項目的開支過去17年增加了三倍，很多人可能不太留意有關金額。涉及特別委任的酬金開支，過去17年來增加了三倍，其中當然涉及其他職位的增加，當初只有私人顧問和司機兩個職位，其後增設高級特別助理、特別助理和新聞統籌專員。主席，以個人關係聘用人員，不按公務員的編制行事，這箇中的成因是歷史遺留下來的問題。 \n 但是，過去多年，行政長官辦公室的新聞統籌專員一般由政府內部調升，是由公務員調任此職的。但是，這項目本身的職位是不納入公務員的編制。既然一些職位某程度已近乎常額性質  例如新聞統籌專員  政府在情在理應在財政上作出調整，不應再將新聞統\n籌專員一職的薪酬列入特別委任人員的酬金之內，應歸入行政長官辦公室整體員工編制的開支。不然的話，當局某程度是逃避監管，利用特首的特權作出特別的行政安排。 \n 我在此不詳細解釋公務員與非公務員的分別，熟悉公務員聘用制度的人均知道，公務員  特別是政務主任  的聘用均有嚴格要求，政務官必須通過木人巷般的測試，不是單靠裙帶關係可以受聘。因此，當局開設這特殊項目是立下極壞的先例，應盡早將之刪除，從而為公眾  特別是17萬公務員  作出合理安排，亦可還公務員一個公道。這項目繼續保留下去的話，只是容許特權的存在，只會讓特首利用私人關係以政治考慮聘用一些人員，譬如剛才提及某個職位的任命，受聘者便曾被懷疑和報道為共產黨黨員。 \n 換言之，政府整體運作可能因而蒙羞，“一國兩制”也因而沾上污點。因此，我希望大家支持這項修正案，特別是泛民議員，即使你們不支持“拉布”，不支持我們其他論述，也務必支持這項修正案。我想再提醒大家，陳志全議員提出第6項修正案，以刪減有關項目的開支，這是具有特殊意義的。有些議員基於政治表態，不支持刪減整個辦公室的開支，有些則可能支持刪除梁振英的薪酬。無論如何，第6項修正案針對的特別委任人員酬金開支，是完全違反公平、公正、公開和合理的原則。因此，即使泛民議員不支持其他項目，我再次呼籲他們支持第6項修正案，希望大家投票時支持這項修正案。 \n 保皇黨亦應予以支持，對嗎？經常說捍衞公平、公正和合理原則的工商界議員，他們亦應支持這項修正案。“港共”份子則無話可說，共產黨嫡系一定加以反對，因為他們當中有人被指聘用黨員擔任行政長官辦公室的某些職位。鑒於現在的辯論環節是針對整項特別委任項目，我稍後就某些職位進行討論時，會提出理據支持剛才的說法，現在以這例子說明這項目的荒謬之處。多謝主席。",
+      "sequence": 383,
+      "bookmark": "SP_MB_CWY_00391"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我必須再次引用《議事規則》第17(3)條，召回那些“日以繼夜，夜以繼日”的孤魂。魂兮歸來吧。",
+      "sequence": 384,
+      "bookmark": "SP_MB_LKH_00392"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 385,
+      "bookmark": "SP_LC_CM_00393"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 386,
+      "bookmark": "EV_BELL_00394"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 387,
+      "bookmark": "SP_LC_CM_00395"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "有的。主席，我在此所說的是泛泛而論，因為不能夠......開了數個小時會議後，知悉你的direction之後，得知如果我要說這個......",
+      "sequence": 388,
+      "bookmark": "SP_MB_LKH_00396"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，由於這是你第六次發言，所以不要再論述與有關總目的款額無關的意見。",
+      "sequence": 389,
+      "bookmark": "SP_LC_CM_00397"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "全部是有關係的，我現在拿捏到你的心意，你是可以舉例，但不可以詳細舉例，是這樣吧？因為我要就整個行政長官辦公室來說，如果談到細節，便是“先使未來錢”......",
+      "sequence": 390,
+      "bookmark": "SP_MB_LKH_00398"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你立即針對有關總目的款額發言。",
+      "sequence": 391,
+      "bookmark": "SP_LC_CM_00399"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "知道了，我是稱讚你而已，我現在才明白，你近來好像嚴格了，其實不是。舉例......我現在不舉例了。其實做這個橫向比較時，我在外面抽煙時，有些人問我，責備我不公道，說你裁決得好。有甚麼理由，做橫向比較可以做得如此詳細呢？他說，其實橫向比較應該客觀些，不應只與美國比較，因為美國是一個非常特殊的國家，最擅長搬帳目的，比較了等於沒有比較，沒有比較等於比較了。所以我自然是要發奮，多做一個橫向比較，以示公允。 \n 其實，英國又如何呢？在這類開支方面，簡而言之，英國與香港差不多，就是特首𦖛請的員工薪金，不可高於特首的薪金，就是如此，不能薪高鎮主，所以自然我們亦都跟隨國際慣例。既然在同一的規範下，為何我們特首𦖛請的僱員，其薪酬與外國的總理或總統𦖛請員工的薪酬相距如此遠？這是我們要研究的課題。 \n 大家都知道，我們的官僚制度承襲自以前殖民地的統治者，所以以英國的情況舉例，是應該較為合適的，而非以美國作為例子。主席，只以我剛才所說的，只是專門做公關及傳媒的人員，英國的人員的薪金是多少錢呢？金馬倫(David CAMERON)𦖛請了一名員工，這名員\n工名叫Andy COULSON，不用翻譯，當作外國人名稱便可以了。此人的月薪是多少呢？當我將其年薪運算後，是138,700元。我現在所說，綱領(1)之中，特首所𦖛請的PR及新聞主任的月薪是多少呢？是20萬元。這個差距是非常大的。而更嚴重的，是我們問特首辦，你們為何要高薪𦖛請這些員工呢？他們是無法解答的。英國方面，是能夠解答的，當其他人詢問，為甚麼你𦖛請如此高薪的員工？他說......",
+      "sequence": 392,
+      "bookmark": "SP_MB_LKH_00400"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你的論點已經十分清楚，請不要再如此嘮叨。你說以香港跟美國和英國比較，即使工作性質相同，香港特首辦的僱員，其薪金是遠高於其他國家的僱員。你這項論點已重複了多次。",
+      "sequence": 393,
+      "bookmark": "SP_LC_CM_00401"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是的，那我不說了，既然你如此聰明聽明白我想說的，我只是怕你聽不明而已。那麼COULSON這個例子作廢，不說了。還有一件事，因為我要求減去其所有費用，全年預算開支只剩下1,000元，所以會涉及其他方面。如果主席覺得我太深入時，請你制止，因為所論述的事情是否泛泛而論，尺度是由你來裁決的......",
+      "sequence": 394,
+      "bookmark": "SP_MB_LKH_00402"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你現在不應再泛泛而論，因為在這項辯論中，你已經第六次發言。如果你沒有新的論點，我便要求你停止發言。",
+      "sequence": 395,
+      "bookmark": "SP_LC_CM_00403"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我現在便是請求你裁決，因為關乎一個尺度。我是否泛泛而論，又或我是否不屬長篇大論，論點可連繫到我提出減至1,000元的建議，是由你“老人家”來裁決，不是由我去裁決。",
+      "sequence": 396,
+      "bookmark": "SP_MB_LKH_00404"
+    },
+    {
+      "title": "全委會主席",
+      "content": "如果你有論點，請提出來。",
+      "sequence": 397,
+      "bookmark": "SP_LC_CM_00405"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "有的，主席，承你的指教。我發覺有一件事，應該是懲罰性的。就這個總目，在我們管制人員的答覆中，總目21是行政長官辦公室。綱領(2)關乎行政會議，這是整個總目裏的一部分，有一位名為林大輝的議員問及︰(我引述)“2013-2014年度行政會議的撥款較......”，他是讀到最後的，我真的很公道，不說其他了。他問正打算\n休假的非官守議員林奮強有否薪酬開支？若有，請指出是多少；若沒有，原因為何。 \n 主席，大家聽着，這個答案真是非常精妙的答案。答案是怎樣的呢？他說2013-2014年度行政會議的撥款預算，包括行政會議非官守成員召集人及所有非官守成員的酬金，每名非官守成員該年度的酬金開支的預算為808,068元，把這除以12個月，即是每月約8萬元。這個答案很有趣，即是林奮強是否支薪呢？不知道，所以他便不用回答了；若是，是否支薪呢？這是所謂“百搭”的答案，是要大家計算一下的。我計算過了，原來林奮強真的是支薪的。 \n 主席，不用上班的人也能支薪，真好，我可否這樣呢？所以，在這一點上，你說他腐敗也可以，你說他是因循也可以，你說他是酬庸也可以。主席，在香港的“打工仔”  現時在罷工的人  不上班便沒有薪水。這位人士譽滿全球，繼續支薪，當然也有公關之用，這只是攻其一點，不及其餘，不會再做了。因此，你說“問得好，答得更妙”，而那個答案現時隱含的意義是更重大的，即是說支持我的論點是不削不行的。我現在不再跟進了，因為林奮強與我沒有關係，我亦不想再談論他了。 \n 第二點是甚麼？我真的有做預備工夫，這又是總目綱領(2)行政會議。不用害怕，我一定不會仔細地論述的。這個問題是由我提出的...... \n(黃毓民議員站起來)",
+      "sequence": 398,
+      "bookmark": "SP_MB_LKH_00406"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席。",
+      "sequence": 399,
+      "bookmark": "SP_MB_WYM_00407"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你有甚麼問題？",
+      "sequence": 400,
+      "bookmark": "SP_LC_CM_00408"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "現在沒有足夠法定人數。",
+      "sequence": 401,
+      "bookmark": "SP_MB_WYM_00409"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "請引用《議事規則》第17(3)條點算人數。魂兮歸來。",
+      "sequence": 402,
+      "bookmark": "SP_MB_LKH_00410"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。 \n(在傳召鐘響起期間)",
+      "sequence": 403,
+      "bookmark": "SP_LC_CM_00411"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，你有否聽過一首詩，叫作“萬歲不離口，語錄不離手，當面說好話，背後下毒手”？現在是“當面說好話，背後轉頭走”。這真是大事不好。",
+      "sequence": 404,
+      "bookmark": "SP_MB_LKH_00412"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，我相信很多人很樂意看到你不用上班亦能繼續領薪。",
+      "sequence": 405,
+      "bookmark": "SP_LC_CM_00413"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "多謝，多謝。(眾笑)承你鴻福。",
+      "sequence": 406,
+      "bookmark": "SP_MB_LKH_00414"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 407,
+      "bookmark": "EV_BELL_00415"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 408,
+      "bookmark": "SP_LC_CM_00416"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，剛才終於魂兮歸來，又出去了。剛才說到沒有上班，即已經停職的人都有薪金。現在的問題便是，為何這個人答得這麼巧妙呢？我問這位管制人員，究竟林先生有沒有上班，是有支薪，他都可以答得這麼巧妙。原來有一個秘密，那便是你根本不知道他有沒有上班。有關“總目21 ─ 行政長官辦公室”綱領(2)，譬如有一個叫梁國雄的人，他問：“請問行政長官辦公室轄下的行政會議成員中，每位非官守成員的薪金多少，有否統計自梁振英委任第一屆行政會議成員以來，非官守議員因利益衝突而需避席的次數，同時......”",
+      "sequence": 409,
+      "bookmark": "SP_MB_LKH_00417"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你讀出的這些，跟這項議題有甚麼關係？",
+      "sequence": 410,
+      "bookmark": "SP_LC_CM_00418"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是有關係的。我們立法會議員，被甚麼立法會議員天主教監察組痛罵，連少出席一次會議都被罵，小弟都被他罵過......",
+      "sequence": 411,
+      "bookmark": "SP_MB_LKH_00419"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，我再提醒你，由於你已經第六次發言，所以請你精簡，不要重複。",
+      "sequence": 412,
+      "bookmark": "SP_LC_CM_00420"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白。好的，我不說這些了。這個梁國雄說的是廢話。但是，回答的人，答得很好。他說：“我們沒有統計各行政會議成員的會議出勤紀錄，因此未能提供有關資料”。那麼，這個梁國雄當然在10樓“暈得一陣陣”，這樣也可以，他說沒有。 \n 主席，請你看看我好嗎？不看便算，你都知道我第六次發言，你有紀錄，不是我唬你，如果我是第五次，我當然會說我是第五次。“老兄”，在這個議事堂，我發言多少次、有沒有重複、是否對題，是否合乎規例，有沒有先使未來錢，全部你都是瞭如指掌的。一位協助特首施政，領取八萬多元薪金，一言興邦、一言喪邦的成員，他有否上班都沒有人知道。各位，你想不想做這份工作呢？不錯吧，不用好像我般，要經常call......都是“call一call”這個“日以繼夜，夜以繼日”的人......算了，都是不call他了......",
+      "sequence": 413,
+      "bookmark": "SP_MB_LKH_00421"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你不要再浪費時間。如果你再言不及義，我便不讓你繼續發言了。",
+      "sequence": 414,
+      "bookmark": "SP_LC_CM_00422"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "很簡單，主席，如果一個......暫且不說錢，是一個有權柄的人，他有沒有上班都不知道，做過甚麼也不知道，你說這個制度是否腐敗呢？ \n 當然，因為在政治問責上，小弟不能問他責，惟有在錢方面開刀，即減他薪金。我又不可以罷免他，又不可以彈劾他，連他有沒有上班都不知道，我們每個立法會議員趕着回來，即使只是亮一亮相表示有上班。這羣人可以這樣做，我惟有減他們薪金。 \n 主席，這種做法，我今天說出來全港的“打工仔”都會覺得我是對的。這是問責，問責之中，是問金錢之責。 \n 主席，減至1,000元......單單減1,000元，不足以泄民憤，我減到只有1,000元才足以泄民憤，這就是小弟為何要減到1,000元的原因。主席，你不要與我斤斤計較，究竟這個是否要減這麼多，那個是否要減\n這麼多呢？我告訴你，總的來說，就是要除掉他，要橫掃一切害人蟲，全無敵。 \n 主席，我知道你生氣了，老實說，你趕我出去的話，我很慘。這次你不叫我收聲，我也會收聲。不過，還是不要點人數了......",
+      "sequence": 415,
+      "bookmark": "SP_MB_LKH_00423"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，如果你發言完畢，請坐下。是否有其他委員想發言？",
+      "sequence": 416,
+      "bookmark": "SP_LC_CM_00424"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "《2013年撥款條例草案》全體委員會審議階段修正案第1項合併辯論在梁國雄議員發言後結束。我現在告訴大家，我們不會繼讀發言，讓大家自己“執生”。 \n 主席，我現在向你報告，第1項合併辯論，即就第1至6項修正案進行的辯論，我們沒有話要說了。我現在請求你，由第2項合併辯論，即關乎由第7至108項修正案，共有102項修正案的合併辯論，由我開始......",
+      "sequence": 417,
+      "bookmark": "SP_MB_WYM_00425"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，如果你不會再就第1項辯論發言，請坐下。",
+      "sequence": 418,
+      "bookmark": "SP_LC_CM_00426"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "OK。",
+      "sequence": 419,
+      "bookmark": "SP_MB_WYM_00427"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否還有其他委員要就第1項辯論發言？",
+      "sequence": 420,
+      "bookmark": "SP_LC_CM_00428"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我想發言。我的發言是，我認為你做得很好，就這麼多了。你在第1項辯論做得很好。",
+      "sequence": 421,
+      "bookmark": "SP_MB_LKH_00429"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有政府官員想發言？ \n(沒有政府官員表示想發言)",
+      "sequence": 422,
+      "bookmark": "SP_LC_CM_00430"
+    },
+    {
+      "title": "全委會主席",
+      "content": "如果沒有，第1項辯論完畢。現在進行第2項辯論。",
+      "sequence": 423,
+      "bookmark": "SP_LC_CM_00431"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃毓民議員、陳志全議員、陳偉業議員及梁國雄議員已分別作出預告，提出共102項修正案，以削減分目000而將總目21削減不同的款額。修正案關於行政會議開支及其非官守成員酬金。 \n 全委會現在就該102項修正案進行合併辯論。我會先請黃毓民議員發言及動議會議講稿附錄I的第7項修正案。",
+      "sequence": 424,
+      "bookmark": "SP_LC_CM_00432"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，我剛才略嫌多事，因我不知道梁國雄議員是否要繼續下去。我們曾與他商討，在他發言後便結束有關的討論，不再糾纏下去，展開第2項合併辯論。 \n 我在這項辯論提出了兩項修正案，第1項是第7項修正案，為削減分目000而將總目21削減2,180萬元，相當於行政會議的全年預算開支。此外，第9項修正案的內容則是議決為削減分目000而將總目21削減13,425,000元，大約相當於行政會議非官守成員酬金的全年預算開支。 \n 我的修正案分成兩個部分，一部分是削減整個行政會議的預算開支，另一部分則削減行政會議非官守成員的薪酬。按照《基本法》，行政會議是協助行政長官的決策機構，每個星期均會召開會議，有部分尊貴的立法會議員亦身兼行政會議成員之職，並可領受津貼。不過，既然他們已在立法會支薪，這份額外津貼其實可免則免，反正他們都是為公眾服務。立法會內也有兩位行政會議成員，其中一位現時亦在席，她是民建聯的未來主席，有人甚至說她是未來的特首，真厲害！ \n 按照現時的相關規定，行政長官有很多事情均需要徵詢行政會議的意見，例如每當要提出一些重要決策或向立法會提交法案時。雖然大家可在互聯網找到這些資料，但我仍要特別提出這些，因我要削減這十多名不稱職成員的酬金，所以必須先就一些一般資料作出詳細解說，然後解釋我提出的兩項修正案，其一是把所有預算完全削減，另一項修正案則是削減其成員的薪酬。 \n 按照我過往的理解，行政會議成員亦即過往所稱的總督會同行政局，是最高權力機關，非常重要的決策核心，差不多相當於內地的國\n務委員，地位之高，令人望而生畏，權力極大，亦很受人尊敬。只有人事任免、紀律制裁、緊急情況下採取的措施屬於例外，行政長官可無須徵詢行政會議的意見而自行作出決定。我想指出的是，根據《基本法》第五十五條，香港特別行政區行政會議成員由行政長官從行政機關的主要官員(即官守議員)、立法會議員和社會人士中委任。現時的行政會議成員除了3司12局的主要官員，即3位司長和12位局長之外，還有16位非官守成員，當中有1位是召集人，而現時的召集人是林煥光。 \n 但是，行政會議和“689”梁振英的關係似乎有少許變化，與過去有些不同。今屆行政會議的新成員大多是“梁粉”，他用人唯私之處，可說已是十分清楚，相信主席亦應深有同感。用人唯私也不要緊，只要所用的人有才便可以了。中國人有云“內舉不避親，外舉不避仇”，我們休想梁振英會“外舉”，在向外舉薦人才方面他可說是“不舉”的，所以“外舉不避仇”對他而言相當困難，但在“內舉”方面他卻是“不避親”的。所有在他競選期間為他立下汗馬功勞的人，悉數當上了行政會議成員，只有一個劉夢熊除外，所以最後以翻臉收場。這些行政會議成員究竟何德何能？我們希望有人才真真正正地為特首出謀獻策，與他一起為香港的未來擘畫一幅美麗的藍圖。 \n 但是，這一羣人水平之低，真的不能怪我在這裏月旦他們。我們這兒有太多人比他們優勝了，包括一些我並不喜歡的人，也比現時的行政會議成員能幹。所以，在財務委員會特別會議席上，我提出了數項關於行政會議成員的問題，不過我不會像梁國雄議員般在這裏重複提出那些問題，而政府的答覆當然令我極感不滿。如果主席你不容許我拿這些行政會議成員與過往成員作一比較，那也沒有辦法，但以往的確有夏佳理等一眾有能之士。這樣作出比較，主席你不會容許，但坦白說，不提以往卻又不能顯出他們的差劣。現在根本是劣幣驅良幣，在現時的行政會議成員中，我們可計算一下有多少位“梁粉”：林奮強偷步賣樓，無故休假；羅范椒芬則經常出言不遜，最離譜的是才剛辭去廉政專員一職，便跑去競選人大；還有一位張志剛，真是令人看到也要昏厥。 \n 我認識張志剛已有數十年，一直以來，他都是“689”的心腹，這也不打緊，因為“內舉不避親”，但他有甚麼料子呢？他的唯一貢獻是每天在其報章專欄中不顧行政會議的形象和分際，瘋狂批評民主派和反對派人士。細數他所撰寫的文章，10篇之中有8篇是批評反對派和民主派的，這種人竟可在行政會議中參與密勿，你說是否很大件事？ \n 主席你即使要喝停，我也必須說下去。張志剛有一篇文章可說是離譜得令人難以想像，他於去年9月5日在其專欄中以一段說話批評“反國教”的人士，特別是那些年青人。我要引述那篇文章的其中一段，(我引述)“以當日的規模(政總‘反國教’集會)，又要搭台，又要布景，再要租那些影音器材以及攝錄隊伍，行內人估算，業餘人士根本無法組織，更不要說是中學生。保守估計，製作費不要一百萬，也要八十萬。 \n “這個運動，一直被包裝成為學生哥自發的運動，又純潔、又可愛，而且拒絕政黨的參與和抽水，以維護運動的獨立性。但從上周六的集會看來，無論是計財力、計專業、計組織，都不可能像一個學生活動，幕後相信一定有搞手......",
+      "sequence": 425,
+      "bookmark": "SP_MB_WYM_00433"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，你不應該浪費時間，詳細讀出別人的一篇文章。你可以在此提及那是何時的文章。",
+      "sequence": 426,
+      "bookmark": "SP_LC_CM_00434"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，我只是略略提及。那是一篇很長的文章。我聽你說，不再引述。明白了，不要浪費時間。",
+      "sequence": 427,
+      "bookmark": "SP_MB_WYM_00435"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我剛才亦說過，委員不適宜在此長篇評論一個人的表現。",
+      "sequence": 428,
+      "bookmark": "SP_LC_CM_00436"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，有前文後理的，你也不讓我說下去，我要削減他的酬金，當然要說出我的理由。我只引述了其中一段，已可看到他是多麼的離譜，竟然說學民思潮的人收受別人金錢，被人利用。接着還有一個問題，就是委任他作大學教育資助委員會(“教資會”)委員，主席，這才真的是豈有此理。我引述這一篇文章，然後指出此人接着還要出任教資會委員，梁振英根本是公然與民為敵。他已經有此行為，不單不要求他收斂，還要讓他繼續升官發財。“老兄”，可知道教資會是多麼的重要，即使是你也竟然沒有資格出任。你最低限度曾擔任中學校長，竟也沒有資格，讓你出任我尚且服氣，但是現在竟讓這個前科累累的人出任，可說是一點也不公正。 \n 老實說，作為行政會議成員，是政府的一部分，也是決策的核心，即使有個人意見和自己的言論立場，是否也應先作收斂？況且，很多\n事情要有比較，沒有比較便沒有意義。你擔任行政會議成員時可會說這些話？不會，因你知道何謂分際，我們的曾主席明白甚麼是分際，但張志剛作為一名行政會議成員卻不知何謂分際。所謂分際，就是一條界線，你的本份是甚麼，是存在一條界線的。 \n 不能以他有言論自由便搪塞過去，這是政務司司長林鄭月娥給我的回覆。主席你當時亦在場，而且不許我指名道姓。我當時提出一項口頭質詢，相信你也記得，你不許我指名道姓，但大家也知道我所說的是誰，而她的答覆是他有言論自由。我們不能剝奪別人的言論自由，等於我們不能被人剝奪言論自由一樣，但每人都有其分際。以你所處職位，你可否公開發言但卻說你只代表自己？當然不可以。雖然某些政黨可以這樣做，其黨員經常只代表自己說話，他們大可如此，但主席最低限度不會如此。主席出任行政會議成員時非常公正，你雖有自己的立場，但你可會這樣說話？張志剛的問題何在？",
+      "sequence": 429,
+      "bookmark": "SP_MB_WYM_00437"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，有關這個問題，你已經有很清楚的討論。如果繼續下去，便會超越了你的分際。",
+      "sequence": 430,
+      "bookmark": "SP_LC_CM_00438"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "甚麼？",
+      "sequence": 431,
+      "bookmark": "SP_MB_WYM_00439"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你就這個問題已說了很多，你的觀點已經非常清楚。",
+      "sequence": 432,
+      "bookmark": "SP_LC_CM_00440"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "因我恐怕有些人不知就裏，很多人並不知道他同時身兼教資會委員之職。至於他經常在報章上罵人，因我說了很多遍，所以很多人都知道，多謝主席你提醒我。但是，我的重點並不在此，那只是一個事實的基礎，而我現在要說出第二個事實。 \n 第二個事實是即使他有此行為，而立法會議員亦曾就此提出口頭質詢，但“689”依然委任他作教資會委員。我們的教育事務委員會主席現時也在席，他也搖頭嘆息，當然我不知他是真是假，但這的確是一個很大的問題。王安石當年評孟嘗君，對於有人讚歎孟嘗君食客三千，王安石卻說：“雞鳴狗盜之出其門，此士之所以不至也”。現在的行政會議便是“雞鳴狗盜之出其門”，全是垃圾，除了我們的立法會議員之外，我不會就此非議我們的立法會議員。這些全是垃圾，說有多\n垃圾便有多垃圾，我所說的張志剛只是其中一人，尚且未提及其他人，其他的留待我的黨友評說。 \n 我要指出的是，由於我提出的兩項修正案，其一是將行政會議的全年預算開支削減，另一項則是削減16位非官守議員的薪酬，所以我必須提出我的理據，特別是針對非官守議員而言。他們由行政長官委任，參與密勿，擁有決策權，而這個決策權的意思是他們必須為行政長官出謀獻策，每星期二都要召開會議。最近一次會議的議題，是大家最感關心的免費電視牌照發放事宜，此事已到了行政長官會同行政會議審議的階段，但卻一直留中不發，他們究竟有否盡責？他們既沒有向公眾解釋，答覆我們的提問時還要推說這事必須保密。我們現在要問的是何時批出牌照，而不是批出了沒有，何來保密之理？ \n 因此，基於我剛才所說，我再簡單總結一下，接着才繼續進行闡釋。我個人認為，在香港現有憲制之下，行政會議未必相當於中華人民共和國的國務委員，與國務院常務會議的性質或權力未必相稱，但始終是一個最高幕僚或顧問團；對政府最高首長即行政長官而言，這始終是一個顧問機構。 \n 行政會議的十多位顧問均有領取薪酬，不能說他們每人都很有賺錢能力，區區數萬元車馬費不算甚麼。我要求政府每人派發1萬元也好像要了他的命一樣，而要在此“拉布”，對很多窮人或中產階層而言，賺取數萬元更是相當吃力。因此，這不是金錢多寡的問題，而是給他們這樣的薪酬，我實在心不甘、情不願。我現在也代表很多香港人，將他們這份心不甘、情不願的情緒，通過我提出的修正案表達出來。雖然修正案未必能夠通過，而且篤定不能通過，但最低限度可藉着提出相關的修正案，發表意見，以鞭撻行政會議的這一幫垃圾，最少可為香港市民出一口氣。雖然拿他沒法，但總算有“毓民”代為發炮，令市民雖然蹩了一肚子氣，也能稍感舒暢。 \n 主席，我謹此陳辭。",
+      "sequence": 433,
+      "bookmark": "SP_MB_WYM_00441"
+    },
+    {
+      "title": "全委會主席",
+      "content": "黃議員，請動議第7項修正案，開始這項辯論。",
+      "sequence": 434,
+      "bookmark": "SP_LC_CM_00442"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我動議第7項修正案。 \n黃毓民議員動議的議案如下： \n“議決為削減分目000而將總目21削減21,800,000元。”",
+      "sequence": 435,
+      "bookmark": "SP_MB_WYM_00443"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，進入第2項合併辯論，標題是“行政會議開支及其非官守成員酬金”。在我們提出的148項辯論中，這項合併辯論所包含的修正案數目最多，共有102項修正案。在這102項修正案中，大部分也是由我提出的，我認為有需要在此作出簡介。主席，我當然不會逐項讀出我提出的所有修正案，我只會先在這部分簡介重點，以及解釋為何提出這些有人認為是瑣碎的修正案。 \n 黃毓民議員提出的修正案是要完全削減行政會議全年的預算開支，我與他所提修正案之間的分別，即第8項修正案和第7項修正案的分別，就是我會建議削減至只剩下1,000元，一如梁國雄議員在上一項辯論中提出的第1項修正案的處理方法。 \n 我提出的眾多修正案其實是有相當大的空間，因為行政會議需要有多少位成員才算適合，這本身已經是一個可辯論的議題。所以，我便提出就現有16位非官守成員的人數和酬金方面，可以由16位成員當中削減兩位  如果大家認為真的需要這麼多人的話  即只削減兩位；如果認為行政會議成員表現未符理想，希望以削減他們的月薪來表達的話，我提出由削減其全年月薪至削減兩個月的酬金。請各位議員看看我們的修正案，在討論時考慮即使不“一刀切”全部削減開支，也可以決定支持其中哪項修正案。 \n 首先，我想說回在綱領(2)下行政會議的宗旨和簡介。行政會議的這項撥款的宗旨是“確保行政會議運作順暢”  這是說了等於沒說  “行政會議秘書處在這綱領下的主要職責，是為行政會議提供行政支援”，以及“行政會議非官守成員的每月酬金由這綱領的撥款支付”。我們先看看這3年的數字，2011-2012年度的開支是1,840萬元；2012-2013年度的預算也差不多，是1,890萬元，但修訂後的實際開支多出了6.3%，即2,010萬元；而2013-2014年度這份財政預算案則是2,180萬元，較原來2012-2013年度的預算多出了15.3%，而較修訂後的實際數字多出8.5%。綱領(2)的增幅主要是由於行政會議非官守成員的酬金及其運作開支需求增加所致，增幅為8.5%。說到增加薪酬，我想立法會議員的薪酬也沒有增加那麼多。就行政會議成員來說，究竟\n他們預計會在今年增加兩位成員還是增加薪酬呢？這仍然是未知之數。 \n 我想先在此提出一點，就是由於這102項修正案的目的，是分別削減不同數目行政會議成員的酬金，所以，主席，我們難以避免要抽出某些行政會議成員來討論，例如我們認為需要削減某位成員，那便會就該人作出批評和討論。當然，主席你剛才亦提示過不應對某人作出冗長批評，但如果不作出適度批評，我便不能夠表達我在這組修正案內提出削減不同數目行政會議成員的想法，我是無法憑空討論的，例如為何我會說13人較14人好，又或16人較15人好，這也必須要有實質案例作根據，我希望主席明白這一點。 \n 按照《基本法》，行政會議是協助行政長官的決策機構，由行政長官主持，每個星期舉行一次會議。行政長官在作出重要決策時，會向立法會提交法案，制定附屬法例，而在解散立法會前  即使用這把“尚方寶劍”前  也需要徵詢行政會議意見。所以，行政會議實際上也可以說是香港最高的決策諮詢機構。 \n(陳偉業議員站起來)",
+      "sequence": 436,
+      "bookmark": "SP_MB_CCC_00444"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席。",
+      "sequence": 437,
+      "bookmark": "SP_MB_CWY_00445"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳偉業議員，你有甚麼問題？",
+      "sequence": 438,
+      "bookmark": "SP_LC_CM_00446"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "傳召“日以繼夜，夜以繼日”的逃犯回來。我要求點算法定人數。",
+      "sequence": 439,
+      "bookmark": "SP_MB_CWY_00447"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 440,
+      "bookmark": "SP_LC_CM_00448"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 441,
+      "bookmark": "EV_BELL_00449"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員，請繼續發言。",
+      "sequence": 442,
+      "bookmark": "SP_LC_CM_00450"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，在這個環節的發言中，我會針對第8項修正案  即把行政會議全年預算開支削減至1,000元  發言。所以，在這個環節中，我不會針對人，也不會就每位行政會議成員發言，而是討論行政會議這個制度的缺失所導致的嚴重後果，甚至把它刪除  即不再設立行政會議，並且削減它的所有支出、開支和薪酬  這樣做比保存它還要好。 \n 行政會議成員均須遵守保密制和集體負責制。先談保密制，行政會議討論的都是所謂“重大政策”和“政治決定”，所以會議文件及討論內容均須保密，可是，近年卻發生一些懷疑泄密事件。例如，2003年梁錦松被指偷步買車，而根據傳媒報道，行政會議內有成員“爆料”，指梁錦松並非疏忽漏報，而是刻意隱瞞，以致保密制備受質疑。集體負責制則指成員不能公開反對已決定的事項，即使他們不同意，也必須保持沉默。可是，上屆行政會議的集體負責制已經名存實亡，很多或部分成員在公開場合中批評政府政策，有些成員甚至在立法會表示不支持行政會議的決定，此舉明顯違反集體負責制的精神。舉例而言，前行政會議召集人梁振英先生曾經多次批評政府的房屋及扶貧政策。 \n 由於保密制及集體負責制的存在，行政會議變成了一個黑洞，也是政府不做事、議而不決的黑洞。近年最為人關心和經典的例子當然是免費電視牌照所引起的事件。在這個議會內，民主派和建制派議員都很關心電視牌照的發放事宜。我希望莫乃光議員、毛孟靜議員及單仲偕議員，甚至早前提出修正案的建制派議員，看看我這個削減行政會議開支的好例子。 \n 關於免費電視牌照一事，立法會曾經進行十分詳盡的議案辯論，我也不會在此複述整個辯論的過程。我記得我們在獲通過的議案中促請政府在3月之前  我們並非要求政府發牌  公布處理方法。但是，我們至今(快將5月)仍然甚麼也不知道。現在整件事已交由行政會議處理，所以即使我們詢問蘇錦樑局長，他也會告訴我們這不是他的問題。無論我們提出口頭質詢、或藉任何機會或在任何場合詢問官員，我們得到的答案都是一樣：行政長官會同行政會議會對電視發牌作出決定，可是由於行政會議採取保密制，所以不能公布任何相關消息。 \n 大家會否同意行政會議這個“怪物”前來立法會申請撥款卻反而成為阻礙香港社會、阻礙創意產業繼續前進的“攔路虎”呢？由於行政\n會議奉行集體負責制及保密制，所以坊間流傳的一切消息均不能求證，也沒有人會這樣做。我也從小道消息知道，行政會議所有成員都支持發牌，只有1名成員反對，但因為有1人反對，發牌申請不獲批准。這個消息能否求證呢？當然不能獲得證實，因為行政會議奉行保密制及集體負責制。 \n 現在這個問題真是“吊吊揈”，不知下一步應怎樣做。如果今年能夠削減行政會議的所有開支，可能會出現一條生路，因為沒有這筆開支，行政會議便要解散，不能發揮作用。發牌與否便會由特首本人負責  即按照制度  我們每天也可以向他提出質詢，也沒有規定特首會同特首奉行保密制，因而不能作出回應。雖然我們在剛才的環節談及特首辦，但即使我們三番四次向特首辦提出這個問題，我們也不會得到圓滿答覆。 \n (代理全委會主席梁君彥議員代為主持會議) \n  其實，即使行政長官需要智囊，也不需要行政會議這個架構，以及前來申請2,180萬元撥款。現時的行政會議  即大家流傳的行政會議  也有分“核心內圍”及“核心外圍”，即使部分司長、局長也不屬於行政會議的“核心內圍”，所以很多事情也不知道。但是，作為立法機構或是香港市民，我們對行政會議這個黑洞，都沒辦法予以處理和改善。就選民提出何時發牌的質詢和請議員幫忙的要求，我曾經提出質詢、動議辯論甚至“掛街板”，但最後也無法做到任何事情。所以，我惟有藉着今次財政預算案特別會議，提出第8項修正案，將行政會議的全年預算開支刪除。我希望利用這最後一招，令行政會議消失，電視發牌才可能會有一線希望。 \n 我在這個環節的發言已經差不多接近尾聲，我希望各位議員，尤其是支持免費電視牌照的議員，支持這項議案。除此之外，我不知道大家可以想到甚麼方法能夠迫使行政長官早日  即使決定不發牌也應告訴大家  不要不斷重複相同的說話：由行政長官會同行政會議作出決定。由於蘇局長和行政會議成員都不能發聲，香港人不知道下一步可以怎樣做。 \n 我謹此陳辭。",
+      "sequence": 443,
+      "bookmark": "SP_MB_CCC_00451"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，有些人誇口說甚麼日以繼夜、夜以繼日，但卻經常失蹤，請你引用《議事規則》第17(3)條，傳召這名逃犯回來。請點算人數。",
+      "sequence": 444,
+      "bookmark": "SP_MB_CWY_00452"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 445,
+      "bookmark": "SP_LC_DCM_00453"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 446,
+      "bookmark": "EV_BELL_00454"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "請各位同事坐下，讓秘書點算人數。",
+      "sequence": 447,
+      "bookmark": "SP_LC_DCM_00455"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，在這第2項合併辯論的一百多項修正案中，我提出的修正案佔11項，即由第85項至第95項的修正案。在這一百多項修正案中，我所提出的修正案相對較為溫和，所以請大家聆聽我的解釋。雖然我一般給人的感覺較為激進，但如果與其他修正案相比，我這11項修正案只是削減行政會議成員的1個月薪酬，而不是全部削減，即是由削減1位行政會議成員的1個月薪酬，至削減11位行政會議成員的1個月薪酬。我稍後會解釋背後的理由，基本上這是懲罰性的削減。 \n 看回行政會議，代理主席，黃毓民議員和陳志全議員剛才已描述的部分，我不再重複。讓我們看看行政會議的組合和角色，其實自回歸後也有重大改變。當然，這些改變有時候會較為明確，例如在董建華年代，他就整個政府的管治和行政會議的角色，包括問責官員的角色進行諮詢後，便大刀闊斧地重新制訂架構，然後建立問責制，那次是較大幅度的更改。 \n 回歸後，在第一屆政府下，即在1997年7月的時候，董建華組成的行政會議，是一個較為平均地分為4個不同背景的組合，當中有些是商家或有商界背景的、有些是官守議員、有些被視為專業人士，而有些則被視為與中聯辦或共產黨方面較為接近。主權剛剛回歸後，在第一屆行政會議的組成當中，這4個組別的成員人數相差不大，都是每組別4個人或3個人。這4組是較為平均的，這也是基於當時的社會氣氛和董建華的背景問題，而選取這種形式的組合，某程度上有政治穩定性的作用。當董建華在第二屆連任時，其組成部分基於問責制的\n改變，行政會議成員主要是官守議員，主要以當時的司、局長為主，幾乎佔整個行政會議差不多七成成員，這是整體的設計。 \n 其後，曾蔭權將整個行政會議成員人數大幅增加，特別是增加了具商家背景的成員，所以其後“貪曾”這名稱不是沒有理由的。至曾蔭權連任後，整體改變並不大，除官守議員外，其他部分的成員仍是具有商界背景。當然，所謂的親共組別的成員稍有增加，但仍不是主要的部分。 \n 至梁振英這“689”上台，大家都清楚知道，我們多次提出梁振英這“689”當選，其實是開宗明義標誌着港共治港的開始，所以，“689”的行政會議成員組別，所謂的親共或有紅色色彩的人士亦特別多。當然，他也必須依靠他的管治團隊，而承繼着董建華和曾蔭權的管治模式，官守議員的數字亦維持在一個很顯著的比例，但相對先前的特首，“689”的行政會議的紅色背景成員人數大幅上升。 \n 代理主席，行政會議由港英年代開始，已有很明確的諮詢責任。香港很多的法例也訂明，最後制訂的政策很多時候必須得到特首會同行政會議  以前是港督會同行政會議  的批准，不論是城規的安排、上訴機制或法例的制定等，也有很重大的角色。當然，行政會議在整體運作上，仍然應該有集體負責制和保密制；但我覺得集體負責制在曾蔭權年代已逐步消失，因為梁振英作為當年行政會議的首席召集人，他多次在公開場合的發言都沒有根據政府的既定政策發言。或許他有特權，有中聯辦作後盾，可以任意妄為；但我們看到他連串的表現，特別是梁振英作為行政會議的召集人，他當時多次對政府政策，特別是對貧窮、房屋和市民的政策等，他的發言完全沒有尊重集體負責制。 \n 代理主席，請你按照《議事規則》第17(3)條點算法定人數。",
+      "sequence": 448,
+      "bookmark": "SP_MB_CWY_00456"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 449,
+      "bookmark": "SP_LC_DCM_00457"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 450,
+      "bookmark": "EV_BELL_00458"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳偉業議員，請繼續發言。",
+      "sequence": 451,
+      "bookmark": "SP_LC_DCM_00459"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，還是先讓委員坐下好一點，因為他們走來走去會影響我的注意力。我已有點疲倦，代理主席，開始有點浮，說話也開始有點......",
+      "sequence": 452,
+      "bookmark": "SP_MB_CWY_00460"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "我也明白，你經常於開始說話時表現得有一點浮。",
+      "sequence": 453,
+      "bookmark": "SP_LC_DCM_00461"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "......與你有點相似，代理主席。 \n 代理主席，在正式返回這項議題前，我相信要譴責長江申請禁制令，禁止那些工人......",
+      "sequence": 454,
+      "bookmark": "SP_MB_CWY_00462"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "你已離題，請針對有關總目的款額發言。",
+      "sequence": 455,
+      "bookmark": "SP_LC_DCM_00463"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，這跟行政會議有關。",
+      "sequence": 456,
+      "bookmark": "SP_MB_CWY_00464"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "這跟行政會議無關。",
+      "sequence": 457,
+      "bookmark": "SP_LC_DCM_00465"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "就是那些行政會議成員在制定法律、關注時事方面失職，才導致香港出現這麼大的動亂。",
+      "sequence": 458,
+      "bookmark": "SP_MB_CWY_00466"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳議員，制定法律是立法會的職責。",
+      "sequence": 459,
+      "bookmark": "SP_LC_DCM_00467"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "不是。代理主席，《基本法》第五十四條及第五十六條訂明......",
+      "sequence": 460,
+      "bookmark": "SP_MB_CWY_00468"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "陳議員，如果你再不針對有關總目的款額發言，我會停止你發言。",
+      "sequence": 461,
+      "bookmark": "SP_LC_DCM_00469"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "代理主席，我不是在說長江。代理主席，我是在說行政會議的職責。《基本法》第五十四條......你不要那麼敏感，一提起長江你便如此敏感，為何一提起李嘉誠，各人也如此膽怯？正因如此，我要強烈譴責長江申請禁制令，令工人的罷工權受影響，這是十分無良、無耻的做法。 \n 代理主席，我正在說行政會議的組成......不知為何一提起李嘉誠，人們又咳嗽又甚麼的。《基本法》第五十四條說明行政會議的職責是協助行政長官，該條訂明“香港特別行政區行政會議是協助行政長官決策的機構”。不過，現屆行政會議能否履行這項職責則存在很大疑問。 \n (全委會主席恢復主持會議) \n  第一，就是很多的決策失誤，早前我們已說了很多，我不再在此重複。不過，近期簽發免費電視牌照是最明顯的例子。有傳聞指所有成員均贊成，只有特首反對或不願意，結果導致重大的決策被拖延。行政會議的表現和失職，與社會的福祉和發展是息息相關的。在行政會議的整體運作上，我剛才提到的組成部分及成員的背景，是會影響行政會議的表現的。如果有能幹的人，便會有好的表現。當然，如果領導無方，就是有再能幹的人，他們在混亂情況下也可能沒有機會發揮影響力，對嗎？然而，就行政會議的組成部分來說，正如我剛才所解釋，現時這個“689”的行政會議，其成員組合具商界背景的約有五、六人，另有近7人是涉及一些所謂“紅色”背景的，還有近13人是官守的，再有數位是被認為較為獨立或具專業背景的人。如果行政會議的成員欠缺一個共同意識來管理、管治或帶領香港，又或在制訂公共政策方面欠缺一套大家認同的模式，在運作上就會變得極為鬆散。我們回看以往的情況，特別是英治年代的行政會議，甚或是董建華年代的，很多時候遇有重大議題時，董建華會率領行政會議成員一起發言，或是董建華會負責發言，而一羣行政會議成員則站在背後表示支持，又或是由行政會議召集人代表發言，一羣行政會議成員站在背後表示支持。 \n 可是，自從“689”當了特首後，行政會議成員集體表達意向的情況可說是少之又少。在較多情況下，我看見政務司司長  這位“打\n得”的司長  會在重大議題上走出來，幫政府處理危機或處理重大問題，向公眾解釋。如果行政會議的領導力或在處理問題上較積極和較有效，其在代表政府或諮詢架構向公眾解釋，或爭取公眾支持上會有一定作用。 \n 不幸的是，礙於行政會議現時的組成，行政會議議員本身也缺乏公眾認受性。有些根本不為公眾所認識，有些一露臉便教人感到面目可憎，有些則紀錄不良，在公眾心中大打折扣，他們所說的任何話基本上都會影響政府的公信力。 \n 主席，請引用《議事規則》第17(3)條召集其他委員回來開會。請點算法定人數。",
+      "sequence": 462,
+      "bookmark": "SP_MB_CWY_00470"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。 \n(謝偉俊議員站起來)",
+      "sequence": 463,
+      "bookmark": "SP_LC_CM_00471"
+    },
+    {
+      "title": "全委會主席",
+      "content": "謝偉俊議員，你有甚麼問題？",
+      "sequence": 464,
+      "bookmark": "SP_LC_CM_00472"
+    },
+    {
+      "title": "謝偉俊議員",
+      "content": "在傳召鐘響起的同時，我必須告訴主席一件事情，也希望各位同事留意。剛才傳召鐘響起接近尾聲的時候，有人刻意在10樓走進升降機，然後按下每一按鈕以致升降機在每一層都停下來，對那些趕回來投票的議員造成極大不便，甚至可能引致流會。CCTV初步顯示，有關人士應該是梁國雄議員辦事處一位名為黃軒瑋先生的同事。 \n 當然，這件事情將會由行政管理委員會處理，但我希望主席能夠呼籲大家預留多一點時間。我認為以這種方法導致流會實在是很“茅”的做法。",
+      "sequence": 465,
+      "bookmark": "SP_MB_PT_00473"
+    },
+    {
+      "title": "梁君彥議員",
+      "content": "根據法例，任何阻止立法會議員前來開會的做法均屬刑事行為，我希望主席能夠處理。",
+      "sequence": 466,
+      "bookmark": "SP_MB_AL_00474"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我覺得大家要分清楚，議員離開了議事堂，沒有人可以阻止你們，有人按下升降機按鈕也並非要阻礙大家。有沒有推撞你們呢？",
+      "sequence": 467,
+      "bookmark": "SP_MB_LKH_00475"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你坐下。",
+      "sequence": 468,
+      "bookmark": "SP_LC_CM_00476"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "不是。還有吳亮星議員更說是可耻，他才可耻。",
+      "sequence": 469,
+      "bookmark": "SP_MB_LKH_00477"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，你坐下。",
+      "sequence": 470,
+      "bookmark": "SP_LC_CM_00478"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "“老兄”，你為何不肯坐在這裏開會？你是否傻的？你坐在這裏好了。 \n(梁國雄議員仍站起來)",
+      "sequence": 471,
+      "bookmark": "SP_MB_LKH_00479"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，立即坐下。待委員返回會議廳後，我會宣布如何處理這件事。",
+      "sequence": 472,
+      "bookmark": "SP_LC_CM_00480"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 473,
+      "bookmark": "EV_BELL_00481"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 474,
+      "bookmark": "SP_LC_CM_00482"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我剛才提到行政會議的職責和組成部分，還有有關表現的重要性。在實際運作和功能上，現時的行政會議予人一種強烈的感覺，可以說是名存實亡，也可以說是完全未能發揮領導角色，甚或未能向特首和香港政府在施政上提供好的建議，致使當局在管治上發生連串失誤。 \n 特別是這份財政預算案和整體施政方針方面，我已多次指出預算案與施政報告不脗合之處。第二，在財政分配方面，預算案令不少香港市民強烈不滿。經考慮和研究有關條文後，我才提出這項溫和的修正案。至於其他議員的修正案，我有機會會再作評論。基本上，在這百多項修正案中，我的修正案較為簡單、溫和，因為基本上只是削減行政會議成員1個月的薪金，由1個到11個議員不等，我希望大家可以能夠仔細考慮。",
+      "sequence": 475,
+      "bookmark": "SP_MB_CWY_00483"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我提出削減現時貴為行政會議召集人的林煥光先生的薪酬。 \n (代理全委會主席梁君彥議員代為主持會議) \n  首先，如果我們說要削減別人的薪酬，當然要看看他的職責是甚麼。現時香港只有一本《基本法》。其實很奇怪，《基本法》只提及行政長官和行政機關，在行政長官之下才有行政會議的位置。因此，行政會議其實是行政長官之下的一個機構，是沒有特別章節的。其實，如果看回《基本法》，只有第五十四條、第五十五條和第五十六\n條提及這方面。因此，在憲制上，行政會議的地位是非常薄弱和不明顯的，所以必須由行政長官對它加以規範。 \n 《基本法》第五十四條說甚麼呢？是“香港特別行政區行政會議是協助行政長官決策的機構。”究竟如何決策？其實並沒有提及，只是協助他。究竟是如果它給予意見，行政長官便不能違反，還是怎樣呢？這是不知道的。因此，我們必須看看行政長官是怎樣期許他自己委任的行政會議成員。除第五十六條外，《基本法》也沒有提及應該怎樣做。第五十六條是怎樣寫的呢？條文說(我引述)：“香港特別行政區行政會議由行政長官主持”  這是眾所周知的  “行政長官在作出重要決策、向立法會提交法案、制定附屬法規和解散立法會前，須徵詢行政會議的意見，但人事任免、紀律制裁和緊急情況下採取的措施除外。”就是這麼多了。因此，在很大程度上，除了第五十六條的規定外，行政會議的成員究竟是做些甚麼事情，是不能透露的。讓我數數他們的工作：一項是提交法案給立法會和制定附屬法例，又或者是在解散立法會之前，才須徵詢他們的意見，其他事情便無須徵詢他們。好了，究竟行政會議內部是做甚麼的呢？我們無法得知。 \n 這位林煥光先生十分有名，他在擔任平等機會委員會(“平機會”)主席的任內，接受了特首委任。此事引起了極大爭論。我們不談論這方面了，即林煥光先生接受委任對平機會或行政會議造成的損害......",
+      "sequence": 476,
+      "bookmark": "SP_MB_LKH_00484"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你離題了。",
+      "sequence": 477,
+      "bookmark": "SP_LC_DCM_00485"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "怎樣離題？",
+      "sequence": 478,
+      "bookmark": "SP_MB_LKH_00486"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "你的修正案是有關削減行政會議成員的薪酬，而不是關乎他們的委任，但你剛才說的卻是有關林煥光先生的委任。這跟你提出的修正案沒有甚麼關係。",
+      "sequence": 479,
+      "bookmark": "SP_LC_DCM_00487"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "是有關係的。因為他在兼任平機會主席期間，毅然或猝然接受行政會議的議席，並且擔任召集人，因為你做行政會議成員與擔任召集人是不同的，甚至車馬費也不同。這令社會譁然，認為他的\n決定不正確，亦令行政會議的威信受損。其實，我已說過不談論這點，即使你指我離題，我也不會跟你爭拗，因為數來數去，畢竟這也是他接受委任前的事情。 \n 我為何要削減他的薪酬呢？其實，我們可看看林煥光先生應盡甚麼責任呢？舉例而言，他在有關同性戀應否受到歧視，或在保護同性戀者的合法權益的立法上，其實並沒有辦法以他在平機會的經驗和人脈來幫助政府。大家也知道，平機會是由政府委任，享有非常高......",
+      "sequence": 480,
+      "bookmark": "SP_MB_LKH_00488"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你又離題了，因為這項辯論並不包括平機會。",
+      "sequence": 481,
+      "bookmark": "SP_LC_DCM_00489"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "要求點算法定人數。",
+      "sequence": 482,
+      "bookmark": "SP_MB_WYM_00490"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "代理主席，稍後再討論我是否離題。",
+      "sequence": 483,
+      "bookmark": "SP_MB_LKH_00491"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 484,
+      "bookmark": "SP_LC_DCM_00492"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 485,
+      "bookmark": "EV_BELL_00493"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁國雄議員，請繼續發言。",
+      "sequence": 486,
+      "bookmark": "SP_LC_DCM_00494"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "剛才我在解釋為何要削減林煥光先生的薪金時提及平機會發生的事件，你卻認為我離題。一個人在平機會能否發揮領導作用，或在行政會議能否發揮召集人的作用，或他本身的行為會否導致行政會議受到市民質疑，以致不能履行《基本法》第五十四條、第五十五條及第五十六條的責任，都是十分重要的問題。 \n 代理主席，我必須指出，林煥光同時擔任平機會主席和行政會議召集人是一個很壞的先例。根據1993年聯合國大會通過有關國家人權機構的國際標準，即俗稱的《巴黎原則》......",
+      "sequence": 487,
+      "bookmark": "SP_MB_LKH_00495"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你離題了。我要提醒各位，全委會主席已經裁決，由於現時就《2013年撥款條例草案》動議的修正案幾乎全部是建議削減某些政府部門的開支或某些公職人員的薪酬，所以，辯論中難免涉及這些部門或人員的工作表現，但委員發言時應提供理據，說明是否支持修正案建議削減的具體款額，而並非一般地長篇論述這些部門或公職人員，甚至往屆政府出任類似職位的人員的表現，亦不應具體詳盡批評一些已發生的事，因為這並不符合《議事規則》。我會以立法會主席的裁決作為依據。由於林煥光先生已經不是平機會主席，所以，梁議員，請你針對議題發言，否則，我會停止你的發言。",
+      "sequence": 488,
+      "bookmark": "SP_LC_DCM_00496"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "代理主席，如果林煥光現在不是行政會議成員，你的說法當然成立。他現在當然不是平機會成員，他現在是行政會議成員。如果他現在不擔任行政會議成員而重返平機會，我這樣說便多此一舉。我說的是他並沒有因為受到社會人士指責而離開行政會議，他現在仍然擔任行政會議召集人，仍然支取薪酬。所以，如果林煥光先生繼續堅持己見，不肯面對現實和以他在平機會當主席時奉為金科玉律的《巴黎原則》衡量自己，並且繼續領取薪金和擔任召集人的話，究竟他能否履行梁振英先生即“689”特首要他承擔的責任呢？這才是我想討論的事情。 \n 代理主席，民無信不立。如果某人擔當某個職位時說一套，擔當另一個職位時又說另一套，這當然會令他服務的機構失去公信力，這是我的論點。所以，我並非在討論他過往所做的事情，我已經說過，我不會要求他以前加入的平機會扣減他的薪酬。第一，這是辦不到的事情；第二，我也不會要求平機會譴責他，因為平機會已成為過去。反而，他現在繼續背負的是行政會議召集人的名銜，這也是我的論點，這點跟我以前的論點不同。有些人已成為過去式，但他明顯不是過去式。 \n 其實，林煥光先生今天也沒有解釋他為何違反《巴黎原則》，這原則是甚麼呢？就是平機會這種人權機構的主席必備的一項條件......",
+      "sequence": 489,
+      "bookmark": "SP_MB_LKH_00497"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "梁議員，你在重複你的論據。我已經說過，那是過去的事，你應說現在或將來的情況。",
+      "sequence": 490,
+      "bookmark": "SP_LC_DCM_00498"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白。你不明白我說甚麼嗎？這好像一個haunted ghost，即幽靈一樣......",
+      "sequence": 491,
+      "bookmark": "SP_MB_LKH_00499"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "不僅我聽不明白，相信在座多位委員也聽不明白。",
+      "sequence": 492,
+      "bookmark": "SP_LC_DCM_00500"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "代理主席，會議廳內不足法定人數。",
+      "sequence": 493,
+      "bookmark": "SP_MB_WYM_00501"
+    },
+    {
+      "title": "代理全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。 \n (在傳召鐘響起期間，全委會主席恢復主持會議)",
+      "sequence": 494,
+      "bookmark": "SP_LC_DCM_00502"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 495,
+      "bookmark": "EV_BELL_00503"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，請繼續發言。",
+      "sequence": 496,
+      "bookmark": "SP_LC_CM_00504"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我其實有一個小問題，因為我聽不清楚你剛才說甚麼。不好意思，我聽不清楚你在離席前說了些甚麼。你是說我縱容我的職員、正進行調查，還是甚麼呢？因為現在有數十萬人看着。如果你說我縱容的話，不是；如果你是說正在進行調查的話，我便不理會。",
+      "sequence": 497,
+      "bookmark": "SP_MB_LKH_00505"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書處人員向我報告，在響了傳召鐘後......",
+      "sequence": 498,
+      "bookmark": "SP_LC_CM_00506"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "你即是說我沒有縱容，那麼，我不跟你打筆墨官司了，我要的是客觀事實。",
+      "sequence": 499,
+      "bookmark": "SP_MB_LKH_00507"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我是說如果按下升降機各樓層按鈕的人是議員助理，有關的議員便應嚴肅處理。",
+      "sequence": 500,
+      "bookmark": "SP_LC_CM_00508"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "對的。那麼，你不要說縱容，你要求嚴肅處理便那樣說好了。我發言完畢便去處理，看看是否有那樣的事。",
+      "sequence": 501,
+      "bookmark": "SP_MB_LKH_00509"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你聽我說。如果有任何議員縱容助理阻撓其他議員返回會議廳，這種行為是不能接受的。",
+      "sequence": 502,
+      "bookmark": "SP_LC_CM_00510"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "明白，即是一個客觀陳述，知道了。那麼，我不跟你爭辯，因為你所說是正確的。",
+      "sequence": 503,
+      "bookmark": "SP_MB_LKH_00511"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，不要再浪費時間。請針對有關的議題發言。",
+      "sequence": 504,
+      "bookmark": "SP_LC_CM_00512"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我聽不到你說甚麼。不過，我相信你的為人，因為這是第一次。好的，我當你是真的。 \n 在你回來前，我說到現任的行政會議召集人......",
+      "sequence": 505,
+      "bookmark": "SP_MB_LKH_00513"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，規程問題。主席，剛才我在樓上聽到你說“有議員縱容”。你剛才是說“如果”，所以我想你聽回錄音，因為這很重要。你剛才說“如果”，我們是接受的，但如你沒有說“如果”，即是你作出了判斷。“如果”有這種違法的行為，便應該報警，但你不能未經查證便作出判斷，說有議員縱容，我覺得這是有問題的。我希望你沒有說過，我覺得你要聽聽錄音，這是我的要求。",
+      "sequence": 506,
+      "bookmark": "SP_MB_WYM_00514"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我並無指控任何議員縱容。",
+      "sequence": 507,
+      "bookmark": "SP_LC_CM_00515"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "可以了，謝謝。",
+      "sequence": 508,
+      "bookmark": "SP_MB_WYM_00516"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我相信你的為人，你說沒有。",
+      "sequence": 509,
+      "bookmark": "SP_MB_LKH_00517"
+    },
+    {
+      "title": "全委會主席",
+      "content": "事件仍在調查。",
+      "sequence": 510,
+      "bookmark": "SP_LC_CM_00518"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "一句是一句，兩句是一雙，不用多說。 \n(王國興議員站起來)",
+      "sequence": 511,
+      "bookmark": "SP_MB_LKH_00519"
+    },
+    {
+      "title": "全委會主席",
+      "content": "王國興議員，你有甚麼問題？",
+      "sequence": 512,
+      "bookmark": "SP_LC_CM_00520"
+    },
+    {
+      "title": "王國興議員",
+      "content": "規程問題。我聽到黃毓民議員剛才那句話，他說如果有那樣的情況便要報警，我希望秘書處嚴肅跟進。多謝主席。",
+      "sequence": 513,
+      "bookmark": "SP_MB_WKH_00521"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁國雄議員，請繼續發言。",
+      "sequence": 514,
+      "bookmark": "SP_LC_CM_00522"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "好的。 \n 剛才提到林煥光先生，他至今仍未就他當天的行為作出澄清，即為何他在擔任平等機會委員會主席期間，將大家奉為金科玉律的《巴黎原則》毀於一旦呢？是否因為他等不及，因此必須兼任行政會議召集人呢？我以往十分尊重他，但在此事上，我卻對他非常失望。因此，我認為他應該從善如流，澄清此問題。 \n 不過，很可惜的是，他堅持自己是對的。即使他的行為只維持很短的時間並已成為過去，但大家皆明白，此事彷如冤鬼纏身般。如果他至今仍不處理他曾說錯的話，我覺得單單基於此原因，他便應該減薪。他應該接受大家的意見，作出更詳細的澄清。為何他要違反《巴黎原則》，同時兼任行政會議召集人呢？我知道有人會說，此事已成過去，但他今天卻尚未辭職。所以，我的論據便是建基於這情況。 \n 當然，今天只是辯論而已。我認為他不應該作出這種行為，而他也應該作出澄清，避免行政會議受到國際社會指責。所以。我請大家不要誤會，我只是將此事提出來而已。所以，有時候聽不清楚...... \n 我當然是以此為由建議削減其薪酬，但如果大家覺得即使以此為由也無需削減他的薪酬的話......舉例而言，如果有人認為，林煥光根本無違反《巴黎原則》，或即使他當時違反《巴黎原則》也是情有可原的，又或是《巴黎原則》本身並不適用於香港的特殊狀況，因此不應該削減他的薪酬，我會願意聽取意見。因此，大家不要以為我在此\n說空話，因為不論我今天的發言內容為何，大家仍須表決。我在此建議削減其薪酬時，我一定要將論據說清楚。 \n 我重申，此事涉及3個層次。第一，是如果大家認為《巴黎原則》根本不重要，那麼便無需聽我發言。第二，是如果大家認為《巴黎原則》是重要的，但卻諒解林煥光當天是在情急之下而違反自己也認為是重要的《巴黎原則》，那麼他便無需為此減薪。第三，是《巴黎原則》根本不適用於香港，因此亦無需削減他的薪酬。 \n 主席，我覺得是否削減他的薪酬，視乎大家是否珍視《巴黎原則》。林煥光先生聽過這項辯論後會否因為我建議削減他的薪酬而作出更深刻的闡釋  未必是道歉  這便是我提出這項削減他薪酬的議案其中一個十分重要的原因。 \n 我謹此陳辭，我稍後會處理我的私人業務，多謝主席。不過，我在此還要說，我仍覺得(計時器響起)......",
+      "sequence": 515,
+      "bookmark": "SP_MB_LKH_00523"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，發言時限到了。",
+      "sequence": 516,
+      "bookmark": "SP_LC_CM_00524"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "......不是，我將要說的話是關乎我的權利的，即《議事規則》第17(3)條的問題。現在是全體委員會(“全委會”)審議階段，我請主席引用全委會的會議規程點算法定人數。 \n 我現在會引退。",
+      "sequence": 517,
+      "bookmark": "SP_MB_LKH_00525"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 518,
+      "bookmark": "SP_LC_CM_00526"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 519,
+      "bookmark": "EV_BELL_00527"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 520,
+      "bookmark": "SP_LC_CM_00528"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "我繼續就我提出的修正案發言，是有關第7項修正案，議決為削減分目000而將總目21削減2,180萬元，相當於行政會議整年的預算開支。 \n 在上一節，我簡單說過，亦舉了其中一個行政會議成員，根本不是識才識所。當然，人很重要，但更重要的是制度。曾幾何時，行政會議是一個權力核心，一人之下，萬人之上，這些官守或非官守議員所組成的行政會議，是整個特區政府的決策中心。 \n 當然，梁振英上台後，行政會議出現了甚麼情況呢？最明顯的便是弱化。弱化的意思，我上一輪已經說過，這些人弱到不得了，雞鳴狗盜出其門，這可能批評過度，但實際上，如果跟上一屆比較，是很弱。所以，這叫弱化，行政會議弱化，亦是一個弱勢的行政會議。 \n 弱化是指人，人的質素，水平非常低，這是弱  弱化。弱勢，是說整個行政會議是一個弱勢的行政會議。大家都知道自從“689”這名地下黨員上台後，在整個港共系統裏，他還要聽命於第二權力中心。“西環”已經儼然成為第二權力中心，甚至乎可以遙控“中環”，很多評論都說過，當然，查無實據，大家死口不認，但看看實際情況，你便知道如是。 \n 湯顯明憑甚麼跟中聯辦吃這麼多次飯，然後中聯辦主任說這是很平常？這亦顯示，行政會議也是一樣。弱化是說人，弱勢是說制度，是說整個行政會議已經弱勢成為第二個權力核心。如果有人說“西環”是第二個管治中心，我覺得這種說法不適當，它應該是第一個管治中心，不過，是在幕後而已。 \n 此外，便是行政會議出現虛化，這是跟以前比較的。以前的行政會議，除了成員質素高之外，真的有權，而並非像某些國家般，有些國家元首叫虛位元首，例如英女皇就是虛位元首，日本天皇也是虛位元首。然而，現在我們有虛位的行政會議，甚至特首都是虛位特首。這就是由於共產黨對香港的干預，在2003年後這10年間，大家是有目共睹的。 \n 所以，行政會議除了弱化、弱勢之外，還有虛位。我們剛才提到人員，我們要減他們的薪金，跟着還有百多項修正案，逐項說要減多少人員，要減多少個月薪金，但我不是說這點，我現在說的是整體。根據我的修正案，即現在第7項修正案關乎的是一個比較宏觀的情況，是要把整個行政會議的全年預算開支削去。所以，我必然是說，行政會議究竟還有沒有存在的價值。除了我上文說的人之外，我還想說一說制度。 \n 關於制度或實際情況的演變，你會看到行政會議不斷弱化和虛位化。但是，再看看這些人的時候，便反映到這種......有時候可能會有點矛盾，人這麼弱，即使他們有權，亦可能無法發揮。所以，有時候我們要說人方面，就是這個意思。 \n 跟共產黨的關係在哪裏呢？主席，你也當過全國政協，我記不起你當全國政協的時候，是否同時是行政會議成員，兩者是否同一個時期？我真的記不清楚。 \n 但是，我們看看現在這羣行政會議成員，很多都是政協，尤其是這羣“梁粉”。這羣“梁粉”行政會議成員，大部分都是一些省政協、地方政協，也有機會當全國政協的。 \n 老實說，如果以影響力或地位來比較的話，當廣東省政協的地位重要，還是當中華人民共和國香港特別行政區的行政會議成員的地位較高，或者影響較大呢？現在數一數這羣人，全部都是政協，有些甚至是省政協、地方政協。 \n 據我所知，李慧琼議員是武漢政協，有沒有說錯呢，“謙哥”？林健鋒議員是全國政協，威風一點。還有張震遠是山東政協，是否地方政協？那麼，你說這跟共產黨統戰有沒有關係呢？為何不是弱勢、為何不是弱化，又為甚麼不是虛化呢？ \n 曾幾何時，行政會議是一人之下，萬人之上，是一個實際權力的中心。由港英治下，以至第一屆特區政府董建華時代，行政會議成員都是有這種實質權力。 \n 新一屆行政會議成員的社會地位不高，民望有爭議，甚至有一些打手角色，或是一些過氣人物，全部都出人意表加入行政會議。而這些我所說的民望有爭議、社會地位不高，甚至是打手或過氣人物，他們之所以能夠進入行政會議，第一，因為他們是“梁粉”，例如林奮強、張震遠、羅范椒芬等，還有張志剛，這羣人都是我剛才所說的其中一類。他們不是做打手，便是社會地位不高、是過氣人物或是民望有爭議的。這是一個香港最高權力機關，單單看這些人的質素，已知是嚴重弱化。我剛才說過即使不說人，制度也是會令行政會議弱化的。 \n 另一方面，我們看到當初成立這個行政會議的時候，“689”先生很努力，希望找一些社會上有實力的人參與行政會議。奈何，到頭來有很多人拒絕，拒絕就是“士之所以不至也”，因為他委任這些人，後\n來又爆出連劉夢熊都想加入行政會議，都“講過數”，好像還獲答應了。那麼，試問這些有識之士，有能力的人聽到和看到，原來林奮強、張志剛、羅范椒芬、張震遠，全部都入了行政會議......我們以前最少有一個劉皇發，最低限度他是鄉議局主席。老實說，現在是每況愈下，劣幣驅逐良幣，一屆差過一屆。 \n但是，當時為何那些有實力的人不接受他的邀請呢？有些可能因為不喜歡梁振英，或是對“689”先生毫無信心。即使立法會數位政黨領導人，包括林健鋒議員、李慧琼議員和葉劉淑儀議員，都加入行政會議  我想這是因為他要委任一些立法會議員，要有一些建制派的人，這樣民建聯一定少不了，由曾鈺成主席，以至譚耀宗主席，以至今天的李慧琼議員，甚至做了副局長劉江華等，全部都是行政會議裏大家認為相對似樣一點的，尤其是曾主席當行政會議成員的時候  但那些有實力的人，是不會接受邀請的。 \n 於是發展的結果，便是行政會議的虛化、弱化，變成中央政策組化。現在的中央政策組都很有問題，主席，我其中一項修正案便是要裁掉中央政策組。我去年都有提出同樣的修正案，今年我一樣有提出，是否“拉布”，我都會提出這項修正案。 \n 一個原本是香港最高的權力中心，而且是一個管治中心、一個決策中心和一個真正可以推動香港發展，幫助行政長官的行政會議，竟然弱化到成為一個中央政策組性質的組織。你想想它跟中央政策組的分別在哪裏？除了中央政策組會進行研究之外，行政會議的職能和各方面究竟跟中央政策組有甚麼分別呢？ \n 當然，我更希望在座現任的行政會議成員，不要因為我們“拉布”便不發言，我說的這個問題是與你們有關的。老實說，現在如果不是有七百多項修正案，我說到這裏幾位行政會議成員，他們都會撲起來發言。田北辰議員，你問問“葉太”、李慧琼議員、林健鋒議員會否發言？一定會發言。林議員一定會反駁我甚麼是弱化、甚麼是虛化，說“我星期二在這裏開會，我有份參與甚麼、甚麼。”在保密原則下，他都會回應，但現在沒有人回應，是很可惜的。 \n 老實說，他們是最應該回應我的，因為我說的是否有道理，是否正確？不應是主席跟我辯論，或說我離題，而是他們應該回應我以上這十多分鐘及更早前15分鐘的發言。我是有論據的，雖然我的論據可能很薄弱，經不起一駁，那麼，你們應該站起來發言。 \n 所以，我在這裏呼籲林健鋒議員、李慧琼議員和葉劉淑儀議員，就我剛才的發言，表示要把行政會議的整年預算開支削減，而我削減的理據就是我上述所說的東西，請你們作出回應，然後大家互相激盪，令我有一些啟發；我有甚麼說得不正確的，便把它改正，然後再回應你，這便是辯論。現在不是，在這裏夫子自道，而主席便望着我，聽我的發言有沒有離題，這並不是辯論。在這個場所，現在這時候是《2013年撥款條例草案》全體委員會審議階段，正辯論修正案第7項，由黃毓民議員提出，但沒有人回應。還有，我剛才提出很多指控。如果我說得不對的話，大家應該指教我，讓我知道要回去再整理一下，當下次有機會的時候，我可以表達得更清楚。 \n 主席，剛才我提到這些人時，我說到弱化或虛化的問題，最大的問題是，他們既沒有實力，亦知名度不足，知名度低至不可想像。你問問香港市民，在十多個行政會議成員中可以說出5個名字的，這位香港市民已經是一個良好公民，很關心社會了。 \n 不過，不說你可能不知，林奮強的知名度，在他偷步賣樓之前是負數，例如1是最低的，他是低於1的。但是，當他的偷步賣樓事件被揭發後，他的認知度達到8，即醜事被揭發後，認知度便高了。 \n 主席，這節我發言完畢。",
+      "sequence": 521,
+      "bookmark": "SP_MB_WYM_00529"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 522,
+      "bookmark": "SP_LC_CM_00530"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，在這項辯論中，我會繼續就我的第8項修正案發言。這是我近百項修正案中最重的一項，削減額是21,799,000元，相當於行政會議的全年預算開支。主席，我想有較多委員在席時，才繼續發言。",
+      "sequence": 523,
+      "bookmark": "SP_MB_CCC_00531"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 524,
+      "bookmark": "SP_LC_CM_00532"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 525,
+      "bookmark": "EV_BELL_00533"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員，請繼續發言。",
+      "sequence": 526,
+      "bookmark": "SP_LC_CM_00534"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，在這一節我會繼續說服大家支持我的第8項修正案，削減相當於行政會議全年的預算開支。要大家支持我這項修正案，我必須在論述中證明行政會議沒有存在價值、其存在不能發揮功用或弊多於利，所以撥款予行政會議的運作是浪費公帑。我的論述必須達到這些目的才行。然而，根據《基本法》，我們不能“扼殺”行政會議的。那麼，不通過向其撥款又如何呢？其實不撥款也不打緊，沒有撥款的行政會議便沒有非官守議員，但官員是繼續支薪的，我們在這裏也無法削減他們的薪金，而是要在每個部門做。即使這項修正案通過，行政長官和各級司、局長仍可繼續開會，所謂的行政會議亦可如常運作，發揮功用。 \n 我在多項修正案中要求削減行政會議非官守成員的酬金，直指行政會議非官守成員制度變成一種政治酬庸。削減成員的酬金是要指出香港在沒有正常的政黨政治之下，產生出這種可謂不倫不類的組織架構。為何《基本法》規定要有行政會議呢？其實說白一點就是搬字過紙，給港英時代的行政局化了妝，便搬到《基本法》上，以行政會議的名稱繼續存在。 \n 談到行政會議，必須提及一些董建華舊事。行政會議在特區政府下已變成一個類似半部長制的機關，即由一些非公務員出身的行政會議成員兼負政策制訂的責任。以董建華時代為例，梁振英負責房屋，所以當年的“八萬五”便算了他頭上；梁錦松負責教育；譚耀宗議員負責老人福利。高級公務員須在立法會負責解說、解釋及推行所制訂的政策。港英時代的傳統是由高級公務員獨攬政策制訂的大權，半部長制的行政會議對他們構成政治和心理威脅，亦為行政長官和高級公務員的衷誠合作造成障礙。 \n 這方面可以做一個很簡單的對比。在港英時代，例如彭定康政府便願意下放若干決策權力予高級公務員，重視提升施政效率和透明度。現時的行政會議則把決策權集中在行政會議  雖說是這樣，但有傳仍集中在行政長官一人，所以，我們才提出多項修正案  無形中限制了高級公務員的決策權，處事議而不決，我在上一節說過有關增發電視牌照的問題便是一例，在此不再重複；此外，領導班子亦被評為欠缺處理香港內部突發事件的能力。 \n 說回行政會議，每一屆行政長官都誓言大力改革行政會議，包括重組行政會議。曾蔭權說過，要令政府政策更能收集思廣益之效，優化施政質素，使政策更能獲得社會各界支持，為了達到這個目的，邀\n請更多來自不同社會背景的傑出人士進入行政會議，參與最高決策過程。每任特首包括梁振英都說過類似的說話，但真實的情況又是怎麼樣的呢？這一節我希望從《基本法》的角度說明行政會議本身已經是一個怪物，所以我剛才說要削減其預算開支，寧願由行政長官和官員負責制訂政策，成效可能更佳。 \n 市民或坊間的文獻對行政會議的提及十分少，最原始的是《基本法》第五十四條至第五十六條有關行政會議的論述。第五十四條是：“香港特別行政區行政會議是協助行政長官決策的機構。”但是，學者一直都說《基本法》是非常含糊地界定行政會議的角色，正如我剛才提及的第五十四條是協助行政長官決策的機構，大家記着“決策”二字。我不說第五十五條了，而第五十六條是：“行政長官在作出重要決策、向立法會提交法案、制定附屬法規和解散立法會前，須徵詢行政會議的意見，但人事任免、紀律制裁和緊急情況下採取的措施除外。”還有一句是很重要的，而這句亦遭詬病  因為在真實的行政會議內無法發揮，所以才導致我們提出這樣重的修正案  這句就是“行政長官如不採納行政會議多數成員的意見，應將具體理由記錄在案”。我剛才提到的第五十四條指出“行政會議是協助行政長官決策的機構”，而第五十六條規定在正常情況下，行政長官在作出重要決策之前，須徵詢行政會議的意見。但是，第五十六條亦指出，如果他不按行政會議多數成員的意見行事，是一件非常嚴重的事  我們剛才引述《基本法》時也說過  他需要將具體理由記錄在案，但《基本法》並沒有指明任何機制可以迫使行政長官解釋為何他未有重視行政會議的意見。 \n 第一，這個模棱兩可的地方沿自兩個很重要的概念，就是“決策”和“重要”這兩個詞語。行政長官可以自由決定決策的意思......我不抽象地說出概念，而是舉出一個實例。要改變政府現有的計劃，究竟是一項決策還是一項管理上的決定呢？例如取消勞工處，把其員工和職責調配至教育統籌局，是一項重要的政策事務還是一項大規模但只屬慣常的行政重組工作呢？我們看回殖民地時代的行政局，高級官員採用了兩個非正式和完全主觀的概念。如果過去曾就一項課題徵詢行政局，政府對有關課題的意見有任何重大改變，均會告知行政局成員。 \n 第二，在港英時代，就着新的議題，高級官員  包括香港總督、政務司和其他相關的司局級官員  會評估行政局議員會否覺得政府在作出決策之前，應該就相關的事宜徵詢他們的意見。至於《基本法》則界定了若干必須提交行政會議的事情，其中最重要的是新擬\n的立法建議。有兩個論點看起來似乎是相當合理的。原則上，最低限度，“政策”應該包括所有立法建議，並提供理據和解說的內容，以及謹慎地從政治角度考慮，如果行政會議成員可就法案本身作出有根據的決定，有關法例的所有重大事宜均應交由行政會議審議，而政府亦須在制定法規之前徵詢行政會議。 \n 這項條文非常具指導性，其明顯的用意是防止行政長官“自把自為”，自行立法。《基本法》接納的一點是，香港制定的法律在一定程度上需要由社會的代表正式通過，如果屬實質的法例，相關的法案必須由立法會通過；如果是附屬法規，行政會議必須有機會反對其內容。《基本法》預設了行政會議的角色，要在政府的核心保障社會的利益，而且要在《基本法》創設的議事廳擔任行政長官最高級的顧問。然而，事實上，這個論點是可以爭辯的，因為第五十四條和第五十六條兩者有所衝突。主席，我想待多些同事在席時才解釋這種衝突，所以我想點算法定人數。",
+      "sequence": 527,
+      "bookmark": "SP_MB_CCC_00535"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 528,
+      "bookmark": "SP_LC_CM_00536"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 529,
+      "bookmark": "EV_BELL_00537"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳志全議員，請繼續發言。",
+      "sequence": 530,
+      "bookmark": "SP_LC_CM_00538"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "主席，我剛才可能說得太專門了。簡單而言，就是要回應這個問題：為甚麼不是由行政長官和一羣官員開會和做決策？這樣的話，每天開會也可以，不需要規定在星期二早上開會。為甚麼要委任一羣來自社會各界的人士呢？其中一個原因是要集思廣益，另一個原因  根據《基本法》  是要在某程度上產生制衡行政長官的作用。設立行政會議非官守成員的目的，是在政府的最高層面安插一羣獨立的外來參政人士。這個羣體加入行政會議後，可以確保他們有機會與行政長官和其他最高級的官員接觸，並在政府採取任何重大行動前，讓這羣獨立的外來參政者的意見可以得到慎重的考慮。 \n 根據我剛才曾引述的《基本法》第五十六條，“行政長官如不採納行政會議多數成員的意見，應將具體理由記錄在案”。這就是我剛才說的一定程度的制衡。雖然程度方面可以說是日大，但仍未算真的\n很大。為甚麼這樣說呢？因為只是將具體理由記錄在案，而我猜想這一條也是援引自行政局時代的做法。 \n 就像我上次說過的電視發牌制度，究竟是否多數成員的意見支持增發牌照，但行政長官不採納呢？如果是這樣，並有記錄在案的話，那麼記錄在案後的下一步會是怎樣呢？基於行政會議的保密制度，情況即使真的如此  我剛才只是假設  並真的有記錄在案，也無法產生真正的制衡作用，對公眾亦沒有指示作用。 \n 此外，行政會議非官守成員的產生過程也是一個謎。謎的意思是指成員由行政長官委任，但其過程並不容許我們任何人干預。大家也知道，他必然會委任一些所謂“梁粉”加入行政會議。當然，大家也可以認為不見得一定是這樣，在曾蔭權時代，梁振英也是“頂心杉”，但可能有更高層次的力量要讓他加入行政會議。 \n 我並不是要針對任何人，我現在只是說在這制度下，行政會議發揮不了應有的制衡作用。如果發揮不了的話，倒不如大家接受我第8項修訂，把行政會議全年預算開支刪除，由所有官員加上行政長官來決定重大的政策。其實，對於香港市民來說，分別並不是太大，沒有了這項保密原則(計時器響起)......時間到了。",
+      "sequence": 531,
+      "bookmark": "SP_MB_CCC_00539"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，政治當然是與歷史有關的。現時行政會議的制度大致上在中英談判時確鑿地保持下來，即以前的行政局。經過這麼長時間，寫下來的條文賦予行政會議的權能自然是打了折扣。 \n 陳志全議員剛才說：以《基本法》第五十六條“行政長官如不採納行政會議多數成員的意見，應將具體理由記錄在案”為例，既然是保密，記錄在案做甚麼呢？給自己看嗎？在港英時代則不同，除了在麥理浩之後，以至衞奕信上任是由外交部處理外，其餘全部都是由殖民地部處理，由殖民地部次官負責。老實說，記錄下來便給殖民地部看，不可以毀屍滅跡。 \n 當然，當年的行政局議員全部都是怡和、香港上海滙豐銀行等的“大班”。如果英資機構反對由殖民地派來的總督，便記錄在案，給殖民地部看。看完後，由他們來作公斷。現時第五十六條是不可解的，記錄保存後給誰看呢？給中聯辦還是誰看呢？不知道。所以，這條文寫下來其實是殘缺的。究竟讓誰知道呢？是否讓某位特首離任時知道\n自己不採納別人多少次意見？因為沒人可以叫其公開相關紀錄。所以，第一眼看下去，這是個垂死的制度。 \n 其實，問題在於甚麼呢？我們在此聲嘶力竭地說，修改《基本法》很困難，這是一個被迫接受的歷史遺產。所謂“遺產”，對嗎？歷史上一件不能不接受的事。主席，《基本法》第五十四條“香港特別行政區行政會議是協助行政長官決策的機構”是不可解的。如何協助他呢？即是諮詢，即行政長官請這羣人回來，當行政長官在決策前，可能要諮詢他們。但是否真的需要諮詢呢？當然是需要的。因為第五十六條說明：“行政長官如不採納行政會議多數成員的意見，應將具體理由記錄在案”。 \n 但是，有一個大的遺漏，主席，便是行政長官不喜歡讓成員知道，那怎麼辦？行政長官做過某事，不用告訴成員，因為要保密。如果行政長官心血來潮，或有一件事，明知道這羣成員上來喝杯奶茶，“頂心頂肺”，行政長官不告訴成員，那成員又是否可以制衡行政長官呢？根據第五十四條，如果行政長官做了第五十六條規定的事，而不告訴成員時，是否不可以呢？並沒有說明。即隨心所欲。固然，如果他告訴成員，他自己便是愚蠢。告訴成員後被其反對就不好意思了，雖然紀錄都是束諸高閣，沒有人看到，因為要保密。或許留下紀錄，有關方面有機會拿來看。我拿不到，但有人能拿來看，說特首很離譜，說他的不是。可能特首對上那個人  不知道是何人  因為最近梁振英在推出“辣招”前都打電話：“喂！‘光亞兄’(普通話)”......",
+      "sequence": 532,
+      "bookmark": "SP_MB_LKH_00540"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請針對議題發言。",
+      "sequence": 533,
+      "bookmark": "SP_LC_CM_00541"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "但這個真是不可解的。我要證明這個制度本身，即使醫好也是浪費藥費。“行政長官如不採納行政會議多數成員的意見，應將具體理由記錄在案”。若是有人看，那我們應該預聞。由誰負責看呢？哪一級的人看呢？究竟根據甚麼規定來看呢？不知道。所以，第五十四條讀下去，已可說行政會議是廢物。行政會議協助他人決策，他人在決策時，喜歡它協助決策便協助，不需要它協助便不用協助。這一規定與立法會不同。立法會無論如何也可以提出異議，政府提交文件上來，我們可以表示不行，說句不好意思，叫政府拿回去。雖然這很困難，但政府也要這樣做。所以，行政會議真是“廢到不行”，因此其並無獨立總目，只在“行政長官辦公室”下有一個章節。 \n 第五十五條說明行政會議的成員組成，主席，這其實也是說了等於沒說。“行政機關的主要官員、”  即現時所稱的問責官員，或是由問責官員的定義衍生出來的主要官員  “立法會議員”  即你與我  “和社會人士中委任，”  即全部人，不能委任非社會人士，有誰不是呢？即不准委任誰人呢？  “其任免由行政長官決定。”  即委任和罷免皆然。餘下那句不用寫，即行政會議成員的任期不能超過委任他的行政長官的任期。這是可以理解的。第五十五條的規定令行政長官可以隨意增減成員，令成員組成視乎行政長官喜好，可能是主要官員多，可能是立法會議員多，或是社會人士多......",
+      "sequence": 534,
+      "bookmark": "SP_MB_LKH_00542"
+    },
+    {
+      "title": "全委會主席",
+      "content": "梁議員，你已經花了一段時間批評《基本法》內有關行政會議的條文。",
+      "sequence": 535,
+      "bookmark": "SP_LC_CM_00543"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "我不是批評《基本法》，因為......",
+      "sequence": 536,
+      "bookmark": "SP_MB_LKH_00544"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請你說清楚，究竟你現在所說的，跟你這項修正案有甚麼關係。",
+      "sequence": 537,
+      "bookmark": "SP_LC_CM_00545"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "有，把行政會議的全年預算開支減至1,000元，便是叫其死，等於你現在建議懲罰我，因為我在這裏不乖，於是每月給我1,000元薪金，這便是叫我不要做議員，我是一定不會做下去的。所以，我要從制度上解釋為何削減至1,000元，否則這是不可解的。削減至1,000元等於暫時取消行政會議，造成一種既定事實。究竟是要修改《基本法》還是要作出補救，便很難說了。否則，不取消它，給它1,000元作甚麼呢？因此，我要爭取市民或其他議員諒解我支持只支付1,000元，一定要從制度上來說，亦即這個制度應該廢除。 \n 主席，這其實是有沿變的。曾幾何時，董建華推行問責制，設立3司12局，我記得有一陣子，司局級官員是要一起開會的，不像現時的局長般無須開會。那時候的行政會議，很明顯是強勢領導，行政長官靠“數人頭數贏”，主席，即是要廢除第五十六條“行政長官如不採納行政會議多數成員的意見，應將具體理由記錄在案”。意思是要廢除這項條文。為何呢？當特首委任的問責官員變成行政會議的大多數\n時，第五十六條用來做甚麼呢？是應付“兵變”嗎？這是“兵變”時才會出現的。 \n 因此，在這數項條文方面，特首真的是喜歡怎樣玩便怎樣玩，完全不在心，完全是一個讓他鑽很大空子的遊戲。如果第五十五條規定成員組成時，好像《基本法》的附件一第二條般註明800名選委分別屬於甚麼界別，這是走不掉的，是難越雷池半步。現時卻連當中有多少位立法會議員也不知道，立法會議員從中制衡他又不知道，或有一陣子......我告訴你，現在便到“梁粉”了，“梁粉”當道，社會人士的數目便會增加，不夠資歷的又加入，總之先霸佔席位。 \n 換言之，特首可以透過成員組成上沒有規定他怎樣委任一個機構協助他作決策，從而消滅第五十六條唯一對他的制衡。記錄在案，誰看或不看，我不知道，也不與你爭拗了，可能有人會看，可能沒人看。這樣的制度，任由特首可以“搓圓按扁”，即按他自己的喜好，他在哪個範疇有影響力，便在該範疇委任成員，我覺得這個制度是非常壞的。所以，我認為如果撥款給行政會議，等於撥款給一個隨時可以讓別人胡亂舞弄的制度。 \n 還有一點，第五十六條訂明“香港特別行政區行政會議由行政長官主持”，這是當然的。他有數點要做。“在作出重要決策”指的是甚麼？沒有說明，反而“向立法會提交法案、制定附屬法規......前，須徵詢行政會議的意見”，但“人事任免”和“紀律制裁”除外。套用在香港的現實是怎樣呢？在行政長官行使他的行政主導立法權之前，行政會議成員可供行政長官徵詢意見。徵詢意見後，行政長官最差劣的做法是記錄在案，即這羣人為香港市民服務，但卻做不到，只不過解答行政長官的徵詢。 \n 所以，坦白說，支出公帑......我們以往被迫以公帑支付總督，這是因為《英皇制誥》、《皇室訓令》，沒法子。然而，我們現在有了《基本法》之後，憲法給予我們的權利當然是立憲權，但也有一種憲立權，何謂“憲立”呢？是根據憲法而衍生制定出相關不同層次的法規，以制衡、界定政府的權限和人民的權利，或界定政府內部組織的分工和制衡。但是，我們並沒有行使憲立權，即在制定憲法之後，我們還應制定法律、法例、規定、行事原則，但我們並沒有這樣做。回歸15年，經歷了3任特首，沒有自我改良，反而越搞越亂，我們怎樣向其支薪呢？ \n 因此，我覺得公道地說，我們無須修改《基本法》，但在我剛才所說的環節上，透過政府主導的立法，不違反《基本法》。例如，應規定行政機關的主要官員是甚麼人，是3司便3司，是3司12局便3司12局，或立法會議員佔多少，社會人士又佔多少。這是需要作出規定的，若不作出規定，便會出現舞弄。一個政府濫權，固然是不對，但瀆職也是不對的。當憲法賦予政府權力，而政府在行使這麼大的權力時，當然應制約自己的權力，或在內部權力的行使上，有明確的追隨、遵從，令大家監察政府，但現在卻沒有這樣做。坦白說，只值大約1,000元。",
+      "sequence": 538,
+      "bookmark": "SP_MB_LKH_00546"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 539,
+      "bookmark": "SP_LC_CM_00547"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我認為梁國雄議員未能清楚解釋現時整個行政會議的運作問題，現時其運作問題已經達到災難性的情況。 \n 主席，我們曾嘗試向政府瞭解行政會議的出勤率。如果想瞭解一個組織的表現如何，是有多方面的量度指標可作參考的，例如以民調查看這個組織在領導及政策制訂上，是否讓市民感到滿意。當政府的不滿意度逐漸增加，例如自梁振英上台開始，很多民調也充分顯示出他的支持度是不斷下跌的，其支持度近日更與董建華當年下台時的得分相差不遠，有時候更會較董建華下台時還要差。以上既然說是民調，當然就是市民的意見，但究竟這些意見可否迫使中央要“689”頭痛下台，我們還有待觀察。可是，除了以上這些主觀觀感外，最重要的一點便是有關人士的出勤紀錄。 \n 立法會議員的表現，是有天主教......",
+      "sequence": 540,
+      "bookmark": "SP_MB_CWY_00548"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我希望借助《議事規則》第17(3)條查看立法會議員的出勤率和表現，請你點算法定人數。",
+      "sequence": 541,
+      "bookmark": "SP_MB_LKH_00549"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 542,
+      "bookmark": "SP_LC_CM_00550"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 543,
+      "bookmark": "EV_BELL_00551"
+    },
+    {
+      "title": "全委會主席",
+      "content": "請委員返回座位。陳偉業議員，請繼續發言。",
+      "sequence": 544,
+      "bookmark": "SP_LC_CM_00552"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，剛才我提到行政會議沒有出勤紀錄，令公眾無從知道成員的表現、出席會議的次數及情況。正如我剛剛所言，立法會所有會議當然都會公開，而議員的會議紀錄亦清楚列明議員的出席情況。當然，有些議員只是到一到，然後失蹤，亦當作一次出席，紀錄本身當然有些地方值得商榷或改善，但基本上所有事均在陽光之下。 \n 但是，行政會議是行在黑箱中，整個行政會議的運作，可以百分之一百地說是黑箱作業。一方面在保密制下，成員就政策的取向，個別不可以表態；而在集體負責制下，在決策出台後，個別可以出來就政策的決定保駕護航，為政府的政策作表述或解釋，但就政策制訂的過程，他們都不可以描述他們在當時討論政策時究竟有何意見。 \n 這種情況令公眾完全不可能知道有關成員究竟有沒有為市民反映民意，據理力爭，即是即使在政府的政策有時是不合理時，不知有沒有代表市民表達其意願。我們已經習慣在這個議事堂上經常被否決，我們有很多要求政府都不接受，但基於在陽光之下，在電視直播及傳媒報道的情況下，當然有時有些報道會將我們的意見扭曲，但基本上市民都知道我們的投票和政策取向如何。但是，在這個的行政會議黑箱中，成員的表現無從得知，更沒有出勤的紀錄，這是個很奇怪的現象。行政會議並非沒有職員，行政會議的運作開支需要八百多萬元，有14位職員，3位秘書，但竟然連最基本的資料都未能提供。 \n 我們另外問到一些資料亦值得關注。由梁振英委任成員的行政會議自運作後，有一項特別高的數字，即基於利益衝突的理由而需要避席的次數。於2012年最近的兩個月，避席的次數高達30次；與往年同一時期比較，例如2010年只得24次，2011年只有26次，但在2012年後半年卻高達30次。 \n 所以，按有關數字反映，我個人猜測或懷疑該段時期討論了許多關於樓價的問題，或是政府處理樓宇或控制樓價方面的措施，可能基於討論政策的問題，於是多了人避席。但是，與其他年份或時期相比，有關的行政會議成員避席次數之高，可以說是一種很獨特的現象，證明當初委任成員的時候，而成員涉及的利益範疇多，譬如有較多的行政會議成員擁有大量的物業，所以在討論到有關樓價控制的措施及政\n策時，便會有許多成員要求避席。當然，這是行政會議基本的程序及規定，然而當政府要考慮某些政策時，多成員避席是反映出組成部分有一定的問題；而這種情況必然與公眾利益有關，因為當有成員涉及某些利益是特別多時，公眾利益的照顧往往會被忽視。從階級論也好，從羣體利益分布的分析也好，這也是一種自然傾向的現象，對不對？ \n 譬如港英年代委任了一些“大班”，剛才“長毛”亦說過，怡和、渣甸或滙豐的“大班”均獲委任為行政會議成員。當然港英大財閥的利益和管治的利益是一致的，這等同回歸之前，將一些華資大財團的代言人委任到行政會議；其實現時都有些香港大財閥的代言人在行政會議中作代表。這種利益申報及出勤數字的缺乏，令行政會議的表現受到公眾的質疑。",
+      "sequence": 545,
+      "bookmark": "SP_MB_CWY_00553"
+    },
+    {
+      "title": "全委會主席",
+      "content": "陳議員，你現在所說的內容，跟你提出的修正案有甚麼關係？你的修正案建議削減不同數目的行政會議成員各1個月酬金，你剛才那一大番發言，跟這項修正案有甚麼關係？",
+      "sequence": 546,
+      "bookmark": "SP_LC_CM_00554"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "是要削減他們的酬金。主席，正是行政會議成員的表現欠佳，或缺乏明確的出勤紀錄，於是我提出11項修正案，削減他們1個月酬金，作為一種懲罰性的罰則。當然，在其他的修正案中，有部分委員要求削減全部酬金，我都支持的。所以，在我上一次發言中，我已經說明在處理有關問題方面，我提出了較溫和的建議......",
+      "sequence": 547,
+      "bookmark": "SP_MB_CWY_00555"
+    },
+    {
+      "title": "全委會主席",
+      "content": "你應該集中說明提出這十多項修正案的理由。",
+      "sequence": 548,
+      "bookmark": "SP_LC_CM_00556"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我稍後便會就11名行政會議成員為何有些要削減1個月或兩個月酬金不等，我會逐項解釋原因。如果你對我這方面的理解如此有興趣的話，或許我可以進入這部分。",
+      "sequence": 549,
+      "bookmark": "SP_MB_CWY_00557"
+    },
+    {
+      "title": "全委會主席",
+      "content": "我只是提醒委員不要離題。你應該圍繞你提出的修正案發言。",
+      "sequence": 550,
+      "bookmark": "SP_LC_CM_00558"
+    },
+    {
+      "title": "陳偉業議員",
+      "content": "主席，我想先說出整體框架，然後才進入細節，因為涉及行政會議的表現，很多人未必理解現時問題的嚴重性。我只是先論述這方面的情況，接着便會論述我自己的修正案重點。 \n 我共有11項修正案，第一項是削減1位行政會議成員1個月酬金。大家看到現時行政會議成員的代表性和表現，均受到公眾強烈批評和不滿，其中一位便是林奮強先生，而這項修正案是削減他1個月酬金，即67,390元。 \n 主席，其實他已休假了一段時間，他基本上已沒有履行行政會議成員的職責。如果我有權的話，理應要罷免他；按立法會的規定，如果一位議員多月沒有履行職責，其實其議員身份也會被取消。但是，政府至今仍然讓這位成員處於休假的身份，其實政府應盡早作出決定。所以，如果有機會最少能削減酬金的話，林奮強先生肯定是第一位要被削減酬金的成員。 \n 他所涉及的問題我不作詳細評論，包括可能涉及利益衝突的問題，以及有關他買樓時的佣金處理、混亂或前言不對後語，或是不少人也懷疑他可能未必透露事實的全部等問題，這些均令整個行政會議失信於民，亦令整個行政會議的形象受到強烈打擊。最不堪的是，林奮強差不多是“689”梁振英所欽點的行政會議成員，表示非常欣賞他的才能和經驗，所以要特別委任他。部分行政會議成員，當然大家也估計到是由中聯辦所推薦，但很明顯地，林奮強被視為梁振英其中一名親信或重點栽培人士，基本上他與“689”的關係被視為較密切。如果可以削減他的酬金，我覺得是絕對適合。 \n 主席，如果有機會削減兩位成員的酬金，即我另一項修正案是要削減兩位行政會議成員的酬金，第二位便是張志剛，這兩人的酬金加起來是134,780元。 \n 剛才已有其他議員就這位張先生作出多項批評，其實他的委任令人感到極為憤怒，一方面在過去多年來，他無論在公眾政策方面的評論或建議，也看不到他有傑出或重大的參與，一般人對他的感覺是所謂親共的政治打手，因為我跟他過去已多次在“把酒當歌”中交鋒，他在上星期更擔任客席主持。他的政治定位可被視為香港其中一名左派代表，他這種左並不是階級論或馬列主義方面的政治理論思想，而是他在行為上予人一種政治打手身份的觀感。有一位這樣的成員在其\n中，更參與教育方面的工作，這會令香港市民，特別是不少家長感到極為恐懼，這種擔憂令人對整體政府的信心出現動搖及恐慌性情況。 \n 主席，請點算法定人數。",
+      "sequence": 551,
+      "bookmark": "SP_MB_CWY_00559"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 552,
+      "bookmark": "SP_LC_CM_00560"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳)",
+      "sequence": 553,
+      "bookmark": "EV_BELL_00561"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 554,
+      "bookmark": "SP_LC_CM_00562"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，我繼續就我提出的第7項修正案，即議決為削減分目000而將總目21削減2,180萬元，相當於行政會議的全年預算開支。 \n 我上一節的發言是從行政會議的弱化和虛位化已作很清楚的論述，這亦是大家對行政會議由一個權力核心、管治中心，甚至是一人之下，萬人之上的地位，經過人的弱化，然後是政治力量令它虛位化，不能發揮《基本法》中對行政會議職權的規定，就是他們並未能執行其職權。 \n 我們討論到薪酬的問題，在我這部分中只是一項大帳目，便是削減它全年的預算開支。我們可以比較一下，在董建華時代、曾蔭權時代和梁振英時代，這些行政會議成員的酬金總開支。立法會議員的酬金也由當年，即董建華時代最初的每月六萬多元到現在的八萬四千多元，以每人計算。但是，行政會議成員的酬金則是一個總數，我不知道個別行政會議成員取得的酬金是否不一樣，這真是不可考，看不到的。在2005-2006年度，即曾蔭權時代的酬金總數由6,872,000元，到2006-2007年度的1,240萬元，到梁振英時代，現在是13,425,000元。由六百多萬元變成1,000萬元，然後由1,000萬元變成1,300萬元，升幅達14.32%，但整個消費物價指數的變動率到2011-2012年度只是4.1%而已。所以，現在要削減他們的薪酬，除了我剛才說的理由外，即使仔細一點，把酬金放在一個總額數上，大家都看不到他們究竟每人每月支多少酬金，所以，我認為這是非常有問題的。 \n 行政會議成員由過去的11人增至現時的16人  加人是不要緊的  如果可以發揮到行政會議的功能，真的能幫助行政長官，可以提供意見，即行政長官作出所有重要決策，向立法會提交法案或制定附屬法規及解散立法會前，即例如今次如果我們成功“拉布”，是有機會出現解散立法會的，那麼他要徵詢行政會議成員的意見。但是，沒奈何，譬如到了如此重要的決策，不如就談談解散立法會。看看這羣這麼弱的行政會議成員，如果解散立法會要徵詢他們的意見，可真糟糕了。我們先不要說政治立場或政治是非，如此重要的決策要徵詢他們的意見，根據憲制上的責任或在憲制上出現的危機，行政長官須按照《基本法》要解散立法會，但作出解散立法會的決定前，他要徵詢這羣人，包括張震遠、張志剛、羅范椒芬和林奮強，想想也“人都癲”。 \n 這麼說好像針對這些人，但看看這些人的經歷和歷練，他們的形象那麼低落，能力方面又看不到有何本事，撩是鬬非則有，例如羅范椒芬和張志剛。到今天這光景，說到“拉布”，我只舉這個例子，如果“拉布”到5月中，你“老人家”仍不“剪布”，可能真的“杰撻撻”了。最後，可能其中一個選擇便是行政長官要決定究竟是否要解散立法會，但解散立法會如此重大的決定，在解散立法會或作出這決定前，需要徵詢行政會議成員的意見。但是，這羣行政會議成員，正如我剛才所說，我說過張志剛，但還未說羅范椒芬和張震遠，這些人在以下談及削減薪金時，我可能會逐個說說。林奮強的知名度是零，是負數，變成升8位，也是因為他偷步賣樓。 \n 當然，就此，基於我們身為立法會議員，我們對我們的同事要疑中留情，甚至因為立場問題，槍口一致對外。立法會當然有不同黨派，大家經常互相批評攻伐，但要與行政會議比較時，我們這裏有3位行政會議成員是立法會議員兼任的，所以我不會批評這3位身兼行政會議成員的立法會議員，因為在整個立法機關的立場上，這是沒得說的，主席，這是必然的。不是說要護短，但事實上，又坦白說，這3位議員較我剛才說的人好得多了，老實說，一比較之下，跟張志剛、羅范椒芬、林奮強和張震遠相比......你的黨主席都比他們厲害了，田北辰議員，對嗎？你何須對着我笑了，她真是十分厲害，是十大議員，經常入十大，每逢有鏡頭都看到她，多了不起。當然，最近不夠李卓人議員厲害，因為“卓人對超人”，所以他可做十大議員一段時間了。 \n 主席，多謝你不制止我，因為我說到題外話便多拉開一點而已。我說回薪酬，行政會議非官守議員的成員的酬金開支，即在董建華......先不說董建華，曾蔭權任行政長官的時候，與梁振英時代明顯有增加的跡象。然而，這兩個時代或兩任特首的高級幕僚或顧問團成員的質素其實也有很大差距，即使我們經常批評曾蔭權政府，但他的行政會議或所謂內閣的質素較“689”的行政會議高很多，我們不能因為那個是曾蔭權而否認，我們應實事求是，說出事實。還有有點是我們這些立法會議員不喜歡聽的，我們加薪或調整薪酬會由一個委員會負責，對嗎？立法會本身也有一個委員會，接着加薪與否又由一個委員會負責，對嗎？你向它們提出一些建議，好像去年便出現很大爭議，劉慧卿議員提出我們應加薪至接近局長級，後來建議加薪一倍，被人罵得狗血淋頭，我第一個就站出來說不行，增加議員的薪酬不如增加助理的薪酬，對嗎？ \n 但是，我姑且不談這事。立法會議員酬金的調整需要每次討論，以及本身設有一個委員會，另外還有一個委員會來決定你的薪酬。然而，行政會議成員的酬金卻設有自動調整的機制，對嗎？在互相比較之下，確實令人感到不是味兒。坦白說，現在所有人這麼辛苦坐在這裏，對嗎？他們則每星期二開會一次，當然我們那些兼任行政會議成員的立法會議員會較好，對於其他那些成員，這項薪酬調整機制已截然不同，對嗎？ \n 所以，我認為在這不公平的體制下，而這夥所謂行政會議成員，特別是梁振英時代，他無法找到一些較具實力和形象較好的人來加入行政會議，你說他們怎值得支取現在的酬金呢，更何況......如果你看回財務委員會特別會議上討論行政會議成員的酬金、職能等的時候，答覆相關問題的官員很多時候均支吾以對，語焉不詳。例如答覆其他的有關問題時很多時候是很清楚和具體的，但一旦答覆有關行政會議的問題時，便會窒口窒舌。所以，當行政長官辦公室常任秘書長劉焱女士每次就議員提出有關行政會議的問題，很多時候都無法回答，對嗎？我自己也曾提出數條問題，得到的答案我絕不滿意，例如我提出關於免費電視牌照的問題，她只有一行文字而已，甚麼“保密”、“集體負責”，答非所問，我是問她現時到甚麼階段，因為我是資訊科技及廣播事務委員會主席。在兩年前(或可能在更早前)，這個委員會已確認了政府要多發3個免費數碼電視牌照，然後在廣播事務管理局(現為通訊事務管理局)時已決定了，已完成整個計劃或建議，並送交行\n政會議，我只是問她何時而已。事實上，如果看回該事件的時序，當事情離開了廣播事務管理局便即是送交行政會議，由到了行政會議拖至現在，前後已兩年多，立法會亦曾進行議案辯論，盧偉國議員於3月底提出的修正案獲得大家一致通過，距今有多少月，盧議員？對嗎？現在已4月了。我們大家也支持盧偉國議員的修正案，但結果卻沒有任何答覆。所以，我提出一條問題，如果問梁振英，他一定會答行政會議正在處理中；如果你問局長，就更白費力氣；那便問行政會議，她不會回答的，行政會議的答覆代表是行政長官辦公室常任秘書長，由她答覆。我感到十分奇怪，為何會由她答覆？可能由於涉及體制和行政方面的問題，她答覆時指行政會議實行集體負責保密制，她哪有答覆我的問題？我是問免費電視牌照事情去到行政會議達至甚麼階段，對嗎？據我們的理解，最後發牌應由行政長官會同行政會議批准，對嗎？很明顯，現在留中不發，是因為梁振英，對嗎？然後，行政會議成員會提供意見給他，對嗎？過去的做法是行禮如儀而已。 \n 主席，所謂行禮如儀也者，便是總之廣播事務管理局OK了，去到行政會議便行禮如儀，對嗎？我不知道，主席，你當然不能答我。電視台續牌都是這樣的，程序相同，即現有電視台續牌也是前來Panel，接着是廣播事務管理局......之前召開公聽會，即經過多項程序諮詢，到最後經廣播事務管理局拍板OK便到行政會議，行政會議便立即批准，對嗎？所以，由此可見，我剛才提到，梁振英的行政會議是弱化、虛位化。",
+      "sequence": 555,
+      "bookmark": "SP_MB_WYM_00563"
+    },
+    {
+      "title": "全委會主席",
+      "content": "是否有其他委員想發言？",
+      "sequence": 556,
+      "bookmark": "SP_LC_CM_00564"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，請根據《議事規則》第17(3)條點算人數。",
+      "sequence": 557,
+      "bookmark": "SP_MB_LKH_00565"
+    },
+    {
+      "title": "全委會主席",
+      "content": "秘書，請響鐘傳召委員返回會議廳。",
+      "sequence": 558,
+      "bookmark": "SP_LC_CM_00566"
+    },
+    {
+      "title": "",
+      "content": "(在傳召鐘響後，多位委員返回會議廳) \n(梁國雄議員站起來想發言)",
+      "sequence": 559,
+      "bookmark": "EV_BELL_00567"
+    }
+  ],
+  "date": "2013-4-25",
+  "url": "https://www.legco.gov.hk/yr12-13/chinese/counmtg/floor/cm0425-confirm-ec.pdf"
+}
