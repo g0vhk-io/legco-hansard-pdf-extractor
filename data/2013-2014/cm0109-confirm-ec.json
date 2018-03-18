@@ -1,0 +1,864 @@
+{
+  "membersPresent": [
+    "主席曾鈺成議員, G.B.S., J.P. THE PRESIDENT THE HONOURABLE JASPER TSANG YOK-SING, G.B.S., J.P.",
+    "何俊仁議員 THE HONOURABLE ALBERT HO CHUN-YAN",
+    "涂謹申議員 THE HONOURABLE JAMES TO KUN-SUN",
+    "陳鑑林議員, S.B.S., J.P. THE HONOURABLE CHAN KAM-LAM, S.B.S., J.P.",
+    "劉慧卿議員, J.P. THE HONOURABLE EMILY LAU WAI-HING, J.P.",
+    "譚耀宗議員, G.B.S., J.P. THE HONOURABLE TAM YIU-CHUNG, G.B.S., J.P.",
+    "石禮謙議員, G.B.S., J.P. THE HONOURABLE ABRAHAM SHEK LAI-HIM, G.B.S., J.P.",
+    "張宇人議員, S.B.S., J.P. THE HONOURABLE TOMMY CHEUNG YU-YAN, S.B.S., J.P.",
+    "方剛議員, S.B.S., J.P. THE HONOURABLE VINCENT FANG KANG, S.B.S., J.P.",
+    "王國興議員, B.B.S., M.H. THE HONOURABLE WONG KWOK-HING, B.B.S., M.H.",
+    "林健鋒議員, G.B.S., J.P. THE HONOURABLE JEFFREY LAM KIN-FUNG, G.B.S., J.P.",
+    "梁君彥議員, G.B.S., J.P. THE HONOURABLE ANDREW LEUNG KWAN-YUEN, G.B.S., J.P.",
+    "黃定光議員, S.B.S., J.P. THE HONOURABLE WONG TING-KWONG, S.B.S., J.P.",
+    "湯家驊議員, S.C. THE HONOURABLE RONNY TONG KA-WAH, S.C.",
+    "何秀蘭議員 THE HONOURABLE CYD HO SAU-LAN",
+    "林大輝議員, S.B.S., J.P. DR THE HONOURABLE LAM TAI-FAI, S.B.S., J.P.",
+    "陳克勤議員, J.P. THE HONOURABLE CHAN HAK-KAN, J.P.",
+    "陳健波議員, B.B.S., J.P. THE HONOURABLE CHAN KIN-POR, B.B.S., J.P.",
+    "梁美芬議員, S.B.S., J.P. DR THE HONOURABLE PRISCILLA LEUNG MEI-FUN, S.B.S., J.P.",
+    "張國柱議員 THE HONOURABLE CHEUNG KWOK-CHE",
+    "黃國健議員, B.B.S. THE HONOURABLE WONG KWOK-KIN, B.B.S.",
+    "葉國謙議員, G.B.S., J.P. THE HONOURABLE IP KWOK-HIM, G.B.S., J.P.",
+    "葉劉淑儀議員, G.B.S., J.P. THE HONOURABLE MRS REGINA IP LAU SUK-YEE, G.B.S., J.P.",
+    "謝偉俊議員, J.P. THE HONOURABLE PAUL TSE WAI-CHUN, J.P.",
+    "梁家傑議員, S.C. THE HONOURABLE ALAN LEONG KAH-KIT, S.C.",
+    "梁國雄議員 THE HONOURABLE LEUNG KWOK-HUNG",
+    "黃毓民議員 THE HONOURABLE WONG YUK-MAN",
+    "毛孟靜議員 THE HONOURABLE CLAUDIA MO",
+    "田北辰議員, B.B.S., J.P. THE HONOURABLE MICHAEL TIEN PUK-SUN, B.B.S., J.P.",
+    "田北俊議員, G.B.S., J.P. THE HONOURABLE JAMES TIEN PEI-CHUN, G.B.S., J.P.",
+    "吳亮星議員, S.B.S., J.P. THE HONOURABLE NG LEUNG-SING, S.B.S., J.P.",
+    "何俊賢議員 THE HONOURABLE STEVEN HO CHUN-YIN",
+    "易志明議員 THE HONOURABLE FRANKIE YICK CHI-MING",
+    "胡志偉議員, M.H. THE HONOURABLE WU CHI-WAI, M.H.",
+    "姚思榮議員 THE HONOURABLE YIU SI-WING",
+    "范國威議員 THE HONOURABLE GARY FAN KWOK-WAI",
+    "馬逢國議員, S.B.S., J.P. THE HONOURABLE MA FUNG-KWOK, S.B.S., J.P.",
+    "莫乃光議員 THE HONOURABLE CHARLES PETER MOK",
+    "陳志全議員 THE HONOURABLE CHAN CHI-CHUEN",
+    "陳家洛議員 DR THE HONOURABLE KENNETH CHAN KA-LOK",
+    "陳婉嫻議員, S.B.S., J.P. THE HONOURABLE CHAN YUEN-HAN, S.B.S., J.P.",
+    "梁繼昌議員 THE HONOURABLE KENNETH LEUNG",
+    "麥美娟議員, J.P. THE HONOURABLE ALICE MAK MEI-KUEN, J.P.",
+    "郭家麒議員 DR THE HONOURABLE KWOK KA-KI",
+    "郭偉强議員 THE HONOURABLE KWOK WAI-KEUNG",
+    "郭榮鏗議員 THE HONOURABLE DENNIS KWOK",
+    "張華峰議員, J.P. THE HONOURABLE CHRISTOPHER CHEUNG WAH-FUNG, J.P.",
+    "張超雄議員 DR THE HONOURABLE FERNANDO CHEUNG CHIU-HUNG",
+    "單仲偕議員, S.B.S., J.P. THE HONOURABLE SIN CHUNG-KAI, S.B.S., J.P.",
+    "黃碧雲議員 DR THE HONOURABLE HELENA WONG PIK-WAN",
+    "葉建源議員 THE HONOURABLE IP KIN-YUEN",
+    "廖長江議員, J.P. THE HONOURABLE MARTIN LIAO CHEUNG-KONG, J.P.",
+    "潘兆平議員, B.B.S., M.H. THE HONOURABLE POON SIU-PING, B.B.S., M.H.",
+    "鄧家彪議員 THE HONOURABLE TANG KA-PIU",
+    "蔣麗芸議員, J.P. DR THE HONOURABLE CHIANG LAI-WAN, J.P.",
+    "盧偉國議員, B.B.S., M.H., J.P. IR DR THE HONOURABLE LO WAI-KWOK, B.B.S., M.H., J.P.",
+    "鍾國斌議員 THE HONOURABLE CHUNG KWOK-PAN",
+    "謝偉銓議員 THE HONOURABLE TONY TSE WAI-CHUEN"
+  ],
+  "membersAbsent": [
+    "李卓人議員 THE HONOURABLE LEE CHEUK-YAN",
+    "梁耀忠議員 THE HONOURABLE LEUNG YIU-CHUNG",
+    "劉皇發議員, 大紫荊勳賢, G.B.S., J.P. DR THE HONOURABLE LAU WONG-FAT, G.B.M., G.B.S., J.P.",
+    "馮檢基議員, S.B.S., J.P. THE HONOURABLE FREDERICK FUNG KIN-KEE, S.B.S., J.P.",
+    "李國麟議員, S.B.S, J.P., Ph.D., R.N. PROF THE HONOURABLE JOSEPH LEE KOK-LONG, S.B.S., J.P., Ph.D., R.N.",
+    "李慧琼議員, J.P. THE HONOURABLE STARRY LEE WAI-KING, J.P.",
+    "梁家騮議員 DR THE HONOURABLE LEUNG KA-LAU",
+    "陳偉業議員 THE HONOURABLE ALBERT CHAN WAI-YIP",
+    "陳恒鑌議員 THE HONOURABLE CHAN HAN-PAN",
+    "梁志祥議員, B.B.S., M.H., J.P. THE HONOURABLE LEUNG CHE-CHEUNG, B.B.S., M.H., J.P.",
+    "葛珮帆議員, J.P. DR THE HONOURABLE ELIZABETH QUAT, J.P.",
+    "鍾樹根議員, B.B.S., M.H., J.P. THE HONOURABLE CHRISTOPHER CHUNG SHU-KUN, B.B.S., M.H., J.P."
+  ],
+  "publicOfficersAttending": [
+    "民政事務局局長曾德成先生, G.B.S., J.P. THE HONOURABLE TSANG TAK-SING, G.B.S., J.P. SECRETARY FOR HOME AFFAIRS (2014年1月9日下午2時30分至4時30分) (2.30 pm to 4.30 pm on 9 January 2014)",
+    "民政事務局局長許曉暉女士, S.B.S., J.P. MS FLORENCE HUI HIU-FAI, S.B.S., J.P. SECRETARY FOR HOME AFFAIRS (2014年1月9日下午4時30分起) (from 4.30 pm on 9 January 2014)",
+    "勞工及福利局局長張建宗先生, G.B.S., J.P. THE HONOURABLE MATTHEW CHEUNG KIN-CHUNG, G.B.S., J.P. SECRETARY FOR LABOUR AND WELFARE",
+    "教育局局長吳克儉先生, S.B.S., J.P. THE HONOURABLE EDDIE NG HAK-KIM, S.B.S., J.P. SECRETARY FOR EDUCATION"
+  ],
+  "clerksInAttendance": [
+    "助理秘書長梁慶儀女士 MISS ODELIA LEUNG HING-YEE, ASSISTANT SECRETARY GENERAL",
+    "助理秘書長馬朱雪履女士 MRS PERCY MA, ASSISTANT SECRETARY GENERAL"
+  ],
+  "speeches": [
+    {
+      "title": "主席",
+      "content": "本會現在恢復會議，繼續辯論“全方位協助青年人發展”議案。",
+      "sequence": 1,
+      "bookmark": "SP_LC_PSD_00007"
+    },
+    {
+      "title": "譚耀宗議員",
+      "content": "青年人作為香港社會未來的棟樑，但面對全球一體化，以及鄰近地區的高速發展，本港的青年人不但在成長中面對不少挑戰，亦缺乏向上流動的機會，其中他們在學業、就業、住屋置業和創業方面的訴求尤其突顯，可惜目前政府針對青年人在這數方面制訂的全面性支援措施仍有不足之處，我們民建聯期望下星期三特首在其新一份的施政報告內能提出一些針對性措施，協助他們專注學業、建立事業，以及解決居住和創業的問題，此舉將有利本港未來社會的發展。 \n 民建聯一直也認為，政府有需要為青少年制訂一些前瞻性的青少年政策，從根本解決青年人面對的學業、就業、置業及創業等問題。我的同事蔣麗芸議員其實已於昨天詳細闡述民建聯在這方面的意見，提出如何協助青年人解決學業及就業的問題。因此，現在我希望集中講述我們在如何協助青年人置業、創業，以及積極參與社會事務方面的意見。 \n 目前，不少青年人認為本身欠缺向上流動的機會，從而對社會產生抱怨，並有一種得過且過的消極態度。其中一個主要原因是目前香港的樓價高企，雖然政府已採取了一些措施，但對於一般青年人來說，仍欠缺置業階梯，這樣既導致青年人難以成家立業之餘，亦使青年人對社會失去歸屬感。 \n 因此，為青年人創造置業階梯，不但能讓青年人創造成家立業的條件，亦可增加青年人對社會的歸屬感，更可令青年人肩負起更大的責任，從而使青年人扭轉這種得過且過的消極生活態度。 \n 目前，香港的失業率及利率均處於低水平，青年人在置業上面對的最大困難，在於青年人欠缺置業所需的首期，以及社會上欠缺一些青年人能夠負擔、樓價較為低廉的樓宇。有見及此，民建聯希望特區政府能夠盡快落實以青年人為對象的青年宿舍計劃，提供一些租金較為低廉，但具有居住期限的青年宿舍，這既可以暫時解決青年人的居住問題，亦可以讓青年人儲到一點錢，作為日後置業所需的首期。政府亦應該盡快推出新居屋計劃，並確保每年興建不少於5 000個新居屋單位，以及兩萬個私人物業單位，為青年人建立完整的置業階梯。與此同時，政府亦要增建公屋及全面檢討現行申請公屋的資格，為一些經濟條件未如理想、欠缺置業能力的青年人，制訂更為合理及公平的輪候及編配公屋方法。 \n 談過如何協助青年置業後，我亦希望藉機談談如何協助青年人創業。香港社會上有不少青年人充滿創意、毅力及魄力，希望可以透過自己一雙手開創出一番事業，不過這些青年人往往也面對欠缺創業資金及經營一盤生意所需的知識及經驗等問題，令他們無法踏出創業的第一步。當然，全世界所有青年創業者均同樣面對上述問題，不過內地不少大、中型城市的政府，為青年創業者所面對的問題制訂了不少針對性的協助措施，例如由政府提供免擔保的低息創業貸款或循環貸款，為經審批的青年創業者提供創業的起動資金，而教育部門及商界亦聯手為青年創業者提供創業培訓，讓青年創業者獲得創業及經營生意所需的知識及經驗等。 \n 內地政府這些協助青年人創業的政策非常值得特區政府參考及借鑒，因此民建聯希望特區政府可以成立“青年人創業基金”，為有創業計劃但缺乏創業資金的青年創業者提供創業的起動資金，並且開辦一些創業培訓課程，提供創業的必要知識，協助有志創業的青年人擬訂及實踐創業計劃。 \n 我亦想談談有關如何推動青少年積極參與社會事務的意見。目前，香港的青少年面對種種不同的困難及問題，但我們認為特區政府在制訂青少年政策時欠缺前瞻性，往往流於“頭痛醫頭、腳痛醫腳”，再加上現時欠缺一個讓青少年參與社會事務的平台，令青少年無法參與制訂政府政策，因而令青少年往往流於兩極，一就是對社會事務漠不關心，一就是以偏激姿態，甚至參與違法活動(計時器響起)......以表達自身的訴求。",
+      "sequence": 2,
+      "bookmark": "SP_MB_TYC_00009"
+    },
+    {
+      "title": "何秀蘭議員",
+      "content": "主席，曾經有一個廣告支持“80後”反高鐵，它說新一代必勝，因為時間在他們那邊。這確實是自然定律，新一代一定會不斷取代上一代在社會上的主導權利。 \n 協助青少年成長，除了出於家庭責任外，其實亦是社會的需要。因為新一代將來必然要負起責任，令社會繼續運作下去，但方向有兩個：一個是將新一代倒模，繼續要新一代沿用我們現在熟習的模式，因為這一代恐怕都是害怕轉變的，但這必然是癡心妄想，為甚麼？我們這一代亦是始作俑者，因為我們發明的很多科技，或由我們主導下的社會發展模式，已經改變了新一代的成長程序，例如資訊科技，電腦可以改變運算功能，令很多運算工作變得快捷，但運用這些硬件的方法，亦確實改變了社會的生活。 \n 談到新一代在童年時接收資訊的方法及其生活模式，電腦上的虛擬世界已經逐漸成為他們的真實世界。所以，當新一代的童年成長及發展過程與我們必然不相同時，我們沒可能要求新一代走我們的舊路。所以，倒不如放手讓他們自由發展，自己創新及摸索，走出一條新路。但是，走新路註定有機會“撞板”，有機會跌倒，一定不會一帆風順，故我們要負起的責任是從旁為新一代提供最多的機會，給予他們最多的空間，讓他們可以因應自己的性格和取向，獲得全面的選擇。 \n 我們這一代亦應該盡量給予新一代機會作嘗試，但是，香港社會現行的制度，包括教育、就業，甚至談戀愛、組識家庭、安身立命，以至怎樣工作回饋社會，其實都是很不利那些“三尖八角”、“巖巖巉巉”、挑戰制度的年輕人。就以置業為例，為何這個社會必須以購買物業作為長遠解決居住問題的方法呢？為何在這個社會，依靠租住房屋並不能夠令人安心，不能夠令人有安全感呢？所以，我們要留意的是現時社會制度的邏輯是否合理。 \n 主席，前兩天你也曾嘗試解答一些幼稚園的數學推理題，我在電視上看到你眉頭緊皺，眼也昏了，還是解答不了。但是，在現時的教育制度下，如果3歲至6歲的兒童答不了那條題目，不懂將生果拼到動物那邊，過不了關，無法入讀小一，便是失敗於起跑線上。我們是否要讓這種社會模式不斷在制度中向新一代施加限制，以及令他們成為失敗者呢？ \n 所以，在眾多修正案中，其實我最認同梁繼昌議員的修正案，因為它給予新一代最多空間。但是，我明白從父母的角度而言，一定希\n望青少年在成長時能少遇些挫敗及少感到失落，希望他們走得順利一點。所以，我明白郭偉强議員為何一共提出了22點建議，鉅細無遺。不過，這22點建議都是依從現有的制度，作出小修小補，只為修補現時制度上的嚴重不足，但卻仍然希望新一代走進現有模式中，當中並無給予新一代太多想像的空間，例如內容中提及如果今次考試成績好，便再上一層樓；如果考得不太好，便轉左；如果連這個試也考不好，便轉右，諸如此類，始終都是依循現存的模式。但是，新一代的年輕人可能會有其他看法，例如有年輕人想復耕，想務農；有些年輕人希望到世界到處遊歷，然後再將外面的風土人情帶回香港，出書或做攝影。但是，我們現時全方位的制度上的小修小補，其實不利這類有另外一些想法的年輕人發展。 \n 主席，我最近協助一羣舊制高考生重讀，但他們卻無法入讀大學。我們走訪了數間院校，在與院校傾談的過程中，我們知悉原來很多高考生並不知道大學收生甄選的考慮，令他們不懂按照自己的成績及興趣報讀，於是不獲取錄。這宗個案顯示當年輕人走入成年人建造的“迷宮”，而我們又無法為他們提供一幅好的地圖時，他們便會被困在內，無法走出來，或走了很多冤枉路，這就是被設計現有社會制度的成年人所累。 \n 所以，我要強調，無論是由於同學自己的直接責任或社會制度的缺失，我們都應該給年輕人更多其他機會，即使他們一時走慢了，仍可有機會追上來。 \n 社會上亦有很多勇於挑戰制度、敢於創新、質疑既有文化的年輕人，例如學民思潮。縱使他們對政制的論據未必充分，策略考慮或許未必周詳，但我們應該為有一羣有膽識挑戰制度的新一代而感到欣慰，不能因為自己是被挑戰的對象而對他們感到不快，大家千萬不要“葉公好龍”。 \n 其實，社會在兩代互動中不斷演化和進步，我們應該要有接受年青人挑戰的胸襟，亦應該接受他們有想像力、有創見的未來，縱使這個未來對我們這一代而言可能很難適應。多謝主席。",
+      "sequence": 3,
+      "bookmark": "SP_MB_CH_00010"
+    },
+    {
+      "title": "郭家麒議員",
+      "content": "主席，這個議題十分有意思。我們這羣包括了權貴、富人和成功人士的成年人在這裏討論如何協助青年人發展，令我想起一件十分特別的事情。 \n 特區政府設有一些青年委員會，由一些40多至60歲的成功人士為我們的年輕人制訂方向。這出現甚麼問題呢？那些家中十分富有，能就讀國際學校或出國留學，入讀大學毫無難度的青年人，當然不用找我們，有問題的那些人，我們的社會政策卻從來幫不上他們。香港的整體環境便是在製造失望和失敗，青年人完全沒有希望。我為何這樣說呢？ \n 在二、三十年前，當時的校協戲劇社有一齣十分出名的劇目，可能局長也會記得，該劇名為“六分一”。當時，入讀大學的機會率是六分之一；二、三十年後便好一點，有18%，跟六分之一也差不多。不過，入讀大學是否唯一的標準？當然不是的，身為老師的葉建源議員昨天在這裏也提出了很多對教育的看法。 \n 我十分記得數年前看過一本書，作者是一位姓陳的台灣女士，她跟隨丈夫到芬蘭，孩子均在芬蘭讀書，書名為《每個孩子都是第一名》，十分有趣。我們當然無法學習芬蘭的制度，它是發達國家中的極發達國家，但基本上它只有一個原則，便是讓孩子尋找自己的路，職業無分貴賤，大學並非通往財富的唯一道路。 \n 特區政府左右也在作傷害青年人的事情。如果政府認為唸DSE是為了讓青年人入讀大學，便讓他們全部入讀大學吧。不是的，對不起，只有18%能夠入讀。然後，院校又推出一些不上不下的副學士課程，青年人唸完後找不到工作，不但無法增加工資，而且因為他們對自己有更高的要求和期望，找工作時高不成，低不就，不上不下，卻已欠下十多二十萬元債務。青年人無法入讀銜接課程，只好繼續讀下去，再多借一些錢，唸完後發現也是一場空的。 \n 社會上只有少量足夠的渠道讓他們升學，這也不要緊，因為我們不是要求人人唸大學方能成才，很多名人也沒有讀過大學，連並不是好榜樣的上任特首曾蔭權也沒有唸大學，很多人也是從底層奮鬥而上。可是，現時整個教育政策，只造就那十多個百分比能夠入讀大學的人，我們有多少職業教育呢？以往也有些職業先修學校或工業學校  我指的不是IVE  讓青年人可在讀書時代便已有更多路可走，現在卻沒有了，我們只是一直催谷他們唸大學，唸不到便唸副學士或銜接課程諸如此類，然後沒有任何的將來。 \n 當然，我也不想談甚麼樓價或創業，這只會白費氣力，現在連僅有的火炭和九龍東等可讓他們創業的地方，也因為政府政策的改變，\n而全部轉為酒店和甲級寫字樓，把他們趕走，還有何地方創業？創甚麼業呢？如果借錢給他們，情況便更糟，他們會連那筆本金也蝕掉，再負擔多20萬元債務。主席，我們整個社會也生病了，我們無法開一條路給青年人。我們不應在他們未能成功入讀大學的那一天，才告訴他們不應該走這一條路；是否應該在小學或中學的教育中，已經為他們提供多一點或足夠的視野？社會也不應該把所有的注押在大學畢業生身上。 \n 我們最近發覺沒有人當領港員，沒有人投身航運業等，這是活該的，為甚麼呢？因為路只有一條，“三三四”改革便是要告訴大家，走這條路便是要入讀大學。對很多中產人士或大學畢業生來說，這當然是正確的，因為自己唸大學，孩子也應該唸大學；但基層卻不是這樣的，他們需要實實在在的做人方向。所以，現在IVE充滿着失敗者，當中很多也具有學習障礙或困難，如果他們不是早被趕入這條路，他們最後便無須這樣子。只要跟那些在IVE任教的人交談，便知道他們十分淒慘，他們接收了整個社會的失敗者，包括欠缺足夠診斷的學障人士和專注力失調的人，為何會這樣呢？現在IVE更為瘋狂，表示要推出學士課程。整個社會所有大專院校也在推出副學士和碩士課程，以為是為了他們嗎？只是為金錢而已，因為現時教育已產業化，最適合用來賺錢，大家看不到嶺南大學轄下的社區學院有多過分嗎？ \n 教育局做過些甚麼呢？教育改革是怎樣的呢？若說要給他們一條路，負責體育事務的民政事務局也是白費氣力的，人人也專注在DSE考取好成績，誰會做運動呢？有多少場地供他們做運動呢？要求它開放學校給學童在放學後、星期六或星期日做運動，卻甚麼也辦不到。主席，我覺得我們在這裏發言很多時也是白費氣力的，但無論如何，我希望兩位局長真的要跟其他政策局共同討論一下，我們對不起我們的年輕人。 \n 我謹此陳辭，多謝主席。",
+      "sequence": 4,
+      "bookmark": "SP_MB_KKK_00011"
+    },
+    {
+      "title": "陳志全議員",
+      "content": "蔣麗芸議員動議“全方位協助青年人發展”的議案，討論青年事務和青年政策，首先要有開放、多元和具創意的年青思維和態度。所以，我今天不會提出很精辟的政策，反而希望可以稍稍改變大家的思維，對大家的思考有少許啟發，我已經很開心。 \n 無論是政府、議員、協助者、服務提供者或家長，首先也要擺脫舊式、老式、家長式的思維，即是說，並不是由我告訴你甚麼是好的、正確的，為你準備，為你安排一條路，然後你便循着這條路走。這種單一、狹窄和權威式的思維，已不適合現在的年青人。議案的題目提及“全方位”，“全方位”這種思維已是錯的，因為並沒有全方位的思維，講求創意，是想像不到的，不能一網打盡，盡列所有幫助年青人的政策，只可說是盡量提供。 \n 我記得我有一名補習學生，他寫了一篇文章，題目是“我的志願”，而他的志願是成為電車司機。老師看到便罵他沒有大志，還找他的家長來討論，家長回家又教訓他，與親戚一起嘲笑他。不是說職業無分貴賤的嗎？郵差和清道夫不也同樣貢獻社會嗎？原來不是。家長式的思維不是這樣想的，而是要讀大學，當專業人士，找份好工作，買樓、賺錢、結婚、生兒育女、創業、做老闆，今時今日，很多家長的思維都是這樣。政府量度青年政策和青年事務是否成功，都是以這些為指標，例如學業成績、升讀大學比率、就業率和月薪等。這並沒有錯，但我們要再問，究竟香港的青年人是否開心？他們覺得自己所做的事有否意思？ \n 我昨天聽到曾德成局長發言，他的說話並沒有錯，他說要向青年人推廣正面的價值觀，令他們的身心得以全面、健康地發展，而最厲害的便是資助制服團服，每年為10多個制服團體提供協助，2013-2014年度的資助金額高達5,400萬元，共有13萬名青年人受惠。回看整篇演辭，其實在10年前、20年前、30年前都是適用的，但如果任何時候都適用，那即是不太適用了。這些老生常談，家長式，即是叫大家當義工。我便是個很好的例子。我在30歲之前“超乖”，太乖了，品學方面，不談學業，我當過操行長，又當過班長。我在30歲後才學壞，學壞的意思不是打家劫舍、姦淫擄掠那種，而是學懂不盲目服從建制和規律。我以前也是童軍，我現在卻不鼓勵人參加童軍，因為童軍是很建制的課外活動，教大家守秩序，“企定定”，不可亂動，與推“鐵馬”就像是兩個世界的事。 \n 所以，很多議員的修正案，例如我特別留意到陳健波議員的修正案也是那種家長式思維，我不是想判斷對錯，只是想帶出論點。“將精神寄託在健康活動或嗜好上，避免過度沉溺於虛擬網絡，並且教導他們遠離毒品”。但凡談及正面和健康，除了我剛才說的姦淫擄掠和打家劫舍外，很多都是無法定義的，你的健康定義與我的健康定義是不同的。局長鼓勵市民當義工，替人民力量當義工是否健康呢？替學\n民思潮當義工又是否健康呢？如果是，為何學民思潮交請願信給特首也要找警察來阻攔他們呢？當局是否鼓勵青年人要有多元和具創意的思維呢？如果青年人參與社會運動、民主運動，甚或為了普選佔領中環，在你們的世界裏，這些都是不健康和不應鼓勵的。 \n 對置業、創業或讀書方面的協助，我都很有保留。當然，動用資源去幫助他們是好事，但是，我之前已說過，關於置業貸款，政府現時已不敢推出首次置業貸款了，因為那筆貸款會令本來不敢買樓的市民決定買樓，接下“火棒”。本來市民還在猶豫應否買樓，政府借錢給他們買樓，他們便一輩子處於“梗局”，無法改變了，無論僱主多壞也不能轉工。創業也一樣，人人都想開立自己的店鋪和公司，但10個創業者中有9個都失敗，最後借下一身債。 \n 特區政府鼓勵創意，早前我便有一個很好的例子。我在公開大學教書，同學們說日後多開數個電視台可好了，他們要報讀DJ班、影視製作班，有些則雄心勃勃說要到台灣修讀課程，因為台灣有很多電視台，大學開辦很多製作課程。豈料如今不發牌，但他們正修讀課程，他們對我說：“‘慢必Sir’，你一定要爭取開立電視台，否則我畢業回來沒有工作可做。”由此可見，政府說一套、做一套，甚麼創新及科技局、創新基金或電影等，好像很幫忙那般，但整個社會的政策和官式思維都與這些背道而馳。 \n 最後我想說，很多議員也提出向上流動的建議，即幫助青年人向上流動。但大家是否知道，原來現今的青年人不想向上流動，而是想向下流動呢？今天我讀到一篇文章是關於“80後”為了上樓而不要工作，意思是他不想找最好的工作，而只想找一份僅夠糊口，又不超出申請公屋入息上限的工作。有些小夫妻，其中一人寧願辭了工作，另一人則要求老闆減薪或找一份較差的工作，他原本有能力找一份較好的工作，但他寧願選擇一份較差的工作，因為他認為獲派公屋更重要，他日可以找過另一份較好的工作。這種情況實在很扭曲，不是盡量發揮才華去找一份好工作，而是找一份較差的工作，在最應該“搏殺”的那數年，他不去“搏殺”，反而辭工申請公屋。公屋是幫助基層的，他本來屬於中層，現在卻變成基層或裝作基層。這些都是社會上很嚴重的問題，當我們討論青年政策，是不能單獨討論這個議題的。",
+      "sequence": 5,
+      "bookmark": "SP_MB_CCC_00012"
+    },
+    {
+      "title": "馬逢國議員",
+      "content": "主席，首先多謝蔣麗芸議員今天提出這項議案。青年人是社會未來的棟樑，但很可惜和不幸，我們今天看到很多青年人竟然\n是對前景最憂慮、對未來發展最沒有信心的一羣。早前，一項關於青年人快樂指數和對自己前景的調查顯示，超過六成受訪者認為在香港生活並不快樂，有四成七受訪者對個人前景的看法抱消極態度。查究原因，大多與缺乏向上流動的社會階梯及機會、學位貶值、無法一展所長、生活壓力大等有關。 \n 青年人的憂慮並不是憑空想像出來的。事實上，香港在繁榮背後，產業非常單一化，青年人欠缺多元的出路，成功的模範只有金融、地產、醫生和律師等專業。面對單一和擁擠的所謂成功之路，青年人容易產生負面情緒。故此，我們認為應該從不同方面，給予青年人更多支援。 \n 首先，在學業方面，多位在座的同事及部分修正案均要求當局增加資助大專學額，以滿足符合入讀資格的學生對高等教育的需求。我個人也同意這點，過往也曾多次在這個議事堂促請政府落實政策。以上屆文憑試為例，有28 000多名考生考獲入讀大學的資格，但資助學位卻在10多年來仍然維持在15 000個。換言之，有一半合資格的考生被拒諸門外，整體升學率不足兩成。香港作為先進的國際都會，我們對人才培養應有更大的承擔。 \n 同時，當局應就現時的學生貸款計劃作出一些改動，設立境外進修學生貸款計劃，讓有能力但有經濟困難的學生可到境外修讀學位課程，擴闊學生的視野，也為香港培訓熟悉不同地方的人才，並允許到內地或台灣讀書的學生也可以取得貸款。而且，隨着大中華的經濟發展，我們也越來越需要了解和熟悉內地情況的人才。故此，我希望當局能認真地作出這項改革。 \n 在就業方面，很多人批評香港年青一代競爭力不足，在全球經濟一體化和中國崛起的環境下，向上流動的機會不增反減，青年人無法找到合乎期望的工作，工時過長、工資增幅追不上通脹、晉升機會少，令部分人變得消極，又或埋怨政府、僱主，漸漸形成對立、矛盾的態度。事實上，青年人的憂慮和期望是可以理解的。我過去曾多次強調，當局必須解決經濟產業結構及教育課程單一化的惡性循環，讓學生可在選科和就業出路上有更多選擇。 \n 曾幾何時，上屆政府曾滿懷雄心壯志地表示要發展六大優勢產業。可惜歷年來，產業政策仍然不完整，流於東拼西湊，甚至是畫餅充饑。例如在文化產業政策上，多年來，只看到政府推出了“創意香\n港”、電影發展局、設計中心、動漫中心等，從有限的空間資源及少量的經濟資源着手，卻看不到一整套產業政策，在人力資源、財政資源及政策資源上，作出適當和有力的配合。零碎和分割，以及小打小鬧的支援政策，仍然令很多有志投身不同行業的青年人無所適從。 \n 主席，我們年紀稍長的一代，當時即使學業成績未如理想，父母很多時也會以“行行出狀元”來鼓勵我們，只要願意努力，想買樓和養妻活兒應不成問題。但是，現今的一代，父母從小孩出生開始便要催谷他們，讀書時要選商科，畢業後要從事金融地產業，漸漸地青年人好像倒模出來般，大家沒有靈魂地追求一份社會認同的工作，再不是各展所長，選擇適合自己的職業。 \n 我記得傳媒去年報道一名成績很好的尖子，甘願捨棄會計師樓的高薪厚職，轉行駕駛巴士。當時有很多人稱讚這位青年人勇於追尋夢想，但老實說，有多少青年人或父母願意冒這種風險呢？我看到或遇到不少對體育和藝術文化有潛質的青年人，便是因為社會氣氛的影響，放棄他們的理想，投入其他有前途的行業。我認為當局應牽頭打破舊有的思維，除金融、服務業和一般專業外，也要推廣開拓不同的工種，鼓勵青年人按自己的長處選擇職業。 \n 主席，另一個重要方面便是品格。我們希望培養下一代成為才德兼備和有用的年青一羣。在中國人的傳統思維中，“德”遠較“才”重要。但是，時移勢易，不少父母以至學校，都只着重學業成績，培養子女、學生的競爭能力，卻忽視品德教育的重要性。久而久之，新一代成為讀書考試的機器，不懂與人相處，也不懂面對逆境，缺乏責任感，對社會的人和事提不起勁，常被批評為“高分低能”。學校、家長和社會有責任扶持青年人，協助他們建立正確的價值觀，培養健全的人格。例如在過去數年，我參與籌辦大學生軍事生活體驗營，正正是希望青年人能藉軍事訓練，磨練意志、開闊視野和塑造人格，可惜仍不獲政府一分的資助。 \n 主席，我相信每個青年人也是一個獨立個體，社會應給予他們適當的栽培和機會，讓他們建立正確的價值觀，培養不同的興趣，各展所長。而政府除了加強“生涯規劃”的教育，更重要的是建立多元的產業發展，讓青年人有發揮所長、學以致用的機會。 \n 我謹此陳辭。多謝主席。",
+      "sequence": 6,
+      "bookmark": "SP_MB_MFK_00013"
+    },
+    {
+      "title": "MS CLAUDIA MO",
+      "content": "While talking about this grand topic of helping our young on all fronts, I do wonder, seriously wonder, how many people in this Council would actually think of our ethnic minority young?  They are just as Hong Kong as any of us.  For many of them, their families have been here for generations, a hundred years, three consecutive generations.  We all care about how many of our students can get into universities, but how many of us are caring about how many ethnic minority students can get into our local universities?  Could not care less, right?  They are somehow foreign, right? \n I was not going to speak on this particular motion.  I thought it was going to be all hullabaloo.  You can talk all the sweet talk.  It is all phony.  If we do not work on any of the policies suggested, or seriously consider what the Members of this Council have to say, then forget it.  Stop wasting time. \n Our ethnic minority young face a lot of inequalities.  Let us be honest about it.  In many cases, they face unfairness, even injustices.  I was very upset yesterday when I came across this apparently exclusive report in the Ming Pao. The headline says ethnic minorities fight for having Chinese taught as a second language, but sources say the Government would only set up career Chinese training.  Excuse me, what is it about? \n President, I actually talked with the Secretary for Education not too long ago about this ethnic minority demand on the language front.  We all learn English, supposedly, at least as a second language.  It is a complete failure on that front too, but I have no time for that today.  Never mind.  But then, why should ethnic minorities not learn Chinese properly as a second language? \n I hope the Secretary for Education would say it is a misunderstanding, the report is not quite right, it has quoted the wrong sources.  Apparently, Secretary, you or your representative have been telling the ethnic minority community that within the framework of Chinese as a second language ― I hope it is a policy ― you would be doing a bit more, including strengthening assistance to our ethnic minority students who are learning Chinese and you would be setting up assessment mechanisms.  I do not know what assistance you provide at the moment, but well, I thought that is good news.  Also, you said you would be subventing local teachers who are willing to get more professional training to become teachers who would be teaching Chinese as a second language. \n Those are all good news.  But, no, as the news report says first of all, all of the above are not sure.  It is not clear if they have been included in the policy paper.  Secondly, sources say as of now, the Government would only do one thing, and that is, to set up career Chinese training programmes.  Excuse me? Another year of studies, consultation, consideration?  If that is really the case, how could you? \n I know many people would say alright, if we are not teaching ethnic minority students Chinese good enough, let us do better, let us teach better, that is all.  That is indifference, and indifference is the worst form of discrimination. They are an excluded group of people.  They are very different.  We have special measures for them.  With regard to ethnic differences, how do we answer to not just questions, but accusations like that? \n After completing their secondary education, all of our ethnic minority students should supposedly have learnt quite a bit of Chinese, but they know their Chinese level could be as low as Primary Two or Primary One.  Secretary, I know you of course have a lot to do, and I am not putting any personal blame on you.  However, we cannot drag on and on like this.  You told me there should be good news and I would be happy if I can hear that by the middle of January. If this report in yesterday\u0027s Ming Pao is real, I would practically accuse you of lying, and this is just not right.  Nowadays, every Member in this Council keeps talking about the need for fair starting lines for our young, but our ethnic minority students do not even have a starting line. \n Thank you.",
+      "sequence": 7,
+      "bookmark": "SP_MB_CM_00014"
+    },
+    {
+      "title": "吳亮星議員",
+      "content": "主席，青年經過學習知識及積累經驗，成長後亦可為社會的持續發展提供生產動力，因此社會未來的棟樑亦是一羣年青人。在香港，社會老齡化的步伐正在加快，青年人對未來的承擔將會逐步提升。本港經過一段時間的增長發展後，現時正面臨競爭力下降的挑戰。今天討論協助未來社會支撐力的可持續發展，確實有非常急切的需要。 \n 青年人的成長階梯，即從接受基礎教育開始；完成中學後，一般便要面對升讀大專或就業問題；及後投身社會開展職業生涯，亦要通\n過職業培訓提升工作技巧、技能，甚或創建個人事業，繼而亦會成立自己的家庭。青年人的發展，涉及學業、就業、住屋置業和創業問題，而就這“四業”問題，本會不應只是關注，更需要促進，使其全方位得到協助。 \n 就全方位協助青年人發展，政府擔當着主導角色，制訂適切的青年政策，訂定措施，鼓勵、支援全社會，包括家長、學校、青年團體、志願機構以至商業機構等共同努力，以達致社會未來的目標。青年人的發展，以教育最為重要，學校可培養學生德、智、體、羣、美五育並重。在校內的學習和培養有關的興趣以外，政府亦有責任讓青年人認識社會、國家和民族，拓展國際視野，給予適當的職業初階接觸，如通過義工活動、參加制服團體服務和參觀社會企業等，藉以認識一個比較全面真實的社會，為投入職場作準備。我工作的金融機構，就不時舉辦中學生參觀交流活動，讓學生認識香港金融發展，向銀行前線員工了解行業運作及職業生涯的情況。同時，政府亦需增加專上教育學額，提高學生接受高等教育的機會。 \n 就業方面，根據政府統計處的資料，今年第三季的整體失業率為3.3%，這是一個職位非常充分的就業環境。然而，15至19歲青年羣組失業率竟然為14.9%，如包括就業不足的青少年，比率更高達17%以上，而20至24歲青年失業率亦長期維持在8%以上。這顯示學歷較低、無工作經驗或經驗尚淺的青年人，似乎難於投入勞動市場；情況若未能及時改善，將帶來更多社會問題。 \n 主席，現時政府、志願組織、慈善團體及商業機構等，對青年人的發展都有提供不同程度的支援，方向是正確的。至於面對跨代貧窮問題，特區政府獲得立法會通過撥款3億元推出“兒童發展基金”計劃，以結合社會及商界的資源，為弱勢社羣青少年的長遠發展提供支援。計劃內容有“目標儲蓄”、“師友配對”和“個人發展規劃”3個主要元素，以扶助兒童提升管理資源和規劃未來的能力，長遠有助他們脫貧，方便他們工作。此外，就協助青年人提升知識、技能，發揮潛能，融入社會方面，勞工處的“展翅青見計劃”、僱員再培訓局的“青年培育計劃”，以及職業訓練局的“見習員訓練計劃”等，都在某程度上起着正面的促進作用。 \n 當然，全方位協助青年人的發展，是一項非常龐大的工程，需要官、商、民全社會共同協作，投入巨大資源與力量，方式、方法、技\n巧、措施，方方面面都應有待提高。作為主角的青年人，更須培養信心，建立正確價值觀和人生觀，努力爭取成為真正的未來社會主人翁。 \n 主席，我謹此陳辭。",
+      "sequence": 8,
+      "bookmark": "SP_MB_NLS_00015"
+    },
+    {
+      "title": "陳克勤議員",
+      "content": "主席，在過去數年，我不時接受一些學校和青年人團體邀請，跟青年人交流和分享經驗。我有時候會詢問青年人未來想做甚麼及有甚麼理想，但可惜的是，我得到的答案一般是“不知道”或“沒有想過”等。 \n 我認為，這並非好現象。首先，青年人缺乏或不清楚自己的前途或發展方向及目標，便會感到非常不踏實及彷徨不安，精神壓力不言而喻。對於社會而言，青年人未能發揮所長，便會推高青年人的失業率，也會浪費投放在他們身上的社會資源，虛耗社會人力資源。 \n 我在2012年曾提出一項關於青年人“四業”的議案，促請政府集中火力，在學業、就業、住屋置業及創業4方面制訂政策，幫助青年人。我當然明白，政府就青年人的工作並非一、兩年便可以有成效，而我也看見新政府自上場以來，在住屋置業和創業方面已下了一番工夫，但在另外兩方面，即學業和就業方面，政府仍然沒有新想法來幫助青年人。蔣麗芸議員今天的議案重點提及“生涯規劃”，便正正觸及我關注的學業和就業兩方面。 \n 香港不少家長抱持一種偏見，便是只有讀書不成的學生才會學習職業技能。不過，這種觀念其實已經過時。我感到很奇怪，香港是世界上先進的城市，為何家長的觀念仍然如此守舊呢？我認為原因之一，是香港的教育促成這種觀念。舉例而言，在新高中課程當中，“應用學習”課程並非必修課程，學生能否畢業，主要仍然視乎核心科目的成績，導致學生仍然將大部分時間放在中、英、數等核心科目上。如是者，現時的情況跟推行改革前的情況有何不同呢？ \n 至於所謂的“OLE”  即“其他學習經歷”  雖然看似富有彈性，可讓學生嘗試不同事情，亦希望學生藉此學習其他不同的知識，但課程的目的和焦點過於分散，如果局長希望達致“一石五鳥”的效果，最終可能連一隻鳥兒亦不能擊中，浪費彈藥。 \n 既然如此，我認為教育局和勞工及福利局應該繼續檢討和研究在中學階段讓學生多接觸外面的真實世界，接觸職場。具體而言，政府能否帶動本地各行各業的企業和機構，為學生提供實習機會呢？如果可以的話，學生固然得益，而企業其實亦盡了其社會責任，回饋社會，一舉兩得。 \n 我這項建議在西方國家其實實行已久。加拿大卑詩省教育部一份名為“CAPP”的中學課程內容介紹載有一項要求，便是學生在中學階段最後兩年必須完成最少30小時的工作經驗，才可以畢業。他們的要求清楚而明確，便是工作經驗並非學習以外的其他經歷。他們的做法，是每所中學設有專人負責聯絡機構和公司，因應學生的志趣，推薦學生參與義務實習。雖然是義務實習，但學生仍然要經過正式的招聘過程(包括填寫履歷表及面試等)，而犯錯同樣會被上司責罵，猶如身處真正的職場。 \n 我認為一定要如此逼真，才能夠達到原議案所說的“協助青年人了解自己的興趣、志向與能力”。由於現時的“其他學習經歷”似乎未能達到這種效果，因此我認為局長有必要投放更多資源，並進行研究，審視能否再作改善。 \n 另一方面，想繼續升學的學生亦面對不少困難。最大的困難，當然是大學學額不足和學費高昂。所以，我促請局長增加自資專上獎學金計劃的名額，鼓勵更多力爭上游的學生獲取好成績，繼續在學業上更進一步。 \n 同時，政府也需要增加資助副學位銜接學額，讓更多副學位畢業生入讀資助學位課程，並優化學生資助計劃安排，容許本地的助學金、貸款及資助適用於內地大學，為學生開闢更多升學途徑，讓他們可以順利完成大學學位課程。至於學生貸款方面，我建議政府容許學生在畢業1年後才開始償還，以紓緩畢業生的財政負擔。 \n 主席，子曰：“後生可畏，焉知來者之不如今也”。既然古人已有這種眼光，我們在幫助青年人方面便更無理由鬆懈。要幫助青年人，政府不能彷如“虎媽”般管束他們，反而要創造一個有利青年人發展的環境，在他們起步時扶他們一把，政府對此責無旁貸。我希望政府繼續推出青年人政策，關注青年人學業、就業、住屋置業和創業的“四業”問題。 \n 我謹此陳辭。",
+      "sequence": 9,
+      "bookmark": "SP_MB_CHK_00016"
+    },
+    {
+      "title": "陳婉嫻議員",
+      "content": "社會發展的大方向，應該是設立一個“無牆”的社會。然而，我們看到現時的青少年好像每條路也不通，各方面也有一幅、一幅的牆壁堵塞着他們上進的路。在住屋方面，青年人分配不到公屋，找不到居住的地方，買私樓則更為困難；在工作方面，選擇有限，可以說是少得很可憐；在讀書方面，全香港只有18%的學生能夠入讀大學。至於就業方面，青少年的失業率特別高，在2013年第三季，15歲至19歲青少年的失業率高達14.9%，20歲至24歲的失業率是10.9%，25歲至29歲的是3.8%，但同期的整體失業率只有3.5%，由此可見，青年人的失業率特別高，尤以24歲以下的羣組為然。 \n 很多人都指責青年人不能捱苦，所以才找不到工作。不過，我們也要看清楚實際的情況。新一代的青少年有創意、有“諗頭”，但香港的職業選擇並不多，香港的產業只有金融相關行業獨盛，青少年最多從事的不外乎是飲食業。但是，飲食業的工時長，僱主為了應付租金開支而減少聘請人手，造成僱員的工作量跟工資不成比例，尤其是中式的餐飲業，因為條件和待遇均欠佳，所以甚少青年人入行。青少年喜歡加入日式或韓式的新式食肆工作，因為地方乾淨，工作沒有那麼辛苦，而且能讓他們做一些他們喜歡做的事。現在快要到農曆年年底了，現時很多酒樓在過時過節也要職員推銷糕點，很多時候我出外吃飯便會聽到職員抱怨說：“‘嫻姐’，糕點賣不出便要自己吃了”。我覺得有時候年輕人的壓力也頗大，薪酬亦不足以支付糕點錢。 \n 此外，最近零售業工會相繼開了幾次記者招待會，指出零售行業有很多青年人入行，2014年有14.6%的零售業僱員介乎15歲至24歲，另有30%介乎25歲至34歲。與飲食業相若，兩個年齡組別合共約有40%，所以大家不要埋怨青年人不做事，這兩個行業各有40%的青年從業員。青年願意投身零售業，但零售業的待遇如何呢？根本不好，在高租金下，僱員薪酬不高，但工作時間卻很長，而且往往是朝11晚11。大家別忘了，零售業在開店前要點貨、上架，下班後要打掃店面，而完成這些過程往往超過12小時。不單如此，開店、關店的工作並不計算在工時之內，即不計薪酬，嚴格而言便是明目張膽地剝削員工。大家如果不相信，可以到一些熟悉的連鎖店看看，這些情況比比皆是。 \n 在這樣的工作條件下，不少青年人都失去了進修的時間。但是，除了金融、飲食和零售業外，香港還有甚麼行業？讓我把範疇再擴闊一點，可否選擇耕田、創意或藝術工作呢？不是不可以，但真的很困難，最重要的是沒有政策支援、缺乏地方，以及租金昂貴。就以工廠\n大廈的活化翻新計劃為例，政府完全沒有考慮如何保留原本已經存在於工廈的創意產業，一個又一個的工廈活化計劃都變成地產項目，結果令本來長駐在工廠大廈的文化藝術工作者反而被迫遷，現時仍有這些情況。我很想說的是，本來是留給創意產業的東西，偏偏卻在政策制訂過程中變成地產項目，大家說這是多麼可笑。 \n 反觀北京、上海和深圳等地都有劃定一定的區域專供從事藝術的人使用。我們看看歷史悠久的北京798藝術區，那裏畫廊、工作室和咖啡室林立，早年被國際推崇為北京一個重要的文化地標。再看看另外一個地方，上海的紅坊國際公共文化藝術社區本身是上海鋼鐵十廠，現時那裏有藝術展覽館、畫廊、設計機構和企業、時裝店和咖啡店等眾多文化藝術元素。有朋友知道我關心創意產業，最近再邀我前往上海，因為當地還有更多地方值得參觀。 \n 我們看過這些地方後再反觀香港，一個又一個富有本土特色的社區經濟正在不斷消失，換來的只是大商場、連鎖店。商場內的店鋪品牌全部一式一樣，就連商場設計都是大同小異，這種環境又如何孕育創意，如何發展創意產業呢？香港有很多傳統特色的工作，青年人學業不佳也不要緊，可以從事例如花炮製作、製作舞龍和舞獅、手製蒸籠、扎燈籠、製作豬籠餅等工作，甚至磨刀和磨鏟也有年輕人喜歡做，因為這些始終是很有趣的手藝。如果大家不相信，可以到上海街看看。 \n 這些手藝隨着時代變遷，逐漸式微。在式微的過程當中，坦白說，從業員是想繼續做下去的，老闆有生意做，工人也有工作，但問題是面對拆遷，在整個重建過程中，他們變得逐步式微。政府應開設手工藝術培訓計劃，提供場地和培訓，讓有興趣的青年人學習傳統手工業，將之承傳下去。工聯會將會進行這工程，對於想繼續承傳但所處場地遭政府拆卸，或被迫遷到高租金地方的各行各業，我們想進行一個工程，我不知道最後會否成功，因為這需要很多政府部門合作。 \n 我還想多談一點，就是現時不論天橋底或新發展區，也應該先撥出地方給零售、飲食以外的行業發展，例如農業、創意工業和開發藝術創作等。最重要的是租金要便宜，地方要充裕，否則高昂的租金會妨礙入行，而地方狹小則積聚不到羣體效應。 \n 如果大家還記得，在SARS前後香港的景況最為困難，當時我們曾經舉辦過騰龍墟，開設了300多個攤檔。我們做了一個樣板給政府和民政事務局，我不知道民政事務局後來如何處理，只知道最後交由\n另一個NGO舉辦，當中只有60個攤檔。但是，跟300多個攤檔比較，這60個攤檔是完全起不到效應的。本土文化經濟、創意產業、廟會文化，有哪一樣能做出成果呢？政府做事總是在“團團轉，菊花園”，導致今天青年人的就業仍然是一個大問題。 \n 主席，謹此陳辭。",
+      "sequence": 10,
+      "bookmark": "SP_MB_CYH_00017"
+    },
+    {
+      "title": "鍾國斌議員",
+      "content": "主席，今天很多議員都表示要在教育方面多投放資源、增加培訓，或給予青年人找到工作的機會。但是，我今天就協助青年人發展所提出的意見則有點不同，我會就自己所屬的界別發言，即紡織及製衣界別。 \n 現在從事時裝行業的青年人當中，很多都是年輕設計師，他們有學歷、有自己的理想，亦知道未來的方向應如何走，要找到工作不是很困難。在大學修讀時裝設計的學生，畢業後差不多是百分之一百就業的。但是，他們經常向我們表示有點懷才不遇或力不從心的感覺。為甚麼會這樣呢？ \n 這是因為他們覺得自己讀了這麼多書  有些甚至是在外國的著名時裝設計學院畢業，例如倫敦的Central Saint Martins或New York的Parsons School of Design等，也有些曾在很多外國比賽中獲獎  但回到香港後，卻覺得自己的才能好像用不着，因而產生剛才所說的懷才不遇的感覺。那麼，究竟是不是沒有發展機會呢？實際上不是。他們經常問我，究竟政府有否做過甚麼實質的工作幫助年輕設計師發展呢？當然是有的，例如在下星期，貿易發展局每年的春季時裝節便開始，亦有很大型的時裝表演和比賽。有些學生在比賽中得到冠軍後，當然感到很高興，但卻不知道下一步該如何做。 \n 現在的問題是，正如剛才很多同事提到，香港不應單單依靠一、兩個產業。大家都認同香港要發展創意產業，而這羣年輕設計師是百分之一百可以領導創意產業的人才，但為何他們會感到意興闌珊呢？ \n 我們覺得，如果要發展創意產業，首先便要選定一個行業。時裝產業有大量人才，正如我剛才所說，不單有本地畢業生，還有從外國著名大學畢業回來的人才，本港的紡織製衣行業基礎亦打得十分好，正處於需要轉型的時候。此外，我們更不用擔憂市場，單單香港、東南亞和大陸等市場，便可帶來充足的生意來源。在這方面，南韓絕對\n是一個成功例子，南韓在短短10年間可以做到的，為何香港齊備各項元素還做不到呢？ \n 最近，約一個月前，蘇局長和曾局長的助手許曉暉副局長參與了一個時裝表演，甚至親身做model，認識了很多年輕設計師，他們覺得這羣青年人很有心在這行發展。蘇局長和許曉暉副局長都覺得這個行業是可以發展的。此外，在一個月前，我給了蘇局長一份計劃書，如果兩位局長不介意的話，我也想給他們看一看，當中提出如何可以幫助年輕設計師。 \n 我昨天到尖沙咀一個大型的商場，跟一位有能力自己開了四、五間店鋪的本地年輕設計師會面。他在英國畢業，現時正面對的問題是租金忽然飆升得很厲害。其實我覺得他已經很本事，因為即使每個月要繳交15萬元租金  只是其中一個鋪位的租金  他仍然可以生存、繼續經營下去，可見他是有生意的。所以，如果香港未來要發展一個產業，我覺得創意時裝產業絕對可以作為一個起步點。如果這個模式可以成功的話，實際上，其他行業都可以仿效。 \n 就此，我希望政府可以做到兩點。第一是成立一個創意、創業發展基金，讓一些有好的創意的青年人......當然，他們找工作沒有困難，但很多年輕設計師的夢想是擁有自己的品牌、自己的店鋪。所以，如果有這種基金可以扶他們一把的話，我相信未來的發展氣氛一定會很好。 \n 第二，我希望政府可以提供一個孕育創意的平台。這個平台當然不是教他們如何做生意，而是給他們機會嘗試。這個平台可以讓業界不同人士在當中找到一些有潛質的青年人，跟他們一起合作，甚至發展一些自家品牌及設計創意。 \n 我覺得今天蘇局長亦應該在席，因為除了協助青年人發展創意產業之外，政府當局還需要知道該如何幫助他們，我覺得這是必要的。 \n 多謝主席，我謹此陳辭。",
+      "sequence": 11,
+      "bookmark": "SP_MB_CKPA_00018"
+    },
+    {
+      "title": "MR ABRAHAM SHEK",
+      "content": "President, the Chinese New Year is just round the corner.  The biggest present the Government owes our young people is support and care to lead them out of their miseries, particularly their education, jobs, and \nhousing woes.  In fact, these are not disparate problems, but different facets of the inadequacies of government policies as a whole. \n With few possibilities for social advancement, young people feel aggrieved as they neither see any light at the end of the tunnel, nor harbour any hope for their future.  Their sufferings begin with education.  While well-off families can arrange for their children to study in international schools or abroad ― as many government officials do ― casting a vote of no confidence in Hong Kong\u0027s education system, the majority of children from ordinary families have no option but to stay in a system that is teeming with capricious reforms, putting them at a marked disadvantage to other children right from the start. \n Worse still, even if these children make it through the public examinations, many of them will be barred from entering university due to the lamentable university enrolment rate, which stands at around 18% each year ― making a mockery of the former Chief Executive Mr TUNG\u0027s ambitious plan, announced in his 2000 Policy Address, of achieving a 60% tertiary education popularization rate within 10 years to serve our knowledge-based economy.  The Government has taken a false roundabout route to achieving that misconceived goal with a laissez-faire policy of self-financed sub-degree programmes that lack regulatory oversight and quality control.  As a result, many of these sub-degree graduates end up finding themselves badly in debt, as well as failing to live up to the expectations of Hong Kong\u0027s demanding employers.  They went into the system with hope and enthusiasm, but left the system with neither.  \n President, to rectify our education woes, the Government must ensure that every child, regardless of background or ethnicity, receives a quality education on an equal footing.  Fifteen years of free education and small class teaching across the board should be implemented as quickly as possible.  A tailor-made Chinese curriculum for the non-Chinese speaking students ― which is long overdue ― must be provided to help ethnic minorities overcome the Chinese language barrier.  They deserve better than just being security guards, construction workers, or practitioners of offensive trades.  They, too, should have equal opportunities to develop their careers and further their studies with dignity for social advancement.   \n While I share the view that the number of publicly-funded undergraduate places needs to be increased to allow more people to receive a university education, the Government should provide a clear vision to young people about where a university education will lead them.  Take the Postgraduate Certificate in Laws (PCLL) as an example.  Only around 45% of the local students are admitted to the PCLL programme each year; a majority of local law graduates are denied access by the three great universities to the PCLL programme after three or four years of training.  They encourage them to go into the system but deny them the chance of even entering a profession which they deserve.  Even if they want to be lawyers, they will not be given a chance to sit for the examination to become qualified legal professionals.  I strongly urge the Government to look into the present system of allowing these three universities to play God and decide who should enter the kingdom of the legal profession, and also to expedite the review being conducted by the Standing Committee on Legal Education and Training with a view to mapping out favourable changes in the present system of legal education and training in Hong Kong that would create a win-win situation to both the legal sector and local law graduates.  \n On the jobs front, it is clear that there is an education-occupation mismatch for the young people and almost non-existent income growth for young people. According to the Census, the median income of people aged between 15 and 24 was only $8,000 in 2011 ― the same figure as in 2001 ― despite rising educational attainment during the same period, with the percentage of those receiving post-secondary education surging from 19.5% in 2001 to 39.3% in 2011.  Clearly, the unchanged income level of young people ― which has failed even to keep pace with inflation ― is a de facto penalty for over-education.  \n One of the very reasons for this deplorable situation could be the lack of progress in promoting Hong Kong\u0027s economic restructuring.  The Chief Executive announced in his maiden policy address that he would set up an Economic Development Commission, but a year has passed and no notable achievements have been seen.  In fact, the legacy of the Task Force on Economic Challenges ― to develop six industries where Hong Kong enjoys clear advantages to diversify our economy ― announced in 2009 still remains merely academic.  The Government must refrain from bureaucratic indecisiveness and instead deal with this mismatch pragmatically via concrete action.  Our young people are in dire need of support to explore the blue ocean of the market.  We \nmust create an environment conducive to nurturing our budding Steve JOBS and Bill GATES.(The buzzer sounded)  \n Thank you.",
+      "sequence": 12,
+      "bookmark": "SP_MB_AS_00019"
+    },
+    {
+      "title": "莫乃光議員",
+      "content": "主席，首先，我感謝蔣麗芸議員提出這項“全方位協助青年人發展”的議案。 \n 我本來已擬備一份講稿，但後來我認為我的發言似乎不應該予人一種只談資訊科技的感覺，彷如將資訊科技視為“萬能key”，每次皆只談資訊科技，而且，由於這次辯論很特別，多位同事皆提到資訊科技如何協助青年人及改變他們的生活，因此我認為無需再加詳談，反而想談談一些較廣闊的問題。 \n 對於如何全方位協助青年人，多位同事的修正案均涵蓋很廣闊的範圍，郭偉强議員更提出22點建議之多。有人跟我說笑道：“玩blackjack便已‘爆煲’  22點”。我知道梁繼昌議員很怕如此長的修正案。我有時候心想，修正案的用途是否如此呢？但是，當中確實載有多項具體建議。 \n 對於如何協助青年人，我想先問一個問題：青年人是否真的需要協助呢？向青年人提供支援，凡事協助他們，帶領他們走上某條道路，這種思維其實能否協助他們呢？如果大家一天到晚談論類似的事情，而他們在電視上又經常看到我們討論如何協助他們，便會導致一種結果：青年人  尤其是修讀大學的青年人  亦只會一天到晚想着輪候公屋。 \n 數天前，我在電視上看到一名受訪的青年人表示，他看到別人輪候公屋，因此照做如儀，以免輸蝕。這是甚麼的青年人心態呢？我很喜歡Sting的一首歌，名為“If you love somebody set them free”。意思是，如果你愛他們，便要放開他們，給他們自由，釋放他們。下一步是讓他們發夢，追求夢想。 \n 看到這項議案的標題時，我心想：“要協助青年人，便要將‘怪獸家長’全都抓起來。”張國柱議員昨晚聽到我說出這番話時便嘲笑我，叫我不要說類似的話，否則會得罪家長及中產選民。不過，我相信“怪獸家長”其實知道他們的做法是不對的，只是他們不理會。 \n 我數天前跟任職IT公司的朋友午膳，大家談到青年人的工作態度。我問他是否真的有母親陪伴青年人見工，他回答“沒有”，但卻有很多母親替自己的年輕子女辭職，因為子女放工時已經很晚，工作亦太辛苦。雖然他們辭職前賺取二、三萬元月薪，但他們的母親卻表示工作太辛苦了。 \n 在讀到蔣麗芸議員的原議案最後一句  “以助青年人更有信心和踏實地建立美好的人生”  時，我覺得讓青年人更有信心是對的，因為如果他們更有信心，便可以追求夢想及理想。不過，我卻不太明白她“踏實”的意思。首先，何謂“不踏實”呢？青年人在年輕時不嘗試不踏實，難道要彷如我們般，在50歲時才思考如何不踏實嗎？青年人在年輕時不輕狂，便真的是“枉少年”了。 \n 雖然我不反對多位議員在修正案中提出  正如何秀蘭議員所形容  鉅細無遺的建議，但這種協助青年人的思維，正如陳志全議員剛才所形容般，恐怕是“家長式做法”。這種思維非但不能協助青年人，甚至可能會害苦他們。 \n 主席，我早前曾出席一項由一間跨國軟件公司舉辦名為“Girls Bark”的活動，有數十名女大學生參與。該活動旨在協助女大學生投身女性人數較少的行業，例如科技業。李慧琼議員也有出席活動，分享經驗。有女同學向我指出，香港的創意產業支援十分不足，落後其他國家。當然，我亦經常提及這問題，但卻是另一回事。我有時候會想，青年人是否一定要這樣看待事情呢？我經常提及這問題，是為了推動政府做得更好，但如果青年人也有這種想法......我回答該名女同學，說道：“雖然香港有地方需要改善，但你又是否知道現時從不同地方(包括東歐國家、美國、日本，甚至非洲國家)來港創業的人士皆認為香港的環境很好，而香港所提供的支援甚至比他們本國還好呢？”。 \n 我今天並非倒戈讚賞政府凡事皆做得好，但如果議員在此只是作出小修小補而無推動政府制訂整體政策，然後吹噓自己又“成功爭取”某事，其實是無用的。 \n 我最認同梁繼昌議員的修正案，特別是當中提到的“推動多元化的經濟發展”。剛才有多位議員亦指出，所謂“多元化的經濟發展”，並非要青年人只着眼於金融業或地產業的發展，然後踏實地輪候入住公屋。要是如此，香港的競爭力當然會下跌，無需多說。 \n 在這次“Girls Bark”的活動中，一名20多歲獲獎的女創業家表示，她的同輩全都投身i-bank(投資銀行)或顧問公司，學業成績優秀的學生全皆如是。可幸的是，她在投資銀行工作3年後便辭職創業，辦教育，因為她喜歡教導小朋友。不過，學業成績稍遜或欠佳的青年人全都在輪候公屋及福利。面對這種情況，試問香港社會怎麼會有競爭力呢？ \n 我今天不想與大家辯論上述各項議題，因為各項議題皆可成為一項獨立的議案。整體而言，要讓香港得以發展，要讓青年人有希望，要讓香港有希望，大家在處理問題時便要放棄這種思維。 \n 我希望藉着這項議案辯論指出，香港的思維要改變，要放過青年人，給他們一條生路，給他們自由，給他們一個好的發展環境，讓經濟真的能向他們提供發展的機會。 \n 多謝主席。",
+      "sequence": 13,
+      "bookmark": "SP_MB_CPM_00020"
+    },
+    {
+      "title": "梁家傑議員",
+      "content": "主席，公民黨在提交特首的施政報告建議書中，提出要求當局立刻開展一項有關青年人在社會面對的困難的綜合研究，並因應研究結果及公眾參與提出新的青年政策。 \n 主席，我們提出這項建議的原因，是因為我們觀察到現時香港的青年人實在看不到甚麼希望。目前，20多歲青年人的收入很低，即使具大學學歷，入職薪金也只得每月9,000元至12,000元不等。有些人即使在職場打滾10年，薪金水平也沒有多大提升，可能只徘徊於2萬元的範圍。 \n 香港產業單一化，實在看不出他們究竟如何能發揮一己潛能和創意。很多青年人對個人前景的看法是，即使活到四、五十歲，他們的生活也可能與現在沒有兩樣，亦因而產生了很多看不到前景和希望的沮喪之感。我亦可以告訴政府，為何在現正進行的政制改革中，有那麼多青年人勇於發言，挺身爭取一個理想國度呢？正因為他們是這個制度的受害者，而且會一輩子受害。 \n 主席，關於今天這項議題，我聽到很多同事都說要放過青年人，我對此深表同意。由於時間所限，我無法在發言中涉獵太多，但其中\n一個我很希望立此存照的題目，就是我們的教育制度實在令人極感沮喪。問題不僅在於制度本身十分僵化，還在於教育內容不能讓未來新一代為如何立足於天地之間、就應該如何行事作出判斷而做好準備。我提出這個角度，可能會把今天這項議題擴得太闊，提升得太高，但我不會為此道歉，因為我認為如要在最大程度上幫助青年人發展，便必須從根本着手。 \n 主席，何謂根本呢？我十分鼓勵青年人多欣賞文學藝術，多涉獵哲學，還要讀通歷史。有一項研究指出，在30年後存在於世上的職位之中，有60%是今天仍未出現的，所以，如果現在教導他們一些十分資料性或技術性的東西，將來可能會用不着。但是，如果青年人能從文學、藝術方面看出某些表徵背後的事物、理由，懂得欣賞隱藏於表面的背後價值，我相信他們定會一生受惠。 \n 文學藝術固然有此作用，但哲學亦十分重要，因為現今世上種種事情，從表面看根本無法從迷宮中找到方向，但哲學家卻往往像在迷宮中仰望天空星斗一樣，能幫助我們找到走出迷宮的路徑。歷史則更加清楚，我們似乎只懂得說前事不忘後事之師，但很多時卻不能從歷史之中反省。很多現在目睹的現況，其實並非孤立存在，而必定有其因果和淵源。 \n 主席，我十分希望以這7分鐘發言時間，向現時在席的吳克儉局長指出，文史哲科目現已越來越受到忽視，連大學的文史哲科目也越來越少，這是令我十分擔憂的現象。我十分希望吳局長在聆聽我的發言後，能真正為我們的青年人想一想，如何能重新確認文史哲教育在培養青年人成材的過程中的重要位置。 \n 我謹此陳辭。",
+      "sequence": 14,
+      "bookmark": "SP_MB_LKK_00021"
+    },
+    {
+      "title": "黃毓民議員",
+      "content": "主席，在2012年11月有關“關注青年人面對的學業、就業、住屋置業和創業問題”的議案辯論中，我曾在發言稿中提出一種說法，並以“人本生而自由，卻處處都是枷鎖”為題，指出香港不公義的政治和經濟制度，實限制了年青人的發揮。教育為資本服務，學生甫畢業踏出校門，便已背負一身債務，若不是要清還學生資助辦事處的貸款，便是不小心“碌爆”了兩張信用卡，要還錢還到30歲，所得工資卻只有萬多元。即使能找到工作，他們也會被生活壓迫得透不過氣\n來。部分年青人關心社會，參與社會運動捍衞公義，卻又遭到建制人士抹黑、打擊，被警察“拉人封艇”。 \n 上年度的議案由民建聯動議，正如其主席剛才所說，年青人是國家的棟樑，這句話誰不會說？正如說兒童是未來的主人翁，說了又如何？這些其實只是套語，而現時的教育制度卻完全無法解決問題。局長現時在席，我們的教育制度是要成就知識，亦要成就人格。但是，在一個資本主義社會，講求功能性思考的社會中，讀書是為了考試，考試成績優秀才可找到好的工作，僅此而已。這是中國封建科舉制度，主張“學而優則仕”的遺毒，但中國也曾有智者提出，讀書人要“為天地立心，為生民立命，為往聖繼絕學，為萬世開太平”。試問今天有多少大學生，懷有張橫渠所說的這種“為天地立心，為生民立命，為往聖繼絕學，為萬世開太平”的抱負呢？沒有，因為他們所讀的書不會成就其人格，只會教導他們不要輸在起跑線。 \n 根據近日一則網上信息，在德國的教育政策下，未滿6歲的孩子並不需要學習些甚麼，小學則對不同年紀的孩子進行混合教育。他們奉行的是自由教育，而有半數諾貝爾獎項是由德國人取得的。我們的教育制度真的很有問題，正所謂“三歲定八十”，3歲孩兒要學習兩文三語，還要學習彈鋼琴等無數物事。局長，這樣的教育制度如何能幫助年青人？現時在席的民政事務局局長或有機會當上文化局局長，但他卻在笑，究竟有甚麼好笑呢？ \n 整天在談愛國，談中國文化，但年青人連參與社會運動也要被打壓。文天祥當年說道：“孔曰成仁，孟曰取義，惟其義盡，所以仁至。讀聖賢書，所學何事？而今而後，庶幾無愧。”我們能否做得到？如果年青人可藉教育成就知識、成就人格，社會一定會進步及和諧。可是，現在的年青人卻好的不去學，在“上有好者，下必有甚焉”的情況下，試看現時當官那一羣像甚麼話？我敢說現時在特區政府為“689”工作的人，全皆愧對列祖列宗、愧對子孫，還好意思教訓年青人？ \n 現在提出的這項議案，說要“全方位”協助年青人，但蔣麗芸議員，我真的不知何謂“全方位”，你又能否做到？何謂“全方位”？你現在可為年青人幫上些甚麼忙？政府的所作所為只會教壞年青人，讓他們說謊時面不紅、耳不熱。現在的政改工作弄得一團糟，建制派如是，民主派也好不了到那裏。由最初所說的“三軌方案，缺一不可”，到現在所說的“缺一都可”，內部爭論不休，樹立壞榜樣。 \n 問題很簡單，如要支持提名委員會，那便投降，然後討論提名委員會的產生方法，否則便支持公民提名。說甚麼政黨提名，但香港有政黨嗎？連貴黨也只是“有限公司”，香港有政黨和政黨法嗎？提出政黨提名，只落得不知所謂，這不是在教壞小孩又是甚麼？原來話可以這樣說，真普聯昨天召開記者會，鄭宇碩說儘管“缺一不可”這句話沒有寫出來，但實際上是缺一不可，可是民主黨今天卻又在記者會上說缺一不可並不正確，不會使用捆綁模式。這真是你們說了算，叫年青人何去何從？ \n 主席，現時整個社會的政治氛圍、經濟模式，正是要把年青人趕入一條絕路。斷港絕潢，不見出路，禍首正在於我們的政治制度，還有經濟分配制度，只顧巧取豪奪，功能思考，而不談原則，只以利益為重。現在又說甚麼要設立科技局，但我斷言必定會“拉布”。之前已經架床疊屋，擴張至3司12局，結果這建議前年因我們“拉布”而被弄垮，但現在卻又再次提出，不如順道讓許曉暉擔任文化局局長，你說對嗎，莫乃光議員？不如再增設兩個司長職位吧。這真奇怪，政府已不堪到這個地步，還要再讓它擴張？既已說明是“小政府”，為何還要加設新的政策局？這亦是教壞小孩。 \n 所以，要“全方位協助青年人發展”，最重要的是要成就其人格和知識，其次是必須有一個開明的政府，一個自由競爭的公平市場，還要有社會公義，否則年青人會無所適從。他們現在可做些甚麼呢？“打工”可以賺取多少工資呢？只落得前路茫茫。民建聯已是第二次提出這類議題，但究竟所為何事？",
+      "sequence": 15,
+      "bookmark": "SP_MB_WYM_00022"
+    },
+    {
+      "title": "陳家洛議員",
+      "content": "主席，如果有機會可以讓立法會做得更好一點，便是請年輕朋友前來旁聽這場辯論。在這之前，先要對他們進行調查，了解青年人面對的困難或挑戰或需要的面貌，然後在聽完這場辯論和政府的發言後再進行一次調查，看看他們的滿意度，是否認為這場辯論跟他們每天所想、所面對、所感受的經歷有任何關聯。 \n 主席，為何我會這樣說呢？因為我很擔心很多同事，以至提出原議案和修正案的同事在發言前均未了解清楚。其實，相信我們每人都會收到青年協會出版的《香港青年趨勢分析2013》。在這本書中，其實有幾項可圈可點的數據，我希望大家都能聽一聽。例如其中一個問題是：政治人物關心個人利益多於社會整體利益；超過七成的受訪青少年朋友表示同意或非常同意。第二個問題：政黨可以反映民意；有\n超過五成受訪者表示不同意或非常不同意。第三個問題：香港政府是可以信任的；有超過五成受訪者表示不太同意或非常不同意。第四個問題：立法會議員過去一年的表現令人滿意；有將近六成至七成的受訪年輕人表示不是太同意或非常不同意。 \n 所以，各位同事，我們都要謙虛一點，更要自省一下。大家不妨思考一下我們討論這些究竟為了甚麼？我擔心議會外的年輕人聽畢大家的發言，會感到納悶，覺得為何要說這些，希望各位放過他們。其實，說到年輕朋友追尋夢想，追求自我實現、自我實踐，透過不同的生活體驗、經歷，在人生不同階段作實驗，繼而反省、感受、接觸和參與，從中學習不止要行使自己的權利，還要學習承擔自己所作的決定而引申出的責任，這都是再自然不過的事情。所以，我認為說規劃是非常危險的，因為一說到規劃，便有種“被規劃”的感覺。如果想年輕朋友自我實現、自我實踐，並追尋夢想，便真的要給予他們空間。 \n 因此，我覺得陳克勤議員表示很多年輕朋友不知自己想做甚麼，是一個很嚴重的問題。想當年，在座各位同事在十多二十歲時，除非你是個有家庭背景的幸運兒，家人會幫助你，甚至幫你規劃好一生，否則，你問問自己，當時真的不太知道自己想做甚麼。我曾經想過當警察，幸好沒有成功，否則今天可能會被說警權過大；曾經我也想過出任政務官，不過幸好也沒有成功，否則便會被人罵個半死，剛才黃毓民議員便把官員罵得狗血淋頭；我曾經亦想過要當小學教師，幸好我又沒有成功  教育局局長，相信你知道發生甚麼事  這工作太辛苦了，連接觸學生、了解他們需要和跟他們溝通的時間也欠奉。張國柱議員在後面說：“多聘請一名社工吧。”實在太可憐了，彷彿已經到了別無他選的地步。那時的我的學習成績還算可以，又幸運地拿到獎學金，然後便拋下家人、朋友去了外國。在90年代中後期，我的很多同學都已發達了，而我卻仍在讀書，讀的還是很奇怪的學科  東歐。他們都說我太笨了，首先，我不應該到英國讀書，假如我將來要回港執教鞭，便要去美國。第二，為甚麼要讀東歐這一科？將來是找不到工作的，倒不如讀中國研究，一定沒問題。跟我差不多年紀的學者朋友都在美國修讀中國研究，回港後也能找到一份工作。 \n 我走這條路事前並沒有想太多，更沒有家人為我作任何規劃，全憑我一人去走、去嘗試、去體驗、去實驗、去尋夢，我不斷向自己發問，然後尋找答案。其實，年輕人是坦白的，是直接的，沒有規劃就是沒有，為何大家要說他們未有規劃就是有問題呢？年輕人希望我們信任他們的判斷，然後由他們自己去實驗、去感受，行使權利和要承\n擔的責任，這樣才能符合香港青年人的政策  培養有視野、具創意、能領導、肯承擔的青年，成為香港的明日領袖，這只是一句口號罷了。然而，香港實際上是否有空間讓年輕人作試驗，而我們又是否有胸襟和資源令家長在賺錢謀生時，有多餘時間在工作和家庭之間找到平衡點，令教師不用負擔太多不必要的行政工作，更能夠像以前的某些教師一樣，經常悠閒地在操場上踱步，偶爾問問學生今天過得怎樣？可惜，這般景象已不復存在，大家都是匆匆的來，匆匆的去。 \n 有沒有一個空間能夠讓傳媒百花齊放，可以試驗更新更有意思的節目，別再是那些千篇一律、非常“悶蛋”的連續劇、肥皂劇？可否從幼稚園開始，然後到小學、中學、大學，也能給我們一個空間？我們最不想看見的是，特首在發表施政報告前，在策略發展委員會中討論了數個月，取得一點靈感，然後在施政報告發表前舉行一些小特首茶敍或年輕人茶敍，為自己即將發表的施政報告造新聞、造勢。 \n 最後，如果今天聽這場辯論的年輕人想向政府表達意見，究竟應該撥打哪一個電話號碼？應該是民政事務局局長的3509 8095，還是教育局局長的2810 2657？我謹此陳辭。",
+      "sequence": 16,
+      "bookmark": "SP_MB_KC_00023"
+    },
+    {
+      "title": "主席",
+      "content": "是否有其他議員想發言？",
+      "sequence": 17,
+      "bookmark": "SP_LC_PSD_00024"
+    },
+    {
+      "title": "梁國雄議員",
+      "content": "主席，我聽到陳家洛議員說曾修讀東歐這學科，東歐當然是“蘇東波”其中一個主角，東歐變天。他修讀過東歐一科，當然知道一個專制國家有機會變成不專制，年青人應就此行事。其實也有人鼓勵我們的，我引述：“世界是你們的，也是我們的，但是歸根結底是你們的。你們青年人朝氣蓬勃，正在興旺時期，好像早晨八、九點鐘的太陽。希望寄托在你們身上。”蔣麗芸議員，你不要罵這句話，是會死人的，我暫不揭曉，你千萬不要駁斥這句話。 \n 不過，我還是揭曉吧，免得你踏上地雷。這便是“老毛”毛澤東到莫斯科接見在蘇聯留學的學生代表團時，對他們所說的勉勵說話。據我所知，我也曾說過，他說他們老人家已是日落西山不中用。但是，大家也知道我們有特別的國情，便刪去毛主席這段話。為何我會知道有這句話呢？便是我到瑞典為一位從湖南到瑞典避難的政治犯在國會作證明時，在當地碰到一位當天正在莫斯科見證毛澤東說這番話的人。他姓陳，懂俄語、英語、瑞典語，由於他變為右派放出來後又“死\n性不改”，又開罪了軍代表，便被人打成......現在不會被說是反革命，現在會被私下修理。住在他樓下的看門人被人斬殺後，他便知道已無望。因為曾有人問那位看門人陳某是否住在那裏，該名看門人回答後便被人斬殺，於是他便遠走他鄉。因為他懂俄語，又懂英語，任職翻譯是很吃香的，當他到莫斯科工作時，便乘機申請政治庇護，“跳船”而逃。 \n 主席，一個如此能幹的人......他更能幹的是，原來到達瑞典後，因為他屬左派，他當選為所住市鎮的社會民主黨議員。請問這個人能幹不能幹？他經歷千辛萬苦到了瑞典，又學懂瑞典語，當然瑞典語與英語是相近的，而且又當選為議員，但他現在不走運了，因為瑞典的政局右傾，社會民主黨便成為大輸家，我想他今年也不能當議員了。 \n 主席，這個故事說明甚麼呢？便是年青人最重要的便是志氣，最重要的便是有明白是非的能力。再者，又有人說：“國家者我們的國家。社會者我們的社會。我們不說，誰說？我們不幹，誰幹？”這也是毛主席所說的，老實說，聽完毛主席的話後真的會熱血沸騰，但如果你相信他，那麼你便糟糕了。大家看看紅衞兵，被他利用過後便被拋棄。我們國家因為專制，令我們的年青人浪費了那麼多時間。而且，主席，你也知道的，因為文革一黨專制之下的造神運動，我們的國家到了今天，仍未能在精神面貌上脫胎換骨，仍有人把毛澤東當作菩薩，把他的肖像掛在車上，保佑自己不會發生車禍，而“七常委”更到毛主席紀念堂鞠躬，真是陰魂不散。 \n 我說出這番話，是想說明甚麼呢？如果要教育年青人，便要教育數點，第一，說真話。如果一個社會不說真話，卻要教年青人說真話，可以怎樣教呢，“老兄”？在成年人的世界內充滿姦淫擄掠、偷“呃”拐騙，卻叫年青人要守身如玉、禮義廉耻。主席，這真的是解決不了的。蔣議員，其實我知道你是用心良苦，你跟我一起罵梁振英便可。梁振英公開說謊，你還維護他說你相信他，但你相信他“有叉用”，現在是在燒烤嗎？你相信他是沒有用的，而是要說公道的，是不是？你當眾說出一些話來維護一個說謊的特首，一個以謊圓謊的人，又或在發牌時，自己卻在黑箱作業，“一男子”把事情辦妥。他說不能說出原因，因為行政會議有明文規定，保障議員能暢所欲言，所以他便不能說出為何不發牌。“老兄”，是他一個人與他的“三九兩丁七”張志剛等人說不發牌而已。他可只說出自己的意見，別人就發牌的意見是不用說出來的。我們問他為何不發牌，如果他是一個真的會秉行公義的特首，\n便走出來說吧，說明是他決定不發牌的，他的意見就是這樣，不怕別人說三道四，但特首現在卻不是這樣說。 \n 我告訴你，廖長江議員，我會告訴你，不過，你要到法院，你到法院我便說出來。其實這根本是浪費時間，政府到法院也不肯說，大家是沒奈何的，政府最多也是輸掉官司，然後回來再作決定而已，是不是？政府不說話只會輸掉官司，是不會有甚麼問題的。政府只說今次所作的決定欠佳，那有何問題呢？ \n 所以，主席，這是浪費時間，一個社會依靠說謊，在普選問題上也是說謊，不是普選的原則重要，而是那些陳年的《基本法》重要；不是我們的權利重要，而是官大人的意旨重要，那當然會“瓜柴”，變成日落西山，主席。",
+      "sequence": 18,
+      "bookmark": "SP_MB_LKH_00025"
+    },
+    {
+      "title": "主席",
+      "content": "是否有其他議員想發言？",
+      "sequence": 19,
+      "bookmark": "SP_LC_PSD_00026"
+    },
+    {
+      "title": "張超雄議員",
+      "content": "主席，多謝蔣麗芸議員提出這項建議“全方位協助青年人發展”的議案。 \n 面對這項議案，大家當然好像掛聖誕樹裝飾一般的提出修正案。今天的年青人事事遇到困難，結婚難，買樓難，在市場上找工作也難。事實上，年青人的失業率仍然處於雙位數字，他們面對的困難，整體真的很大，前景又不明朗。在這環境下，的確難於立志做任何事情。如果我在數十年前遇到相同情況，我也會感到迷惘。再者，處於相對弱勢的年青人會面對更大的困難。 \n 我們在立法會不斷接觸青年人，而在星期一，我們在申訴部會見了一羣年青的末代高考考生。他們在高考獲得的成績，若在以往已足夠入讀大學，但他們卻不獲取錄。他們當中更有人考獲數科A級，中文、歷史、中文文學考獲3個A級的人，也找不到大學入讀。我們覺得，這些人是應該一早被各大學爭相取錄的。其中一位前來申訴的朋友十分厲害，他有數科也考獲A級、B級，成績不錯，但同樣不獲取錄。葉建源議員當時跟他討論校歌，然後又討論校服，原來他研究校歌，而且對校服也相當有認識，說起來口若懸河，知識非常豐富。 \n 其實今天的年青人十分厲害。我在大學教書，不斷接觸年青人，而我並不認為今天的年青人在任何方面較我們老一輩為差。他們面對的問題是，如何能在一個不公義、充滿制度限制的社會生存和發展。為何政府20多年來，也不肯認真增加大學學額呢？為何要推行教育私營化呢？為何要迫同學負上一身債務呢？ \n 上星期，我們討論了一些年青人的問題。今天，我剛與社會福利署(“社署”)署長會面。談甚麼呢？他說不久後將會裁減3 000名程序助理員，英文名是programme worker。我不知道是否有社署或勞工及福利局的官員在席。福利事務委員會在星期一便會討論這件事。這3 000個臨時職位已開設了10年，現在卻要裁減，但這些年青人如何是好呢？他們必須閣下自理，因為政府認為現時的失業率已稍為降低，可以減少職位。 \n 在剛過去的星期日，我到訪一間輕度智障學校跟其舊生會傾談。我問他們，如果在中學畢業之後有機會再讀書，他們想不想呢？絕大部分的舊生也表示希望繼續有機會讀書。但是，這些殘疾、智障朋友面對着怎樣的出路呢？我們的社會根本沒有給他們機會。智障、殘疾人士由15歲開始，便可以申請成人服務，但成人服務並不是以學習為重心，而是着重照顧。相比之下，我們卻認為一般健全的年青人應該繼續唸書。這是甚麼邏輯呢？為何社會這樣對待這些有需要的年青人呢？對於有智力障礙的人，我們便叫他們早點接受職業導向、職業訓練，而如果他們在公開市場無法就業，我們便叫他們到庇護工場。在庇護工場做甚麼工作呢？只是一些簡單工作，例如把信件放入信封等。每天有多少工資呢？是21元，工資只有21元。 \n 再者，當他們接受了這些服務  這些是被視為服務，所以他們不是僱員，21元也不是工資，而是補貼。因此，在夏天的時候，他們每個月也要繳付冷氣費。大家想一想，如果到工廠工作，老闆向你收取冷氣費，你也會覺得有點離奇，但殘疾朋友卻要面對這樣的環境。他們一旦接受服務，便是一輩子的事。蔣議員，他們又如何能夠全面發展呢？我們現時的制度便是如此，是沒有出路的，一旦進入便要就此終老。原來這個社會是殘疾朋友沒有份兒的，但社會當然也會照顧他們，為他們提供成人服務，只是一旦進入後便要就此終老。 \n 賴凱詠患有龐貝氏症，他取得碩士學位後，找工作找了數年，現在終於找到一份政府職位。他碩士是唸甚麼的呢？是中國文學，他兩年前畢業時曾出版一本名為《輕舟․重山》的書，道出他很多的想法。\n《信報》去年讓他寫專欄，一個月寫一篇文章，每次2 000字，報酬大約是1,000元。他投考了差不多百多份工作，政府職位的申請也寄出數十份，現在終於考獲一份甚麼工作呢？是文職助理，但現在還未入職，尚在等候。不過，他的故事只是冰山一角(計時器響起)......我們有太多這樣的故事。 \n 多謝主席。",
+      "sequence": 20,
+      "bookmark": "SP_MB_CCH_00027"
+    },
+    {
+      "title": "鄧家彪議員",
+      "content": "我剛才聽了莫乃光議員的發言。當然，一些議員的觀點很宏觀，但也有議員說得很細碎。我亦不打算討論宏觀的原則，因此，倒不如談談個案。但是，可惜勞工及福利局局長或他的代表不在席。所以，我先談談教育。 \n 很多議員說副學士課程泛濫，但我在前線工作時收到的個案顯示，不僅是副學士課程泛濫，連疑似副學士課程也一樣。甚麼是疑似副學士課程呢？就是那些所謂副學士先修課程，以及等同副學士的高級文憑課程。這些根本不是副學士課程，可能只是在資歷認證方面取得第三、四級，然後含糊其詞的，總之這邊廂向家長和同學推銷，那邊廂則向資歷架構取得認證級數，然後再向學生資助辦事處(“學資處”)申請成為grant and loan所涵蓋的課程。 \n 社會上有很多這類陷阱，而我在過去數年也收到數宗投訴。例如有些年青人修讀了一些與社工有關的所謂副學士先修課程，課程主辦機構聲稱，學生完成1年的先修課程後，如果成績優異，便可以修讀註冊社工副學士課程，完成後便能夠成為註冊社工。但是，註冊社工課程的取錄要求其實越來越高。我的助理讀完degree，打算進修做社工，他像漁翁撒網般，碩士和high diploma也報讀，最後只能報讀high diploma課程，但他已經是一個degree holder。 \n 然而，剛才那宗case中的年輕人卻只是修畢毅進課程而已，但院校卻立即錄取他修讀先修課程，於是他便“先修”。結果，“先修”1年後考不上，兩年也考不上，但他已經支付了2萬多元的先修課程學費。一年考不上副學士課程，第二年也考不上，難道還要再等嗎？當然要出來工作了。問題是，一旦出來工作，原本所得到的助學金便變成貸款，政府便向他追回貸款，指他不能完成副學士課程，所以便要收回貸款，但如果他能完成便不會收回，因為他已達至他的承諾。 \n 但是，我的問題是：專業的註冊社工課程其實應由獨立的註冊局監管和跟進，而學資處或學術及職業資歷評審局當然也有角色，但這類所謂先修課程竟然能夠輕易透過包裝，鼓勵學歷一般的學生報讀，告訴他們有機會獲得學術門檻很高的註冊社工課程所錄取。結果，學生借了錢便不能回頭，有很多這種情況。所以，令人憂慮的是，除了學歷泛濫外，這類陷阱也十分多。如何拆彈呢？現時每個家庭最少也肩負數萬元甚至10多萬元的學債。因此，支援或協助青年人發展的一大方向，應是解除他們的債務負擔，而我亦希望政府留意我所說的情況。 \n 張超雄議員剛才談及PW(即“活動工作員”)，其實我們對此也很關心。社會福利署在過去經濟差的時候，例如2008年金融海嘯時，推出約3 000個臨時職位予學歷相對較低，在就業市場難於找工作的年輕人進入社福界，協助社福界提供社福服務。時至今日，已經過了5年，工資仍然只是八、九千元，現時只留下2 100個職位，在3月31日便會全部刪除。這2 100個年輕人會一下子失去“飯碗”，工會當然關注。其實，9,000元工資的工作很多，在電器店賣電器或手機，工資也有1萬多元。我曾問這些年青人為甚麼要留下？他們表示，因為他們喜歡這工作。他們喜歡這工作，但如果他們不任職活動工作員，又可否進入社福界呢？原來是十分困難，很不容易的。因為現時在整筆撥款的制度下，所有機構只會開設社工職位，但他們不是社工，只不過是對這行業產生興趣而已。 \n 於是我便想，其實很多行業也有所謂“紅褲子”，會計專業也可以由文書做起，為甚麼社工不可以呢？但很遺憾，政府或勞工及福利局對於這個問題在過去1年持續地展示強硬態度，提議年青人可轉而從事安老服務，反正安老服務很需要人手，那樣便無須輸入外勞。當然，安老或復康服務並非羞人的工作，絕對值得尊重，因為也是服務人羣。但是，由青年服務或社區服務一下子轉變為安老服務，沒有選擇，這種轉變實在很大。既然我們都希望每個年輕人可以按照其專長和興趣有所發展，是否應留機會給這羣活動工作員，讓他們在社福界繼續服務呢？但是，遺憾的是，勞工及福利局局長今天不在席。 \n 所以，我們很希望政府在處理青少年的問題時，要看看現正推行的服務和計劃，如果已有很多年青人從事相關的工作，便要確定究竟這些轉變會否令他們突然失去“飯碗”呢？這是我們工會十分關心的範疇，希望政府在這方面多作關注。 \n 多謝。",
+      "sequence": 21,
+      "bookmark": "SP_MB_TKP_00028"
+    },
+    {
+      "title": "主席",
+      "content": "是否有其他議員想發言？ \n(沒有其他議員表示想發言)",
+      "sequence": 22,
+      "bookmark": "SP_LC_PSD_00029"
+    },
+    {
+      "title": "主席",
+      "content": "蔣麗芸議員，你現在可以就各項修正案發言。發言時限是5分鐘。",
+      "sequence": 23,
+      "bookmark": "SP_LC_PSD_00030"
+    },
+    {
+      "title": "蔣麗芸議員",
+      "content": "主席，我今天要感謝在座各位同事就這項議案發言，尤其是提出修正案的議員  雖然部分修正案所修正的條款，我們並不同意。但是，也有部分議員加入了一些跟年青人發展有關而且是正面的具體建議，更是豐富了我原議案的內容。主席，對於各項修正案，我主要抱着一項宗旨，便是只要是符合我們年青人的長遠利益，對我們年青人成長有所幫助，我都會支持的。 \n 我首先談談梁繼昌議員的修正案。所以說有些時候，我相信梁繼昌議員想必在我就原議案發言時，沒有聽得很清楚，對嗎？我想也有部分議員各說各話，但動議議案的人是我，可是他們連我提出的議案也未看清楚便肆意批評。好了，為甚麼我有此說法呢？因為梁繼昌議員表示，他刪除我在原議案中提出的“生涯規劃”，以及“鼓勵新一代訂立儲蓄及理財的計劃”，他認為對於年青人的生涯，將來的一切，應該由父母負責，政府大可以不予理會，對嗎？另外有部分議員也提及，我們不要規劃別人的生涯了，就好像陳家洛議員所說，我們應該多給予年青人空間，例如讓他自己決定如何、如何。對了，你們均是一些優秀人才，為甚麼我會說他們沒有聽我的原議案呢？我說明社會中有部分年青人可能需要我們的幫助，因此，我們在此建議政府可否為這些年青人制訂比較全方位、多元化的政策，以幫助年青人有向上流、以期做得更好的機會呢？即我不是要求政府一定要幫助你們這類優秀、尊貴的議員，Okay？而是幫助一些我們現在落地區時看見的  當我看見這些年青朋友時真是心痛  所以，我希望政府能夠幫忙，協助這些年青人。 \n 對於郭偉强議員的修正案，我認為他的修正案頗為詳細，從學業、就業、創業和個人成長這4方面，羅列了很多建議。我認為當中有很多建議的理念跟我們接近的，最低限度我個人很認同，也相信這些理念對我們年青人全面發展有所幫助。所以，我們民建聯會投贊成\n票。對於張國柱議員和陳健波議員的修正案，因為也加入了多項推動青年人發展的建議，由於理念跟我們接近，所以我們亦會投贊成票。 \n 至於黃碧雲議員的修正案其中主要有一點，我們不太認同，因為她表示要“檢討為修讀資助院校研究院舉辦的研究課程的學生而設立的獎學金計劃，確保高等教育資源用於本地青年人”。她認為獎學金只能用於本地青年人，這樣是很危險的，因為我們大學的主要目的是，幫助不同地區之間的學術交流，所以，對於這項修正案，我會投棄權票。對於田北辰議員的修正案，我們民建聯亦會贊成。主席，我謹此陳辭。謝謝。",
+      "sequence": 24,
+      "bookmark": "SP_MB_CLW_00031"
+    },
+    {
+      "title": "教育局局長",
+      "content": "主席，我再次感謝蔣麗芸議員的原議案，以及6位議員和其他議員的發言。正如我在開場發言時指出，促進終身學習、協助學生了解自己的興趣和能力、提供多元及多階進出的升學進修途徑、讓學生有效地規劃升學就業前途，是教育發展的主要目標之一。在這大前提下，我們和議員的願景是一致的。 \n 我想特別指出，我非常同意蔣麗芸議員的建議，“生涯規劃 知情選擇”這層面。我認同政府和社會應及早協助青年發展，在各方面我不再重複。事實上，在協助教師推行、推廣學生升學就業輔導這方面，教育局除每年舉辦“中學生涯教育證書課程”、研討會和工作坊外，亦透過不同的措施，為學校提供一系列多元化、教與學資源的支援，當中有不少好的個案和措施，例如“尋找生命的色彩”、“新學制@生涯地圖”、e導航手機應用程式等，都是用各種方法去協助教師推廣學生升學就業輔導工作。 \n 香港輔導教師協會有很多很專業、很有效的活動，其中舉辦“暑期工作體驗計劃”，為學生安排為時2至8星期的工作體驗，與工商界緊密合作的夥伴計劃等，鼓勵學生思考未來工作方向。我同意在這方面仍有很多優化、強化的空間，我們會認真在這方面再作考慮。 \n 剛才和昨晚有幾位議員提到有關副學位課程的部分，我想在這方面作一些補充，特別在認受性方面。在2013-2014學年開辦的約405個全日制副學位課程中，當中259個為高級文憑課程。整個自資學界體系亦有很多自強活動產生，例如最近剛發表僱主對副學位認受性的研究，大家均很關心。就最近的一份已發表的研究，我在這裏再次重複，\n在調查中，僱主認為畢業生表現中等以上的為93%，而僱主認為頗滿意至非常滿意的超過64%。當然，還有很多其他改善空間，但作為第一步朝着正確方向，在質素和認受性多作這方面的努力。 \n 梁君彥議員和幾位議員都有提到如何加倍推廣職業教育，為有志投身各行各業的青年提供堅實的基礎，培育所需人才以支持香港的發展和個人夢想潛能的發展。其中一個例子，香港職業訓練局現時已提供超過25萬個職業教育及培訓學額，其中當然包括學位課程、高級文憑課程、短期在職培訓課程等，內容是相當廣泛的，包括應用科學、設計、工程、酒店及旅遊服務、幼兒教育及社會服務、工商管理和資訊科技等學科範疇。這些課程兼備專業知識及通識教育培訓，理論與實踐並重，修畢課程的同學既可在職場一展所能，亦可選擇繼續進修。 \n 幾位議員均有提及如何資助學生繼續進修，在優化資助、減輕負擔的大前提下，我想再提及資助計劃及各方面的措施，我們會經常作出檢討。由2011-2012學年開始，在入息審查機制等方面，亦有很多改善。就專上程度接受資助學生總數的比例，已由過往38%大幅提升至60%，這是其中一個指標，表示這方面的措施受到很多學生的歡迎和受到政策的惠及。 \n 在專上學生資助計劃方面，雖然有很多貸款包括免息貸款，但只就助學金額方面來看，每個學年平均約有4萬元。 \n 黃碧雲議員在修正案中提及促請政府實施大學學券制度。我想指出，政府其實已推出多項計劃，除了剛才提及的助學金、貸款外，亦從政策層面，提供了35億2,000萬元的自資專上教育基金，以提升界別教與學的質素，以及為自資專上界別的學生提供獎學金。一系列的措施支援讓專上教育可以得以健康發展和成長。所以，目前政府不認為有需要於學券形式資助上作進一步考慮。 \n 主席，青年人是社會的棟樑，這段時間我聽到很多這方面的意見，也很贊成這個重要方向。政府會致力支援他們作好裝備，提供多元的機會讓他們發揮潛能，迎接未來的挑戰和機遇。多謝主席。",
+      "sequence": 25,
+      "bookmark": "SP_PO_SE_00032"
+    },
+    {
+      "title": "民政事務局局長",
+      "content": "主席，這兩天的議案辯論，再一次顯示社會各界重視我們年輕一代的發展和成長。正如多位議員都提到，青年人是社會\n未來的主人翁，我們關心香港的未來，就要從各方面去協助青年人全面發展，為他們將來接棒做好準備。我很高興聽到各位議員就青年發展提出的意見，有不少主張與政府的思路都是一致的。 \n 正如我在辯論開始時提及，特區政府一直致力於青年發展工作。我們的目標，是要培育新一代成為具視野、富創意、能領導、肯承擔的年青人，將來帶領香港繼續邁步向前。正如數位議員都強調，最重要的是培養青年人自立的能力，能夠獨立思考，自力更生。 \n 在今次的辯論中，較突出講到“生涯規劃”，這個早引入香港的外來語並非全無爭議的。要成功使規劃成為現實，必須能夠有效地駕馭各種會帶來影響的複雜因素，因為人生的歷程總會有起有落，既有陽光，亦有風雨雷電，往往會出乎意外。湯家驊議員就未能成功地規劃他兒子的高爾夫球興趣。聽畢議員的發言，綜合來說，如果要使規劃得以實現，前提在於明確的目標和理想。如果目標是踩單車，卻學了打高爾夫球，規劃亦難以奏效。同時議員亦提出，“機會永遠是屬於作好準備的人”，而且目標及理想需要兼顧現實和具備彈性，因此讓年輕一代更好裝備自己，在多方面得到鍛鍊，將可以讓他們擁有更多的發展機會和空間。 \n 青年事務委員會提倡多元卓越文化，正是朝着這個方向，希望協助不同志向的青年人都能夠發揮所長，走出自己的道路。民政事務局一直與不同的團體合作，希望更好地讓青年人全方位發展。 \n 我們的青年工作，就是讓青年做好準備。“做好準備”(Be Prepared)是童軍的一句格言，過去經常提及，不過聽說近年有了新的替代。為了讓青年人在學校課堂以外得到有益身心的鍛鍊，民政事務局每年資助多個制服團體。香港童軍總會就是其中歷史最悠久的一個，提供多元化及進度性的訓練活動。現時童軍隊伍遍布全港各地，青少年隊員人數4萬多人，包括有少數族裔的隊伍。香港童軍經常參與世界性的聚會，又到內地開展交流，更加大量在本港投入志願服務活動。其他的制服團體亦都有各具特色的培訓活動，希望協助青年人開拓視野才能，培育品格紀律。 \n 有議員提到文、史、哲、藝術等人文素養對於青年人的重要。我們在文化藝術工作方面的推動，亦希望可以進一步豐富青年人這方面的培養，正如昨天局長開場發言時所介紹的部分工作。 \n 關於促進青年人參與公共事務，政府各方，以及各個諮詢及法定機構努力吸納合適人士，包括考慮個人才能、專長、經驗、操守和服務社會的熱誠，以切合有關機構的需要。在用人唯才的原則下，會更注重選取青年人出任諮詢及法定機構的成員。青年事務委員會成員包括青年代表、資深的青年團體負責人、學者、社區人士等，當中有數位“80後”，而年齡在39歲或以下的委員更加是接近60%。政府又一直透過不同渠道收集青年人的意見，當中包括他們較常使用的互聯網。 \n 議員提到現時青年人面對的住屋問題。這一點，特區政府深切明白。為了解決香港的房屋問題，政府採取了一連串措施，以加大、加快資助房屋的供應，同時全面檢討長遠房屋策略，以及增加土地供應。 \n 民政事務局先前公布了“青年宿舍計劃”，目的是為了釋放非政府機構手中未盡其用的土地潛力，發展成出租的青年宿舍，這個計劃可以滿足一部分在職青年，在一段時間內擁有自己居住空間的渴望。雖然青年宿舍的目的並非長遠地解決青年人的住屋需要，但能夠提供機會讓青年人為日後的發展作出儲蓄。 \n 按照計劃，政府將全數資助非政府機構興建青年宿舍的建設費用，目標租戶是在職的青年，首次的租期應最少兩年，期滿以後可以續約，但總租期合計不可以超過5年，以留出機會供其他有需要的在職青年。 \n 計劃中兩個分別位於上環和大埔的先導項目進展良好，預計最快可以在2016-2017年度落成。隨着和其他非政府機構的磋商逐漸成熟，將會有新的項目加入，並且推出更多宿位，協助紓緩青年住屋的問題。 \n 至於民政事務局轄下的柴灣青年廣場，自2010年3月正式啟用至今，在場內舉辦的活動數量持續上升，各項設施表現指標均達到要求，當中主要設施如Y綜藝館、Y劇場及Y旅舍等，都錄得超過八成的使用率，逐漸成為青年發展的綜合基地。 \n 對於青年廣場，要看它的經濟效應，但更加要着眼於它的社會效益。青年發展是長遠而持續的過程，政府的資源投入是必需而且合理的，推動青年發展工作，我們亦要考慮青年人租用設施的負擔能力。未來我們會以青年人和青年團體可以負擔的租金，向他們提供場地和\n設施，我們亦會繼續推出其他優惠，希望更多與青年有關的機構和團體，在青年廣場開展其業務。 \n 青年人全面和均衡的發展，實有賴政府、非政府機構、社區團體、家庭、學校、社會人士等多方的努力。政府會繼續和各方合作，聆聽年輕人的意見，關注他們所面對的挑戰。民政事務局會繼續和青年事務委員會和各區的社區團體合作，致力推動青年發展工作。 \n 主席，我謹此陳辭。",
+      "sequence": 26,
+      "bookmark": "SP_PO_SHA_00033"
+    },
+    {
+      "title": "主席",
+      "content": "梁繼昌議員，請你就議案動議修正案。",
+      "sequence": 27,
+      "bookmark": "SP_LC_PSD_00034"
+    },
+    {
+      "title": "梁繼昌議員",
+      "content": "主席，我動議修正蔣麗芸議員的議案。 \n梁繼昌議員動議的修正案如下： \n“在“社會未來的”之前刪除“青年人是”，並以“鑒於青年人是香港”代替；在“主人翁，政府”之後刪除“和社會應及早為其未來提供適當的指引與協助，以讓青年人預早籌備個人的‘生涯規劃’”，並以“應為青年人提供發展的空間和向上流動的機會”代替；在“促請政府”之後刪除“全方位協助青年人發展，包括增加”，並以“投放資源以增加本地”代替；在“學額”之後刪除“、”，並以“和”代替；在“各項”之後加上“針對青年人的”；在“就業支援服務”之後刪除“、推出措施鼓勵新一代訂立儲蓄及理財的計劃，以及在中學階段提供全方位信息，協助青年人了解自己的興趣、志向與能力，以及未來職業的人力需求，從而”，並以“；同時，政府應以具體政策及支援措施，推動多元化的經濟發展以支持青年人創業，使青年人可以自由”代替；及在“方式，以助”之後刪除“青年人”，並以“他們”代替。”",
+      "sequence": 28,
+      "bookmark": "SP_MB_KL_00035"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：梁繼昌議員就蔣麗芸議員議案動議的修正案，予以通過。",
+      "sequence": 29,
+      "bookmark": "SP_LC_PSD_00036"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 30,
+      "bookmark": "SP_LC_PSD_00037"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 31,
+      "bookmark": "EV_PUT_00038"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(沒有議員舉手) \n 葉國謙議員起立要求記名表決。 Mr IP Kwok-him rose to claim a division.",
+      "sequence": 32,
+      "bookmark": "SP_LC_PSD_00039"
+    },
+    {
+      "title": "主席",
+      "content": "葉國謙議員要求記名表決。表決鐘會響5分鐘。",
+      "sequence": 33,
+      "bookmark": "SP_LC_PSD_00040"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 34,
+      "bookmark": "SP_LC_PSD_00041"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n涂謹申議員、張宇人議員、方剛議員、陳健波議員、張國柱議員、吳亮星議員、易志明議員、馬逢國議員、莫乃光議員、陳婉嫻議員、梁繼昌議員、郭偉强議員、郭榮鏗議員、廖長江議員、潘兆平議員、鄧家彪議員、鍾國斌議員及謝偉銓議員贊成。 \n 石禮謙議員、林健鋒議員、黃定光議員、葉國謙議員、何俊賢議員、姚思榮議員、張華峰議員及盧偉國議員棄權。 \n\n地方選區： Geographical Constituencies: \n劉慧卿議員、王國興議員、湯家驊議員、何秀蘭議員、黃國健議員、葉劉淑儀議員、謝偉俊議員、梁家傑議員、黃毓民議員、毛孟靜議員、田北辰議員、田北俊議員、范國威議員、陳志全議員、陳家洛議員、張超雄議員、單仲偕議員及黃碧雲議員贊成。 \n 陳鑑林議員、譚耀宗議員、陳克勤議員、梁美芬議員及蔣麗芸議員棄權。",
+      "sequence": 35,
+      "bookmark": "SP_LC_PSD_00042"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有26人出席，18人贊成，8人棄權；而經由分區直接選舉產生的議員，有24人出席，18人贊成，5人棄權。由於議題獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案獲得通過。 THE PRESIDENT announced that among the Members returned by functional constituencies, 26 were present, 18 were in favour of the amendment and eight abstained; while among the Members returned by geographical constituencies through direct elections, 24 were present, 18 were in favour of the amendment and five abstained.  Since the question was agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was passed.",
+      "sequence": 36,
+      "bookmark": "EV_VOTED_00043"
+    },
+    {
+      "title": "湯家驊議員",
+      "content": "主席，我動議若稍後就“全方位協助青年人發展”所提出的議案或修正案再進行記名表決，表決須在鐘聲響起1分鐘後進行。",
+      "sequence": 37,
+      "bookmark": "SP_MB_TKW_00044"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：湯家驊議員動議的議案，予以通過。",
+      "sequence": 38,
+      "bookmark": "SP_LC_PSD_00045"
+    },
+    {
+      "title": "主席",
+      "content": "是否有議員想發言？ \n(沒有議員表示想發言)",
+      "sequence": 39,
+      "bookmark": "SP_LC_PSD_00046"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 40,
+      "bookmark": "SP_LC_PSD_00047"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 41,
+      "bookmark": "EV_PUT_00048"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(沒有議員舉手)",
+      "sequence": 42,
+      "bookmark": "SP_LC_PSD_00049"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 43,
+      "bookmark": "SP_LC_PSD_00050"
+    },
+    {
+      "title": "",
+      "content": "主席：我認為議題獲得經由功能團體選舉產生及分區直接選舉產生的兩部分在席議員，分別以過半數贊成。我宣布議案獲得通過。 \n 我命令若稍後就“全方位協助青年人發展”所提出的議案或修正案再進行記名表決，表決須在鐘聲響起1分鐘後進行。",
+      "sequence": 44,
+      "bookmark": "EV_VOTED_00051"
+    },
+    {
+      "title": "主席",
+      "content": "郭偉强議員，由於梁繼昌議員的修正案獲得通過，請你現在動議你經修改的修正案。",
+      "sequence": 45,
+      "bookmark": "SP_LC_PSD_00052"
+    },
+    {
+      "title": "郭偉强議員",
+      "content": "主席，我動議按照我經修改的修正案，進一步修正經梁繼昌議員修正的蔣麗芸議員議案。 \n郭偉强議員就經梁繼昌議員修正的議案動議的進一步修正案如下： \n“在緊接句號之前加上“；具體建議如下：學業方面 ― (一) 增加專上及大專院校資助學額，加強學生的職業教育，讓青年人及早掌握對職業前景的目標，以及為向上流動打好基礎；(二) 全面檢討現行各項學生資助計劃的資助、貸款及還款安排，包括為清貧學生提供更多學費減免及額外支援，並減輕大學生的學費負擔，例如容許大學教育貸款還款額可獲扣稅、研究讓本地\n學生申請學生貸款到海外升學的可行性，以及增加專上課程學生的助學金金額等；(三) 全面檢討持續進修基金計劃，包括增加每名申請人可領取的資助上限至4萬元，延長該計劃規定申請人必須在4年內申領全數資助金額的規定至10年，並取消申請人最多可申領資助4次的限制等，以鼓勵青年人持續進修；就業方面 ― (四) 制訂完整的青年人就業政策，以發展青年人潛能及增強社會生產力為目標；(五) 檢討及整合現有多項的青少年培訓計劃，並提升青年人培訓及就業支援架構的實用性及效益，以鼓勵青年人投身建造業、交通運輸業及航運業等需要生力軍的行業；(六) 主動接觸長期失業的青年人及隱蔽青年人，為他們提供就業輔導和支援；(七) 擴大及整合多項類近學徒訓練的計劃，例如技術員學徒(見習員)訓練計劃、現代學徒計劃及美容及美髮業見習員訓練計劃；(八) 資助低收入家庭的青年人，特別是少數族裔的青年人，以支援他們修讀進修課程，提升他們擇業的競爭力；(九) 扶持中小型企業發展，例如作出適度的津助及稅項減免等，以積極鼓勵他們聘請青年勞工及實習生；(十) 檢討及完善現行的《僱傭條例》，加強青年人從事兼職及短期工作或以合約形式聘用時的保障；(十一) 研究立法規定僱員每年享有3天的有薪培訓假期，以鼓勵青年僱員持續進修；(十二) 採取多元措施吸引外地企業來港投資，興辦新興企業或實業，為本港創造更多職位，以增加青年人就業和晉升機會；(十三) 鼓勵及支援青年人往內地發展事業，豐富他們對內地的認識；(十四) 設立手工藝學徒培訓計劃，培訓青年從事創意或具傳統特色的工作，例如藝墟、音樂表演、龍舟訓練和花炮製作等；(十五) 增加政府在文化藝術方面的財政預算及撥款，讓藝術團體能增加實習機會予年青藝術工作者；創業方面 ― (十六) 成立創業基金及提供相關教育和資訊，具體地支援青年人創業；(十七) 在各區設立創意產業園，提供穩定租金和長期租約的工作室予有志從事創意、文化和藝術的青年人；個人成長方面 ― (十八) 增加各大專院校宿舍宿位，讓青年人能在大學學習期間體驗羣體生活，以培養他們的人際溝通相處技巧和合作能力；(十九) 增加各大專院校學生於本港及海外實習的名額，並繼續增加工作假期計劃下的國家及地區數目，使本地青年人可往世界各地體驗及進行交流，以擴闊他們的國際視野；(二十) 加強本地的體育發展及對運動員的培訓及支援，使青年人可循體育運動等方向出發，發展其個人目標及事業；(二十一) 加強學校及非牟利\n機構為青年人提供的輔導人手比例，以協助他們面對學業、家庭、交友和就業前景等問題；及(二十二) 推動青年人參與社區服務及投身志願服務，以培養青年人正確的價值觀”。”",
+      "sequence": 46,
+      "bookmark": "SP_MB_KWK_00053"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：郭偉强議員就經梁繼昌議員修正的蔣麗芸議員議案動議的修正案，予以通過。",
+      "sequence": 47,
+      "bookmark": "SP_LC_PSD_00054"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 48,
+      "bookmark": "SP_LC_PSD_00055"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 49,
+      "bookmark": "EV_PUT_00056"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 張宇人議員起立要求記名表決。 Mr Tommy CHEUNG rose to claim a division.",
+      "sequence": 50,
+      "bookmark": "SP_LC_PSD_00057"
+    },
+    {
+      "title": "主席",
+      "content": "張宇人議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 51,
+      "bookmark": "SP_LC_PSD_00058"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 52,
+      "bookmark": "SP_LC_PSD_00059"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n涂謹申議員、黃定光議員、陳健波議員、葉國謙議員、何俊賢議員、馬逢國議員、莫乃光議員、陳婉嫻議員、梁繼昌議員、郭偉强議員、郭榮鏗議員、潘兆平議員、鄧家彪議員及謝偉銓議員贊成。 \n石禮謙議員、張宇人議員、方剛議員、林健鋒議員、易志明議員、姚思榮議員、張華峰議員、盧偉國議員及鍾國斌議員反對。 \n 張國柱議員、吳亮星議員及廖長江議員棄權。 \n 地方選區： Geographical Constituencies: \n陳鑑林議員、劉慧卿議員、譚耀宗議員、王國興議員、湯家驊議員、陳克勤議員、黃國健議員、葉劉淑儀議員、梁家傑議員、黃毓民議員、毛孟靜議員、田北辰議員、陳家洛議員、單仲偕議員、黃碧雲議員及蔣麗芸議員贊成。 \n 梁美芬議員、田北俊議員及陳志全議員反對。 \n 何秀蘭議員、謝偉俊議員、范國威議員及張超雄議員棄權。",
+      "sequence": 53,
+      "bookmark": "SP_LC_PSD_00060"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有26人出席，14人贊成，9人反對，3人棄權；而經由分區直接選舉產生的議員，有24人出席，16人贊成，3人反對，4人棄權。由於議題獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案獲得通過。 THE PRESIDENT announced that among the Members returned by functional constituencies, 26 were present, 14 were in favour of the amendment, nine against it and three abstained; while among the Members returned by geographical constituencies through direct elections, 24 were present, 16 were in favour of the amendment, three against it and four abstained.  Since the question was agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was passed.",
+      "sequence": 54,
+      "bookmark": "EV_VOTED_00061"
+    },
+    {
+      "title": "主席",
+      "content": "張國柱議員，由於梁繼昌議員及郭偉强議員的修正案獲得通過，現在請動議你經修改的修正案。",
+      "sequence": 55,
+      "bookmark": "SP_LC_PSD_00062"
+    },
+    {
+      "title": "張國柱議員",
+      "content": "主席，我動議按照我經修改的修正案，進一步修正經梁繼昌議員及郭偉强議員修正的蔣麗芸議員議案。 \n張國柱議員就經梁繼昌議員及郭偉强議員修正的議案動議的進一步修正案如下： \n“在緊接句號之前加上“；本會亦促請政府在制訂青年人的發展政策時，廣泛收集青年人的意見，例如在政府的諮詢架構中增加他們的參與，以及增加中學駐校社工數目為青年人提供‘生涯規劃’的有關服務”。”",
+      "sequence": 56,
+      "bookmark": "SP_MB_CKC_00063"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：張國柱議員就經梁繼昌議員及郭偉强議員修正的蔣麗芸議員議案動議的修正案，予以通過。",
+      "sequence": 57,
+      "bookmark": "SP_LC_PSD_00064"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 58,
+      "bookmark": "SP_LC_PSD_00065"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 59,
+      "bookmark": "EV_PUT_00066"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(沒有議員舉手)",
+      "sequence": 60,
+      "bookmark": "SP_LC_PSD_00067"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 61,
+      "bookmark": "SP_LC_PSD_00068"
+    },
+    {
+      "title": "",
+      "content": "主席：我認為議題獲得經由功能團體選舉產生及分區直接選舉產生的兩部分在席議員，分別以過半數贊成，我宣布修正案獲得通過。",
+      "sequence": 62,
+      "bookmark": "EV_VOTED_00069"
+    },
+    {
+      "title": "主席",
+      "content": "陳健波議員，由於梁繼昌議員、郭偉强議員及張國柱議員的修正案獲得通過，現在請動議你經修改的修正案。",
+      "sequence": 63,
+      "bookmark": "SP_LC_PSD_00070"
+    },
+    {
+      "title": "陳健波議員",
+      "content": "主席，我動議按照我經修改的修正案，進一步修正經梁繼昌議員、郭偉强議員及張國柱議員修正的蔣麗芸議員議案。 \n陳健波議員就經梁繼昌議員、郭偉强議員及張國柱議員修正的議案動議的進一步修正案如下： \n“在緊接句號之前加上“；同時，政府應積極提升本港競爭力，促進經濟發展，包括推動總部經濟發展，為青年人提供更多高質素的職位，讓他們有更多上游的機會；政府亦應重視青年人身心的平衡發展，鼓勵他們將精神寄託在健康活動或嗜好上，避免過度沉溺於虛擬網絡，並且教導他們遠離毒品”。”",
+      "sequence": 64,
+      "bookmark": "SP_MB_CKP_00071"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：陳健波議員就經梁繼昌議員、郭偉强議員及張國柱議員修正的蔣麗芸議員議案動議的修正案，予以通過。",
+      "sequence": 65,
+      "bookmark": "SP_LC_PSD_00072"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 66,
+      "bookmark": "SP_LC_PSD_00073"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 67,
+      "bookmark": "EV_PUT_00074"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 單仲偕議員起立要求記名表決。 Mr SIN Chung-kai rose to claim a division.",
+      "sequence": 68,
+      "bookmark": "SP_LC_PSD_00075"
+    },
+    {
+      "title": "主席",
+      "content": "單仲偕議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 69,
+      "bookmark": "SP_LC_PSD_00076"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 70,
+      "bookmark": "SP_LC_PSD_00077"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n石禮謙議員、林健鋒議員、黃定光議員、陳健波議員、葉國謙議員、吳亮星議員、何俊賢議員、馬逢國議員、莫乃光議員、陳婉嫻議員、郭偉强議員、郭榮鏗議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員及謝偉銓議員贊成。 \n 張宇人議員、方剛議員、張國柱議員、易志明議員及鍾國斌議員反對。 \n 涂謹申議員、姚思榮議員及梁繼昌議員棄權。 \n 地方選區： Geographical Constituencies: \n陳鑑林議員、譚耀宗議員、王國興議員、湯家驊議員、陳克勤議員、梁美芬議員、黃國健議員、葉劉淑儀議員、謝偉俊議員、梁家傑議員、黃毓民議員、毛孟靜議員、田北辰議員、陳家洛議員及蔣麗芸議員贊成。 \n 何秀蘭議員、田北俊議員、陳志全議員及張超雄議員反對。 \n 劉慧卿議員、范國威議員、單仲偕議員及黃碧雲議員棄權。",
+      "sequence": 71,
+      "bookmark": "SP_LC_PSD_00078"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n\n主席宣布經由功能團體選舉產生的議員，有26人出席，18人贊成，5人反對，3人棄權；而經由分區直接選舉產生的議員，有24人出席，15人贊成，4人反對，4人棄權。由於議題獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案獲得通過。 THE PRESIDENT announced that among the Members returned by functional constituencies, 26 were present, 18 were in favour of the amendment, five against it and three abstained; while among the Members returned by geographical constituencies through direct elections, 24 were present, 15 were in favour of the amendment, four against it and four abstained.  Since the question was agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was passed.",
+      "sequence": 72,
+      "bookmark": "EV_VOTED_00079"
+    },
+    {
+      "title": "主席",
+      "content": "黃碧雲議員，由於梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員的修正案獲得通過，現在請動議你經修改的修正案。",
+      "sequence": 73,
+      "bookmark": "SP_LC_PSD_00080"
+    },
+    {
+      "title": "黃碧雲議員",
+      "content": "主席，我動議按照我經修改的修正案，進一步修正經梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員修正的蔣麗芸議員議案。 \n黃碧雲議員就經梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員修正的議案動議的進一步修正案如下： \n“在緊接句號之前加上“；本會亦促請政府：(二十三) 增加副學士畢業生升學渠道；(二十四) 設立獎學金以資助副學士畢業生往海外升學，拓闊視野；(二十五) 實施大學學券制，為成績優異的高中畢業生提供更多機會升讀本地大學和獲政府認可的海外大學；及(二十六) 檢討為修讀資助院校研究院舉辦的研究課程的學生而設立的獎學金計劃，確保高等教育資源用於本地青年人”。”",
+      "sequence": 74,
+      "bookmark": "SP_MB_HW_00081"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：黃碧雲議員就經梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員修正的蔣麗芸議員議案動議的修正案，予以通過。",
+      "sequence": 75,
+      "bookmark": "SP_LC_PSD_00082"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 76,
+      "bookmark": "SP_LC_PSD_00083"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 77,
+      "bookmark": "EV_PUT_00084"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 葉國謙議員起立要求記名表決。 Mr IP Kwok-him rose to claim a division.",
+      "sequence": 78,
+      "bookmark": "SP_LC_PSD_00085"
+    },
+    {
+      "title": "主席",
+      "content": "葉國謙議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 79,
+      "bookmark": "SP_LC_PSD_00086"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 80,
+      "bookmark": "SP_LC_PSD_00087"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n涂謹申議員、陳健波議員、莫乃光議員、梁繼昌議員、郭榮鏗議員、廖長江議員及謝偉銓議員贊成。 \n 張宇人議員、方剛議員、易志明議員、姚思榮議員、陳婉嫻議員、郭偉强議員、鄧家彪議員及鍾國斌議員反對。 \n 石禮謙議員、林健鋒議員、黃定光議員、張國柱議員、葉國謙議員、吳亮星議員、何俊賢議員、馬逢國議員、張華峰議員、潘兆平議員及盧偉國議員棄權。 \n地方選區： Geographical Constituencies: \n劉慧卿議員、湯家驊議員、謝偉俊議員、梁家傑議員、黃毓民議員、毛孟靜議員、范國威議員、陳家洛議員、單仲偕議員及黃碧雲議員贊成。 \n 王國興議員、梁美芬議員、黃國健議員及田北俊議員反對。 \n 陳鑑林議員、譚耀宗議員、何秀蘭議員、陳克勤議員、葉劉淑儀議員、田北辰議員、陳志全議員、張超雄議員及蔣麗芸議員棄權。",
+      "sequence": 81,
+      "bookmark": "SP_LC_PSD_00088"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n 主席宣布經由功能團體選舉產生的議員，有26人出席，7人贊成，8人反對，11人棄權；而經由分區直接選舉產生的議員，有24人出席，10人贊成，4人反對，9人棄權。由於議題未獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案被否決。 THE PRESIDENT announced that among the Members returned by functional constituencies, 26 were present, seven were in favour of the amendment, eight against it and 11 abstained; while among the Members returned by geographical constituencies through direct elections, 24 were present, 10 were in favour of the amendment, four against it and nine abstained.  Since the question was not agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was negatived.",
+      "sequence": 82,
+      "bookmark": "EV_VOTED_00089"
+    },
+    {
+      "title": "主席",
+      "content": "田北辰議員，由於梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員的修正案獲得通過，現在請動議你經修改的修正案。",
+      "sequence": 83,
+      "bookmark": "SP_LC_PSD_00090"
+    },
+    {
+      "title": "田北辰議員",
+      "content": "主席，我動議按照我經修改的修正案，進一步修正經梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員修正的蔣麗芸議員議案。 \n田北辰議員就經梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員修正的議案動議的進一步修正案如下： \n“在緊接句號之前加上“；本會亦促請政府：(二十三) 大幅提升創意香港辦公室的級別，以及成立由財政司司長直接領導的創意產業諮詢委員會，統籌有關政府部門的工作，並邀請業界人士加入委員會，以促進創意產業發展，為創意豐富但不善於傳統學科的青年人提供向上流動的機會；及(二十四) 設立本地優才計劃，資助本地優才到全球最優秀的學府修讀本地未有提供或與本地課程質素有明顯差距的課程，以鼓勵香港青年人在不同的學術領域追求卓越，為香港各範疇培養頂級人才，長遠幫助本港產業多元化”。”",
+      "sequence": 84,
+      "bookmark": "SP_MB_MT_00091"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：田北辰議員就經梁繼昌議員、郭偉强議員、張國柱議員及陳健波議員修正的蔣麗芸議員議案動議的修正案，予以通過。",
+      "sequence": 85,
+      "bookmark": "SP_LC_PSD_00092"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 86,
+      "bookmark": "SP_LC_PSD_00093"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出上述待決議題，付諸表決。贊成的請舉手。 \n(議員舉手)",
+      "sequence": 87,
+      "bookmark": "EV_PUT_00094"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(議員舉手) \n 單仲偕議員起立要求記名表決。 Mr SIN Chung-kai rose to claim a division.",
+      "sequence": 88,
+      "bookmark": "SP_LC_PSD_00095"
+    },
+    {
+      "title": "主席",
+      "content": "單仲偕議員要求記名表決。表決鐘會響1分鐘。",
+      "sequence": 89,
+      "bookmark": "SP_LC_PSD_00096"
+    },
+    {
+      "title": "主席",
+      "content": "現在開始表決。",
+      "sequence": 90,
+      "bookmark": "SP_LC_PSD_00097"
+    },
+    {
+      "title": "主席",
+      "content": "請各位議員核對所作的表決。如果沒有問題，現在停止表決，顯示結果。 \n 功能團體： Functional Constituencies: \n石禮謙議員、林健鋒議員、黃定光議員、陳健波議員、葉國謙議員、吳亮星議員、何俊賢議員、馬逢國議員、莫乃光議員、陳婉嫻議員、梁繼昌議員、郭偉强議員、郭榮鏗議員、張華峰議員、廖長江議員、潘兆平議員、鄧家彪議員、盧偉國議員及謝偉銓議員贊成。 \n 張宇人議員、方剛議員、張國柱議員、易志明議員及鍾國斌議員反對。 \n 涂謹申議員及姚思榮議員棄權。 \n 地方選區： Geographical Constituencies: \n陳鑑林議員、譚耀宗議員、王國興議員、湯家驊議員、陳克勤議員、梁美芬議員、黃國健議員、葉劉淑儀議員、謝偉俊議員、梁家傑議員、黃毓民議員、毛孟靜議員、田北辰議員、陳家洛議員及蔣麗芸議員贊成。 \n 何秀蘭議員、田北俊議員及張超雄議員反對。 \n 劉慧卿議員、胡志偉議員、范國威議員、陳志全議員、單仲偕議員及黃碧雲議員棄權。",
+      "sequence": 91,
+      "bookmark": "SP_LC_PSD_00098"
+    },
+    {
+      "title": "",
+      "content": "主席曾鈺成議員沒有表決。 \n主席宣布經由功能團體選舉產生的議員，有26人出席，19人贊成，5人反對，2人棄權；而經由分區直接選舉產生的議員，有25人出席，15人贊成，3人反對，6人棄權。由於議題獲得兩部分在席議員分別以過半數贊成，他於是宣布修正案獲得通過。 THE PRESIDENT announced that among the Members returned by functional constituencies, 26 were present, 19 were in favour of the amendment, five against it and two abstained; while among the Members returned by geographical constituencies through direct elections, 25 were present, 15 were in favour of the amendment, three against it and six abstained.  Since the question was agreed by a majority of each of the two groups of Members present, he therefore declared that the amendment was passed.",
+      "sequence": 92,
+      "bookmark": "EV_VOTED_00099"
+    },
+    {
+      "title": "主席",
+      "content": "蔣麗芸議員，你現在可以發言答辯，你還有56秒。",
+      "sequence": 93,
+      "bookmark": "SP_LC_PSD_00100"
+    },
+    {
+      "title": "蔣麗芸議員",
+      "content": "主席，各位同事，對於我今天提出的議案，無論大家是否同意或只認同部分，我也希望大家為了青年人的發展而支持我今天這項議案。多謝大家。",
+      "sequence": 94,
+      "bookmark": "SP_MB_CLW_00101"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 95,
+      "bookmark": "SP_LC_PSD_00102"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出的待決議題是：蔣麗芸議員動議的議案，經梁繼昌議員、郭偉强議員、張國柱議員、陳健波議員及田北辰議員修正後，予以通過。",
+      "sequence": 96,
+      "bookmark": "EV_PUT_00103"
+    },
+    {
+      "title": "主席",
+      "content": "現在付諸表決，贊成的請舉手。 \n(議員舉手)",
+      "sequence": 97,
+      "bookmark": "SP_LC_PSD_00104"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(沒有議員舉手)",
+      "sequence": 98,
+      "bookmark": "SP_LC_PSD_00105"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 99,
+      "bookmark": "SP_LC_PSD_00106"
+    },
+    {
+      "title": "",
+      "content": "主席：我認為議題獲得經由功能團體選舉產生及分區直接選舉產生的兩部分在席議員，分別以過半數贊成，我宣布經修正的議案獲得通過。",
+      "sequence": 100,
+      "bookmark": "EV_VOTED_00107"
+    },
+    {
+      "title": "主席",
+      "content": "第六項議員議案是一項休會待續議案。 \n 根據《議事規則》第16(6)及(7)條，這項辯論的總發言時間為一個半小時，當中75分鐘供議員發言，而根據《內務守則》第18(b)條，每位議員(包括議案動議人)只可發言1次，發言時限為5分鐘；答辯的官員的發言時限是15分鐘。我想提醒議員，當議員的總發言時間達到75分鐘時，即使有議員正在發言，我也會請該議員即時停止發言。",
+      "sequence": 101,
+      "bookmark": "SP_LC_PSD_00108"
+    },
+    {
+      "title": "主席",
+      "content": "現在是下午5時12分，辯論現在開始。 \n 有意就議案發言的議員請按下“要求發言”按鈕。 \n 我現在請方剛議員發言及動議議案。",
+      "sequence": 102,
+      "bookmark": "SP_LC_PSD_00109"
+    },
+    {
+      "title": "方剛議員",
+      "content": "主席，我動議“本會現即休會待續，以就下述事項進行辯論：終審法院裁定綜援申請人不需居港滿7年的事宜的影響”。 \n 我今天提出這項休會辯論，是因為終審法院於上月的裁決，令綜援申請人不需居港滿7年便可以申領綜援。這個判決影響深遠，申領綜援人數馬上激增，在作出判決後短短3個星期左右，已有超過1 400宗新來港人士的申請。雖然有數位局長均表示，這項裁決只適用於綜援，對其他福利並無影響，但我想問，究竟政府有否想過會輸這宗官司？其實是沒有的。如果將來有人要求終審法院就其他福利作出司法覆核，到時政府會怎麼辦？市民十分擔心，這項判決會造成政府的福利開支無法計算，變成一個無底深潭，最終全部要由我們納稅人“埋單”。 \n 我辦事處的同事前兩天收到一位自稱為新移民的電話，表示要就我們反對居港未滿7年可以領取綜援的立場表達意見。我初時想，新移民來電，當然是要責罵我們，誰料不是這樣。那位於1973年來港的新移民，十分認同我們提出的“亂派福利，納稅人埋單”這種看法，所以特別來電表達支持。他更以自己為例，認為新移民應該先自食其力。 \n 我十分感謝那位新移民的支持，但我亦想在此說清楚，我不是要阻撓任何有需要人士申領福利，只是希望政府能盡快完善社會福利網制度，將有限的資源用得其所，協助最有需要的人士。但很可惜，政府一直不願意說清楚，因應這項判決，最終要納稅人支付的款項會有多少。由莊豐源案開始至今已有超逾20多萬名“雙非嬰兒”，如果他們的父母甚至祖父母也申請來港，這批人動輒也有數十萬。他們對香港的福利會有何需求？香港的財政又是否足以應付？究竟政府有何應變方式？ \n 此外，在這次的判決後，我覺得香港市民與新移民之間的矛盾變得更為尖銳，大家對立的情況更為嚴重。如何紓緩及化解這個矛盾，亦是政府必須盡快處理的問題。 \n 此外，這項判決亦帶出了單程證審批權的問題。有不少市民希望香港政府可以獲得新移民單程證的審批權。雖然根據《基本法》第二十二條，單程證審批權由中央政府擁有，但這並不代表香港甚麼都不用做。我們可否要求中央政府在審批來港新移民時更為嚴格？就此，我們自由黨將會向中國人民政治協商會議全國委員會、全國人民代表大會代表及立法會發起聯署，請求內地政府跟進。 \n 我認為今天提出這項議案實有迫切性，希望讓立法會議員及早討論，讓各位同事向政府表達意見，亦希望政府盡快詳細交代判決後的最新情況及影響。多謝主席。 \n方剛議員動議的議案如下： \n“本會現即休會待續，以就下述事項進行辯論：終審法院裁定綜援申請人不需居港滿7年的事宜的影響。”",
+      "sequence": 103,
+      "bookmark": "SP_MB_VF_00112"
+    },
+    {
+      "title": "主席",
+      "content": "我現在向各位提出的待議議題是：本會現即休會待續。",
+      "sequence": 104,
+      "bookmark": "SP_LC_PSD_00113"
+    },
+    {
+      "title": "鄧家彪議員",
+      "content": "主席，在終審法院作出這項裁決後，工聯會、我及其他同事亦有作出回應。我們重申，我們尊重終審法院的裁決，尊重香港作為法治社會，應遵從法院作出的裁決。因此，我們要作出理性的討論，在這項裁決下，我們可以做些甚麼？ \n 我認為大家無須過於憂慮。我小時候聽到所謂的“新移民”，在少年時看到很多中港家庭都是老夫少妻，到2005年我開始在東涌逸東邨從事社區工作  當然其後我透過選舉成為區議員  我看到在這10年間，中港家庭的夫妻年齡差距越來越少，大多是在10年以內。為甚麼？不論是丈夫或妻子，可能是上一代的新移民，他們在香港找不到配偶，認為同鄉能“同聲同氣”，於是便回到內地找年齡相若的人士結婚，其後他們的配偶便來港生活，兩夫婦辛勞工作撫養子女。根本上，香港人拼搏及奮發向上的精神，繼續在中港家庭體現。所以，我認為無須過於憂慮，亦不需要說這類家庭都是老夫少妻，配偶抵港後沒有經濟能力，絕對不是這種情況。我重申，從趨勢來看，中港家庭夫婦的年齡差距越來越收窄。 \n 第二，其實有誰希望領取綜援？綜援金額真的很豐厚嗎？一個領取綜援的三人家庭，大約可獲發放六千多、七千元，一份工作的最低工資已經超過7,000元。我們力推的最低工資在2011年5月1日開始實施至今，我在多個場合都說過，工資有所改善，工人有底價，令一眾基層人士不再倚賴綜援而出來工作。效果是怎樣呢？最低工資生效至今，超過20%至25%的綜援受助人(單親、低收入及失業綜援類別)完全不需要再領取綜援，他們已投身就業市場。 \n 所以，工作環境及工資極為重要。我們反而說，政府是否有需要因應這項判決而加大力度，在就業援助方面，協助新移民更好地融入香港社會？ \n 最近，我協助一羣在內地(上海、廣州及北京)的醫院護士來港考取護士資格，他們已經降級，不是考註冊護士，而是登記護士。考了1年、兩年、3年都考不到，不是因為他們不夠專業，而是香港考核當局的安排極之不周。我在此不作深入討論。其實內地有很多有能力的人來到香港，但因為兩地的制度及資歷架構不同，我們浪費很多人才。我希望張建宗局長作為勞工政策的推動者，能夠看看這個問題。 \n 最後，我呼籲特區政府，不要因這宗官司而感到害怕，收回原先計劃推出的福利措施，並且把永久及非永久性居民的申請資格分開。例如我們預計稍後會推出的低收入家庭津貼，希望當局也能讓新來港人士申請。正如現時推行的鼓勵就業交通津貼計劃，並沒有規定只有香港永久性居民才可以申請。當局應透過一項具補貼性質的低收入津貼，鼓勵新來港人士工作，即使他們的技能未達到香港社會的要求，\n即使人地生疏，他們也可以找到工作。政府會保障他們基本的生活水平，令他們不需要倚賴綜援。 \n 我希望張建宗局長能向特區整個管治班子反映，不要因那宗官司而感到害怕，將所有福利項目縮壓並收回；反之，當局應積極考慮如何令新來港人士不需要倚賴綜援，加入就業市場。 \n 我謹此陳辭。",
+      "sequence": 105,
+      "bookmark": "SP_MB_TKP_00114"
+    },
+    {
+      "title": "范國威議員",
+      "content": "主席，終審法院早前裁定申領綜援需要居港7年的政策違憲，引起坊間巨大的回響。很多市民擔心今次的裁決對香港社會福利範疇的涵蓋面有重大影響，不僅是綜援，可能還會影響香港居民輪候公屋，甚至安老服務等方面。主席，我認為這些討論都較為表面，並未觸及3個核心問題。那就是今次的裁決揭示了香港現時的福利政策欠缺合理的基礎，移民政策有不公平的地方，《基本法》第三十六條也存有漏洞。新民主同盟認為政府必須三管齊下，才能有效地解決問題。 \n 第一，我們認為政府應藉着今次機會檢討福利政策。我們重視香港的司法獨立，但司法獨立不等於特區政府不可因應法院的裁決修改政策。政府應立即重新立法，以及重新以合理的基礎來界定永久性居民和非永久性居民可享有的福利；同時，政府亦必須跟進和交代如何審批和覆核申請人在香港境外的資產。現時另一個挑戰公屋“上樓”7年限制的官司已如箭在弦，我們很擔心司法覆核陸續有來，當局須面對更多挑戰。 \n 第二，主席，《基本法》第三十六條列明“香港居民有依法享受社會福利的權利”。當中“香港居民”的定義包括永久性居民和非永久性居民，這樣令香港的福利政策“一刀切”，導致大量香港居民，特別是永久性居民覺得這制度不公平。新民主同盟因而要求從根源入手，以最正規的方式解決問題。政府當局必須修改《基本法》第三十六條，將“香港居民”更改為“香港永久性居民”有依法享受社會福利的權利，避免香港的福利制度有機會被濫用，顧全香港人對公平和合理的福利制度的要求。 \n 第三，在移民政策方面，現時香港在對待大陸新移民的安排遠較外地新移民寬鬆，甚至存有雙重標準。如果今次向終審法院提出上訴\n的孔女士沒有中國國籍，她在喪偶後將難以繼續獲發居港簽證，可能被遣返原居地。新民主同盟倡議政府應考慮只容許有經濟能力，或獲得財政擔保而無須領取綜援的人士來港定居，因為接受家庭移民的地方沒有必然的義務，以及在短期內為新移民提供社會福利。況且現時社會福利署可行使酌情權批出綜援，這已能幫助有真正經濟困難的新來港人士。 \n 新民主同盟亦促請政府應研究引入移民計分制，按香港本土需要就年齡、學歷和職業類別等列出計分的標準，當然，家庭團聚是獲得最高的分數，從而令這個制度可以配合特區政府和香港人希望透過移民政策，紓緩香港人口老化和補充勞動力的人口政策目標。計分制亦可有效杜絕“走後門”、假結婚等情況，同時為香港帶來人才，確保競爭力。 \n 不過，在引入移民計分制之前，新民主同盟認為核心中的核心工作，是政府必須取回單程證的審批權，讓香港在移民政策上能夠化被動為主動。張建宗局長經常說單程證審批權不是移民政策，這並非事實。取回審批權可以令特區政府確保新來港的移民，在質和量方面均有所保證。香港人對香港社羣自身行使決定權是天經地義的，亦是本土主義的核心，更是中港矛盾的基本關鍵。 \n 所以，主席，立法重訂福利政策、修改《基本法》第三十六條和取回單程證審批權，三管齊下，才可以令香港從現時的困境中轉危為機。 \n 主席，我謹此陳辭。",
+      "sequence": 106,
+      "bookmark": "SP_MB_GF_00115"
+    },
+    {
+      "title": "譚耀宗議員",
+      "content": "主席，終審法院裁決申領綜援人士必須居港7年的要求違反《基本法》，因此有關制度將恢復到2004年之前的安排，即新來港人士只需居港滿1年，便可以申領綜援。這個裁決引起社會廣泛的爭議。 \n 終審法院在判詞中指出，政府聲稱要減少綜援開支，但實施7年居港規定後可節省的開支微不足道，亦無證據顯示有助確保社會保障系統持續運作。終審法院這個觀點和普通市民的看法顯然有很大的差距。 \n 香港現時有12 000名新來港人士領取綜援，佔領取綜援人士總數的3.3%。在2004年實施居港7年期期限前，新來港人士領取綜援的比例則為13%。換言之，隨着終審法院的判決，將來領取綜援的新來港人士將恢復到13%的比例，實際人數會增加4倍，涉及每年約20億元的額外開支。我們從綜援的實際運作也看到，由2004年至去年10月，社會福利署(“社署”)總共收到約36 000宗居港不足7年的新來港人士的綜援申請，可見政府財政開支的壓力是確然存在的。終審法院2001年對莊豐源一案的判決，觸發了來港產子潮，20多萬名“雙非兒童”對本港醫療、教育等造成極大的衝擊，市民對此印象深刻。所以，今次終審法院對綜援申請資格的裁決再次令大家憂心忡忡。 \n 2004年收緊綜援居港年限的同時，政府將7年居港年期的要求同樣適用於長者“生果金”及傷殘津貼。因此，今次終審法院的判決下一步將衝擊這些福利政策，我們相信新一波的訴訟及社福申領潮將會隨之而來，對政府的財政開支必然造成長遠的壓力。 \n 我們想問的問題是，政府有否仔細研究今次判決對各項社會福利措施甚至其他公共政策的衝擊？政府是否已經為未來福利開支的進一步增加做好準備？ \n 另一個令人擔心的情況是，今次的判決會否激發本來已經日漸尖銳的內地與香港的矛盾，使香港過去多年協助新來港人士融入社會的工作成果受到破壞？ \n 面對種種憂慮，特區政府應該及早疏導市民的怨氣，早日提出各項紓解民困的措施。另一方面，政府需要加強協助新來港人士提升工作技能、積極就業，自力更生，從而減少對社會福利的依賴。同時，政府亦應採取有效措施，打擊濫用綜援，令寶貴社會資源獲得合理分配和運用。 \n 我謹此陳辭。多謝主席。",
+      "sequence": 107,
+      "bookmark": "SP_MB_TYC_00116"
+    },
+    {
+      "title": "梁美芬議員",
+      "content": "主席，孔允明案在香港社會產生巨大反響。近日來，連一些社工也向我表示感到震驚，不明白為何終審法院會作出這樣裁判。我認為，市民感到憂慮和關注，並非由於他們認為孔允明不值得同情；相反，大家反而可能認為社會福利署應該做得更好，當初應該特別處理這宗個案，給予她援助金，這樣便不會帶來今天這宗訴訟。但是，這種說法，也不是長遠之策。 \n 2002年莊豐源案引致法律紛爭，其實當時全國人民代表大會常務委員會已經表示不同意終審法院某些看法，但當時大家均認為案件影響甚微，於是便把不同見解放下。結果，相關的問題終於在10年後的今天出現，在社會產生巨大的回響，也導致嚴重的中港矛盾。所以，就孔允明案而言，我個人相信，在財政或相關方面不會出現甚麼即時問題，反而在其他範疇可能會引起另一輪司法覆核，包括有人可能就公共房屋的權利申請司法覆核，因而出現另一種憂慮。 \n 好像莊豐源案一樣，孔允明案最低限度會成為一個很大的誘因，令有條件享受這項福利的內地人更希望來港，因為他們認為他們有權享有這些福利。同時，這宗案件和判詞，亦突顯行政、立法和司法的關係。為甚麼社會有這麼大的回響？坦白說，范國威議員、方剛議員和其他議員剛才提出的問題，其實均應該在立法會找機會進行討論，甚至爭論，而我亦相信議員也想確定，就孔允明這類個案而言，究竟應否把7年的限制，縮短至1年？其實，我們本應可以進行健康、合理和詳細的討論，但現時法院已作出裁判，而在這之前公眾和立法會議員均沒有機會參與討論，以致公眾一聽到裁判便出現反彈和回響。 \n 《基本法》第一百四十五條述明：“香港特別行政區政府在原有社會福利制度的基礎上，根據經濟條件和社會需要，自行制定其發展、改進的政策。”其實“自行制定”的字詞，即容許香港政府和香港社會在這類政策上，行使酌情權。當然政府的酌情權要運用得有智慧和合理。我認為孔允明案經法院判決後，政府在這方面的酌情權已經被奪走。 \n 其實，為何要在2004年把申領福利的居港年期限制由1年延長至7年？這是由於當時的社會環境，當年爆發SARS，經濟不景，連大學也要凍薪，政府可能基於莊豐源案會帶來更多“雙非人口”，於是便作出這項決定。當年沒有引起反彈，但今天情況卻不然，為何會引起反彈？原因是社會環境已有所不同，莊豐源案的影響在10年後的今天，市民已能看到。 \n 另一方面，經濟的循環難以預計，令人更擔憂的是，萬一將來經濟真的再次緊縮，政府便失去這項酌情權，不能作彈性處理。所以，我認為現時並不應討論香港的財政能否承擔的問題；反之，立法會失去機會參與，以及政府失去酌情權來改變政策，更值得注意。更重要的是，我不太同意法院在第一百四十段提到，法院不同意政府採用這項政策，因為有違促進人口年輕化和家庭團聚的方針。其實，促進人\n口年輕化並不一定要提供福利。我們可以支持香港本土的年青人，推出更多其他政策鼓勵生育，鼓勵本港優質的年青人生育。但是，現在不能了，一定要採用這個方式，因此，我認為憂慮反而在此。 \n 今天提前有這項討論，我希望無論將來如何也好，我們可否(計時器響起)......",
+      "sequence": 108,
+      "bookmark": "SP_MB_LMF_00117"
+    },
+    {
+      "title": "主席",
+      "content": "梁議員，發言時限到了。",
+      "sequence": 109,
+      "bookmark": "SP_LC_PSD_00118"
+    },
+    {
+      "title": "梁美芬議員",
+      "content": "......好的。",
+      "sequence": 110,
+      "bookmark": "SP_MB_LMF_00119"
+    },
+    {
+      "title": "潘兆平議員",
+      "content": "主席，在終審法院裁定政府於2004年1月，把單程證計劃下來港定居的港人配偶申請綜援的居港時間規定，由1年改為7年屬違憲之後，我對於終審法院的裁定，心情不無矛盾。一方面，正如終審法院首席法官在判詞引述勞聯前立法會議員李鳳英所說，改變來港家庭團聚的配偶申請綜援資格的措施，並不符合家庭團聚的政策目標，但另一方面，我亦如不少市民般，擔心終審法院的裁定會對公帑造成沉重負擔。 \n 今次終審法院所作裁定的焦點，在於持單程證來港定居的港人配偶申請綜援的資格。如果裁決的影響界線僅在於此，我相信並不會對公共財政造成很大衝擊。政府昨天向本會提交的資料指出，由終審法院作出裁決至今，社會福利署已收到1 400多宗由居港少於7年人士提出的綜援申請。對於終審法院裁決的最終影響如何，我希望政府能盡快作出評估，以平息市民的憂慮。 \n 市民擔心終審法院的裁決會引致濫用綜援制度，以致造成沉重的財政負擔，這實屬人之常情，並不意外，而我相信只要政府相關部門能把好關，便可減少濫用綜援的情況。但是，社會對終審法院所作裁決的討論，部分帶有排斥新移民的情緒，政府必須正視。事實上，新移民為香港所作的貢獻，遠遠大於他們申領的社會保障。一個普遍的情況是，新移民刻苦耐勞，補充了香港的勞動力，特別是一些勞動量大甚至屬厭惡性的工種，均有賴新移民默默承擔。香港經濟能不斷發展，新移民亦有作出貢獻。 \n 主席，無論我們是否認同終審法院的裁決，終審法院的裁決已經作出，政府必須按其決定修改政策。我希望立法會今天辯論終審法院的裁定，並不會加深社會的分化，而只會澄清社會對終審法院所作裁定的誤解，平息市民的憂慮，這對整體社會都會有好處。 \n 我謹此陳辭，多謝主席。",
+      "sequence": 111,
+      "bookmark": "SP_MB_PSP_00120"
+    },
+    {
+      "title": "湯家驊議員",
+      "content": "主席，香港很特別，因為每次特區政府輸了官司，很多人便第一時間提出種種憂慮，憂慮終審法院有否看漏了甚麼；憂慮終審法院是否與特區政府對着幹，沒有配合特區政府的施政；憂慮終審法院是否完全沒有考慮某些證據，或者10年後社會將發展成甚麼模樣。主席，這樣的憂慮有很多。我覺得很奇怪，因為每個地方的司法體系都要秉行公義，整個社會都應該全力擁護。為何特區政府輸了官司，便出現這些憂慮？在特區政府贏官司時，並沒有出現這些憂慮。不過，主席，可惜的是，特區政府贏官司的機會好像非常少。所以，有人便會質疑終審法院是否專門與特區政府作對。主席，我想說清楚數個基本事實。 \n 第一，終審法院不能自己打官司，一定要有人提出訴訟，才可以作出判決，而法治最基本的原則是特區政府要依法施政，不能作違法、違憲的行為。主席，特區政府不違法，便不會輸官司。特區政府不違憲，便不會輸官司。特區政府的行為若是光明磊落，便不會輸官司。為甚麼特區政府會經常輸官司？有時我覺得，為何不看看是否小朋友太頑皮，反而責怪媽媽教導小朋友出問題？ \n 第二，主席，終審法院依據法律判案，法律不是由終審法院訂立的。我們現在關心的《基本法》第二十五條、第三十六條中“香港居民”這4個字，並非終審法院所寫，而是人大通過《基本法》時的用詞，這個用詞並特別有別於“永久性居民”。 \n 主席，第三，終審法院判案須根據證據。這些證據不是終審法院創造的，不是從抽屉裏拿出來的，而是特區政府呈交的。特區政府表示，取消7年的限制會令特區政府財政受到極大掣肘，但政府呈上法庭的證據卻適得其反。所以，政府當然會輸官司。主席，我不明白為何特區政府明知自己會輸，仍要打這場官司。是政府的律師特別堅持，還是律政司堅持要打官司？我很奇怪為何律政司今天沒有派代表出席會議。這樣說可能對律政司不太公平，因為這可能是上屆律政司\n留下的爛攤子。但是，現任的律政司在官司進行期間亦可表示，在看過證據後，覺得贏不了官司。為何明知贏不了，仍要繼續下去？ \n 主席，有些人擔心，判決會否造成更多新移民申請輪候公屋。主席，只要你留心看那份判詞，便會明白這場官司涉及的是金錢，而輪候公屋涉及的是土地，所以考慮點必然是不同的。然而，如果特區政府呈上法庭的理據同樣無法證明7年限制是合理的，主席，政府同樣會輸。或者有些人會認為特區政府用的是苦肉計，故意輸官司，多輸數次後，便有可能推翻終審法院的判決，再進行一次人大釋法也說不定。不過，我不敢假設特區政府會使用這種卑劣手段。",
+      "sequence": 112,
+      "bookmark": "SP_MB_TKW_00121"
+    },
+    {
+      "title": "何秀蘭議員",
+      "content": "主席，日本導演今村昌平在1983年拍攝了一套改編自日本小說的電影，名為《楢山節考》。這部電影講述日本一個窮困的村落，貧窮得老人到70歲時，便要由大兒子背上深山等死，這樣便不會浪費糧食。村內家家戶戶貧窮得只有長子才有權成婚，其他子女則不能成婚，以免人口增長。當中最令人心傷的一幕，是一個家庭被懷疑偷取了他人的糧食，於是村民便一起衝入該家庭內搜索搶劫，乘機取走所有儲糧，不管那些糧食是否偷來的。這個家庭當然要捱餓，對整條村的村民也感悻悻然。其後村民更陷入恐慌，害怕把人趕入絕路後會被尋仇，所以在某個晚上糾黨聚眾，把那家人全家殺光。 \n 主席，貧窮、猜疑、恐懼，最終演變成滅絕的殺戮，沒有一個社會能付出這代價。今日我們香港確實也非常貧窮，所指的是物質生活十分貧窮，因為在商業環境被壟斷的情況下，生活開支很高，而其原因是官商合謀，造成貧富懸殊。不過，我們的精神生活更為貧窮，令我們面對政府所製造的困局時，要在市民中尋找代罪羔羊，甘心被政府愚弄，甘願相信政府帶頭“唱衰窮人”，說綜援養懶人；甘願相信政府帶頭製造新移民是香港社會負累的言論，說當167萬人來港後，香港便會陸沉。 \n 當然，我們也有恐懼，包括來自中央要香港在文化上同化的政治壓力。這種種的恐懼和擔憂，很容易令新移民這個社羣承擔所有的罪名。然而，當社會撕裂，當新移民和貧困家庭的小孩子感受到這股怨懟時，兩個社羣之間的矛盾和對立，便會因為這種互動而增加。我們的社會是無法付出這代價的。 \n 立法會當然要小心監察公共開支不能被濫用，但我們也要提供足夠的服務，以支援有需要的人。我們支持爭取審批權，令真正需要家庭團聚的人來港，不要讓少數人違規，不要因這些違規的少數人，而令我們漠視大多數守法的人的真正需要。 \n 但是，我也很擔心，針對新移民的言論，會擴闊至排斥窮人，而不只是排斥新移民，而是排斥窮人。譬如有一些言論，指基層的男人有責任在35歲前在香港娶妻。梁美芬議員剛才也說優質年輕人生育，是否要就何時娶妻生子、生育而作計算呢？是否須考牌呢？我也擔心這種言論會演化為歧視單親母親。 \n 身為立法者，我們有責任完善政策，有責任討論政策，包括家庭團聚政策、人口政策和出入境政策。然而，我希望各方在商討政策時，切記不要助長對特定社羣的偏見，切記我們也有責任阻止偏見的蔓延。 \n 有意見說新移民貪求申領綜援，其實很多我們所認識的新移民，非常努力工作，他們在香港擔任基層厭惡性工作，而這些工作是必不可少的，例如分揀垃圾。所以，與其抱怨說要增加綜援支出，工黨請政府不如設立回收重造基金，這方面每年的經常性開支為20億元，能製造1萬個職位，主要是在社區內為香港市民回收、分類、清潔家居廢物。這個基金可令有家庭責任的單親母親選擇彈性上班時間。我們與其提供綜援，倒不如製造就業機會，令他們找到工作，這才是多贏的方案。 \n 主席，社會富足，互相扶持是易事；但面對困厄時，如何能共存才是對人性的真正考驗。我希望大家看清楚現況，由於政府在人口政策和社會服務上有所缺失，以致出現各種問題，因此我希望社羣間的怨恨，不要因為政府的管治缺失而蔓延。 \n 多謝主席。",
+      "sequence": 113,
+      "bookmark": "SP_MB_CH_00122"
+    },
+    {
+      "title": "梁家傑議員",
+      "content": "終審法院對孔允明案的判決突顯一個問題，亦令公眾聚焦於單程證的審批制度上，讓大家看到單程證的審批制度是如何荒謬。以孔允明女士為例，她是否可以來港定居、又有多少個孔允明可以來港定居，而當她們來港後，這些人會對香港造成甚麼影響？其實，香港政府根本無法預測像孔允明女士般的新來港人士的背景、她\n們來港後會否申請綜援、能否照顧自己等，我們對這些問題是絕對處於被動狀態的。所以，當時曾蔭權便草率地劃下一條界線，其後卻無法通過在憲法和法律上的測試。 \n 主席，明顯地，這種情況其實與香港特區政府是否有權審批單程證入境者有直接的關係。我知道每當討論這問題時，大家也會有所忌諱，就是建制派議員又會說《基本法》第二十二條第四款是一個禁區，應該由中央人民政府處理，特區政府無從置喙。可是，實際情況是否這樣？主席，關於單程證的審批權，如果我們研究整部《基本法》的起草過程，有些文章指出，在港英時期，中央人民政府基於不平等條約的問題，並不承認當時的殖民政府，所以不容許港英政府擁有任何審批權。可是，在回歸後，考慮點是否有所不同，港府又有否嘗試奪回審批權？中央人民政府可以審批國民出境到香港特區，但審批入境權應該是在特區政府手上，這樣才算合情合理。我想提出一個問題，為何內地省份也有接收戶籍轉換的審批權，例如持有上海戶籍者如果想移居廣州或深圳，廣東省或深圳市政府擁有審批權，但為何單獨是香港特區沒有審批權，就連深圳或廣東省的省政府也不如呢？這是甚麼邏輯，是甚麼道理？ \n 主席，說穿了，爭取單程證審批權可能會被視為挑戰中央行使其權力，屬一個禁區，所以當方剛議員在內務委員會提出這項議案時，他亦強調不希望區分建制派或泛民派，希望大家要議事論事。可是，我想在此作出挑戰，究竟建制派議員會否繼續忌諱，不討論《基本法》第二十二條第四款該如何操作？因為，我們一天仍處於完全被動的狀態，要討論這些單程證來港者對香港社會，不論是在醫療、教育、福利方面造成多大的衝擊和負擔，恐怕也只是徒然。我亦希望透過今天的辯論，讓大家察悉單程證審批權的安排是如何的荒誕、荒謬，從而向特區政府施加壓力，請它們再次研究《基本法》第二十二條第四款該如何操作。 \n 我謹此陳辭。",
+      "sequence": 114,
+      "bookmark": "SP_MB_LKK_00123"
+    },
+    {
+      "title": "毛孟靜議員",
+      "content": "單程證計劃已操作多年，為何到了今時今日，才忽然有資深大律師說這是荒謬、荒誕的呢？這是因為歷史隨着新聞改變，亦即所謂時移世易，為何以前沒有問題的事情，現在會發生問題？所以，我想提醒各位，接下來一定會有人說，香港從來是一個移民社會，我們的上一代全屬移民，為何以前沒問題，到現在卻要受到批評，大\n家是否歧視新移民，歧視窮人？這究竟是甚麼鬼話？時代已經改變，從1997年至今，現在已是2014年，請大家睜開眼睛看清楚香港正在發生些甚麼事。 \n 我實在花了很多年時間，最低限度以4年時間克服此一疑問。我們有一種同在一個社會生活的心態，我甚至曾撰文以一個字眼質疑香港人現在是否已經“上了岸”，所以有一種“不准搭枱”的主義和心態。這好比同桌吃飯，雖然在12個座位中仍有兩個空位，但卻不准新移民到來，因我們沒空招呼他們，沒有資源。香港人是否懷有這種心態，是否真的冷漠至此？我的答案是否定的。 \n 移民一旦來到香港，辦妥所需手續，他們便是香港人，沒有歧視或不歧視的問題。但是，說到底，為何在單程證的審批權方面，香港會完全沒有發言權？加拿大地大物博，但一說到家庭團聚，它便索性“落閘”，推說人太多，吃不消。加拿大會“落閘”，請這類移民暫時不要申請。當然，大家又會說我們的新移民與加拿大那種家庭團聚不盡相同，因為那是國與國之間的移民，而我們的則是一國之內的遷移。 \n 那麼我便和你談一國之內的事。已經重複多遍，不知多少人曾經指出的是，如屬一國之內的遷徙，為何由湖北遷往湖南，天津遷往廣州，全部都要弄好戶籍，唯獨香港無此需要？反過來說，我們奉行“一國兩制”，“兩制”的精神哪裏去了？在內地應該肯定有此權利，讓需要到香港與家人團聚的天津居民，獲得天津市相關機構發給的出境權。但是，既然目的地是香港，香港為何完全沒有入境審批權？ \n 保安局昨天表示，完全看不到有需要和有理據讓香港取回單程證審批權。梁家傑議員剛才所用字眼是“奪回”，為甚麼要搶回來？因為內地真的不肯放手。曾有一個我認為並形容是“白癡”的念頭，那就是讓香港參與單程證的審批權。“參與”些甚麼？不外乎是一起開會，讓你知道有關安排，然後請你走開。 \n 我手上有一份報告，內容與現時法庭一宗個案有關。有人足足申請了7名成年子女來港，後來被揭發當中有4人原來是其姪兒和姨甥，但入境處卻不採取行動，直至6年後才接觸那4人，指出他們的申請似乎不合法。然後到了2010年，當局才決定他們屬非法來港，但他們表示已經來港10年，現在要他們離港有欠人道。我聽來也感到不人道，但這是否理據？政府根本不管，試問還有多少宗這類個案？難道這還不成理據？",
+      "sequence": 115,
+      "bookmark": "SP_MB_CM_00124"
+    },
+    {
+      "title": "郭榮鏗議員",
+      "content": "主席，最近終審法院就綜援案件的判決，可能是近年來最具爭議性的案件之一，也令整個香港深入思考及討論社會福利政策、移民政策及一些關乎原則的議題。我留意到有部分市民認為終審法院的判決不能符合他們的期望，也認為法庭的判決罔顧民情及社會現況。 \n 主席，法庭無法就其判決所招徠的責難作任何申辯，而我作為法律界議員，有責任捍衞法庭及香港的法治精神。 \n 根據三權分立下的原則，一般而言，法庭會尊重行政當局在制訂政策及執行政策方面的權力、角色及專長，因此，法庭盡可能避免干預甚或推翻政府的行政及政策，尤其在社會及經濟政策方面的爭議，法庭一般會盡量避免干預。但是，這並不等於在任何情況下，法庭都會完全置身事外，尤其當行政當局於執行政策時明顯沒有合理基礎，法庭在逼不得已的情況下，惟有宣讀這項政策違憲或失效。 \n 在今次的案件中，政府一方以《基本法》第一百四十五條所訂明的經濟條件作為提高綜援申請人士居港年期的規定。但是，大家都知道，政府不單坐擁萬億元儲備，更長期每年有高達數百億元的財政盈餘，而政府提供的數字亦顯示，該政策所節省的開支只有7億多元。法庭的判決指政府在這方面的理由不足以成為一個合理的基礎，所以決定推翻這方面的政策。我亦相信，不同意法庭判決結果的人，亦會同意一個這麼富有的特區政府，以省錢作為辯護理由，是怎樣也說不通的。 \n 其實，法官和香港普羅市民一樣，都會看新聞及報章，他們當然清楚民情，亦預計到本案的判決會引起怎樣的民情反彈。但最終，法庭應該如何取捨？ \n 去年，在法律年度開啟典禮上，終審法院首席法官馬道立曾作以下的辯解：(我引述)“法庭的核心職能是依法秉行公義。我常被問及，在法庭判案時，尤其是當案件涉及公法和憲法原則時，會否考慮公眾利益。法庭當然會考慮公眾利益，但這並不表示法庭在判案時，會受社會某些界別，或大多數人士，甚至政府所樂於得見的判決結果所影響。公眾利益的意思並非如此。法庭致力維護公眾利益，所指的是法庭在執行法律時，必會遵循公平、公義和維護尊嚴的基本理念。我提及這些基本理念，是因為法庭不單必須引用法律條文的內容，有時候更重要的是要體現法律條文的精神。但無論如何，一切均須以法律及\n其精神為依歸。不論任何人士或任何機構都不可凌駕於法律之上。”這便是法庭所要捍衞的、最重要的公眾利益。 \n 主席，法官的判決當然不能令所有人都滿意，但我希望一些持不同意見的人士能尊重、嘗試理解法庭的判決，這亦是香港人能一起維護法治的最好方法。我希望大家可以在這方面共同努力。多謝主席。",
+      "sequence": 116,
+      "bookmark": "SP_MB_DK_00125"
+    },
+    {
+      "title": "田北辰議員",
+      "content": "主席，香港最值得驕傲的是法治，即使法治會令社會發展受阻，例如有市民提出司法覆核，拖慢港珠澳大橋的興建；法治有時會影響社會氣氛，例如莊豐源案，定義任何中國公民在港誕下的子女均可獲得居港權，引起社會極大回響。 \n 不過，法便是法，正所謂“不依規矩，不能成方圓”，“國無法不治，民無法不立”。法是維護社會秩序的基石。今次終審法院裁定新來港人士居港滿7年才合資格領取綜援的規定是違憲的，即使這個判決給市民帶來不安和憂慮，甚至引起社會分化和中港矛盾，最直接的影響一定是為財政帶來更沉重的負擔。不過，我們絕對不能輸打贏要，必須尊重法治，否則便是不依規矩，香港不再是香港，也不再是我認識的香港。 \n 不過，是否認同來港1年便可領取綜援的法律規定，我有很大保留。我始終認為，居港滿7年才能申請綜援，可以有更大推動力鼓勵新來港人士找工作，自力更生。我曾親身探訪不少新來港家庭，不管有多困難，居住在“劏房”或“籠屋”，他們都會努力工作，尤其為了子女在香港的生活而默默耕耘，秉承香港的“獅子山下精神”。但是，如果居港1年便可以申請綜援，人面對困難有時難免會軟弱。在此我必須說明，我們固然要幫助無力自力更生的人，我們現在針對的是一羣有能力的人，我們不希望綜援變成他們的依賴。我百分之一百理解有相當多市民對無須居港滿7年便可以申請綜援的判決非常不滿，針對的便是那些有能力卻未有盡力的新來港人士。香港人有情有義，對於幫助真正有需要的基層，不會有半點猶豫。 \n 其實，一直以來，社會福利署(“社署”)在法律以外已兼顧情理，2004年，當綜援申請人居港年期規定由1年改為7年後，社署署長一直運用酌情權，向未符合居港規定的綜援申請人發放援助，情況緊急的新移民也有機會獲得綜援。過去9年，已酌情批出14 000宗申請，香港人從來沒有作出半點批評。社會上有不少聲音，希望港府向人大尋\n求釋法，推翻終審法院的判決，權衡輕重，香港不應該輕易衝擊法庭的判決，損害法治，因小失大。 \n 我擔心今次事件會令中港矛盾、分化日益嚴重，有市民對這事件的反應相當情緒化，如果政府不小心處理，隨時爆發，而且一發不可收拾。至於市民憂慮判決帶來深遠影響，擔心新來港人士申請綜援的做法會變成一個無底深潭，對此我絕對理解。有不少朋友、市民向我反映，有些甚至認為要不惜一切堵截內地人來港團聚。 \n 我想在此說清楚，內地人來港團聚的單程證配額是每天150個，2013年第三季每天平均批出136個，即使日後用盡150個配額，也只不過較現時增加約20人。即使全部新來港人士居港1年後都申請綜援，所增加的開支也應只是有限數目。我們估計，如果1年內可以申請綜援的新來港人士回復2004年之前的水平，對每年綜援開支的影響也不足20億元，肯定會“肉痛”，但我不認為會“一鋪清袋”。 \n 香港的核心價值，一直以尊己守法為榮，為了尊重法治而有所犧牲，甚至不惜一切去堅守，對我而言，這是一個無奈的妥協，但也是值得的。",
+      "sequence": 117,
+      "bookmark": "SP_MB_MT_00126"
+    },
+    {
+      "title": "胡志偉議員",
+      "content": "主席，我十分理解社會上對終審法院判決的憂慮。判決發表後，坊間甚至議會內均有很多聲音指出，將會有大量內地新移民因為綜合社會保障援助(“綜援”)取消居港年期限制而申請來港，分薄香港的資源。這類聲音當然令香港的一般市民非常憂慮。 \n 在過去多年，政府不時強調要打擊濫用綜援，但沒有回應“綜援養懶人”這標籤和指控，導致某些香港人把領取福利等同“懶人”，把領取福利標籤化。主席，我認同政府應該打擊濫用綜援，一個有手有腳、身體健全的成年人應該自食其力，非必要時不應領取綜援。但作為負責任的政府，有責任澄清很多坊間的說法，不應該把綜援領取者標籤化。 \n 在過去一段日子，很多學者及在座同事均提出，領取綜援的人士絕大部分都是長者，而綜援申請人中，健全且具有工作能力的個案不是大多數。但是，政府只是呼籲市民不要濫用綜援，卻絕少提到綜援作為社會安全網的重要性。 \n 在這次問題上，政府的態度同樣令人失望。為甚麼會有那麼多的市民如此惶恐不安呢？這正正是因為資訊不足。我們不可否認，坊間很多市民都說，有些綜援領取者隱瞞了其在海內外擁有的資產。如果社會福利署(“社署”)可以告訴市民，內地政府會向香港社署提供懷疑個案的銀行存款紀錄，相信已可以令大部分香港人安心，我相信社署有能力阻止新移民隱瞞內地資產再申請綜援。 \n 如果局長表示社署受權力限制不能在內地做某些調查，那麼政府便應該盡快與內地簽訂協議或備忘，確保調查制度公開和透明，這樣才能令市民感到安心和放心。但是，很遺憾，局長到今天仍沒有清楚交代社署實質上會如何把關。 \n 主席，我相信大部分香港人是理性和有同情心的。無論是長者、新移民或一時三刻需要緊急援助的健全成年人，只要他們是有真正需要，均可申請綜援。社會需要支援他們，這點是毋庸置疑的。但是，市民肯定不能接受因為政府把關不力，使某些綜援申請人得以隱瞞其海外資產，引致納稅人覺得用以協助真正有需要人士的綜援制度，變成那些隱瞞事實的人的提款機。這是相當不幸，亦會令真正有需要的香港人反而受到標籤和連累。 \n 所以，今次終審法院的判決所引申的問題，其實並不是新移民領取福利能否令香港承受不起的問題。事實上，有同事亦分析了，我們是要面對困難，但這絕不是承受不起的問題，判決所引申的反而是政府應交代究竟社署會如何做好調查工作，如何確保綜援制度不會遭濫用，如何確保申請人不會亦不可能隱瞞其海內外的資產，令香港納稅人覺得所付出的資源是真正幫助有需要的香港市民。社署的調查工作必須透明和公開，令香港人信服，並要令可能引申出來的社會矛盾、中港矛盾和社會分裂等問題有緩解的空間。 \n 我謹此陳辭。多謝主席。",
+      "sequence": 118,
+      "bookmark": "SP_MB_WCW_00127"
+    },
+    {
+      "title": "黃碧雲議員",
+      "content": "主席，《基本法》第三十六條規定香港居民享有社會福利的權利。如果要對某些居民(例如新移民)施以限制的話，做法必須合理及合乎比例。我們現在討論的綜合社會保障援助(“綜援”)制度，是社會福利政策內的一個安全網，旨在幫助那些無助人士，為他們提供最基本的生活需要，使其免於飢餓、寒冷及無法生存等困境。向有\n需要人士提供最基本的保護，亦是香港簽署了聯合國《經濟、社會及文化權利國際公約》後需肩負的其中一項責任。 \n 關於我們現時審視的綜援制度，大家都應該清楚，在2004年之前，這個自70年代開始實施的制度只是限制新移民在居港未滿1年期間不得申領，須住滿1年後才可申領。但是，在2004年之後，政府改變了這項政策，把新移民的居港年期規定改為要住滿7年才可申領綜援。今次終審法院的判決，是要求把有關規定還原至當初的1年限制。政府當年把居港年期限制改由1年至7年，實在有一種帶頭歧視新移民的後果，亦造成社會分化。 \n 在這項政策實施後，我們看到社會上有很多不公平的現象出現，經常亦有很多新移民婦女向我們申訴，指她們來港後，由於居港未滿7年，生活困苦至要吃“煲仔飯”，但並非“臘味煲仔飯”。主席，相信大家也聽過，所謂的“煲仔飯”是指那些屬於單親家庭的新來港婦女，她們由於居港未滿7年而不能申領綜援，亦無法出外工作，只能夠“吃”她們子女的綜援金，就是所謂的“煲仔飯”，即“煲亞仔”那些綜援金，大人和小孩一起吃。 \n 大家可以想像，一份兒童綜援金所計算的只是一名兒童生活最基本的需要，並沒有算上其母親／照顧者的生活費用，而這名母親／照顧者如果不能申領綜援的話，她們如何當照顧者？所以，在“煲仔飯”的狀態下，我們聽到很多基層新移民婦女叫苦連天，這項政策令她們的家庭，無論是大人或小孩，均陷入一個赤貧狀態。 \n 主席，我們的社會是否有條件讓他們的生活回復至一個比較符合人性的狀態？試想一下，以我們社會的進步、富裕程度，是否真的要令一些無法達到溫飽的香港居民，在面對貧困、寒冷的情況下仍得不到任何援助？若是這樣，我們又是否能心安理得？所以，民主黨支持終審法院這項判決。 \n 當然，我們明白，這項判決其實沒有意味我們要把所有的社會福利(包括房屋等)全面開放，這項判決的精神亦不在此，但我們亦必須正視，過去實施的7年限制導致某些人陷於困苦狀態。 \n 近日很多言論均在製造控訴，指新移民搶走我們所有東西和福利，我相信這應該是一種錯覺。我們希望這項判決能帶來一個更人性\n化的後果。大家亦應撇除對新移民婦女的一些負面標籤，她們不是全都如我們想像中那樣，來港是要搶香港人的福利。事實上，很多新移民婦女來港所扮演的是一個無償照顧者的角色，有些可能要照顧年紀老邁的家人、丈夫，再加上小朋友。她們已為香港付出了很大的勞動力，我們應否坐視不理，看着她們處於飢寒交迫的狀態？ \n 主席，我謹此陳辭，希望大家的討論能回歸理性。",
+      "sequence": 119,
+      "bookmark": "SP_MB_HW_00128"
+    },
+    {
+      "title": "鍾國斌議員",
+      "content": "主席，我絕對尊重終審法院的判決，而我們亦不會歧視新移民。可是，終審法院這次的判決事實上引起社會各界很大的反響，大家害怕此例一開，便會產生骨牌效應。從判決頒布至今，已有1 400多宗申請，並已有人就公屋申請資格提出司法覆核。 \n 自由黨最近進行民意調查，發現超過八成受訪市民擔心終審法院的判決會引起社會福利申請潮。我最近讀到一篇文章，當中提到如果某地方的福利過於寬鬆的話，便會吸引鄰近地區的移民湧入。這種現象稱為“福利磁石效應”  “welfare magnet”。該文章引述在80年代、90年代期間，美國威斯康辛州的福利金比毗鄰的伊利諾伊州優厚(兩個州份其實相隔不遠)，因而吸引很多人移民到威斯康辛州，假裝在該處居住。不少學者其後進行研究，探討如何堵塞這種現象。 \n 事實上，大部分香港市民均非常擔心政府庫房會因此而中門大開。最近有傳媒報道，有內地廣告表示可提供“一條龍”的移民香港服務，並保證能獲得綜合社會保障援助(“綜援”)，以此招攬生意。大家皆知道，濫用綜援和欺騙綜援的個案不時出現，最經典的個案是一對夫婦在2004年以騙取得來的綜援金到泰國旅遊，其間遇上南亞海嘯，金額高達10多萬元。 \n 當然，我們明白香港政府對單程證並無主動審批權，但早前前中央政策組首席顧問劉兆佳教授在電視訪問中表示，單程證政策並非一成不變的，過去曾作出調整。他亦表示，單程證配額多年來不斷變動，因此並非一定不能夠與中央商討的。方剛議員剛才也提到，我們會向香港地區全國人大代表及香港地區全國政協委員等發起聯署，向中央反映香港人的擔心。自由黨認為，特區政府應主動要求中央改變現時的審批準則。 \n 主席，我謹此陳辭。",
+      "sequence": 120,
+      "bookmark": "SP_MB_CKPA_00129"
+    },
+    {
+      "title": "張超雄議員",
+      "content": "主席，終審法院的判決的確引來很大回響，但我認為這項判決能伸張正義及彰顯公義，是合情合理、合法的判決。香港中文大學的學者黃洪指出，這項判決絕對合情合理，因為綜合社會保障援助(“綜援”)是一張安全網，幫助有需要人士維持基本生活。官方的說法，是“綜援計劃的目的，是以入息補助方法，為那些在經濟上無法自給的人士提供安全網，使他們的入息達到一定水平，以應付生活上的基本需要”。 \n 主席，雖然綜援是一張安全網，但如果本應受這張安全網保障的人因為安全網有漏洞，以致未能給“網”着，那麼他們便無法生存。如果綜援作為安全網有這種社會作用，那麼“因為你不符合居港年期的規定，所以無法用這張安全網把你‘網’着，只能由得你繼續下墮”的說法在邏輯上便說不過去。 \n 這張社會福利安全網應視乎需要而提供保障，而並非視乎申請人的居港年期。只要申請人是香港的合法居民，是我們的一分子，他們便應在我們的資源及制度下獲得保障。只要他們有需要，我們便要提供協助。 \n 在經濟上無法自給自足的人士包括甚麼人？主席，在綜援受助人當中，超過一半是老人家，約10%是殘疾人士、長期病患者及單親人士，兩數相加起來已達到約70%。當局假設他們在經濟上無法獨立。此外，還有在職的低收入人士，以及約有10%是有工作能力而失業的人士。為何這張安全網要規定申請人須符合居港年期規定才會提供保障呢？這概念根本是錯誤的，亦不符合綜援作為安全網的目的。所以，終審法院這次可謂撥亂反正。 \n 有人擔心判決會引起大災難，會令政府派光所有錢。不過，這是不可能發生的。綜援制度已推行多年，自1970年以來，居港年期一直訂於1年，直至2004年1月1日才改為7年。香港多年來均相安無事。在2004年前，庫房的錢可曾派光呢？沒有。雖然譚耀宗議員剛才表示，民建聯估計每年會增加20億元開支，但這金額只佔整體綜援開支約10%。香港是否因此而會倒下？是沒有可能的。綜援制度應視乎需要提供保障，不應視乎居港年期。 \n 這改變其實會幫助很多家庭。大家試想想，現時150個單程證名額讓甚麼人來港？絕大部分不是婦女，便是兒童。我過去看盡很多婦\n女及兒童因為7年的居港規定而啞忍家庭暴力，面對家庭暴力亦不敢離開，而即使在離開後亦無法得到應有的協助，以致出現很多倫常悲劇。正正因為這項規定，以致很多新移民家庭陷入極大困境。這項規定根本是制度上的歧視。政府為節省資源......我認為，法庭的判令非常值得香港人細讀，以清楚了解綜援制度的精神。 \n 《基本法》第三十六條的確保障香港人依法享有基本社會福利的權利。這權利是不容剝奪的，政府亦有權根據社會經濟狀況制訂社會福利政策。不過，有關政策必須有充分的社會目的作為基礎，政府亦不能隨便削減我們已享有的福利。 \n 綜援旨在幫助最有需要的人士，如果政府連最有需要的人士也不幫助(計時器響起)......我們便會喪失民權。 \n 多謝主席。",
+      "sequence": 121,
+      "bookmark": "SP_MB_CCH_00130"
+    },
+    {
+      "title": "主席",
+      "content": "現在剛好是下午6時27分。根據《議事規則》，議員的發言時限已到，在輪候發言的議員不能發言了。",
+      "sequence": 122,
+      "bookmark": "SP_LC_PSD_00131"
+    },
+    {
+      "title": "主席",
+      "content": "我現在請勞工及福利局局長發言答辯。",
+      "sequence": 123,
+      "bookmark": "SP_LC_PSD_00132"
+    },
+    {
+      "title": "勞工及福利局局長",
+      "content": "主席，我感謝方剛議員提出今晚這項議案，以及剛才16位議員就終審法院對綜合社會保障援助(“綜援”)居港規定的裁決和相關事宜提出很多寶貴及有見地的意見。裁決指綜援“居港七年的規定”屬違憲，政府須回復至2004年1月1日以前的“居港一年的規定”。 \n 正如我昨天早上回答田北俊議員的口頭質詢時指出，社會福利署(“社署”)會配合法院的裁決，並會按適用程序盡快處理申請。政府不會就此案的裁決提請全國人大常委會釋法。 \n 我想指出，在去年11月共有約261 000宗綜援個案，受助總人數跌破40萬人，約為397 000人。有關個案數字為自2002年9月以來最低，並已連續下跌32個月。 \n 除了為經濟有困難人士提供最後的安全網，政府也一直確保社會保障制度可讓受助人放眼將來。為達致這個目標，政府的一貫做法是鼓勵和協助有工作能力的健全綜援受助人工作，自力更生。 \n 除現行的就業援助計劃外，社署亦會在今年4月推行一項先導計劃，旨在探討以獎勵金提供誘因，進一步鼓勵失業的綜援受助人盡展所能，並脫離綜援網，即是就業。我們預計會有2 000名受助人參加計劃。 \n 我剛才提及的數字和措施，在一定程度上反映出大部分香港人也希望憑自己的努力改善生活。此外，政府近年亦推出了一系列扶貧及鼓勵就業的配套措施，包括法定最低工資、鼓勵就業交通津貼計劃，以及在“關愛基金”下很多不同項目，再加上經濟暢旺，勞工需求殷切，就業機會增加，同時政府亦大力加強對新來港人士的培訓及就業支援，這些都有助防止新來港人士及一般市民跌入綜援網。 \n 另一方面，為確保公帑有效運用，社署亦一向嚴謹把關，致力遏止詐騙和濫用綜援的情況，包括設有舉報機制，對涉嫌欺詐的個案進行深入調查，以及定期覆檢個案，並與其他政府部門和有關機構(包括香港以外的機構)，進行資料核對程序，以核實個案資料的真確性。 \n 社署亦設有特別調查組，專責調查詐騙和濫用綜援個案。此外，社署亦聘請了8名退休紀律部隊人員擔任詐騙調查顧問，舉個例子，在2012-2013年度共有184名綜援受助人因被法庭判處詐騙罪名成立而被監禁。 \n 大家都很關心終審法院對綜援居港規定司法覆核案件的裁決。我想指出，社署自2004年1月實施綜援“居港7年的規定”起，已豁免18歲以下人士須符合居港7年的規定。終審法院亦表示，政府可繼續豁免有關人士的綜援居港規定。此外，對於18歲或以上但有真正困難的新來港人士，社署亦可向他們酌情發放綜援。事實上，自2004年1月至去年10月底，社署共酌情批准超過14 000宗涉及居港未滿7年人士的綜援申請。政府的機制一直存在相當彈性。 \n 把綜援居港規定由7年放寬至1年會令綜援的開支有所增加。正如我昨天所說，我們在首3星期共收到1 407宗申請。法院的裁決對綜援計劃的實際公共開支的影響，在很大程度上取決於新來港人士及已來港一段時間的新移民的經濟狀況，以及他們申請綜援的意欲。政府要\n待新規定實施一段時間後，才能更加準確地估算有關裁決對公共財政的影響。 \n 不過，有數點值得大家留意，在過去10多年間，新來港人士的教育水平和家庭收入均有上升趨勢，例如15歲及以上內地來港定居未足7年的人士，有中學或以上教育水平的比例由2001年的68%上升至2011年的85%，而教育水平達大專程度的新來港人士，亦由2001年的6%上升至16%。至於每月家庭收入中位數亦由2001年的12,050元，上升至2011年的14,070元，升幅達20%。 \n 我必須指出，終審法院的裁決真真正正只是針對綜援計劃。大家都很清楚，不同的福利措施和公共服務計劃，例如公共租住房屋是有個別的政策目標、定位和背景。終審法院沒有把所有政府援助計劃混為一談，而事實上，終審法院清楚指出該裁決不可被當作廣泛地適用於其他計劃的申領安排。 \n 此外，有建議指應將內地申請人的經濟能力，訂為單程證的審批準則之一，甚至取回單程證審批權。《基本法》規定單程證的受理、審批及簽發均屬內地當局的職權範圍，在家庭團聚的政策目標下，內地當局為單程證制度訂下公開和具透明度的審批準則。 \n 香港與內地經濟文化交流頻繁，關係密切。事實上，近年在港登記的婚姻中，約三成半屬中港婚姻。自回歸以來，透過單程證制度來港定居的人士當中，有98%，即絕大部分屬與配偶或父母團聚的個案，只有少數是與子女團聚或無依兒童投靠親屬的個案，故香港特區政府認為無需要改變現行的單程證制度。 \n 主席，正如我剛才指出，政府會密切留意終審法院的裁決對公共財政的影響，並會進行全面評估，向大家作出全面交代。另一方面，政府亦會繼續透過多項措施，鼓勵有工作能力的綜援受助人自力更生，貢獻社會，最終脫離綜援網。 \n 主席，我謹此陳辭。",
+      "sequence": 124,
+      "bookmark": "SP_PO_SLW_00133"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 125,
+      "bookmark": "SP_LC_PSD_00134"
+    },
+    {
+      "title": "",
+      "content": "主席：我現在向各位提出的待決議題是：本會現即休會待續。現在付諸表決，贊成的請舉手。 \n(議員舉手)",
+      "sequence": 126,
+      "bookmark": "EV_PUT_00135"
+    },
+    {
+      "title": "主席",
+      "content": "反對的請舉手。 \n(沒有議員舉手)",
+      "sequence": 127,
+      "bookmark": "SP_LC_PSD_00136"
+    },
+    {
+      "title": "",
+      "content": "",
+      "sequence": 128,
+      "bookmark": "SP_LC_PSD_00137"
+    },
+    {
+      "title": "",
+      "content": "主席：我認為議題獲得經由功能團體選舉產生及分區直接選舉產生的兩部分在席議員，分別以過半數贊成，我宣布議案獲得通過。",
+      "sequence": 129,
+      "bookmark": "EV_VOTED_00138"
+    }
+  ],
+  "date": "2014-1-9",
+  "url": "https://www.legco.gov.hk/yr13-14/chinese/counmtg/floor/cm0109-confirm-ec.pdf"
+}

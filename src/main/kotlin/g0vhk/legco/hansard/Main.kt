@@ -101,8 +101,64 @@ fun main(args: Array<String>) {
                     if (destionation.namedDestination == "SP_MB_KKK_00200")
                         xyz?.top = 400
                 }
-                bookmarkNames.add(destionation.namedDestination)
-                bookmarks.add(xyz)
+                //ugly workaround for cm0711-confirm-ec.pdf
+                var skipped = false
+                if (fileName == "cm0711-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00025") {
+                    skipped = true
+                }
+                if (fileName == "cm1204-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00466") {
+                    skipped = true
+                }
+                if (fileName == "cm1107-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00070") {
+                    skipped = true
+                }
+                if (fileName == "cm0222-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_PO_STH_00098") {
+                    skipped = true
+                }
+                if (fileName == "cm0222-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_PO_STH_00097") {
+                    skipped = true
+                }
+                if (fileName == "cm0221-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_DK_00022") {
+                    skipped = true
+                }
+                if (fileName == "cm0221-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00025") {
+                    skipped = true
+                }
+                if (fileName == "cm0221-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_KL_00029") {
+                    skipped = true
+                }
+                if (fileName == "cm0220-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00077") {
+                    skipped = true
+                }
+                if (fileName == "cm0220-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00085") {
+                    skipped = true
+                }
+                if (fileName == "cm0219-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00340") {
+                    skipped = true
+                }
+                if (fileName == "cm0116-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_MB_AS_00066") {
+                    skipped = true
+                }
+                if (fileName == "cm0116-confirm-ec.pdf" &&
+                        destionation.namedDestination == "SP_PO_CE_00078") {
+                    skipped = true
+                }
+                if (! skipped) {
+                    bookmarkNames.add(destionation.namedDestination)
+                    bookmarks.add(xyz)
+                }
             }
 
         }
